@@ -6,7 +6,7 @@ Open the live page: https://thinkinfosec.github.io/Signal/
 
 ## Run it locally
 
-Open `index.html` in a browser, or serve the folder so the news feeds can load:
+Serve the folder. The page’s content security policy blocks `file://` loads.
 
 ```powershell
 python -m http.server 8080
@@ -31,26 +31,20 @@ Then go to http://localhost:8080. Click or press any key to start. That first ge
 
 ## News
 
-With `CONFIG.API` left as the placeholder, Signal reads a small set of public RSS feeds through [rss2json](https://rss2json.com/). That service is rate-limited.
+The browser reads `news.json` from this site. `scripts/build_news.py` fetches the publisher feeds and writes that file. Run it and commit `news.json` when you want a fresh snapshot.
 
-To use your own feed, deploy a proxy and set `CONFIG.API` in `index.html` to its URL. The proxy should return JSON:
+`cat` is `cyber` or `geo`. `ts` is Unix time in milliseconds. Titles and summaries are plain text, capped before they are shown.
 
-```json
-{
-  "items": [
-    {
-      "title": "Story headline",
-      "summary": "Short summary",
-      "source": "Source name",
-      "cat": "cyber",
-      "ts": 1730000000000
-    }
-  ]
-}
+## Fonts and music
+
+Inter and Space Mono are stored under `fonts/` under the SIL Open Font License (`fonts/Inter-OFL.txt`, `fonts/SpaceMono-OFL.txt`). The recordings are public-domain Musopen performances stored under `audio/`.
+
+## Headers
+
+GitHub Pages serves the page with the policy in `index.html`. That policy keeps scripts, styles, fonts, pictures, audio, and news on this origin. The page also clears itself when it is loaded inside a frame.
+
+`worker/index.js` is the same site with the framing rule sent as a response header, which a meta tag cannot do. From this folder:
+
+```powershell
+npx wrangler deploy
 ```
-
-`cat` is `cyber` or `geo`. `ts` is Unix time in milliseconds. If the proxy is missing or fails, Signal falls back to the public feeds.
-
-## Music
-
-The recordings are public domain via [Musopen](https://musopen.org/) and are loaded from Wikimedia Commons. Titles and composers are shown on screen.

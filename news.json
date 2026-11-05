@@ -1,0 +1,264 @@
+{
+  "generated": "2026-11-05T22:58:25Z",
+  "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "ts": 1793917900000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "ts": 1793916818000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Generation Z and diversity redefine US politics in groundbreaking election",
+      "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
+      "ts": 1793915371000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "South Africa’s ANC on track for new lows in local polls",
+      "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
+      "ts": 1793915296000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
+      "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+      "ts": 1793914950000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+      "summary": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
+      "ts": 1793914420000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+      "ts": 1793914230000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+      "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
+      "ts": 1793913981000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Saudi coalition intercepts missile fired towards Medina",
+      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+      "ts": 1793911727000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why are wealthy countries failing developing nations?",
+      "summary": "UN report warns climate adaptation funding is falling far short of needs.",
+      "ts": 1793911547000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "summary": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+      "ts": 1793911426000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+      "ts": 1793909708000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "ts": 1793908720000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "ts": 1793907174000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+      "ts": 1793906666000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "ts": 1793905688000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "ts": 1793901593000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+      "ts": 1793900729000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "ts": 1793900440000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "ts": 1793900388000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released vers",
+      "ts": 1793896966000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from pro",
+      "ts": 1793896952000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+      "ts": 1793895866000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+      "ts": 1793895166000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social eng",
+      "ts": 1793890810000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems a",
+      "ts": 1793889670000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how",
+      "ts": 1793881500000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reprod",
+      "ts": 1793880534000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, ",
+      "ts": 1793873179000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "ts": 1793870309000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and ma",
+      "ts": 1793870008000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity ",
+      "ts": 1793868123000
+    },
+    {
+      "source": "Krebs on Security",
+      "cat": "cyber",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyber",
+      "ts": 1793853377000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "'Envision chandeliers': Trump touts ballroom after midterms rout",
+      "summary": "While his party nursed a brutal hangover from their US midterms defeat, Trump was busy - showing off his new ballroom at the White House.",
+      "ts": 1793830784000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Swimming against the tide - the Kiwis crossing the ditch to move home",
+      "summary": "Why some are making their way back.",
+      "ts": 1793823983000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "'Sheer luck': New Zealander who survived fatal Nepal helicopter crash recalls collision",
+      "summary": "West Auckland man Shailesh Krishna Patel was returning from Mt Everest Base Camp when the helicopter he was in collided with another while landing.",
+      "ts": 1793817553000
+    },
+    {
+      "source": "Krebs on Security",
+      "cat": "cyber",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is lik",
+      "ts": 1793672671000
+    }
+  ]
+}

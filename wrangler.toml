@@ -1,0 +1,8 @@
+name = "thinkinfosec-signal"
+compatibility_date = "2026-11-06"
+main = "worker/index.js"
+
+[assets]
+directory = "."
+binding = "ASSETS"
+run_worker_first = true
