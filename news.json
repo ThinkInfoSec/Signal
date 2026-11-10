@@ -1,229 +1,236 @@
 {
-  "generated": "2026-11-05T22:58:25Z",
+  "generated": "2026-11-10T20:51:39Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "summary": "California has historically had the largest population of people on death row in the US.",
-      "ts": 1793917900000
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "ts": 1794343213000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+      "summary": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+      "ts": 1794342183000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+      "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
+      "ts": 1794342141000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "F1 champion Lewis Hamilton visits Gaza border",
+      "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+      "ts": 1794341674000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+      "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+      "ts": 1794341221000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "ts": 1794341076000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump administration seeks to cut food aid for more than six million people",
+      "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
+      "ts": 1794340818000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
+      "summary": "Who was Al Jazeera cartoonist Shujaat Ali?",
+      "ts": 1794340513000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
+      "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
+      "ts": 1794340486000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rubio says no need for major combat operations against Iran",
+      "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+      "ts": 1794339253000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+      "ts": 1794339071000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-      "ts": 1793916818000
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "ts": 1794338802000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Generation Z and diversity redefine US politics in groundbreaking election",
-      "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
-      "ts": 1793915371000
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The flaw, tracked as CV",
+      "ts": 1794338590000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "South Africa’s ANC on track for new lows in local polls",
-      "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
-      "ts": 1793915296000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
-      "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
-      "ts": 1793914950000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-      "summary": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
-      "ts": 1793914420000
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this w",
+      "ts": 1794338379000
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
-      "ts": 1793914230000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-      "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
-      "ts": 1793913981000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Saudi coalition intercepts missile fired towards Medina",
-      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
-      "ts": 1793911727000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why are wealthy countries failing developing nations?",
-      "summary": "UN report warns climate adaptation funding is falling far short of needs.",
-      "ts": 1793911547000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "summary": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
-      "ts": 1793911426000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-      "ts": 1793909708000
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+      "ts": 1794337656000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-      "ts": 1793908720000
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "ts": 1794335631000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+      "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+      "ts": 1794335606000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turns authenticationToken=j:%7B%7D into {},\"",
+      "ts": 1794334341000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "ts": 1793907174000
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "ts": 1794333858000
     },
     {
-      "source": "BleepingComputer",
+      "source": "The Hacker News",
       "cat": "cyber",
-      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-      "ts": 1793906666000
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check Poi",
+      "ts": 1794332603000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "ts": 1793905688000
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "ts": 1794331776000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "ts": 1793901593000
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "ts": 1794330196000
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
-      "ts": 1793900729000
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+      "ts": 1794327436000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authenticati",
+      "ts": 1794326455000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+      "ts": 1794326359000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spanish lures that resemb",
+      "ts": 1794326324000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026,",
+      "ts": 1794324839000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "ts": 1793900440000
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "ts": 1794324078000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Ransomware recovery is now a client retention metric",
+      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention",
+      "ts": 1794322871000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "ts": 1793900388000
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+      "ts": 1794317034000
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released vers",
-      "ts": 1793896966000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from pro",
-      "ts": 1793896952000
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher w",
+      "ts": 1794312931000
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "ts": 1793895866000
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "ts": 1794312423000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "ts": 1793895166000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social eng",
-      "ts": 1793890810000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems a",
-      "ts": 1793889670000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how",
-      "ts": 1793881500000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reprod",
-      "ts": 1793880534000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, ",
-      "ts": 1793873179000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "ts": 1793870309000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and ma",
-      "ts": 1793870008000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity ",
-      "ts": 1793868123000
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Post-apocalyptic science fiction novel wins 2026 Booker Prize",
+      "summary": "At 81, M. John Harrison has become the oldest-ever winner of the prestigious literary award with The End of Everything.",
+      "ts": 1794262761000
     },
     {
       "source": "Krebs on Security",
@@ -231,27 +238,6 @@
       "title": "Want to Rent an Internet Address at the White House?",
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyber",
       "ts": 1793853377000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "'Envision chandeliers': Trump touts ballroom after midterms rout",
-      "summary": "While his party nursed a brutal hangover from their US midterms defeat, Trump was busy - showing off his new ballroom at the White House.",
-      "ts": 1793830784000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Swimming against the tide - the Kiwis crossing the ditch to move home",
-      "summary": "Why some are making their way back.",
-      "ts": 1793823983000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "'Sheer luck': New Zealander who survived fatal Nepal helicopter crash recalls collision",
-      "summary": "West Auckland man Shailesh Krishna Patel was returning from Mt Everest Base Camp when the helicopter he was in collided with another while landing.",
-      "ts": 1793817553000
     },
     {
       "source": "Krebs on Security",

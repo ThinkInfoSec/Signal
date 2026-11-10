@@ -58,13 +58,15 @@ function agoShort(ts) {
 /* ============================================================
    News
    ============================================================ */
-const news = { all: [], queue: [], idx: -1, filter: "all", topic: null, hover: false, cur: null, df: new Map(), lastOk: 0, timer: 0, busy: false };
+const news = { all: [], queue: [], idx: -1, filter: "all", topic: null, hover: false, cur: null, df: new Map(), lastOk: 0, generated: 0, timer: 0, busy: false };
 
 async function fetchNews() {
   const bucket = Math.floor(Date.now() / CONFIG.REFRESH_MS);
   const r = await fetch("news.json?v=" + bucket, { signal: AbortSignal.timeout(12000), credentials: "omit", referrerPolicy: "no-referrer", cache: "no-store" });
   if (!r.ok) throw new Error("news " + r.status);
   const j = await r.json();
+  const generated = Date.parse(j.generated);
+  if (Number.isFinite(generated)) news.generated = generated;
   return (j.items || []).filter((x) => x && typeof x.title === "string" && typeof x.source === "string" && (x.cat === "cyber" || x.cat === "geo") && Number.isFinite(x.ts)).map((x) => ({
     source: x.source.slice(0, 80),
     cat: x.cat,
@@ -528,9 +530,10 @@ addEventListener("resize", () => { clearTimeout(rsz); rsz = setTimeout(() => { i
 function paintStatus() {
   const live = $("live"), upd = $("upd");
   const stale = !news.lastOk || Date.now() - news.lastOk > CONFIG.REFRESH_MS * 3;
+  const stamp = news.generated || news.lastOk;
   live.classList.toggle("stale", stale);
   live.textContent = stale ? "Offline" : "Live";
-  upd.textContent = news.lastOk ? "Updated " + ago(news.lastOk) : "Connecting";
+  upd.textContent = stamp ? "Updated " + ago(stamp) : "Connecting";
 }
 
 /* ============================================================
