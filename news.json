@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-10T20:51:39Z",
+  "generated": "2026-11-10T21:09:44Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+      "ts": 1794344095000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "ts": 1794343213000
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "ts": 1794344013000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "ts": 1794343600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+      "ts": 1794343313000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+      "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
+      "ts": 1794343186000
     },
     {
       "source": "Al Jazeera",
@@ -56,20 +84,6 @@
       "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
       "summary": "Who was Al Jazeera cartoonist Shujaat Ali?",
       "ts": 1794340513000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-      "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
-      "ts": 1794340486000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rubio says no need for major combat operations against Iran",
-      "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-      "ts": 1794339253000
     },
     {
       "source": "BleepingComputer",
@@ -205,25 +219,11 @@
       "ts": 1794322871000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "ts": 1794317034000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
       "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher w",
       "ts": 1794312931000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-      "ts": 1794312423000
     },
     {
       "source": "RNZ World",
