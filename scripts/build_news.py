@@ -6,8 +6,10 @@ The browser only reads this file. It does not call a third-party converter.
 
 from __future__ import annotations
 
+import gzip
 import json
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -28,6 +30,15 @@ FEEDS = [
     {"name": "BBC World", "cat": "geo", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
     {"name": "Al Jazeera", "cat": "geo", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
     {"name": "RNZ World", "cat": "geo", "url": "https://www.rnz.co.nz/rss/world.xml"},
+    # Labs for releases, models, and research; newsrooms for what shipped and the money.
+    {"name": "OpenAI", "cat": "ai", "url": "https://openai.com/news/rss.xml"},
+    {"name": "Google DeepMind", "cat": "ai", "url": "https://deepmind.google/blog/rss.xml"},
+    {"name": "Google AI", "cat": "ai", "url": "https://blog.google/technology/ai/rss/"},
+    {"name": "NVIDIA", "cat": "ai", "url": "https://blogs.nvidia.com/feed/"},
+    {"name": "Hugging Face", "cat": "ai", "url": "https://huggingface.co/blog/feed.xml"},
+    {"name": "MIT Technology Review", "cat": "ai", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
+    {"name": "Ars Technica", "cat": "ai", "url": "https://arstechnica.com/ai/feed/"},
+    {"name": "Financial Times", "cat": "ai", "url": "https://www.ft.com/artificial-intelligence?format=rss"},
 ]
 
 
@@ -94,10 +105,23 @@ def fetch(url: str) -> bytes:
         headers={
             "User-Agent": UA,
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            "Accept-Encoding": "gzip, identity",
         },
     )
-    with urllib.request.urlopen(request, timeout=25) as response:
-        return response.read()
+    last_error: Exception | None = None
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(request, timeout=25) as response:
+                data = response.read()
+            if data[:2] == b"\x1f\x8b":
+                data = gzip.decompress(data)
+            return data
+        except Exception as exc:  # a cut connection should not drop the feed
+            last_error = exc
+            if attempt == 0:
+                time.sleep(1)
+    assert last_error is not None
+    raise last_error
 
 
 def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:

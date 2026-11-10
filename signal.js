@@ -35,9 +35,11 @@ const store = {
   get(k) { try { return localStorage.getItem(k); } catch { return null; } },
   set(k, v) { try { localStorage.setItem(k, v); } catch {} },
 };
+const LANES = { cyber: "Cyber", geo: "World", ai: "AI" };
 const ICONS = {
   cyber: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.5 4.5 5.5v6c0 5 3.2 8.2 7.5 10 4.3-1.8 7.5-5 7.5-10v-6L12 2.5Z"/><path d="M9 11.5h6M12 8.5v6"/></svg>',
   geo:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 2.6 4.2 5.6 4.2 9s-1.4 6.4-4.2 9c-2.8-2.6-4.2-5.6-4.2-9S9.200 5.600 12 3Z"/></svg>',
+  ai:    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.2 13.4 8.6 18.8 10 13.4 11.4 12 16.8 10.6 11.4 5.2 10 10.6 8.6 12 3.2Z"/><path d="M18 15.2 18.6 17.4 20.8 18 18.6 18.6 18 20.8 17.4 18.6 15.2 18 17.4 17.4 18 15.2Z"/></svg>',
   note:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l11-2v13"/><circle cx="6.500" cy="18" r="2.500"/><circle cx="17.500" cy="16" r="2.500"/></svg>',
 };
 $("npico").innerHTML = ICONS.note;   // static strings only; feed data is only ever set via textContent
@@ -67,7 +69,7 @@ async function fetchNews() {
   const j = await r.json();
   const generated = Date.parse(j.generated);
   if (Number.isFinite(generated)) news.generated = generated;
-  return (j.items || []).filter((x) => x && typeof x.title === "string" && typeof x.source === "string" && (x.cat === "cyber" || x.cat === "geo") && Number.isFinite(x.ts)).map((x) => ({
+  return (j.items || []).filter((x) => x && typeof x.title === "string" && typeof x.source === "string" && Object.hasOwn(LANES, x.cat) && Number.isFinite(x.ts)).map((x) => ({
     source: x.source.slice(0, 80),
     cat: x.cat,
     title: x.title.slice(0, 220),
@@ -96,10 +98,11 @@ function rebuildQueue(reset) {
     if (f.length) pool = f; else { news.topic = null; paintLens(); }   // lens ran dry after a refresh
   }
   let q;
-  if (news.filter === "all" && !news.topic) {   // interleave cyber and world so the feed never feels one-note
-    const c = pool.filter((x) => x.cat === "cyber"), g = pool.filter((x) => x.cat !== "cyber");
+  if (news.filter === "all" && !news.topic) {   // interleave the lanes so one topic never takes over the screen
+    const lanes = ["cyber", "geo", "ai"].map((cat) => pool.filter((x) => x.cat === cat));
     q = [];
-    for (let i = 0; i < Math.max(c.length, g.length) && q.length < 60; i++) { if (c[i]) q.push(c[i]); if (g[i]) q.push(g[i]); }
+    const n = Math.max(...lanes.map((lane) => lane.length));
+    for (let i = 0; i < n && q.length < 60; i++) for (const lane of lanes) if (lane[i] && q.length < 60) q.push(lane[i]);
   } else q = pool.slice(0, 60);
   news.queue = q;
   news.idx = reset || !cur ? -1 : Math.max(-1, q.findIndex((x) => x.title === cur.title));
@@ -116,7 +119,7 @@ function buildTicker() {
   for (let pass = 0; pass < 2; pass++) {
     for (const it of news.queue) {
       const s = document.createElement("span");
-      s.className = "tick " + (it.cat === "cyber" ? "cyber" : "geo");
+      s.className = "tick " + it.cat;
       const e = document.createElement("em"); e.textContent = it.source;
       const x = document.createElement("span"); x.textContent = it.title;
       s.append(e, x);
@@ -135,9 +138,9 @@ function show(it, hold) {
   setTimeout(() => {
     if (tok !== renderTok) return;                     // a newer click or step superseded this one
     news.cur = it;
-    story.dataset.cat = it.cat === "cyber" ? "cyber" : "geo";
-    $("ico").innerHTML = it.cat === "cyber" ? ICONS.cyber : ICONS.geo;
-    $("cat").textContent = it.cat === "cyber" ? "Cyber" : "World";
+    story.dataset.cat = it.cat;
+    $("ico").innerHTML = ICONS[it.cat];
+    $("cat").textContent = LANES[it.cat];
     $("src").textContent = it.source;
     $("age").textContent = ago(it.ts);
     $("ttl").textContent = it.title;
@@ -199,6 +202,11 @@ const LEX = [
   ["Credentials", /credential|password|passkey|\bMFA\b|multi[- ]factor|two[- ]factor|account takeover/i],
   ["Cloud", /\bcloud\b|\bSaaS\b|\bAzure\b|\bAWS\b/i],
   ["AI", /\bAI\b|\b[Aa]rtificial [Ii]ntelligence\b|\bLLMs?\b|\b[Cc]hatbots?\b|\b[Gg]enerative\b|\b[Aa]gentic\b|\bMCP\b/],
+  ["Models", /\b(?:GPT-?[0-9]|Claude|Gemini|Llama|Grok|Mistral|Qwen|DeepSeek|foundation model|frontier model|open[- ]weights?|language model)\b/i],
+  ["Capabilities", /\b(?:benchmarks?|reasoning|multimodal|context window|tool use)\b/i],
+  ["Releases", /\b(?:generally available|now available|model release|open[- ]sourced?|introducing)\b/i],
+  ["In development", /\b(?:in development|training run|pre-?training|research preview)\b/i],
+  ["AI business", /\b(?:valuation|funding round|series [a-e]|capex|data cent(?:er|re)s?|compute spend)\b/i],
   ["Deepfakes", /deepfake|voice clon/i],
   ["Crypto", /crypto|bitcoin|ethereum|blockchain|stablecoin/i],
   ["Critical infrastructure", /critical infrastructure|\bSCADA\b|power grid|water (?:utility|utilities|system)|\bICS\b/i],
@@ -279,7 +287,7 @@ const hasTopic = (x, key) => key.startsWith("src:") ? x.source === key.slice(4) 
    (e.g. an exploit story <-> a geopolitics story), so the graph suggests the "why it matters". */
 const DOMAIN = {};
 [["security", "Ransomware,Phishing,Zero-day,Data breach,DDoS,Botnet,Malware,Supply chain,Vulnerability,Exploitation,Patching,Espionage,Nation-state,Cyberattack,Credentials"],
- ["digital", "Cloud,AI,Deepfakes,Crypto,Privacy,Semiconductors,Microsoft,Google,Apple,Cisco,Fortinet,Palo Alto,Ivanti,Citrix,VMware,CrowdStrike,Okta,Cloudflare,Amazon,Oracle,Salesforce,GitHub,Linux,Meta,OpenAI,Anthropic,Nvidia,Telegram"],
+ ["digital", "Cloud,AI,Models,Capabilities,Releases,In development,AI business,Deepfakes,Crypto,Privacy,Semiconductors,Microsoft,Google,Apple,Cisco,Fortinet,Palo Alto,Ivanti,Citrix,VMware,CrowdStrike,Okta,Cloudflare,Amazon,Oracle,Salesforce,GitHub,Linux,Meta,OpenAI,Anthropic,Nvidia,Telegram"],
  ["safety", "Critical infrastructure,Healthcare,Law enforcement,Disasters,Migration,Nuclear,Energy"],
  ["politics", "China,Russia,Ukraine,Iran,Israel,Gaza,Lebanon,Middle East,North Korea,South Korea,Taiwan,Japan,India,Pakistan,United States,Trump,United Kingdom,Europe,Germany,France,Australia,New Zealand,Pacific,Africa,Latin America,Canada,Turkey,NATO,United Nations,Sanctions,Trade,Military,Peace talks,Elections,Protests,Economy,Regulation"],
 ].forEach(([d, s]) => s.split(",").forEach((l) => (DOMAIN[l] = d)));
@@ -293,7 +301,7 @@ function relate(it, maxStories) {
   const cnt = new Map(), crs = new Map();
   for (const x of others) for (const t of it.terms) if (x.terms && x.terms.has(t)) {
     cnt.set(t, (cnt.get(t) || 0) + 1);
-    if (x.cat !== it.cat) crs.set(t, (crs.get(t) || 0) + 1);   // topic also appears on the other side (cyber <-> world)
+    if (x.cat !== it.cat) crs.set(t, (crs.get(t) || 0) + 1);   // topic also appears in another lane
   }
   const cap = Math.max(6, others.length * 0.4);                // skip topics so common they link everything to everything
   const pool = [...cnt].filter(([, c]) => c <= cap).map(([t, c]) => {
@@ -317,7 +325,7 @@ function relate(it, maxStories) {
     });
     if (!via.length) continue;
     s += 0.35 * (new Set(via.map((i) => topics[i].dom)).size - 1);   // reward ties that span lenses
-    if (x.cat !== it.cat) s += 0.6;                                  // reward cyber <-> world ties
+    if (x.cat !== it.cat) s += 0.6;                                  // reward a tie that crosses lanes
     s += 0.5 * Math.exp(-(Date.now() - x.ts) / 36e5 / 36);           // gentle recency nudge
     scored.push({ x, s, via });
   }
@@ -351,7 +359,7 @@ function wrap(str, max, lines) {
   if (out[l].length > max) out[l] = out[l].slice(0, max - 1).trimEnd() + "…";
   return out;
 }
-const ORB = { security: "teal", digital: "blue", safety: "violet", politics: "pink", src: "mist", cyber: "teal", geo: "pink" };
+const ORB = { security: "teal", digital: "blue", safety: "violet", politics: "pink", src: "mist", cyber: "teal", geo: "pink", ai: "violet" };
 function orbDefs(svg) {
   const d = el("defs", {}, svg);
   const cols = { teal: "var(--teal)", blue: "var(--blue)", violet: "var(--violet)", pink: "var(--pink)", mist: "var(--ink-faint)", white: "#ffffff" };
@@ -396,7 +404,7 @@ function buildGraph(it) {
     const e = { l, a, b, bend: (Math.random() - 0.5) * 0.34, ph: Math.random() * 6.28, sp: 0.2 + Math.random() * 0.25 };
     G.edges.push(e); a.edges.push(e); b.edges.push(e);
   };
-  const catKey = it.cat === "cyber" ? "cyber" : "geo";
+  const catKey = it.cat;
 
   // centre = the story on screen
   const core = mk("core", catKey, cx, cy, 1.5, 0);
@@ -443,7 +451,7 @@ function buildGraph(it) {
     }
     rel.stories.forEach((s, i) => {
       const a = best.asg[i], co = Math.cos(a), si = Math.sin(a), x = s.x;
-      const n = mk("story", x.cat === "cyber" ? "cyber" : "geo", cx + rxS * co, cy + ryS * si, 8, nt + 1 + i);
+      const n = mk("story", x.cat, cx + rxS * co, cy + ryS * si, 8, nt + 1 + i);
       n.item = x; n.ties = s.via.map((k) => rel.topics[k]);
       const nx = cx + rxS * co;
       let anchor = "middle", lx = 0, avail;
@@ -453,7 +461,7 @@ function buildGraph(it) {
       const maxCh = Math.max(12, Math.min(28, Math.floor(avail / 7.3)));
       const lines = wrap(x.title, maxCh, 3), L = lines.length + 1;
       const ly = anchor !== "middle" ? -3 : si > 0 ? 32 : -16 - (L - 1) * 17;
-      n.pu = orb(n.inner, ORB[x.cat === "cyber" ? "cyber" : "geo"], 28, 3.4);
+      n.pu = orb(n.inner, ORB[x.cat], 28, 3.4);
       const t = el("text", { class: "t-title", "text-anchor": anchor, x: lx, y: ly }, n.inner);
       lines.forEach((ln, k) => { const ts = el("tspan", { x: lx, dy: k ? 17 : 0 }, t); ts.textContent = ln; });
       const m = el("text", { class: "t-meta", "text-anchor": anchor, x: lx, y: ly + lines.length * 17 + 1 }, n.inner);
@@ -496,7 +504,7 @@ function showTip(n, ev) {
   const b = document.createElement("b"), s = document.createElement("span");
   if (n.kind === "story") {
     b.textContent = n.item.title;
-    s.textContent = n.item.source + " · " + (n.item.cat === "cyber" ? "Cyber" : "World") + " · " + ago(n.item.ts);
+    s.textContent = n.item.source + " · " + LANES[n.item.cat] + " · " + ago(n.item.ts);
     tip.append(b, s);
     const doms = [...new Set(n.ties.map((t) => DOM_NAME[t.dom]).filter(Boolean))];
     const t2 = document.createElement("span"); t2.className = "tie";
@@ -758,7 +766,7 @@ addEventListener("keydown", (e) => {
   else if (k === "m") toggleMute();
   else if (k === "arrowright") showNext(1);
   else if (k === "arrowleft") showNext(-1);
-  else if (k === "1" || k === "2" || k === "3") { news.filter = { 1: "all", 2: "cyber", 3: "geo" }[k]; rebuildQueue(true); }
+  else if (k === "1" || k === "2" || k === "3" || k === "4") { news.filter = { 1: "all", 2: "cyber", 3: "geo", 4: "ai" }[k]; rebuildQueue(true); }
   else if (k === "t") setTheme(document.documentElement.dataset.theme === "light" ? "dark" : "light");
   else if (k === "f") toggleFs();
   else if (k === "h") $("help").classList.toggle("gone");

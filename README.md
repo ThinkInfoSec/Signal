@@ -1,6 +1,6 @@
 # ThinkInfoSec Signal
 
-A full-screen ambient display for cyber and world news. Stories rotate on their own, a related-topic graph sits beside the current story, and public-domain classical recordings play in the background.
+A full-screen ambient display for cyber, world, and AI news. Stories rotate on their own, a related-topic graph sits beside the current story, and public-domain classical recordings play in the background.
 
 Open the live page: https://thinkinfosec.github.io/Signal/
 
@@ -22,7 +22,7 @@ Then go to http://localhost:8080. Click or press any key to start. That first ge
 | N | Next track |
 | M | Mute |
 | ← → | Previous or next story |
-| 1 2 3 | All / Cyber / World |
+| 1 2 3 4 | All / Cyber / World / AI |
 | Click | Open a story, or follow a topic |
 | Esc | Stop following a topic |
 | T | Dark or light theme |
@@ -33,7 +33,9 @@ Then go to http://localhost:8080. Click or press any key to start. That first ge
 
 The screen re-reads `news.json` every five minutes. While this PC is on, a scheduled task runs `scripts/publish_news.ps1` every 30 minutes, rebuilds that file from the publisher feeds, and publishes it when the headlines changed. The footer time is when the snapshot was built.
 
-`cat` is `cyber` or `geo`. `ts` is Unix time in milliseconds. Titles and summaries are plain text, capped before they are shown.
+`cat` is `cyber`, `geo`, or `ai`. `ts` is Unix time in milliseconds. Titles and summaries are plain text, capped before they are shown.
+
+The AI lane is releases, research, models, and the business around them. It reads OpenAI, Google DeepMind, the Google AI blog, NVIDIA, and Hugging Face for what labs ship and what is in development, plus MIT Technology Review and Ars Technica for independent reporting, and the Financial Times AI feed for valuations, revenue, and deals. Anthropic does not publish a feed; those newsrooms cover it.
 
 ## Fonts and music
 

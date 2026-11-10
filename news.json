@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T23:09:44Z",
+  "generated": "2026-11-10T23:15:50Z",
   "items": [
     {
       "source": "Al Jazeera",
@@ -12,8 +12,15 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
-      "summary": "Defence Secretary has been accused of spearheading war on Iran without required congressional approval.",
+      "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
       "ts": 1794350174000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "ts": 1794350101000
     },
     {
       "source": "BleepingComputer",
@@ -58,11 +65,25 @@
       "ts": 1794347703000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "FirstFT: Anthropic raises valuation target to $1.4tn",
+      "summary": "Also in today’s newsletter: US commerce department delays efforts to blacklist company linked to alleged Chinese spy and SoftBank slumps to $7bn loss",
+      "ts": 1794346717000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
       "title": "First day of Ukraine peace talks constructive, Zelensky says",
       "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
       "ts": 1794345715000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "ts": 1794345179000
     },
     {
       "source": "Al Jazeera",
@@ -100,11 +121,25 @@
       "ts": 1794343313000
     },
     {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+      "ts": 1794342601000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft releases Windows 10 KB5131096 extended security update",
       "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
       "ts": 1794341076000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US regulator postpones Wall Street push to trade AI computing futures",
+      "summary": "The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class",
+      "ts": 1794340691000
     },
     {
       "source": "BleepingComputer",
@@ -119,6 +154,13 @@
       "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
       "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
       "ts": 1794338802000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+      "summary": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
+      "ts": 1794338692000
     },
     {
       "source": "The Hacker News",
@@ -140,6 +182,13 @@
       "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
       "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
       "ts": 1794337656000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "ts": 1794337200000
     },
     {
       "source": "BBC World",
@@ -191,11 +240,25 @@
       "ts": 1794327436000
     },
     {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "ts": 1794326627000
+    },
+    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authenticati",
       "ts": 1794326455000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes an",
+      "ts": 1794326403000
     },
     {
       "source": "BleepingComputer",
@@ -226,11 +289,123 @@
       "ts": 1794324078000
     },
     {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "ts": 1794322839000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
+      "summary": "Wall Street bank projects AI start-up will increase sales by 130 times — and be cash flow positive — by end of the decade",
+      "ts": 1794322327000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "ts": 1794319200000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic targets valuation of up to $1.4tn in IPO",
+      "summary": "The Claude maker plans to raise as much as $64bn in highly anticipated listing",
+      "ts": 1794316068000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "ts": 1794315600000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "ts": 1794312932000
+    },
+    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
       "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher w",
       "ts": 1794312931000
+    },
+    {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "ts": 1794312148000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "ts": 1794312000000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "SoftBank slumps to $7bn loss on US data centre writedown",
+      "summary": "AI-focused Japanese group blames first quarterly loss in nearly two years on ‘evolving requirements’ in US projects",
+      "ts": 1794308157000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "ts": 1794304800000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Closing the AI guidance gap in education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "ts": 1794301200000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Too big to fire",
+      "summary": "Should Jensen Huang stay or go?",
+      "ts": 1794294616000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "ts": 1794294000000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Photography education navigates the rise of artificial imagery",
+      "summary": "Art schools are grappling with how to teach students to use AI-generated imagery in ways that do not undermine the reasons for studying photography",
+      "ts": 1794286811000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "",
+      "ts": 1794268800000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Decision Models in Hugging Face",
+      "summary": "",
+      "ts": 1794268800000
     },
     {
       "source": "RNZ World",
@@ -240,6 +415,181 @@
       "ts": 1794262761000
     },
     {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "ts": 1794253907000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "The backlash about data centers might really just be about electricity",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "ts": 1794252933000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "ts": 1794250800000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "ts": 1794245066000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+      "ts": 1794243943000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "ts": 1794237800000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "ts": 1794236757000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Confe",
+      "ts": 1794232801000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "ts": 1794229200000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital",
+      "ts": 1794229200000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "ts": 1794227669000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment",
+      "ts": 1794211253000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "ts": 1794211200000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "ts": 1794211200000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helpi",
+      "ts": 1794200440000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employe",
+      "ts": 1794200439000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore p",
+      "ts": 1794200404000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful",
+      "ts": 1794200400000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "ts": 1793986982000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and A",
+      "ts": 1793980835000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "ts": 1793973648000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+      "ts": 1793959200000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "",
+      "ts": 1793923200000
+    },
+    {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "ts": 1793898316000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+      "ts": 1793898000000
+    },
+    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Want to Rent an Internet Address at the White House?",
@@ -247,11 +597,67 @@
       "ts": 1793853377000
     },
     {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "",
+      "ts": 1793836800000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican ",
+      "ts": 1793818255000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "ts": 1793814610000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either ",
+      "ts": 1793797200000
+    },
+    {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "ts": 1793725309000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t bre",
+      "ts": 1793702621000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial in",
+      "ts": 1793679527000
+    },
+    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is lik",
       "ts": 1793672671000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Animated carousel of images from AI posts in October",
+      "ts": 1793641500000
     }
   ]
 }
