@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-10T21:39:44Z",
+  "generated": "2026-11-10T22:09:44Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+      "summary": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.",
+      "ts": 1794347749000
+    },
+    {
+      "source": "Krebs on Security",
+      "cat": "cyber",
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from",
+      "ts": 1794347703000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -77,13 +91,6 @@
       "title": "F1 champion Lewis Hamilton visits Gaza border",
       "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
       "ts": 1794341674000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-      "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-      "ts": 1794341221000
     },
     {
       "source": "BleepingComputer",
