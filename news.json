@@ -1,19 +1,40 @@
 {
-  "generated": "2026-11-10T21:09:44Z",
+  "generated": "2026-11-10T21:39:44Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "ts": 1794345780000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "ts": 1794345715000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+      "summary": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
+      "ts": 1794344455000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "White House announces funds for law enforcement programme in several cities",
+      "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+      "ts": 1794344401000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
       "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
       "ts": 1794344095000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "ts": 1794344013000
     },
     {
       "source": "BBC World",
@@ -70,20 +91,6 @@
       "title": "Microsoft releases Windows 10 KB5131096 extended security update",
       "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
       "ts": 1794341076000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump administration seeks to cut food aid for more than six million people",
-      "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
-      "ts": 1794340818000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
-      "summary": "Who was Al Jazeera cartoonist Shujaat Ali?",
-      "ts": 1794340513000
     },
     {
       "source": "BleepingComputer",
@@ -154,13 +161,6 @@
       "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
       "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check Poi",
       "ts": 1794332603000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "ts": 1794331776000
     },
     {
       "source": "BBC World",
