@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-10T22:39:44Z",
+  "generated": "2026-11-10T23:09:44Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+      "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
+      "ts": 1794350467000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
+      "summary": "Defence Secretary has been accused of spearheading war on Iran without required congressional approval.",
+      "ts": 1794350174000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -84,20 +98,6 @@
       "title": "US soldier arrested in UK on suspicion of spying for Russia",
       "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
       "ts": 1794343313000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu and Eisenkot push for new government after election deadlock",
-      "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
-      "ts": 1794343186000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-      "summary": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
-      "ts": 1794342183000
     },
     {
       "source": "BleepingComputer",
