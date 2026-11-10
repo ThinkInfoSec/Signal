@@ -31,7 +31,7 @@ Then go to http://localhost:8080. Click or press any key to start. That first ge
 
 ## News
 
-The screen re-reads `news.json` every five minutes. That file changes when `scripts/build_news.py` is run and the result is published. Until a scheduled rebuild is on the repository, headlines stay as they were at the last publish. The footer time is when the snapshot was built.
+The screen re-reads `news.json` every five minutes. While this PC is on, a scheduled task runs `scripts/publish_news.ps1` every 30 minutes, rebuilds that file from the publisher feeds, and publishes it when the headlines changed. The footer time is when the snapshot was built.
 
 `cat` is `cyber` or `geo`. `ts` is Unix time in milliseconds. Titles and summaries are plain text, capped before they are shown.
 
