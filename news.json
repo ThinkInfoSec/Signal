@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-10T22:09:44Z",
+  "generated": "2026-11-10T22:39:44Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+      "ts": 1794349219000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "ts": 1794349065000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UNIFIL patrol comes under fire in southern Lebanon",
+      "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.",
+      "ts": 1794348230000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US poll shows death penalty lost majority support for first time since 1971",
+      "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
+      "ts": 1794348200000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,13 +42,6 @@
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from",
       "ts": 1794347703000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "ts": 1794345780000
     },
     {
       "source": "BBC World",
@@ -77,20 +98,6 @@
       "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
       "summary": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
       "ts": 1794342183000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
-      "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
-      "ts": 1794342141000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "F1 champion Lewis Hamilton visits Gaza border",
-      "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
-      "ts": 1794341674000
     },
     {
       "source": "BleepingComputer",
@@ -217,13 +224,6 @@
       "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
       "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
       "ts": 1794324078000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Ransomware recovery is now a client retention metric",
-      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention",
-      "ts": 1794322871000
     },
     {
       "source": "The Hacker News",
