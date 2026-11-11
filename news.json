@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T05:39:52Z",
+  "generated": "2026-11-11T06:09:50Z",
   "items": [
     {
       "source": "OpenAI",
@@ -7,6 +7,20 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "ts": 1794441600000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "ts": 1794384000000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "One weird trick AI labs could use to save the world",
+      "summary": "An antitrust loophole you can trust?",
+      "ts": 1794376802000
     },
     {
       "source": "Al Jazeera",
@@ -46,7 +60,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade",
+      "title": "How Singapore became a linchpin of China’s AI chip trade",
       "summary": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
       "ts": 1794373222000
     },
@@ -224,13 +238,6 @@
       "title": "Microsoft releases Windows 10 KB5131096 extended security update",
       "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
       "ts": 1794341076000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US regulator postpones Wall Street push to trade AI computing futures",
-      "summary": "The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class",
-      "ts": 1794340691000
     },
     {
       "source": "BleepingComputer",
@@ -415,6 +422,13 @@
       "ts": 1794294000000
     },
     {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "ts": 1794268800000
+    },
+    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -492,13 +506,6 @@
       "ts": 1794232801000
     },
     {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "ts": 1794229200000
-    },
-    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Innovating with AI in the special chemicals industry",
@@ -518,13 +525,6 @@
       "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
       "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment",
       "ts": 1794211253000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "ts": 1794211200000
     },
     {
       "source": "NVIDIA",
