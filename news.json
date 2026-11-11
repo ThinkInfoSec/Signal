@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T04:09:52Z",
+  "generated": "2026-11-11T04:39:54Z",
   "items": [
     {
       "source": "OpenAI",
@@ -7,6 +7,13 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "ts": 1794441600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu heckled by Bennett at Knesset opening session",
+      "summary": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
+      "ts": 1794369896000
     },
     {
       "source": "Al Jazeera",
@@ -91,13 +98,6 @@
       "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
       "summary": "Lebanese authorities investigate the killing after al-Alwani's body is found in an apartment in Beirut.",
       "ts": 1794362835000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US charges 3 men over alleged Iranian-backed plot at UK Fairford air base",
-      "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
-      "ts": 1794361461000
     },
     {
       "source": "BBC World",
