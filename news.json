@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T03:39:54Z",
+  "generated": "2026-11-11T04:09:52Z",
   "items": [
     {
       "source": "OpenAI",
@@ -9,11 +9,39 @@
       "ts": 1794441600000
     },
     {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Section 219: the future of US-Israeli defence partnership",
+      "summary": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
+      "ts": 1794368938000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "ts": 1794368646000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "ts": 1794367602000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
+      "summary": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
+      "ts": 1794367300000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran opens training camp for women in readiness for war",
+      "summary": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
+      "ts": 1794367292000
     },
     {
       "source": "Al Jazeera",
@@ -67,23 +95,9 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "title": "US charges 3 men over alleged Iranian-backed plot at UK Fairford air base",
       "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
       "ts": 1794361461000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Republicans block Hegseth impeachment motion",
-      "summary": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
-      "ts": 1794361422000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
-      "summary": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
-      "ts": 1794359464000
     },
     {
       "source": "BBC World",
@@ -91,13 +105,6 @@
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
       "ts": 1794358880000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spain holds state funeral for 69 victims of deadly train crash",
-      "summary": "Spain’s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
-      "ts": 1794357761000
     },
     {
       "source": "Financial Times",
@@ -203,13 +210,6 @@
       "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
       "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
       "ts": 1794339071000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-      "ts": 1794338802000
     },
     {
       "source": "Financial Times",
