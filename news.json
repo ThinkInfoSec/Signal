@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T03:09:54Z",
+  "generated": "2026-11-11T03:39:54Z",
   "items": [
     {
       "source": "OpenAI",
@@ -9,11 +9,32 @@
       "ts": 1794441600000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "ts": 1794367602000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "El Salvador fires missiles on Haitian gang hideout",
+      "summary": "El Salvador’s military fired rockets at a compound allegedly belonging to the leader of Haiti’s 400 Mawozo gang.",
+      "ts": 1794366023000
+    },
+    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "ts": 1794366020000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "GOP-led House report slams systemic failures in handling of Epstein case",
+      "summary": "Decades of preferential treatment shielded Epstein and his associates, GOP-led report finds.",
+      "ts": 1794365906000
     },
     {
       "source": "BBC World",
@@ -40,7 +61,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
-      "summary": "Lebanese authorities launch a 'murder' investigation after al-Alwani's body is found in an apartment in Beirut.",
+      "summary": "Lebanese authorities investigate the killing after al-Alwani's body is found in an apartment in Beirut.",
       "ts": 1794362835000
     },
     {
@@ -56,13 +77,6 @@
       "title": "Republicans block Hegseth impeachment motion",
       "summary": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
       "ts": 1794361422000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "ts": 1794359680000
     },
     {
       "source": "Al Jazeera",
@@ -93,13 +107,6 @@
       "ts": 1794356858000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
-      "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
-      "ts": 1794356667000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
@@ -112,13 +119,6 @@
       "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
       "summary": "AI infrastructure group turns to asset-backed debt and customer pre-payments for financing",
       "ts": 1794355289000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: US House blocks Hegseth impeachment efforts",
-      "summary": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
-      "ts": 1794355286000
     },
     {
       "source": "Financial Times",
