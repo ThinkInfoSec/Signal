@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-10T23:39:55Z",
+  "generated": "2026-11-11T00:09:54Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
+      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+      "ts": 1794353882000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Massive fire as Israeli settlers burn down business near Nablus",
+      "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
+      "ts": 1794353623000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "French far-right author Zemmour launches second presidential bid",
+      "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
+      "ts": 1794352992000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -11,7 +32,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
+      "title": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
       "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
       "ts": 1794350174000
     },
@@ -86,20 +107,6 @@
       "ts": 1794345179000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
-      "summary": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
-      "ts": 1794344455000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "White House announces funds for law enforcement programme in several cities",
-      "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
-      "ts": 1794344401000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
@@ -112,13 +119,6 @@
       "title": "Spain's king and queen attend memorial service for rail crash victims",
       "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
       "ts": 1794343600000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US soldier arrested in UK on suspicion of spying for Russia",
-      "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
-      "ts": 1794343313000
     },
     {
       "source": "Ars Technica",
