@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T04:39:54Z",
+  "generated": "2026-11-11T05:09:52Z",
   "items": [
     {
       "source": "OpenAI",
@@ -7,6 +7,62 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "ts": 1794441600000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Europe’s tech ambition risks greater reliance on the US",
+      "summary": "US companies dominate critical distribution channels such as operating systems, browsers and search engines",
+      "ts": 1794373565000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US charges three men for allegedly plotting attack on UK base",
+      "summary": "The US has charged three men over alleged involvement in a plot to attack a Royal Air Force Base in Fairford, UK.",
+      "ts": 1794373307000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "ts": 1794373276000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade",
+      "summary": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+      "ts": 1794373222000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic IPO valuation calculator: How much is it really worth?",
+      "summary": "As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn",
+      "ts": 1794373212000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
+      "summary": "Former Malaysian Prime Minister Najib Razak has been transferred from prison to his Kuala Lumpur home for house arrest.",
+      "ts": 1794372982000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+      "summary": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
+      "ts": 1794372258000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia claims interception of 146 drones in Leningrad region",
+      "summary": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
+      "ts": 1794371687000
     },
     {
       "source": "Al Jazeera",
@@ -51,25 +107,11 @@
       "ts": 1794367292000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "El Salvador fires missiles on Haitian gang hideout",
-      "summary": "El Salvador’s military fired rockets at a compound allegedly belonging to the leader of Haiti’s 400 Mawozo gang.",
-      "ts": 1794366023000
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "ts": 1794366020000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "GOP-led House report slams systemic failures in handling of Epstein case",
-      "summary": "Decades of preferential treatment shielded Epstein and his associates, GOP-led report finds.",
-      "ts": 1794365906000
     },
     {
       "source": "BBC World",
@@ -84,20 +126,6 @@
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "ts": 1794364876000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
-      "summary": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
-      "ts": 1794363142000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
-      "summary": "Lebanese authorities investigate the killing after al-Alwani's body is found in an apartment in Beirut.",
-      "ts": 1794362835000
     },
     {
       "source": "BBC World",
@@ -212,13 +240,6 @@
       "ts": 1794339071000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
-      "summary": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
-      "ts": 1794338692000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
@@ -331,25 +352,11 @@
       "ts": 1794322839000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
-      "summary": "Wall Street bank projects AI start-up will increase sales by 130 times — and be cash flow positive — by end of the decade",
-      "ts": 1794322327000
-    },
-    {
       "source": "Google AI",
       "cat": "ai",
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "ts": 1794319200000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic targets valuation of up to $1.4tn in IPO",
-      "summary": "The Claude maker plans to raise as much as $64bn in highly anticipated listing",
-      "ts": 1794316068000
     },
     {
       "source": "Google AI",
@@ -609,13 +616,6 @@
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican ",
       "ts": 1793818255000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "summary": "",
-      "ts": 1793814610000
     },
     {
       "source": "MIT Technology Review",
