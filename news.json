@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T01:09:55Z",
+  "generated": "2026-11-11T01:39:56Z",
   "items": [
     {
       "source": "OpenAI",
@@ -11,8 +11,22 @@
     {
       "source": "BBC World",
       "cat": "geo",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "ts": 1794359680000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+      "summary": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
+      "ts": 1794359464000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "summary": "The US Department of Justice said one of the men continued to communicate with contacts from prison in New York.",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
       "ts": 1794358880000
     },
     {
@@ -23,11 +37,11 @@
       "ts": 1794357761000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "ts": 1794357513000
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+      "summary": "Claude maker’s listing price expected to rise after strong demand from investors",
+      "ts": 1794356858000
     },
     {
       "source": "Al Jazeera",
@@ -91,13 +105,6 @@
       "title": "Russia expels Moldovan diplomat in tit-for-tat move",
       "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
       "ts": 1794350467000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US House Republicans block Pete Hegseth impeachment effort",
-      "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
-      "ts": 1794350174000
     },
     {
       "source": "Ars Technica",
@@ -371,13 +378,6 @@
       "title": "Helping caregivers use AI in everyday life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "ts": 1794312000000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "SoftBank slumps to $7bn loss on US data centre writedown",
-      "summary": "AI-focused Japanese group blames first quarterly loss in nearly two years on ‘evolving requirements’ in US projects",
-      "ts": 1794308157000
     },
     {
       "source": "OpenAI",
