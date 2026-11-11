@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T08:39:52Z",
+  "generated": "2026-11-11T09:09:58Z",
   "items": [
     {
       "source": "OpenAI",
@@ -7,6 +7,34 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "ts": 1794441600000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+      "ts": 1794388047000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "ts": 1794387600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
+      "summary": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.",
+      "ts": 1794387539000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Putin is not ready to make peace in Abu Dhabi",
+      "summary": "The Russian leader still believes he can outlast Western support for Ukraine.",
+      "ts": 1794386251000
     },
     {
       "source": "Al Jazeera",
@@ -77,20 +105,6 @@
       "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
       "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker",
       "ts": 1794381665000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "If hackers can take over a supermarket fridge, what else is at risk?",
-      "summary": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
-      "ts": 1794381608000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-      "summary": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
-      "ts": 1794378184000
     },
     {
       "source": "The Hacker News",
@@ -175,6 +189,13 @@
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "ts": 1794364876000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+      "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
+      "ts": 1794359889000
     },
     {
       "source": "BBC World",
@@ -317,13 +338,6 @@
       "ts": 1794334341000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "ts": 1794333858000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
@@ -350,13 +364,6 @@
       "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
       "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes an",
       "ts": 1794326403000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-      "ts": 1794326359000
     },
     {
       "source": "Ars Technica",
