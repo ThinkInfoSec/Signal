@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T01:39:56Z",
+  "generated": "2026-11-11T02:09:52Z",
   "items": [
     {
       "source": "OpenAI",
@@ -7,6 +7,20 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "ts": 1794441600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+      "ts": 1794361461000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Republicans block Hegseth impeachment motion",
+      "summary": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
+      "ts": 1794361422000
     },
     {
       "source": "BBC World",
@@ -91,20 +105,6 @@
       "title": "Massive fire as Israeli settlers burn down business near Nablus",
       "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
       "ts": 1794353623000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "French far-right author Zemmour launches second bid for 2027 presidency",
-      "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
-      "ts": 1794352992000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-      "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
-      "ts": 1794350467000
     },
     {
       "source": "Ars Technica",
