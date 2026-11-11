@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T07:39:52Z",
+  "generated": "2026-11-11T08:09:52Z",
   "items": [
     {
       "source": "OpenAI",
@@ -14,6 +14,13 @@
       "title": "ChatGPT Plus for veterans and servicemembers",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "ts": 1794384000000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Students run for safety after fireworks set off inside French school",
+      "summary": "Video captures the moment students and staff ran for safety as fireworks were set off along a school corridor in France.",
+      "ts": 1794383755000
     },
     {
       "source": "Al Jazeera",
@@ -91,13 +98,6 @@
       "title": "Europe’s tech ambition risks greater reliance on the US",
       "summary": "US companies dominate critical distribution channels such as operating systems, browsers and search engines",
       "ts": 1794373565000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US charges three men for allegedly plotting attack on UK base",
-      "summary": "The US has charged three men over alleged involvement in a plot to attack a Royal Air Force Base in Fairford, UK.",
-      "ts": 1794373307000
     },
     {
       "source": "Hugging Face",
