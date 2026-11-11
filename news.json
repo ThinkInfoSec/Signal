@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T09:09:58Z",
+  "generated": "2026-11-11T09:39:50Z",
   "items": [
     {
       "source": "OpenAI",
@@ -7,6 +7,13 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "ts": 1794441600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What do Kyiv residents think about giving up territory to Russia?",
+      "summary": "US President Donald Trump says post-war Ukraine will have a 'different shape' ahead of peace talks in Abu Dhabi.",
+      "ts": 1794388079000
     },
     {
       "source": "BleepingComputer",
@@ -91,13 +98,6 @@
       "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
       "summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
       "ts": 1794381988000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Is Washington rethinking its relationship with Israel?",
-      "summary": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
-      "ts": 1794381977000
     },
     {
       "source": "The Hacker News",
