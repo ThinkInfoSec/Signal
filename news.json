@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T02:09:52Z",
+  "generated": "2026-11-11T02:39:51Z",
   "items": [
     {
       "source": "OpenAI",
@@ -7,6 +7,20 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "ts": 1794441600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+      "summary": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
+      "ts": 1794363142000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+      "summary": "Lebanese authorities launch a 'murder' investigation after al-Alwani's body is found in an apartment in Beirut.",
+      "ts": 1794362835000
     },
     {
       "source": "Al Jazeera",
@@ -91,20 +105,6 @@
       "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
       "summary": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
       "ts": 1794355269000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Fire contained on platform in Iran’s South Pars gas field",
-      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-      "ts": 1794353882000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Massive fire as Israeli settlers burn down business near Nablus",
-      "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
-      "ts": 1794353623000
     },
     {
       "source": "Ars Technica",
