@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-11T00:39:55Z",
+  "generated": "2026-11-11T01:09:55Z",
   "items": [
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "ts": 1794441600000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice said one of the men continued to communicate with contacts from prison in New York.",
+      "ts": 1794358880000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain holds state funeral for 69 victims of deadly train crash",
+      "summary": "Spain’s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
+      "ts": 1794357761000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "ts": 1794357513000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+      "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
+      "ts": 1794356667000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,11 +44,25 @@
       "ts": 1794356287000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+      "summary": "AI infrastructure group turns to asset-backed debt and customer pre-payments for financing",
+      "ts": 1794355289000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
       "summary": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
       "ts": 1794355286000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
+      "summary": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
+      "ts": 1794355269000
     },
     {
       "source": "Al Jazeera",
@@ -32,7 +81,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "French far-right author Zemmour launches second presidential bid",
+      "title": "French far-right author Zemmour launches second bid for 2027 presidency",
       "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
       "ts": 1794352992000
     },
@@ -72,20 +121,6 @@
       "ts": 1794349065000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UNIFIL patrol comes under fire in southern Lebanon",
-      "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.",
-      "ts": 1794348230000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US poll shows death penalty lost majority support for first time since 1971",
-      "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
-      "ts": 1794348200000
-    },
-    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
@@ -114,18 +149,18 @@
       "ts": 1794344095000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Spain's king and queen attend memorial service for rail crash victims",
-      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-      "ts": 1794343600000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "What happens to mathematics when AI becomes an oracle?",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
       "ts": 1794342601000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "ts": 1794342004000
     },
     {
       "source": "BleepingComputer",
@@ -191,13 +226,6 @@
       "ts": 1794337200000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "ts": 1794335631000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
@@ -254,6 +282,13 @@
       "ts": 1794326455000
     },
     {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes an",
+      "ts": 1794326403000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
@@ -273,13 +308,6 @@
       "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
       "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026,",
       "ts": 1794324839000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "ts": 1794324078000
     },
     {
       "source": "Ars Technica",
@@ -366,13 +394,6 @@
       "ts": 1794301200000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Too big to fire",
-      "summary": "Should Jensen Huang stay or go?",
-      "ts": 1794294616000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Work at the Frontier: AI’s effect on freelance work",
@@ -380,11 +401,18 @@
       "ts": 1794294000000
     },
     {
-      "source": "Financial Times",
+      "source": "Hugging Face",
       "cat": "ai",
-      "title": "Photography education navigates the rise of artificial imagery",
-      "summary": "Art schools are grappling with how to teach students to use AI-generated imagery in ways that do not undermine the reasons for studying photography",
-      "ts": 1794286811000
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "",
+      "ts": 1794268800000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Decision Models in Hugging Face",
+      "summary": "",
+      "ts": 1794268800000
     },
     {
       "source": "RNZ World",
@@ -436,6 +464,20 @@
       "ts": 1794237800000
     },
     {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "ts": 1794236757000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Confe",
+      "ts": 1794232801000
+    },
+    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -450,6 +492,20 @@
       "ts": 1794229200000
     },
     {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "ts": 1794227669000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment",
+      "ts": 1794211253000
+    },
+    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "CodeRabbit scales agentic software development and ships 20x more",
@@ -457,11 +513,32 @@
       "ts": 1794211200000
     },
     {
-      "source": "OpenAI",
+      "source": "NVIDIA",
       "cat": "ai",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "ts": 1794211200000
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helpi",
+      "ts": 1794200440000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employe",
+      "ts": 1794200439000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore p",
+      "ts": 1794200404000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful",
+      "ts": 1794200400000
     },
     {
       "source": "Ars Technica",
@@ -471,11 +548,32 @@
       "ts": 1793986982000
     },
     {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and A",
+      "ts": 1793980835000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "ts": 1793973648000
+    },
+    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
       "ts": 1793959200000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "",
+      "ts": 1793923200000
     },
     {
       "source": "Google DeepMind",
@@ -499,11 +597,25 @@
       "ts": 1793853377000
     },
     {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "",
+      "ts": 1793836800000
+    },
+    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican ",
       "ts": 1793818255000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "ts": 1793814610000
     },
     {
       "source": "MIT Technology Review",
