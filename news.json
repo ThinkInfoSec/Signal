@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T06:09:50Z",
+  "generated": "2026-11-11T06:39:53Z",
   "items": [
     {
       "source": "OpenAI",
@@ -16,11 +16,39 @@
       "ts": 1794384000000
     },
     {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+      "summary": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
+      "ts": 1794378184000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are below - CVE-2026-20",
+      "ts": 1794377042000
+    },
+    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "One weird trick AI labs could use to save the world",
       "summary": "An antitrust loophole you can trust?",
       "ts": 1794376802000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+      "summary": "Double Olympic gold medallist cites 'financial and practical challenges' of swimming.",
+      "ts": 1794376348000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+      "summary": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
+      "ts": 1794375566000
     },
     {
       "source": "Al Jazeera",
@@ -93,20 +121,6 @@
       "ts": 1794371687000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu heckled by Bennett at Knesset opening session",
-      "summary": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
-      "ts": 1794369896000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Section 219: the future of US-Israeli defence partnership",
-      "summary": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
-      "ts": 1794368938000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
@@ -119,13 +133,6 @@
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "ts": 1794367602000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
-      "summary": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
-      "ts": 1794367300000
     },
     {
       "source": "NVIDIA",
@@ -268,13 +275,6 @@
       "ts": 1794337656000
     },
     {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "ts": 1794337200000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
@@ -359,32 +359,11 @@
       "ts": 1794322839000
     },
     {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "ts": 1794319200000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "ts": 1794315600000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
       "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
       "ts": 1794312932000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher w",
-      "ts": 1794312931000
     },
     {
       "source": "Google DeepMind",
@@ -590,13 +569,6 @@
       "ts": 1793898316000
     },
     {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-      "ts": 1793898000000
-    },
-    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Want to Rent an Internet Address at the White House?",
@@ -651,13 +623,6 @@
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is lik",
       "ts": 1793672671000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Animated carousel of images from AI posts in October",
-      "ts": 1793641500000
     }
   ]
 }
