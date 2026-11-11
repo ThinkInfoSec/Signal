@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T07:09:51Z",
+  "generated": "2026-11-11T07:39:52Z",
   "items": [
     {
       "source": "OpenAI",
@@ -14,6 +14,27 @@
       "title": "ChatGPT Plus for veterans and servicemembers",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "ts": 1794384000000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
+      "ts": 1794381988000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Is Washington rethinking its relationship with Israel?",
+      "summary": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
+      "ts": 1794381977000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "If hackers can take over a supermarket fridge, what else is at risk?",
+      "summary": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
+      "ts": 1794381608000
     },
     {
       "source": "Al Jazeera",
@@ -98,27 +119,6 @@
       "title": "Anthropic IPO valuation calculator: How much is it really worth?",
       "summary": "As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn",
       "ts": 1794373212000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
-      "summary": "Former Malaysian Prime Minister Najib Razak has been transferred from prison to his Kuala Lumpur home for house arrest.",
-      "ts": 1794372982000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
-      "summary": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
-      "ts": 1794372258000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia claims interception of 146 drones in Leningrad region",
-      "summary": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
-      "ts": 1794371687000
     },
     {
       "source": "BBC World",
