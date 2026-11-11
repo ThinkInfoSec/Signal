@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T06:39:53Z",
+  "generated": "2026-11-11T07:09:51Z",
   "items": [
     {
       "source": "OpenAI",
@@ -47,7 +47,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-      "summary": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
+      "summary": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim dealing heavy blows.",
       "ts": 1794375566000
     },
     {
@@ -275,6 +275,13 @@
       "ts": 1794337656000
     },
     {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "ts": 1794337200000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
@@ -359,6 +366,20 @@
       "ts": 1794322839000
     },
     {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "ts": 1794319200000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "ts": 1794315600000
+    },
+    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
@@ -392,6 +413,13 @@
       "title": "Closing the AI guidance gap in education",
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "ts": 1794301200000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "ts": 1794297600000
     },
     {
       "source": "OpenAI",
@@ -441,13 +469,6 @@
       "title": "The backlash about data centers might really just be about electricity",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
       "ts": 1794252933000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "ts": 1794250800000
     },
     {
       "source": "Ars Technica",
@@ -569,6 +590,13 @@
       "ts": 1793898316000
     },
     {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+      "ts": 1793898000000
+    },
+    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Want to Rent an Internet Address at the White House?",
@@ -623,6 +651,13 @@
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is lik",
       "ts": 1793672671000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Animated carousel of images from AI posts in October",
+      "ts": 1793641500000
     }
   ]
 }
