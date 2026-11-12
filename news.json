@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-12T15:39:49Z",
+  "generated": "2026-11-12T16:09:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+      "ts": 1794499440000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Jensen jeopardy will disrupt the AI industry",
+      "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
+      "ts": 1794498991000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Four people shot in Washington DC",
+      "summary": "A major police operation is underway in Washington DC where four people have reportedly been shot",
+      "ts": 1794498127000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Manchester United sacked manager Michael Carrick",
+      "summary": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
+      "ts": 1794496903000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -14,6 +42,13 @@
       "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
       "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
       "ts": 1794496599000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK court finds two Iranian men guilty of spying for Iran",
+      "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+      "ts": 1794496548000
     },
     {
       "source": "BleepingComputer",
@@ -79,13 +114,6 @@
       "ts": 1794494207000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-      "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
-      "ts": 1794493674000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
@@ -93,25 +121,11 @@
       "ts": 1794493650000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-      "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
-      "ts": 1794493381000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Jensen Huang is gone. Will the AI industry pay the price?",
       "summary": "Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom",
       "ts": 1794493350000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "At least five injured in Washington, DC, shooting near Logan Circle",
-      "summary": "Authorities have issued a shelter-in-place order near scene of attack in US capital.",
-      "ts": 1794493177000
     },
     {
       "source": "NVIDIA",
@@ -282,13 +296,6 @@
       "ts": 1794457801000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Huang falls out of favour in Washington",
-      "summary": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy",
-      "ts": 1794457188000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Mississippi electing Scott Colom as senator may be one of the biggest shocks of 2026",
@@ -322,13 +329,6 @@
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
       "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
       "ts": 1794438091000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-      "ts": 1794437781000
     },
     {
       "source": "RNZ World",
