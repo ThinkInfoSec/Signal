@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-12T09:39:49Z",
+  "generated": "2026-11-12T10:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "ts": 1794477752000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "ts": 1794476591000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -11,16 +25,23 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
+      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+      "summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
+      "ts": 1794476280000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the database, released fix",
+      "ts": 1794475500000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
       "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
       "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
       "ts": 1794474084000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "ts": 1794474015000
     },
     {
       "source": "Al Jazeera",
@@ -93,13 +114,6 @@
       "ts": 1794469085000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
-      "summary": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
-      "ts": 1794469062000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
@@ -144,16 +158,9 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
+      "title": "Huang falls out of favour in Washington",
       "summary": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy",
       "ts": 1794457188000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "ts": 1794456030000
     },
     {
       "source": "BBC World",
@@ -357,13 +364,6 @@
       "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
       "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow wind",
       "ts": 1794405660000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pag",
-      "ts": 1794399580000
     },
     {
       "source": "Google AI",
