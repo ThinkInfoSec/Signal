@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-12T08:09:51Z",
+  "generated": "2026-11-12T08:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mississippi elects first Black Senator since 1874",
+      "summary": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874.",
+      "ts": 1794471160000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
+      "summary": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years.",
+      "ts": 1794470489000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Sex, spies and salaries shake up AI chipmakers",
+      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+      "ts": 1794470387000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -65,13 +86,6 @@
       "ts": 1794464761000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "From Pong to GTA VI: Play your way through 50 years of video games",
-      "summary": "Video games are now a $200bn business. Play through the six games that tell the story of how they got there.",
-      "ts": 1794464268000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
@@ -98,13 +112,6 @@
       "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
       "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Red Hat, which ships t",
       "ts": 1794460346000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "French guard collapses as Macron rushes to help",
-      "summary": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
-      "ts": 1794460275000
     },
     {
       "source": "The Hacker News",
@@ -151,8 +158,8 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
-      "summary": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
+      "title": "Nvidia board to decide Jensen Huang’s fate",
+      "summary": "Revelation of affair with subordinate piles pressure on CEO days after news of relationship with alleged Chinese spy",
       "ts": 1794446004000
     },
     {
@@ -273,13 +280,6 @@
       "title": "Ngāpuhi activist Mike Smith's case spotlighted at UN's COP31 climate summit",
       "summary": "Mike Smith's daughter has presented on his now-blocked lawsuit against climate polluters at an event at COP31 in Türkiye.",
       "ts": 1794418126000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Is the job market hibernating?",
-      "summary": "Employers are putting off creating new roles while AI’s impact and the economic outlook remain uncertain",
-      "ts": 1794416408000
     },
     {
       "source": "BleepingComputer",
