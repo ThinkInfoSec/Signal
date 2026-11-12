@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-12T13:09:48Z",
+  "generated": "2026-11-12T13:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
+      "summary": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
+      "ts": 1794489620000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -77,13 +84,6 @@
       "title": "England vs Croatia: UEFA Nations League – preview, team news, predictions",
       "summary": "Harry Kane set to become England’s most capped player while Jude Bellingham could be joined by younger brother, Jobe.",
       "ts": 1794485570000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistan releases two sisters of ex-PM Imran Khan from jail",
-      "summary": "Uzma and Noreen released from a Lahore jail but Aleema Khan still detained nearly two months after their arrest.",
-      "ts": 1794485537000
     },
     {
       "source": "BleepingComputer",
