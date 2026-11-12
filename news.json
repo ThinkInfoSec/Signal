@@ -1,12 +1,82 @@
 {
-  "generated": "2026-11-12T20:09:48Z",
+  "generated": "2026-11-12T20:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "ts": 1794515856000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
+      "summary": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+      "ts": 1794515121000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Qatar Under-17 World Cup is on despite US pull out",
+      "summary": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
+      "ts": 1794514547000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+      "ts": 1794514516000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+      "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+      "ts": 1794514341000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
+      "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
+      "ts": 1794514231000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "ts": 1794514156000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "ts": 1794513600000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
-      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
       "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
       "ts": 1794513599000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+      "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
+      "ts": 1794513386000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US nonprofits sue tech giants to halt AI development",
+      "summary": "California lawsuit demands freeze training on 'catastrophic' artificial intelligence models.",
+      "ts": 1794513302000
     },
     {
       "source": "BleepingComputer",
@@ -28,13 +98,6 @@
       "title": "Iranian men guilty of spying on British journalists",
       "summary": "Two Iranian men were convicted under Britain's National Security Act for spying on dissident journalists.",
       "ts": 1794512313000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
-      "summary": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
-      "ts": 1794511945000
     },
     {
       "source": "Ars Technica",
@@ -65,13 +128,6 @@
       "ts": 1794510455000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
-      "summary": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
-      "ts": 1794509929000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "British Airways plane suffers tail strike as it attempts landing at London's Heathrow Airport",
@@ -93,46 +149,11 @@
       "ts": 1794509255000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
-      "summary": "James 'Fergie' Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
-      "ts": 1794508900000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "ts": 1794508139000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Home sales in the US are at their lowest level since 2016",
-      "summary": "The sale of previously owned homes dropped 5.5 percent in October, the lowest level since August 2010.",
-      "ts": 1794507988000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What to know about the Logan Circle shooting in Washington, DC",
-      "summary": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
-      "ts": 1794507724000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
       "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. ",
       "ts": 1794506835000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
-      "ts": 1794506582000
     },
     {
       "source": "The Hacker News",
@@ -263,13 +284,6 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "ts": 1794488566000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "ts": 1794488215000
@@ -315,13 +329,6 @@
       "title": "Maga architects blame Big Tech and AI data centres for midterms rout",
       "summary": "Head of Heritage Foundation admits Republicans’ embrace of Silicon Valley and the effect of Donald Trump’s Iran war cost them votes",
       "ts": 1794481204000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft confirms Windows security updates installation issues",
-      "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
-      "ts": 1794479047000
     },
     {
       "source": "OpenAI",
@@ -553,13 +560,6 @@
       "title": "Introducing Businesses in ChatGPT",
       "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
       "ts": 1794304800000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Closing the AI guidance gap in education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "ts": 1794301200000
     },
     {
       "source": "Hugging Face",
