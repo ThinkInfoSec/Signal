@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-12T17:09:51Z",
+  "generated": "2026-11-12T17:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+      "summary": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
+      "ts": 1794502510000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -12,7 +19,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-      "summary": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+      "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
       "ts": 1794502373000
     },
     {
@@ -119,13 +126,6 @@
       "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
       "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
       "ts": 1794496040000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spain approves housing reforms after nationwide strike over costs",
-      "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
-      "ts": 1794495750000
     },
     {
       "source": "BleepingComputer",
