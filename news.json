@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-12T21:39:49Z",
+  "generated": "2026-11-12T22:09:49Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "British Airways plane suffers tail strike as it attempts landing at London's Heathrow Airport",
+      "summary": "The plane, that had flown to London from Amsterdam, had 200 passengers on board.",
+      "ts": 1794519122000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -18,7 +25,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
       "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
       "ts": 1794517242000
     },
@@ -135,13 +142,6 @@
       "ts": 1794510455000
     },
     {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "British Airways plane suffers tail strike as it attempts landing at London's Heathrow Airport",
-      "summary": "The plane, that had flown to London from Amsterdam, had 200 passengers on board.",
-      "ts": 1794509886000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
@@ -152,7 +152,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
       "ts": 1794509255000
     },
     {
