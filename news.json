@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-12T09:09:48Z",
+  "generated": "2026-11-12T09:39:49Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "ts": 1794476280000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+      "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+      "ts": 1794474084000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -60,7 +74,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
       "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
       "ts": 1794470373000
     },
@@ -84,13 +98,6 @@
       "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
       "summary": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
       "ts": 1794469062000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
-      "summary": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
-      "ts": 1794466185000
     },
     {
       "source": "The Hacker News",
@@ -350,13 +357,6 @@
       "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
       "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow wind",
       "ts": 1794405660000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
-      "ts": 1794400347000
     },
     {
       "source": "The Hacker News",
