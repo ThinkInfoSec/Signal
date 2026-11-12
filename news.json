@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-12T13:39:50Z",
+  "generated": "2026-11-12T14:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "AI titan Jensen Huang out as Nvidia CEO",
+      "summary": "This is a breaking news story.",
+      "ts": 1794491707000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Family of killed teen Javits Frimpong calls for justice",
+      "summary": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
+      "ts": 1794490052000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,13 +72,6 @@
       "ts": 1794487161000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Missing teenager found in bushland during aerial search in Australia",
-      "summary": "A 17-year-old teenager has been found in dense bushland during an aerial search after being missing for six days.",
-      "ts": 1794486369000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
@@ -77,13 +84,6 @@
       "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
       "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
       "ts": 1794485691000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "England vs Croatia: UEFA Nations League – preview, team news, predictions",
-      "summary": "Harry Kane set to become England’s most capped player while Jude Bellingham could be joined by younger brother, Jobe.",
-      "ts": 1794485570000
     },
     {
       "source": "BleepingComputer",
