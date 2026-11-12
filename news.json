@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-12T19:09:49Z",
+  "generated": "2026-11-12T19:39:49Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "ts": 1794511383000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "ts": 1794511382000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+      "ts": 1794510775000
+    },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "summary": "",
       "ts": 1794510455000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+      "summary": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
+      "ts": 1794509929000
     },
     {
       "source": "RNZ World",
@@ -54,7 +82,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "What to know about the Logan Circle shooting in Washington, DC",
-      "summary": "Trump has showcased the capital city as an example of his tough on crime approach.",
+      "summary": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
       "ts": 1794507724000
     },
     {
@@ -119,13 +147,6 @@
       "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
       "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
       "ts": 1794503893000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-      "summary": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
-      "ts": 1794502510000
     },
     {
       "source": "BBC World",
@@ -240,13 +261,6 @@
       "ts": 1794488215000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "ts": 1794487179000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "How can we create ‘supercooperative AI’?",
@@ -357,13 +371,6 @@
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "summary": "",
       "ts": 1794441600000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-      "ts": 1794438091000
     },
     {
       "source": "RNZ World",
@@ -492,13 +499,6 @@
       "ts": 1794345179000
     },
     {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
-      "ts": 1794342601000
-    },
-    {
       "source": "Google AI",
       "cat": "ai",
       "title": "Gemini Intelligence: New features, on more devices",
@@ -515,7 +515,7 @@
     {
       "source": "NVIDIA",
       "cat": "ai",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
       "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes an",
       "ts": 1794326403000
     },
