@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-12T14:39:48Z",
+  "generated": "2026-11-12T15:09:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Police dismantles Gootloader, CastleRAT, StealC malware infrastructure",
+      "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+      "ts": 1794496040000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
+      "ts": 1794495610000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "ts": 1794495287000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "ts": 1794495017000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+      "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
+      "ts": 1794494890000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+      "summary": "Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.",
+      "ts": 1794494694000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia CEO Jensen Huang resigns",
+      "summary": "Nvidia CEO Jensen Huang has resigned amid reports of a second affair with an executive.",
+      "ts": 1794494420000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
+      "summary": "Many migrants stranded in southern Mexico say the Democrats' win in Congress has given them new hope of entering the US.",
+      "ts": 1794494322000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -37,10 +93,17 @@
       "ts": 1794493381000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Jensen Huang is gone. Will the AI industry pay the price?",
+      "summary": "Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom",
+      "ts": 1794493350000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Police say at least five people shot at busy thoroughfare in Washington, DC",
-      "summary": "Authorities have issued a shelter in place near the scene of attack in US capital.",
+      "title": "At least five injured in Washington, DC, shooting near Logan Circle",
+      "summary": "Authorities have issued a shelter-in-place order near scene of attack in US capital.",
       "ts": 1794493177000
     },
     {
@@ -58,25 +121,11 @@
       "ts": 1794491707000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Family of killed teen Javits Frimpong calls for justice",
-      "summary": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
-      "ts": 1794490052000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
-      "summary": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
-      "ts": 1794489620000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
-      "summary": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
-      "ts": 1794488232000
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "ts": 1794488566000
     },
     {
       "source": "BBC World",
@@ -86,25 +135,11 @@
       "ts": 1794488215000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Canada won’t let Russian players enter for ice hockey junior championship",
-      "summary": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
-      "ts": 1794488187000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "How can we create ‘supercooperative AI’?",
       "summary": "New research suggests that truly transformational economic change will depend on agents learning to work as teams",
       "ts": 1794486604000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "ts": 1794485691000
     },
     {
       "source": "BleepingComputer",
@@ -214,13 +249,6 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "ts": 1794470373000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
       "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
       "ts": 1794469552000
@@ -259,13 +287,6 @@
       "title": "Mississippi electing Scott Colom as senator may be one of the biggest shocks of 2026",
       "summary": "I lived in Mississippi and have deep family roots there. Here’s why Scott Colom’s election is such a shock.",
       "ts": 1794447011000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Can markets find the AI cash?",
-      "summary": "With stock and debt markets showing the strain, financing the next phase of America’s AI boom will not be easy",
-      "ts": 1794445202000
     },
     {
       "source": "OpenAI",
@@ -308,20 +329,6 @@
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
       "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "ts": 1794434857000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-      "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
-      "ts": 1794432460000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-      "ts": 1794430460000
     },
     {
       "source": "RNZ World",
@@ -504,13 +511,6 @@
       "title": "Google Cloud launches Gemini for healthcare.",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "ts": 1794315600000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "ts": 1794312932000
     },
     {
       "source": "Google DeepMind",
