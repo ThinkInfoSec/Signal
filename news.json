@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-12T11:09:49Z",
+  "generated": "2026-11-12T11:39:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "New York building collapse kills at least two, officials say",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "ts": 1794482621000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -16,17 +23,24 @@
       "ts": 1794481204000
     },
     {
-      "source": "BBC World",
+      "source": "Al Jazeera",
       "cat": "geo",
-      "title": "New York building collapse kills at least two, officials say",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "ts": 1794480049000
+      "title": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
+      "summary": "Al Jazeera’s Rosie Birchard asks a humanoid robot about AI's future at the Web Summit in Lisbon.",
+      "ts": 1794480803000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+      "summary": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
+      "ts": 1794480581000
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Manchester United sack Michael Carrick as manager",
-      "summary": "This is a breaking news story.",
+      "summary": "Carrick exits after United drop to 18th in Premier League table; he led them to three wins across all competitions.",
       "ts": 1794479609000
     },
     {
@@ -126,20 +140,6 @@
       "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
       "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed versions were released ",
       "ts": 1794471637000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mississippi elects first Black Senator since 1874",
-      "summary": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874.",
-      "ts": 1794471160000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
-      "summary": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years.",
-      "ts": 1794470489000
     },
     {
       "source": "Financial Times",
