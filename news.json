@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-12T12:39:49Z",
+  "generated": "2026-11-12T13:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "ts": 1794488557000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+      "summary": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
+      "ts": 1794488232000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "ts": 1794488215000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Canada won’t let Russian players enter for ice hockey junior championship",
+      "summary": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
+      "ts": 1794488187000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Greta Thunberg: The planet is being killed",
+      "summary": "Climate activist Greta Thunberg delivers a stark warning at COP31.",
+      "ts": 1794487980000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+      "summary": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
+      "ts": 1794487903000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+      "summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
+      "ts": 1794487161000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,13 +63,6 @@
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
       "ts": 1794486361000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "New York City building collapse kills several people",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "ts": 1794485867000
     },
     {
       "source": "BBC World",
@@ -65,13 +107,6 @@
       "ts": 1794484971000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
-      "summary": "Chinese president says the tide of history 'cannot be stopped' as Taiwan rejects 'one country, two systems'.",
-      "ts": 1794484768000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
@@ -86,25 +121,11 @@
       "ts": 1794484291000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-      "summary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
-      "ts": 1794483799000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
       "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as a case of improper i",
       "ts": 1794483195000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
-      "summary": "Mississippi is home to a large Black American population but no Black person has held a Senate seat since the 1800s.",
-      "ts": 1794483076000
     },
     {
       "source": "Financial Times",
@@ -121,20 +142,6 @@
       "ts": 1794481204000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
-      "summary": "Al Jazeera’s Rosie Birchard asks a humanoid robot about AI's future at the Web Summit in Lisbon.",
-      "ts": 1794480803000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
-      "summary": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
-      "ts": 1794480581000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft confirms Windows security updates installation issues",
@@ -147,13 +154,6 @@
       "title": "British woman missing from cruise ship in Atlantic",
       "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
       "ts": 1794478415000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "ts": 1794477752000
     },
     {
       "source": "BleepingComputer",
