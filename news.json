@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-12T10:39:49Z",
+  "generated": "2026-11-12T11:09:49Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia board to decide Jensen Huang’s fate",
+      "summary": "Revelation of affair with subordinate piles pressure on CEO days after news of relationship with alleged Chinese spy",
+      "ts": 1794481711000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Maga architects blame Big Tech and AI data centres for midterms rout",
+      "summary": "Head of Heritage Foundation admits Republicans’ embrace of Silicon Valley and the effect of Donald Trump’s Iran war cost them votes",
+      "ts": 1794481204000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "New York building collapse kills at least two, officials say",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "ts": 1794480049000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Manchester United sack Michael Carrick as manager",
+      "summary": "This is a breaking news story.",
+      "ts": 1794479609000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -25,7 +53,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "ts": 1794477752000
     },
@@ -135,13 +163,6 @@
       "ts": 1794469552000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
-      "summary": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
-      "ts": 1794469085000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
@@ -154,13 +175,6 @@
       "title": "The AI megatrade’s mounting portfolio concentration risk problem",
       "summary": "There aren’t enough baskets to safely cope with this many massive eggs",
       "ts": 1794463202000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "New York building collapse kills at least two, officials say",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "ts": 1794460376000
     },
     {
       "source": "The Hacker News",
@@ -196,13 +210,6 @@
       "title": "Mississippi electing Scott Colom as senator may be one of the biggest shocks of 2026",
       "summary": "I lived in Mississippi and have deep family roots there. Here’s why Scott Colom’s election is such a shock.",
       "ts": 1794447011000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia board to decide Jensen Huang’s fate",
-      "summary": "Revelation of affair with subordinate piles pressure on CEO days after news of relationship with alleged Chinese spy",
-      "ts": 1794446004000
     },
     {
       "source": "Financial Times",
@@ -273,13 +280,6 @@
       "title": "Review: The Elizabeth Holmes doco 'You Can See Everything' is nothing less than sublime",
       "summary": "Just over a month before starting an 11-year prison sentence, Theranos fraudster Elizabeth Holmes let comedian Nathan Fielder into her home. The results are nothing less than sublime.",
       "ts": 1794427546000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "CoreWeave wants to sit with the credit-market grown-ups",
-      "summary": "The cloud computing group has benefited from a hitherto forgiving junk bond market",
-      "ts": 1794423420000
     },
     {
       "source": "RNZ World",
