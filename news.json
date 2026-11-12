@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-12T15:09:48Z",
+  "generated": "2026-11-12T15:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "ts": 1794496700000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "ts": 1794496599000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "Police dismantles Gootloader, CastleRAT, StealC malware infrastructure",
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
       "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
       "ts": 1794496040000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain approves housing reforms after nationwide strike over costs",
+      "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
+      "ts": 1794495750000
     },
     {
       "source": "BleepingComputer",
@@ -14,13 +35,6 @@
       "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
       "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
       "ts": 1794495610000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "ts": 1794495287000
     },
     {
       "source": "Ars Technica",
@@ -79,13 +93,6 @@
       "ts": 1794493650000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "ts": 1794493488000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
@@ -114,13 +121,6 @@
       "ts": 1794492059000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
-      "summary": "Nvidia loses over $600bn in market value as CEO Jensen Huang steps down amid espionage and affair allegations.",
-      "ts": 1794491707000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
@@ -133,6 +133,13 @@
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "ts": 1794488215000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "ts": 1794487179000
     },
     {
       "source": "Financial Times",
@@ -263,7 +270,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "The AI megatrade’s mounting portfolio concentration risk problem",
+      "title": "The bond market is starting to choke on AI debt",
       "summary": "There aren’t enough baskets to safely cope with this many massive eggs",
       "ts": 1794463202000
     },
@@ -322,13 +329,6 @@
       "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
       "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
       "ts": 1794437781000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "ts": 1794434857000
     },
     {
       "source": "RNZ World",
