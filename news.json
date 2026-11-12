@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-12T18:09:48Z",
+  "generated": "2026-11-12T18:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "ts": 1794508139000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. ",
+      "ts": 1794506835000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+      "ts": 1794506582000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get i",
+      "ts": 1794506571000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
+      "summary": "Police say the man suspected to have killed one person in a shooting in Washington DC appears to have shot himself.",
+      "ts": 1794506552000
+    },
     {
       "source": "Google DeepMind",
       "cat": "ai",
@@ -14,6 +49,13 @@
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
       "ts": 1794506400000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privilege",
+      "ts": 1794505827000
     },
     {
       "source": "Al Jazeera",
@@ -65,13 +107,6 @@
       "ts": 1794501889000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "ts": 1794501072000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
@@ -86,13 +121,6 @@
       "ts": 1794500609000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-      "summary": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
-      "ts": 1794499636000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
@@ -105,13 +133,6 @@
       "title": "Jensen jeopardy will disrupt the AI industry",
       "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
       "ts": 1794498991000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Four people shot in Washington DC",
-      "summary": "A major police operation is underway in Washington DC where four people have reportedly been shot",
-      "ts": 1794498127000
     },
     {
       "source": "The Hacker News",
@@ -224,27 +245,6 @@
       "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
       "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same p",
       "ts": 1794485354000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. ",
-      "ts": 1794484971000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and ex",
-      "ts": 1794484303000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security spotted the campaign and has since taken down h",
-      "ts": 1794484291000
     },
     {
       "source": "Financial Times",
