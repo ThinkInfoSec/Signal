@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-12T22:39:49Z",
+  "generated": "2026-11-12T23:09:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+      "ts": 1794523990000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Dolly Parton's last song is out today",
+      "summary": "Torn, U2's new duet featuring Dolly Parton, is the country music legend's swan song.",
+      "ts": 1794523862000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Huang’s fall is an indictment of founder mode at Big Tech",
+      "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear",
+      "ts": 1794523843000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
@@ -26,7 +47,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
-      "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secures win for Italy.",
+      "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.",
       "ts": 1794521552000
     },
     {
@@ -275,13 +296,6 @@
       "ts": 1794495017000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-      "ts": 1794494207000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Jensen Huang is gone. Will the AI industry pay the price?",
@@ -366,13 +380,6 @@
       "ts": 1794463202000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Crowded legal-tech market requires navigation",
-      "summary": "As buyers reach ‘tool fatigue’, we reflect the breadth of software products available by showcasing eight start-ups tackling four big challenges for law firms and clients",
-      "ts": 1794457801000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Mississippi electing Scott Colom as senator may be one of the biggest shocks of 2026",
@@ -399,13 +406,6 @@
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "summary": "",
       "ts": 1794441600000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Review: The Elizabeth Holmes doco 'You Can See Everything' is nothing less than sublime",
-      "summary": "Just over a month before starting an 11-year prison sentence, Theranos fraudster Elizabeth Holmes let comedian Nathan Fielder into her home. The results are nothing less than sublime.",
-      "ts": 1794427546000
     },
     {
       "source": "Ars Technica",
