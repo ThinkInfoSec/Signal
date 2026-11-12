@@ -1,11 +1,60 @@
 {
-  "generated": "2026-11-12T14:09:48Z",
+  "generated": "2026-11-12T14:39:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+      "ts": 1794494207000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "AI titan Jensen Huang out as Nvidia CEO",
-      "summary": "This is a breaking news story.",
+      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+      "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
+      "ts": 1794493674000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "ts": 1794493650000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "ts": 1794493488000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+      "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
+      "ts": 1794493381000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Police say at least five people shot at busy thoroughfare in Washington, DC",
+      "summary": "Authorities have issued a shelter in place near the scene of attack in US capital.",
+      "ts": 1794493177000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings ",
+      "ts": 1794492059000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
+      "summary": "Nvidia loses over $600bn in market value as CEO Jensen Huang steps down amid espionage and affair allegations.",
       "ts": 1794491707000
     },
     {
@@ -21,13 +70,6 @@
       "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
       "summary": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
       "ts": 1794489620000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "ts": 1794488557000
     },
     {
       "source": "Al Jazeera",
@@ -51,32 +93,11 @@
       "ts": 1794488187000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Greta Thunberg: The planet is being killed",
-      "summary": "Climate activist Greta Thunberg delivers a stark warning at COP31.",
-      "ts": 1794487980000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
-      "summary": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
-      "ts": 1794487903000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
-      "summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
-      "ts": 1794487161000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "ts": 1794486361000
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "How can we create ‘supercooperative AI’?",
+      "summary": "New research suggests that truly transformational economic change will depend on agents learning to work as teams",
+      "ts": 1794486604000
     },
     {
       "source": "BBC World",
@@ -261,6 +282,13 @@
       "ts": 1794441600000
     },
     {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "ts": 1794441600000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -287,13 +315,6 @@
       "title": "eMudhra revokes 8 more CA certificates after private key mishap",
       "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
       "ts": 1794432460000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks rally as AI trade revives",
-      "summary": "Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
-      "ts": 1794431057000
     },
     {
       "source": "BleepingComputer",
@@ -350,13 +371,6 @@
       "title": "Ngāpuhi activist Mike Smith's case spotlighted at UN's COP31 climate summit",
       "summary": "Mike Smith's daughter has presented on his now-blocked lawsuit against climate polluters at an event at COP31 in Türkiye.",
       "ts": 1794418126000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-      "ts": 1794414258000
     },
     {
       "source": "Google AI",
@@ -618,13 +632,6 @@
       "ts": 1794200404000
     },
     {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful",
-      "ts": 1794200400000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -637,13 +644,6 @@
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
       "ts": 1793959200000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "summary": "",
-      "ts": 1793923200000
     },
     {
       "source": "Google DeepMind",
