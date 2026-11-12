@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-12T21:09:50Z",
+  "generated": "2026-11-12T21:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Deadly shooting in Washington DC",
+      "summary": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
+      "ts": 1794518304000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Microsoft outage hits tens of thousands of users",
+      "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
+      "ts": 1794517389000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
       "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
       "ts": 1794517242000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+      "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
+      "ts": 1794517193000
     },
     {
       "source": "Al Jazeera",
@@ -21,6 +42,13 @@
       "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
       "summary": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
       "ts": 1794515121000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”",
+      "ts": 1794514584000
     },
     {
       "source": "Al Jazeera",
@@ -72,32 +100,11 @@
       "ts": 1794513599000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
-      "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
-      "ts": 1794513386000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US nonprofits sue tech giants to halt AI development",
-      "summary": "California lawsuit demands freeze training on 'catastrophic' artificial intelligence models.",
-      "ts": 1794513302000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
       "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
       "ts": 1794513076000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-      "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
-      "ts": 1794512740000
     },
     {
       "source": "Ars Technica",
@@ -392,13 +399,6 @@
       "title": "Review: The Elizabeth Holmes doco 'You Can See Everything' is nothing less than sublime",
       "summary": "Just over a month before starting an 11-year prison sentence, Theranos fraudster Elizabeth Holmes let comedian Nathan Fielder into her home. The results are nothing less than sublime.",
       "ts": 1794427546000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Comedian doubtful over future in TV after blowing whistle on David Walliams",
-      "summary": "Comedian Lucy Beaumont says she was one of the whistleblowers who spoke to reporters about David Walliams' alleged sexual misconduct.",
-      "ts": 1794422953000
     },
     {
       "source": "Ars Technica",
@@ -707,13 +707,6 @@
       "title": "How “reverse game theory” could keep AI agents in check",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t bre",
       "ts": 1793702621000
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial in",
-      "ts": 1793679527000
     },
     {
       "source": "Krebs on Security",
