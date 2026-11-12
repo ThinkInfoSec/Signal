@@ -1,6 +1,167 @@
 {
-  "generated": "2026-11-11T10:09:51Z",
+  "generated": "2026-11-12T08:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "ts": 1794470373000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+      "summary": "The head teacher of the school has been arrested to assist police investigations.",
+      "ts": 1794469552000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+      "summary": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
+      "ts": 1794469085000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
+      "summary": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
+      "ts": 1794469062000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+      "summary": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
+      "ts": 1794466185000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI workflows can reach. I",
+      "ts": 1794465767000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Indonesia vice president resigns amid dispute over eligibility",
+      "summary": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
+      "ts": 1794465481000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sheikh Hasina must return to Bangladesh to face her sentence",
+      "summary": "Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people.",
+      "ts": 1794465426000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "It is time for a change of leadership in the Democratic Party in the US",
+      "summary": "The Democrats need to deliver on an ambitious agenda, and they need new energy and new voices to do so.",
+      "ts": 1794464761000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "From Pong to GTA VI: Play your way through 50 years of video games",
+      "summary": "Video games are now a $200bn business. Play through the six games that tell the story of how they got there.",
+      "ts": 1794464268000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "ts": 1794463925000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The AI megatrade’s mounting portfolio concentration risk problem",
+      "summary": "There aren’t enough baskets to safely cope with this many massive eggs",
+      "ts": 1794463202000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "New York building collapse kills at least two, officials say",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "ts": 1794460376000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Red Hat, which ships t",
+      "ts": 1794460346000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "French guard collapses as Macron rushes to help",
+      "summary": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
+      "ts": 1794460275000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerability in the ScreenC",
+      "ts": 1794458388000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Crowded legal-tech market requires navigation",
+      "summary": "As buyers reach ‘tool fatigue’, we reflect the breadth of software products available by showcasing eight start-ups tackling four big challenges for law firms and clients",
+      "ts": 1794457801000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
+      "summary": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy",
+      "ts": 1794457188000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "ts": 1794456030000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "ts": 1794451218000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Mississippi electing Scott Colom as senator may be one of the biggest shocks of 2026",
+      "summary": "I lived in Mississippi and have deep family roots there. Here’s why Scott Colom’s election is such a shock.",
+      "ts": 1794447011000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
+      "summary": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
+      "ts": 1794446004000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Can markets find the AI cash?",
+      "summary": "With stock and debt markets showing the strain, financing the next phase of America’s AI boom will not be easy",
+      "ts": 1794445202000
+    },
     {
       "source": "OpenAI",
       "cat": "ai",
@@ -9,39 +170,200 @@
       "ts": 1794441600000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistan women’s captain Fatima Sana calls for gender equality in cricket",
-      "summary": "Fatima Sana 'dreams of a time' when the men's and women's cricket teams are treated as equals.",
-      "ts": 1794391057000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
-      "summary": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
-      "ts": 1794390445000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gaza Grad: A Palestinian-Russian family’s longing for home",
-      "summary": "Forced from Gaza, a Palestinian-Russian family rebuilds their lives across Russia and Egypt, longing to return home.",
-      "ts": 1794389959000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What do Kyiv residents think about giving up territory to Russia?",
-      "summary": "US President Donald Trump says post-war Ukraine will have a 'different shape' ahead of peace talks in Abu Dhabi.",
-      "ts": 1794388079000
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+      "ts": 1794438091000
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-      "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
-      "ts": 1794388047000
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+      "ts": 1794437781000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "ts": 1794434857000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+      "ts": 1794432460000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks rally as AI trade revives",
+      "summary": "Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
+      "ts": 1794431057000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "ts": 1794430460000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Review: The Elizabeth Holmes doco 'You Can See Everything' is nothing less than sublime",
+      "summary": "Just over a month before starting an 11-year prison sentence, Theranos fraudster Elizabeth Holmes let comedian Nathan Fielder into her home. The results are nothing less than sublime.",
+      "ts": 1794427546000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "CoreWeave wants to sit with the credit-market grown-ups",
+      "summary": "The cloud computing group has benefited from a hitherto forgiving junk bond market",
+      "ts": 1794423420000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Comedian doubtful over future in TV after blowing whistle on David Walliams",
+      "summary": "Comedian Lucy Beaumont says she was one of the whistleblowers who spoke to reporters about David Walliams' alleged sexual misconduct.",
+      "ts": 1794422953000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "ts": 1794421000000
+    },
+    {
+      "source": "Krebs on Security",
+      "cat": "cyber",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that",
+      "ts": 1794420361000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "ts": 1794420298000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "ts": 1794420000000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "ts": 1794418652000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Ngāpuhi activist Mike Smith's case spotlighted at UN's COP31 climate summit",
+      "summary": "Mike Smith's daughter has presented on his now-blocked lawsuit against climate polluters at an event at COP31 in Türkiye.",
+      "ts": 1794418126000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Is the job market hibernating?",
+      "summary": "Employers are putting off creating new roles while AI’s impact and the economic outlook remain uncertain",
+      "ts": 1794416408000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "ts": 1794414258000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could ",
+      "ts": 1794413566000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "ts": 1794412800000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cloud systems hosting ",
+      "ts": 1794411267000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "ts": 1794409979000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
+      "ts": 1794409271000
+    },
+    {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "ts": 1794409215000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "ts": 1794406137000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow wind",
+      "ts": 1794405660000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+      "ts": 1794400347000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pag",
+      "ts": 1794399580000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think through how such agents",
+      "ts": 1794398519000
     },
     {
       "source": "Google AI",
@@ -51,88 +373,11 @@
       "ts": 1794387600000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
-      "summary": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.",
-      "ts": 1794387539000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Putin is not ready to make peace in Abu Dhabi",
-      "summary": "The Russian leader still believes he can outlast Western support for Ukraine.",
-      "ts": 1794386251000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How are Pakistan’s imports from India growing again despite tensions?",
-      "summary": "Formally, they're not trading at all. But Pakistan's imports from India are back to pre-war levels. Is a thaw next?",
-      "ts": 1794385840000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
-      "summary": "Booming exports mask a thriftiness among the Chinese that could undermine long-term growth.",
-      "ts": 1794385750000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint ",
-      "ts": 1794385073000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "ChatGPT Plus for veterans and servicemembers",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "ts": 1794384000000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company builds and runs apps ",
-      "ts": 1794383344000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker",
-      "ts": 1794381665000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are below - CVE-2026-20",
-      "ts": 1794377042000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "One weird trick AI labs could use to save the world",
-      "summary": "An antitrust loophole you can trust?",
-      "ts": 1794376802000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "‘Treasure trove’ of manufacturing data to power German AI",
-      "summary": "Mittelstand companies’ years of accumulated experience could provide them with an edge",
-      "ts": 1794373951000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Europe’s tech ambition risks greater reliance on the US",
-      "summary": "US companies dominate critical distribution channels such as operating systems, browsers and search engines",
-      "ts": 1794373565000
     },
     {
       "source": "Hugging Face",
@@ -142,34 +387,6 @@
       "ts": 1794373276000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "How Singapore became a linchpin of China’s AI chip trade",
-      "summary": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
-      "ts": 1794373222000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic IPO valuation calculator: How much is it really worth?",
-      "summary": "As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn",
-      "ts": 1794373212000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-      "ts": 1794368646000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "ts": 1794367602000
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
@@ -177,60 +394,18 @@
       "ts": 1794366020000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "ts": 1794365279000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "ts": 1794364876000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-      "ts": 1794359889000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "ts": 1794358880000
-    },
-    {
-      "source": "Financial Times",
+      "source": "OpenAI",
       "cat": "ai",
-      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
-      "summary": "Claude maker’s listing price expected to rise after strong demand from investors",
-      "ts": 1794356858000
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "ts": 1794355200000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "ts": 1794356382000
-    },
-    {
-      "source": "Financial Times",
+      "source": "Hugging Face",
       "cat": "ai",
-      "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
-      "summary": "AI infrastructure group turns to asset-backed debt and customer pre-payments for financing",
-      "ts": 1794355289000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "UK universities told to go analogue to stop AI cheating",
-      "summary": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
-      "ts": 1794355269000
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "ts": 1794355200000
     },
     {
       "source": "Ars Technica",
@@ -238,13 +413,6 @@
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
       "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
       "ts": 1794350101000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
-      "ts": 1794349219000
     },
     {
       "source": "Krebs on Security",
@@ -261,13 +429,6 @@
       "ts": 1794345179000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-      "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-      "ts": 1794344095000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "What happens to mathematics when AI becomes an oracle?",
@@ -275,81 +436,11 @@
       "ts": 1794342601000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-      "ts": 1794342004000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-      "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-      "ts": 1794341076000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-      "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
-      "ts": 1794339071000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The flaw, tracked as CV",
-      "ts": 1794338590000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this w",
-      "ts": 1794338379000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-      "ts": 1794337656000
-    },
-    {
       "source": "Google AI",
       "cat": "ai",
       "title": "Gemini Intelligence: New features, on more devices",
       "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
       "ts": 1794337200000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-      "ts": 1794335606000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turns authenticationToken=j:%7B%7D into {},\"",
-      "ts": 1794334341000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check Poi",
-      "ts": 1794332603000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-      "ts": 1794327436000
     },
     {
       "source": "Google DeepMind",
@@ -436,13 +527,6 @@
       "ts": 1794294000000
     },
     {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "ts": 1794268800000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -455,13 +539,6 @@
       "title": "Decision Models in Hugging Face",
       "summary": "",
       "ts": 1794268800000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Post-apocalyptic science fiction novel wins 2026 Booker Prize",
-      "summary": "At 81, M. John Harrison has become the oldest-ever winner of the prestigious literary award with The End of Everything.",
-      "ts": 1794262761000
     },
     {
       "source": "Google DeepMind",
@@ -478,25 +555,11 @@
       "ts": 1794252933000
     },
     {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "ts": 1794245066000
-    },
-    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
       "ts": 1794243943000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "ts": 1794237800000
     },
     {
       "source": "Hugging Face",
@@ -562,13 +625,6 @@
       "ts": 1794200400000
     },
     {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "ts": 1793986982000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -609,13 +665,6 @@
       "title": "Want to Rent an Internet Address at the White House?",
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyber",
       "ts": 1793853377000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "",
-      "ts": 1793836800000
     },
     {
       "source": "MIT Technology Review",
