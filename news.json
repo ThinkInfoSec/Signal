@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-12T19:39:49Z",
+  "generated": "2026-11-12T20:09:48Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "ts": 1794513599000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+      "ts": 1794513076000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+      "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
+      "ts": 1794512740000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iranian men guilty of spying on British journalists",
+      "summary": "Two Iranian men were convicted under Britain's National Security Act for spying on dissident journalists.",
+      "ts": 1794512313000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
+      "summary": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
+      "ts": 1794511945000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
@@ -107,13 +142,6 @@
       "ts": 1794506571000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
-      "summary": "Police say the man suspected to have killed one person in a shooting in Washington DC appears to have shot himself.",
-      "ts": 1794506552000
-    },
-    {
       "source": "Google DeepMind",
       "cat": "ai",
       "title": "Introducing Gemini 4 Hydrogen",
@@ -133,20 +161,6 @@
       "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
       "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privilege",
       "ts": 1794505827000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
-      "summary": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
-      "ts": 1794504358000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-      "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
-      "ts": 1794503893000
     },
     {
       "source": "BBC World",
@@ -308,13 +322,6 @@
       "title": "Microsoft confirms Windows security updates installation issues",
       "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
       "ts": 1794479047000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Hackers plant GSocket on Linux servers for persistent access",
-      "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
-      "ts": 1794476280000
     },
     {
       "source": "OpenAI",
@@ -490,13 +497,6 @@
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from",
       "ts": 1794347703000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "ts": 1794345179000
     },
     {
       "source": "Google AI",
