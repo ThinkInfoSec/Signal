@@ -1,10 +1,31 @@
 {
-  "generated": "2026-11-12T10:09:50Z",
+  "generated": "2026-11-12T10:39:49Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+      "ts": 1794479047000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
+      "title": "British woman missing from cruise ship in Atlantic",
+      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "ts": 1794478415000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "ts": 1794478118000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "ts": 1794477752000
     },
@@ -28,6 +49,13 @@
       "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
       "summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
       "ts": 1794476280000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "ts": 1794475800000
     },
     {
       "source": "The Hacker News",
@@ -102,8 +130,8 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-      "summary": "The head teacher of the school has been arrested to assist police investigations.",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
       "ts": 1794469552000
     },
     {
@@ -163,13 +191,6 @@
       "ts": 1794457188000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "ts": 1794451218000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Mississippi electing Scott Colom as senator may be one of the biggest shocks of 2026",
@@ -189,6 +210,13 @@
       "title": "Can markets find the AI cash?",
       "summary": "With stock and debt markets showing the strain, financing the next phase of America’s AI boom will not be easy",
       "ts": 1794445202000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "ts": 1794441600000
     },
     {
       "source": "OpenAI",
@@ -275,13 +303,6 @@
       "ts": 1794420361000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "ts": 1794420298000
-    },
-    {
       "source": "Google AI",
       "cat": "ai",
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -336,13 +357,6 @@
       "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
       "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
       "ts": 1794409979000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
-      "ts": 1794409271000
     },
     {
       "source": "Google DeepMind",
@@ -511,20 +525,6 @@
       "title": "Closing the AI guidance gap in education",
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "ts": 1794301200000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "ts": 1794297600000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "ts": 1794294000000
     },
     {
       "source": "Hugging Face",
