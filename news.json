@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-12T22:09:49Z",
+  "generated": "2026-11-12T22:39:49Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "ts": 1794522527000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+      "ts": 1794522330000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "British Airways plane suffers tail strike as it attempts landing at London's Heathrow Airport",
       "summary": "The plane, that had flown to London from Amsterdam, had 200 passengers on board.",
-      "ts": 1794519122000
+      "ts": 1794521568000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
+      "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secures win for Italy.",
+      "ts": 1794521552000
     },
     {
       "source": "Al Jazeera",
@@ -77,13 +98,6 @@
       "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
       "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
       "ts": 1794514341000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
-      "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
-      "ts": 1794514231000
     },
     {
       "source": "BBC World",
@@ -303,13 +317,6 @@
       "ts": 1794486604000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-      "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-      "ts": 1794485471000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
@@ -490,13 +497,6 @@
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "summary": "",
       "ts": 1794355200000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "ts": 1794350101000
     },
     {
       "source": "Krebs on Security",
