@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-12T11:39:48Z",
+  "generated": "2026-11-12T12:09:51Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "New York building collapse kills at least two, officials say",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "ts": 1794485027000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "New York building collapse kills at least four people",
       "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "ts": 1794482621000
+      "ts": 1794484094000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+      "summary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
+      "ts": 1794483799000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
+      "summary": "Mississippi is home to a large Black American population but no Black person has held a Senate seat since the 1800s.",
+      "ts": 1794483076000
     },
     {
       "source": "Financial Times",
@@ -72,13 +93,6 @@
       "ts": 1794477752000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "ts": 1794476591000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Hackers plant GSocket on Linux servers for persistent access",
@@ -119,20 +133,6 @@
       "title": "India bypasses own rules to buy Israeli phone-hacking tech",
       "summary": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
       "ts": 1794472808000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
-      "summary": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
-      "ts": 1794472520000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-      "summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
-      "ts": 1794472485000
     },
     {
       "source": "The Hacker News",
