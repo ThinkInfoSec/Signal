@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-12T16:39:47Z",
+  "generated": "2026-11-12T17:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "ts": 1794502452000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+      "summary": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+      "ts": 1794502373000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Italy vs France LIVE: UEFA Nations League",
+      "summary": "Follow updates from the Group A1 clash, including the build-up, analysis and live text commentary of the game.",
+      "ts": 1794501900000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Prominent Israeli settler denied entry into France",
+      "summary": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
+      "ts": 1794501889000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -18,6 +46,13 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
+      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+      "summary": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+      "ts": 1794500609000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
       "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
       "summary": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
       "ts": 1794499636000
@@ -28,6 +63,13 @@
       "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
       "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
       "ts": 1794499440000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Jensen jeopardy will disrupt the AI industry",
+      "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
+      "ts": 1794498991000
     },
     {
       "source": "Al Jazeera",
@@ -100,39 +142,11 @@
       "ts": 1794495017000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
-      "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
-      "ts": 1794494890000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
-      "summary": "Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.",
-      "ts": 1794494694000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia CEO Jensen Huang resigns",
-      "summary": "Nvidia CEO Jensen Huang has resigned amid reports of a second affair with an executive.",
-      "ts": 1794494420000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Apify rotates API tokens, prompts 2FA resets after breach",
       "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
       "ts": 1794494207000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "ts": 1794493650000
     },
     {
       "source": "Financial Times",
@@ -226,6 +240,13 @@
       "ts": 1794481711000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "ts": 1794481639000
+    },
+    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Maga architects blame Big Tech and AI data centres for midterms rout",
@@ -238,13 +259,6 @@
       "title": "Microsoft confirms Windows security updates installation issues",
       "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
       "ts": 1794479047000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-      "ts": 1794478415000
     },
     {
       "source": "BleepingComputer",
@@ -268,16 +282,9 @@
       "ts": 1794470387000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-      "ts": 1794469552000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "The AI megatrade’s mounting portfolio concentration risk problem",
+      "title": "The bond market is starting to choke on AI debt",
       "summary": "There aren’t enough baskets to safely cope with this many massive eggs",
       "ts": 1794463202000
     },
@@ -287,13 +294,6 @@
       "title": "Crowded legal-tech market requires navigation",
       "summary": "As buyers reach ‘tool fatigue’, we reflect the breadth of software products available by showcasing eight start-ups tackling four big challenges for law firms and clients",
       "ts": 1794457801000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Huang falls out of favour in Washington",
-      "summary": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy",
-      "ts": 1794457188000
     },
     {
       "source": "RNZ World",
