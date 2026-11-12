@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-12T08:39:51Z",
+  "generated": "2026-11-12T09:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "ts": 1794474015000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+      "summary": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+      "ts": 1794472808000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+      "summary": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+      "ts": 1794472520000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+      "summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+      "ts": 1794472485000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed versions were released ",
+      "ts": 1794471637000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,34 +98,6 @@
       "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
       "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI workflows can reach. I",
       "ts": 1794465767000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Indonesia vice president resigns amid dispute over eligibility",
-      "summary": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
-      "ts": 1794465481000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Sheikh Hasina must return to Bangladesh to face her sentence",
-      "summary": "Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people.",
-      "ts": 1794465426000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "It is time for a change of leadership in the Democratic Party in the US",
-      "summary": "The Democrats need to deliver on an ambitious agenda, and they need new energy and new voices to do so.",
-      "ts": 1794464761000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "ts": 1794463925000
     },
     {
       "source": "Financial Times",
@@ -357,13 +364,6 @@
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
       "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pag",
       "ts": 1794399580000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think through how such agents",
-      "ts": 1794398519000
     },
     {
       "source": "Google AI",
