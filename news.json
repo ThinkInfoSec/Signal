@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-12T17:39:48Z",
+  "generated": "2026-11-12T18:09:48Z",
   "items": [
+    {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "ts": 1794506450000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "ts": 1794506400000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+      "summary": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
+      "ts": 1794504358000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+      "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
+      "ts": 1794503893000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -54,7 +82,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-      "summary": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+      "summary": "Officials say a driver lost control of his truck, causing a collision and fire involving 23 vehicles.",
       "ts": 1794500609000
     },
     {
@@ -93,25 +121,11 @@
       "ts": 1794497929000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Manchester United sacked manager Michael Carrick",
-      "summary": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
-      "ts": 1794496903000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
       "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
       "ts": 1794496700000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK court finds two Iranian men guilty of spying for Iran",
-      "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
-      "ts": 1794496548000
     },
     {
       "source": "The Hacker News",
@@ -707,13 +721,6 @@
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is lik",
       "ts": 1793672671000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Animated carousel of images from AI posts in October",
-      "ts": 1793641500000
     }
   ]
 }
