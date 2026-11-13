@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-13T09:39:52Z",
+  "generated": "2026-11-13T10:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "ts": 1794563960000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+      "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+      "ts": 1794563010000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft confirms Windows activation failures after November updates",
       "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
       "ts": 1794562578000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Microsoft hit by global outages: What happened and why?",
+      "summary": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
+      "ts": 1794562255000
     },
     {
       "source": "Al Jazeera",
@@ -72,11 +93,11 @@
       "ts": 1794555558000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "The real winner in Poland’s constitutional battle is Putin",
-      "summary": "The fight for control of the Constitutional Tribunal is eroding Poles' trust in their own state.",
-      "ts": 1794554348000
+      "title": "Watch: How Microsoft services went down around the world",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "ts": 1794554297000
     },
     {
       "source": "Financial Times",
@@ -86,11 +107,11 @@
       "ts": 1794553946000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "The Gulf must build security that can outlast this war",
-      "summary": "Trump’s latest statement should accelerate the region’s move towards a layered and networked security architecture.",
-      "ts": 1794553681000
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "ts": 1794553303000
     },
     {
       "source": "Financial Times",
@@ -140,13 +161,6 @@
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
       "ts": 1794542221000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "ts": 1794538974000
     },
     {
       "source": "BBC World",
@@ -254,13 +268,6 @@
       "ts": 1794511383000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "ts": 1794511382000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
@@ -364,13 +371,6 @@
       "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
       "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings ",
       "ts": 1794492059000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "ts": 1794488215000
     },
     {
       "source": "OpenAI",
