@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T16:09:51Z",
+  "generated": "2026-11-13T16:39:50Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+      "ts": 1794586903000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "summary": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
+      "ts": 1794585705000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Turkiye and Qatar sign mutual defence agreement",
+      "summary": "This is a breaking news story.",
+      "ts": 1794584991000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -93,25 +114,11 @@
       "ts": 1794577369000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia scandal: What’s next for the US tech company?",
-      "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
-      "ts": 1794576979000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Will Jensen Huang sell his $135bn of stock?",
       "summary": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks",
       "ts": 1794576174000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
-      "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
-      "ts": 1794575966000
     },
     {
       "source": "NVIDIA",
@@ -322,13 +329,6 @@
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”",
       "ts": 1794514584000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-      "ts": 1794514516000
     },
     {
       "source": "OpenAI",
