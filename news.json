@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T03:09:47Z",
+  "generated": "2026-11-13T03:39:46Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mississippi elects first black senator in nearly 150 years",
+      "summary": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
+      "ts": 1794540085000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran says it targeted US radar site in Bahrain",
+      "summary": "IRGC says it hit radar in retaliation for an 'enemy' air attack on a telecom tower in Iran's Hormozgan province.",
+      "ts": 1794539847000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gaza surgeon films aftermath of Israeli strike",
+      "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
+      "ts": 1794539503000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -16,10 +37,17 @@
       "ts": 1794538345000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "ts": 1794538109000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Chris Van Hollen to run for US Senate majority leader",
-      "summary": "Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.",
+      "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
+      "summary": "Van Hollen's leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
       "ts": 1794537761000
     },
     {
@@ -58,13 +86,6 @@
       "ts": 1794534295000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
-      "summary": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
-      "ts": 1794534197000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The Silicon Valley veterans now steering Nvidia",
@@ -72,32 +93,11 @@
       "ts": 1794534150000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "ts": 1794529224000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
       "summary": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom",
       "ts": 1794528453000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-      "summary": "Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.",
-      "ts": 1794528026000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-      "summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
-      "ts": 1794527558000
     },
     {
       "source": "Financial Times",
