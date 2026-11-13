@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T06:09:48Z",
+  "generated": "2026-11-13T06:39:49Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Value Nvidia, not Huang",
+      "summary": "Plus, sclerotic labour markets",
+      "ts": 1794551407000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "SoftBank’s failed bet on gas turbines for AI drove $3.7bn charge",
+      "summary": "Japanese group overordered small turbines for US data centres as industry shifted to more energy-efficient models",
+      "ts": 1794550889000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
+      "summary": "Cummins says Khawaja was '100 percent wrong' in claiming the whole team knew about the 2018 ball-tampering scandal.",
+      "ts": 1794550391000
+    },
     {
       "source": "The Hacker News",
       "cat": "cyber",
@@ -72,13 +93,6 @@
       "ts": 1794544605000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
-      "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
-      "ts": 1794544125000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Watchmakers wrestle with influence of AI on buyers",
@@ -147,13 +161,6 @@
       "title": "Dolly Parton's last song is out today",
       "summary": "Torn, U2's new duet featuring Dolly Parton, is the country music legend's swan song.",
       "ts": 1794523862000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Huang’s fall is an indictment of founder mode at Big Tech",
-      "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear",
-      "ts": 1794523843000
     },
     {
       "source": "Ars Technica",
@@ -308,13 +315,6 @@
       "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
       "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
       "ts": 1794499440000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Jensen jeopardy will disrupt the AI industry",
-      "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
-      "ts": 1794498991000
     },
     {
       "source": "The Hacker News",
