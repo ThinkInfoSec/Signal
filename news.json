@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T05:39:50Z",
+  "generated": "2026-11-13T06:09:48Z",
   "items": [
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we bel",
+      "ts": 1794548608000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
+      "summary": "England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
+      "ts": 1794548316000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+      "summary": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
+      "ts": 1794547411000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -53,16 +74,9 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Who is US Senator Chris Van Hollen?",
+      "title": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
       "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
       "ts": 1794544125000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US envoys shuttle between Putin and Zelenskyy",
-      "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
-      "ts": 1794543121000
     },
     {
       "source": "Financial Times",
@@ -77,13 +91,6 @@
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
       "ts": 1794542221000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mississippi elects first black senator in nearly 150 years",
-      "summary": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
-      "ts": 1794540085000
     },
     {
       "source": "BBC World",
@@ -364,13 +371,6 @@
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "ts": 1794488215000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same p",
-      "ts": 1794485354000
     },
     {
       "source": "OpenAI",
