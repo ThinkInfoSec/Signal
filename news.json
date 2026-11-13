@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-13T05:09:46Z",
+  "generated": "2026-11-13T05:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
+      "summary": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
+      "ts": 1794546350000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Where is Europe’s AI boom?",
+      "summary": "Squint, and it’s showing up in the data",
+      "ts": 1794546017000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Europe’s AI story. With Philip Lane",
+      "summary": "How AI is already reshaping Europe's economy",
+      "ts": 1794546000000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+      "summary": "Funding cuts and Israel's war have left Palestinians in Lebanon in increasingly dire circumstances.",
+      "ts": 1794545516000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+      "summary": "Despite knowing a war with Iran would be manufactured for Netanyahu's survival, many would still rally behind it.",
+      "ts": 1794545320000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
+      "summary": "The ship had been inactive for years despite various owners attempting to save and restore it.",
+      "ts": 1794544773000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -23,6 +65,13 @@
       "ts": 1794543121000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Watchmakers wrestle with influence of AI on buyers",
+      "summary": "Brands are under pressure to rethink how they reach consumers and ensure that searches present their products accurately and create desirability",
+      "ts": 1794542408000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -37,20 +86,6 @@
       "ts": 1794540085000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran says it targeted US radar site in Bahrain",
-      "summary": "IRGC says it hit radar in retaliation for an 'enemy' air attack on a telecom tower in Iran's Hormozgan province.",
-      "ts": 1794539847000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gaza surgeon films aftermath of Israeli strike",
-      "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
-      "ts": 1794539503000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Australian footballers will not be charged after hotel incident, police say",
@@ -58,25 +93,11 @@
       "ts": 1794538974000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spanish court suspends far-right group over alleged hate crimes",
-      "summary": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
-      "ts": 1794538345000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
       "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
       "ts": 1794538109000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
-      "summary": "Van Hollen's leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
-      "ts": 1794537761000
     },
     {
       "source": "BBC World",
@@ -324,13 +345,6 @@
       "ts": 1794495017000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Jensen Huang is gone. Will the AI industry pay the price?",
-      "summary": "Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom",
-      "ts": 1794493350000
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
@@ -352,13 +366,6 @@
       "ts": 1794488215000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "How can we create ‘supercooperative AI’?",
-      "summary": "New research suggests that truly transformational economic change will depend on agents learning to work as teams",
-      "ts": 1794486604000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
@@ -371,13 +378,6 @@
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
       "ts": 1794484800000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia board to decide Jensen Huang’s fate",
-      "summary": "Revelation of affair with subordinate piles pressure on CEO days after news of relationship with alleged Chinese spy",
-      "ts": 1794481711000
     },
     {
       "source": "OpenAI",
