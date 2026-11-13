@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-13T14:09:48Z",
+  "generated": "2026-11-13T14:39:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "ts": 1794579686000
+    },
     {
       "source": "Hugging Face",
       "cat": "ai",
@@ -21,13 +28,6 @@
       "title": "Nvidia scandal: What’s next for the US tech company?",
       "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
       "ts": 1794576979000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "ts": 1794576893000
     },
     {
       "source": "Al Jazeera",
