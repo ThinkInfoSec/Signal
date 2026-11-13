@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-13T16:39:50Z",
+  "generated": "2026-11-13T17:09:46Z",
   "items": [
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "ts": 1794589355000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+      "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
+      "ts": 1794588296000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
+      "summary": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
+      "ts": 1794587664000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sixth victim confirmed in DC condo-related shooting in US, police say",
+      "summary": "Police confirm sixth victim in DC condo shooting; suspect dead after barricading himself and starting a fire.",
+      "ts": 1794587510000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "summary": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
+      "ts": 1794586953000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -19,7 +54,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Turkiye and Qatar sign mutual defence agreement",
-      "summary": "This is a breaking news story.",
+      "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
       "ts": 1794584991000
     },
     {
@@ -72,27 +107,6 @@
       "ts": 1794579686000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
-      "summary": "Playing their first game since Cristiano Ronaldo's retirement, two-time champions Portugal face Denmark at home.",
-      "ts": 1794579505000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
-      "summary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
-      "ts": 1794579380000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-      "summary": "Meanwhile, Russia appears to suggest it has control of half of unoccupied Donbas.",
-      "ts": 1794579352000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -105,13 +119,6 @@
       "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
       "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attacker",
       "ts": 1794578060000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "China warns against fresh US chip curbs",
-      "summary": "China has warned the US against imposing additional export controls on AI chips.",
-      "ts": 1794577369000
     },
     {
       "source": "Financial Times",
@@ -611,13 +618,6 @@
       "ts": 1794243943000
     },
     {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "summary": "",
-      "ts": 1794236757000
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
@@ -693,13 +693,6 @@
       "title": "Securing the agentic enterprise with data lineage",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either ",
       "ts": 1793797200000
-    },
-    {
-      "source": "Google DeepMind",
-      "cat": "ai",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "ts": 1793725309000
     }
   ]
 }
