@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-13T20:39:47Z",
+  "generated": "2026-11-13T21:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+      "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
+      "ts": 1794603151000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "ts": 1794602992000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+      "summary": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
+      "ts": 1794602882000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+      "summary": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
+      "ts": 1794601962000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -51,32 +79,11 @@
       "ts": 1794597820000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-      "summary": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
-      "ts": 1794597785000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "ts": 1794596590000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How will the US deal with Nvidia scandal?",
-      "summary": "Tech giant CEO resigned and will testify before Congress.",
-      "ts": 1794596263000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "At least 10 killed in Guinea clashes over gold mining ban",
-      "summary": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
-      "ts": 1794595485000
     },
     {
       "source": "BBC World",
@@ -210,13 +217,6 @@
       "title": "Will Jensen Huang sell his $135bn of stock?",
       "summary": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks",
       "ts": 1794576174000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-      "ts": 1794575483000
     },
     {
       "source": "NVIDIA",
