@@ -1,11 +1,25 @@
 {
-  "generated": "2026-11-13T00:09:51Z",
+  "generated": "2026-11-13T00:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "ts": 1794529224000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+      "summary": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom",
+      "ts": 1794528453000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
-      "summary": "Saudi-led coalition intercepts Houthi drones heading for Riyadh as the rebel group claims attacks on energy facilities.",
+      "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+      "summary": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
       "ts": 1794528026000
     },
     {
@@ -19,7 +33,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
       "ts": 1794526445000
     },
     {
@@ -240,13 +254,6 @@
       "ts": 1794505827000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "ts": 1794502452000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
@@ -378,13 +385,6 @@
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "ts": 1794475800000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Sex, spies and salaries shake up AI chipmakers",
-      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
-      "ts": 1794470387000
     },
     {
       "source": "RNZ World",
