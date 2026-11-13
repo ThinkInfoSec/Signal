@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T04:09:47Z",
+  "generated": "2026-11-13T04:39:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Talarico appeals to Trump’s legacy in bid for bipartisan reforms",
+      "summary": "Texas Democrat Senator-elect James Talarico has urged his party to work with President Trump.",
+      "ts": 1794544605000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Who is US Senator Chris Van Hollen?",
+      "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
+      "ts": 1794544125000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US envoys shuttle between Putin and Zelenskyy",
+      "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+      "ts": 1794543121000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -58,32 +79,11 @@
       "ts": 1794537761000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-      "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
-      "ts": 1794537321000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump moots toppling Cuba authorities before leaving office",
-      "summary": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
-      "ts": 1794537208000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
       "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
       "ts": 1794535295000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-      "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
-      "ts": 1794534295000
     },
     {
       "source": "Financial Times",
