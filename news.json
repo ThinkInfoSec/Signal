@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-13T11:09:48Z",
+  "generated": "2026-11-13T11:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Live: Microsoft struggles to restore services as outage hits global users",
+      "summary": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+      "ts": 1794568681000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "El Salvador deploys armed robots to fight gangs in Haiti",
+      "summary": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
+      "ts": 1794567440000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -54,7 +68,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-      "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+      "summary": "Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.",
       "ts": 1794563010000
     },
     {
@@ -72,25 +86,11 @@
       "ts": 1794562255000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope Leo XIV warns on pressures facing modern families",
-      "summary": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
-      "ts": 1794561097000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
       "summary": "Ousted chief executive Jensen Huang had supported keeping sales open to China",
       "ts": 1794560848000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Who gets to tell the world’s news?",
-      "summary": "A look back at the Global South's early efforts to challenge Western dominance of international news.",
-      "ts": 1794559871000
     },
     {
       "source": "BleepingComputer",
