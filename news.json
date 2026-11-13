@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-13T22:09:48Z",
+  "generated": "2026-11-13T22:39:52Z",
   "items": [
     {
       "source": "Al Jazeera",
       "cat": "geo",
+      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+      "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+      "ts": 1794607327000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
       "title": "US grounds all flights after ‘communication issue’",
-      "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
+      "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'.",
       "ts": 1794605528000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "ts": 1794604847000
     },
     {
       "source": "BBC World",
@@ -63,13 +77,6 @@
       "title": "Microsoft says services still returning amid widespread outage",
       "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
       "ts": 1794600973000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-      "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
-      "ts": 1794600754000
     },
     {
       "source": "BBC World",
@@ -329,13 +336,6 @@
       "title": "Dolly Parton's last song is out today",
       "summary": "Torn, U2's new duet featuring Dolly Parton, is the country music legend's swan song.",
       "ts": 1794523862000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "ts": 1794522527000
     },
     {
       "source": "MIT Technology Review",
