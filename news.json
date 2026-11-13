@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-13T19:39:51Z",
+  "generated": "2026-11-13T20:09:47Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "ts": 1794599637000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
       "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
       "ts": 1794598716000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Migrants risk deadly route to Spain’s Canary Islands",
+      "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
+      "ts": 1794597820000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+      "summary": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+      "ts": 1794597785000
     },
     {
       "source": "BBC World",
@@ -25,7 +46,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "At least 10 killed in Guinea in crackdown on gold mining",
+      "title": "At least 10 killed in Guinea clashes over gold mining ban",
       "summary": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
       "ts": 1794595485000
     },
@@ -107,13 +128,6 @@
       "ts": 1794590745000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The fight over Canadian steelworker jobs",
-      "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
-      "ts": 1794589843000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "XYBench: Helping with the problem behind the question",
@@ -126,13 +140,6 @@
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, ha",
       "ts": 1794588788000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-      "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-      "ts": 1794588296000
     },
     {
       "source": "BBC World",
@@ -154,13 +161,6 @@
       "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
       "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
       "ts": 1794584572000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "ts": 1794584408000
     },
     {
       "source": "The Hacker News",
