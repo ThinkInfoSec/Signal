@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-13T17:09:46Z",
+  "generated": "2026-11-13T17:39:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "German military drone operations disrupted by cyberattack",
+      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+      "ts": 1794591116000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "ts": 1794590745000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "ts": 1794589966000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The fight over Canadian steelworker jobs",
+      "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
+      "ts": 1794589843000
+    },
     {
       "source": "Hugging Face",
       "cat": "ai",
@@ -9,11 +37,25 @@
       "ts": 1794589355000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, ha",
+      "ts": 1794588788000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
       "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
       "ts": 1794588296000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "ts": 1794588031000
     },
     {
       "source": "Al Jazeera",
@@ -58,6 +100,13 @@
       "ts": 1794584991000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "ts": 1794584887000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
@@ -65,18 +114,25 @@
       "ts": 1794584619000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "ts": 1794584572000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "ts": 1794584408000
+    },
+    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
       "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's h",
       "ts": 1794583625000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-      "summary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
-      "ts": 1794582136000
     },
     {
       "source": "BleepingComputer",
@@ -98,13 +154,6 @@
       "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
       "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinat",
       "ts": 1794580138000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Why is the Microsoft outage lasting so long?",
-      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
-      "ts": 1794579686000
     },
     {
       "source": "Hugging Face",
@@ -161,13 +210,6 @@
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
       "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
       "ts": 1794570207000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-      "ts": 1794569828000
     },
     {
       "source": "The Hacker News",
@@ -254,13 +296,6 @@
       "ts": 1794550889000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we bel",
-      "ts": 1794548608000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Where is Europe’s AI boom?",
@@ -273,27 +308,6 @@
       "title": "Europe’s AI story. With Philip Lane",
       "summary": "How AI is already reshaping Europe's economy",
       "ts": 1794546000000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "ts": 1794542221000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-      "ts": 1794538109000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-      "ts": 1794535295000
     },
     {
       "source": "BleepingComputer",
@@ -315,13 +329,6 @@
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "ts": 1794522527000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-      "ts": 1794522330000
     },
     {
       "source": "RNZ World",
@@ -476,13 +483,6 @@
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "ts": 1794409215000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "summary": "The four-week project hints that AI could make formal verification far more practical.",
-      "ts": 1794406137000
     },
     {
       "source": "Google AI",
