@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-13T14:39:48Z",
+  "generated": "2026-11-13T15:09:55Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them.",
+      "ts": 1794582071000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "What we know about the global Microsoft outage",
       "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
       "ts": 1794579686000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
+      "summary": "Playing their first game since Cristiano Ronaldo's retirement, two-time champions Portugal face Denmark at home.",
+      "ts": 1794579505000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+      "summary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
+      "ts": 1794579380000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+      "summary": "Meanwhile, Russia appears to suggest it has control of half of unoccupied Donbas.",
+      "ts": 1794579352000
     },
     {
       "source": "Hugging Face",
@@ -58,31 +86,10 @@
       "ts": 1794574842000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-      "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
-      "ts": 1794574628000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "You haven’t got mail: Global Microsoft outage disrupts services",
-      "summary": "Not receiving your work emails? That’s because Microsoft has been hit by a global outage.",
-      "ts": 1794573611000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mauricio Pochettino announced as new Manchester United manager",
-      "summary": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
-      "ts": 1794573574000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
-      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-      "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
       "ts": 1794572908000
     },
     {
@@ -308,13 +315,6 @@
       "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
       "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
       "ts": 1794513599000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
-      "ts": 1794513076000
     },
     {
       "source": "Ars Technica",
