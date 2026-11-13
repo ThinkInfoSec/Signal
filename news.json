@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T17:39:48Z",
+  "generated": "2026-11-13T18:09:51Z",
   "items": [
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "ts": 1794592839000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Three tremors have shaken AI",
+      "summary": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
+      "ts": 1794592551000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+      "summary": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
+      "ts": 1794591954000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -296,20 +317,6 @@
       "ts": 1794550889000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Where is Europe’s AI boom?",
-      "summary": "Squint, and it’s showing up in the data",
-      "ts": 1794546017000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Europe’s AI story. With Philip Lane",
-      "summary": "How AI is already reshaping Europe's economy",
-      "ts": 1794546000000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
@@ -586,13 +593,6 @@
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "",
-      "ts": 1794268800000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Decision Models in Hugging Face",
       "summary": "",
       "ts": 1794268800000
     },
