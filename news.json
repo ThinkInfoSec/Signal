@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-13T13:09:49Z",
+  "generated": "2026-11-13T13:39:47Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "ts": 1794576893000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Will Jensen Huang sell his $135bn of stock?",
+      "summary": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks",
+      "ts": 1794576174000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kenyan building collapse near Nairobi kills six people",
+      "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
+      "ts": 1794575484000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Delhi overtakes Lahore as world’s most polluted city",
+      "summary": "India’s capital New Delhi has overtaken Pakistan’s Lahore as the world’s most polluted city.",
+      "ts": 1794575468000
+    },
     {
       "source": "NVIDIA",
       "cat": "ai",
@@ -28,13 +56,6 @@
       "title": "Mauricio Pochettino announced as new Manchester United manager",
       "summary": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
       "ts": 1794573574000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "ts": 1794573109000
     },
     {
       "source": "BBC World",
@@ -79,13 +100,6 @@
       "ts": 1794570751000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-      "summary": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
-      "ts": 1794570717000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
@@ -98,13 +112,6 @@
       "title": "Nigerian university in mourning after four students die at post-exam party",
       "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
       "ts": 1794569828000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Live: Microsoft struggles to restore services as outage hits global users",
-      "summary": "As disruption affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
-      "ts": 1794568681000
     },
     {
       "source": "The Hacker News",
@@ -210,13 +217,6 @@
       "title": "Europe’s AI story. With Philip Lane",
       "summary": "How AI is already reshaping Europe's economy",
       "ts": 1794546000000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Watchmakers wrestle with influence of AI on buyers",
-      "summary": "Brands are under pressure to rethink how they reach consumers and ensure that searches present their products accurately and create desirability",
-      "ts": 1794542408000
     },
     {
       "source": "BBC World",
