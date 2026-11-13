@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-13T01:09:48Z",
+  "generated": "2026-11-13T01:39:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "ts": 1794531839000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -282,13 +289,6 @@
       "ts": 1794497929000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "ts": 1794496700000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
@@ -385,13 +385,6 @@
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "ts": 1794475800000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Mississippi electing Scott Colom as senator may be one of the biggest shocks of 2026",
-      "summary": "I lived in Mississippi and have deep family roots there. Here’s why Scott Colom’s election is such a shock.",
-      "ts": 1794447011000
     },
     {
       "source": "OpenAI",
