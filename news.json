@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-13T03:39:46Z",
+  "generated": "2026-11-13T04:09:47Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "ts": 1794542221000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,13 +56,6 @@
       "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
       "summary": "Van Hollen's leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
       "ts": 1794537761000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "ts": 1794537540000
     },
     {
       "source": "Al Jazeera",
