@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-13T22:39:52Z",
+  "generated": "2026-11-13T23:09:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+      "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+      "ts": 1794610036000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -11,7 +18,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "US grounds all flights after ‘communication issue’",
+      "title": "FAA grounds US flights nationwide after ‘communication issue’",
       "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'.",
       "ts": 1794605528000
     },
@@ -72,11 +79,11 @@
       "ts": 1794601089000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Microsoft says services still returning amid widespread outage",
-      "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
-      "ts": 1794600973000
+      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+      "ts": 1794600722000
     },
     {
       "source": "BBC World",
@@ -98,13 +105,6 @@
       "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
       "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
       "ts": 1794598716000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "ts": 1794596590000
     },
     {
       "source": "BBC World",
@@ -329,13 +329,6 @@
       "title": "AI agents shouldn’t have to pretend to be us",
       "summary": "Service providers from banks to online platforms need to offer a standard channel of access on fair terms",
       "ts": 1794553946000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Dolly Parton's last song is out today",
-      "summary": "Torn, U2's new duet featuring Dolly Parton, is the country music legend's swan song.",
-      "ts": 1794523862000
     },
     {
       "source": "MIT Technology Review",
