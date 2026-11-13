@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-13T09:09:49Z",
+  "generated": "2026-11-13T09:39:52Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+      "ts": 1794562578000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope Leo XIV warns on pressures facing modern families",
+      "summary": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
+      "ts": 1794561097000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -40,7 +54,7 @@
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2",
+      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30,",
       "ts": 1794557149000
     },
     {
@@ -77,13 +91,6 @@
       "title": "The Gulf must build security that can outlast this war",
       "summary": "Trump’s latest statement should accelerate the region’s move towards a layered and networked security architecture.",
       "ts": 1794553681000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
-      "summary": "Pegula's win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.",
-      "ts": 1794553076000
     },
     {
       "source": "Financial Times",
@@ -343,13 +350,6 @@
       "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
       "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. \"AI-app lookalikes ",
       "ts": 1794496540000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-      "ts": 1794496040000
     },
     {
       "source": "Ars Technica",
