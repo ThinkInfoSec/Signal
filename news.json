@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-13T12:39:49Z",
+  "generated": "2026-11-13T13:09:49Z",
   "items": [
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians s",
+      "ts": 1794574842000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "France slams Israel’s ‘demagogic’ ban on left-wing leader Melenchon",
+      "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
+      "ts": 1794574628000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "You haven’t got mail: Global Microsoft outage disrupts services",
+      "summary": "Not receiving your work emails? That’s because Microsoft has been hit by a global outage.",
+      "ts": 1794573611000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mauricio Pochettino announced as new Manchester United manager",
+      "summary": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
+      "ts": 1794573574000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "What we know about the global Microsoft outage",
       "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
       "ts": 1794573109000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+      "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "ts": 1794572908000
     },
     {
       "source": "BleepingComputer",
@@ -51,6 +86,20 @@
       "ts": 1794570717000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "ts": 1794570207000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+      "ts": 1794569828000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Live: Microsoft struggles to restore services as outage hits global users",
@@ -65,13 +114,6 @@
       "ts": 1794568240000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "El Salvador deploys armed robots to fight gangs in Haiti",
-      "summary": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
-      "ts": 1794567440000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
@@ -79,25 +121,11 @@
       "ts": 1794567303000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-      "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
-      "ts": 1794567265000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Check Point warns of zero-day flaw exploited for root access",
       "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
       "ts": 1794566662000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
-      "summary": "New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.",
-      "ts": 1794565597000
     },
     {
       "source": "Financial Times",
@@ -133,13 +161,6 @@
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
       "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30,",
       "ts": 1794557149000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Watch: How Microsoft services went down around the world",
-      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
-      "ts": 1794554297000
     },
     {
       "source": "Financial Times",
@@ -268,13 +289,6 @@
       "ts": 1794514516000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "ts": 1794514156000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -315,13 +329,6 @@
       "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
       "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
       "ts": 1794509865000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "ts": 1794509255000
     },
     {
       "source": "The Hacker News",
@@ -644,13 +651,6 @@
       "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
       "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employe",
       "ts": 1794200439000
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore p",
-      "ts": 1794200404000
     },
     {
       "source": "MIT Technology Review",
