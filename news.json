@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-13T20:09:47Z",
+  "generated": "2026-11-13T20:39:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+      "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
+      "ts": 1794601700000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+      "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
+      "ts": 1794601089000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Microsoft says services still returning amid widespread outage",
+      "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
+      "ts": 1794600973000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+      "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
+      "ts": 1794600754000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -65,27 +93,6 @@
       "ts": 1794594885000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
-      "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
-      "ts": 1794594483000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-      "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
-      "ts": 1794593345000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-      "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
-      "ts": 1794593062000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -98,13 +105,6 @@
       "title": "Three tremors have shaken AI",
       "summary": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
       "ts": 1794592551000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "No emails, no problem? Workers joke about Microsoft outage",
-      "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
-      "ts": 1794592505000
     },
     {
       "source": "Financial Times",
