@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T01:39:48Z",
+  "generated": "2026-11-13T02:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "ts": 1794535295000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+      "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+      "ts": 1794534295000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+      "summary": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+      "ts": 1794534197000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -119,27 +140,6 @@
       "title": "Microsoft outage hits tens of thousands of users",
       "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
       "ts": 1794517389000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "ts": 1794517242000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
-      "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
-      "ts": 1794517193000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-      "summary": "The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.",
-      "ts": 1794516576000
     },
     {
       "source": "MIT Technology Review",
