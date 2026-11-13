@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T18:09:51Z",
+  "generated": "2026-11-13T18:39:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "ts": 1794595017000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+      "ts": 1794593345000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+      "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+      "ts": 1794593062000
+    },
     {
       "source": "Hugging Face",
       "cat": "ai",
@@ -14,6 +35,13 @@
       "title": "Three tremors have shaken AI",
       "summary": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
       "ts": 1794592551000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "No emails, no problem? Workers joke about Microsoft outage",
+      "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+      "ts": 1794592505000
     },
     {
       "source": "Financial Times",
@@ -35,13 +63,6 @@
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
       "ts": 1794590745000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "ts": 1794589966000
     },
     {
       "source": "Al Jazeera",
@@ -107,32 +128,11 @@
       "ts": 1794586903000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
-      "summary": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
-      "ts": 1794585705000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Turkiye and Qatar sign mutual defence agreement",
-      "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
-      "ts": 1794584991000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "ts": 1794584887000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-      "summary": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
-      "ts": 1794584619000
     },
     {
       "source": "BBC World",
