@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-13T19:09:47Z",
+  "generated": "2026-11-13T19:39:51Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
+      "ts": 1794598716000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "ts": 1794596590000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How will the US deal with Nvidia scandal?",
+      "summary": "Tech giant CEO resigned and will testify before Congress.",
+      "ts": 1794596263000
     },
     {
       "source": "Al Jazeera",
@@ -128,13 +142,6 @@
       "ts": 1794588031000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-      "summary": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
-      "ts": 1794587664000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
@@ -205,18 +212,18 @@
       "ts": 1794576174000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "ts": 1794575483000
+    },
+    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians s",
       "ts": 1794574842000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-      "ts": 1794572908000
     },
     {
       "source": "BleepingComputer",
@@ -315,13 +322,6 @@
       "title": "SoftBank’s failed bet on gas turbines for AI drove $3.7bn charge",
       "summary": "Japanese group overordered small turbines for US data centres as industry shifted to more energy-efficient models",
       "ts": 1794550889000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
-      "ts": 1794523990000
     },
     {
       "source": "RNZ World",
