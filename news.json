@@ -1,12 +1,61 @@
 {
-  "generated": "2026-11-13T07:09:51Z",
+  "generated": "2026-11-13T07:39:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
+      "summary": "Ousted chief executive Jensen Huang had supported keeping sales open to China",
+      "ts": 1794555548000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The real winner in Poland’s constitutional battle is Putin",
+      "summary": "The fight for control of the Constitutional Tribunal is eroding Poles' trust in their own state.",
+      "ts": 1794554348000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI agents shouldn’t have to pretend to be us",
+      "summary": "Service providers from banks to online platforms need to offer a standard channel of access on fair terms",
+      "ts": 1794553946000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The Gulf must build security that can outlast this war",
+      "summary": "Trump’s latest statement should accelerate the region’s move towards a layered and networked security architecture.",
+      "ts": 1794553681000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
+      "summary": "Pegula's win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.",
+      "ts": 1794553076000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "US reports record number of deportations and arrests in 2026",
       "summary": "ICE carried out 483,200 deportations in 2026. Democrats prepare to investigate tactics used.",
       "ts": 1794552395000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Value Nvidia, not Huang",
+      "summary": "Plus, sclerotic labour markets",
+      "ts": 1794551407000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "SoftBank’s failed bet on gas turbines for AI drove $3.7bn charge",
+      "summary": "Japanese group overordered small turbines for US data centres as industry shifted to more energy-efficient models",
+      "ts": 1794550889000
     },
     {
       "source": "Al Jazeera",
@@ -58,27 +107,6 @@
       "ts": 1794546000000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-      "summary": "Funding cuts and Israel's war have left Palestinians in Lebanon in increasingly dire circumstances.",
-      "ts": 1794545516000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-      "summary": "Despite knowing a war with Iran would be manufactured for Netanyahu's survival, many would still rally behind it.",
-      "ts": 1794545320000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
-      "summary": "The ship had been inactive for years despite various owners attempting to save and restore it.",
-      "ts": 1794544773000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Watchmakers wrestle with influence of AI on buyers",
@@ -121,20 +149,6 @@
       "ts": 1794534150000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
-      "summary": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom",
-      "ts": 1794528453000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
-      "summary": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
-      "ts": 1794525986000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
@@ -147,13 +161,6 @@
       "title": "Dolly Parton's last song is out today",
       "summary": "Torn, U2's new duet featuring Dolly Parton, is the country music legend's swan song.",
       "ts": 1794523862000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Huang’s fall is an indictment of founder mode at Big Tech",
-      "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear",
-      "ts": 1794523843000
     },
     {
       "source": "Ars Technica",
@@ -308,13 +315,6 @@
       "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
       "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
       "ts": 1794499440000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Jensen jeopardy will disrupt the AI industry",
-      "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
-      "ts": 1794498991000
     },
     {
       "source": "The Hacker News",
