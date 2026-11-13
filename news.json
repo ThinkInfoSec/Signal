@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-13T15:09:55Z",
+  "generated": "2026-11-13T15:39:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+      "summary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
+      "ts": 1794582136000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -9,10 +16,17 @@
       "ts": 1794582071000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinat",
+      "ts": 1794580138000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "title": "Why is the Microsoft outage lasting so long?",
+      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
       "ts": 1794579686000
     },
     {
@@ -44,6 +58,13 @@
       "ts": 1794578722000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attacker",
+      "ts": 1794578060000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "China warns against fresh US chip curbs",
@@ -58,6 +79,13 @@
       "ts": 1794576979000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Will Jensen Huang sell his $135bn of stock?",
+      "summary": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks",
+      "ts": 1794576174000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
@@ -70,13 +98,6 @@
       "title": "Kenyan building collapse near Nairobi kills six people",
       "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
       "ts": 1794575484000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Delhi overtakes Lahore as world’s most polluted city",
-      "summary": "India’s capital New Delhi has overtaken Pakistan’s Lahore as the world’s most polluted city.",
-      "ts": 1794575468000
     },
     {
       "source": "NVIDIA",
@@ -226,13 +247,6 @@
       "ts": 1794546000000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Watchmakers wrestle with influence of AI on buyers",
-      "summary": "Brands are under pressure to rethink how they reach consumers and ensure that searches present their products accurately and create desirability",
-      "ts": 1794542408000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -345,13 +359,6 @@
       "ts": 1794506835000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get i",
-      "ts": 1794506571000
-    },
-    {
       "source": "Google DeepMind",
       "cat": "ai",
       "title": "Introducing Gemini 4 Hydrogen",
@@ -364,13 +371,6 @@
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
       "ts": 1794506400000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privilege",
-      "ts": 1794505827000
     },
     {
       "source": "Ars Technica",
