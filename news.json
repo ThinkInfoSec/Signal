@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-13T07:39:51Z",
+  "generated": "2026-11-13T08:09:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
+      "summary": "Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.",
+      "ts": 1794555558000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -84,13 +91,6 @@
       "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
       "summary": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
       "ts": 1794547411000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
-      "summary": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
-      "ts": 1794546350000
     },
     {
       "source": "Financial Times",
