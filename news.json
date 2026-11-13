@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-13T21:09:48Z",
+  "generated": "2026-11-13T21:40:21Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US grounds all flights after ‘communication issue’",
+      "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
+      "ts": 1794605528000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "ts": 1794604462000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -9,18 +23,18 @@
       "ts": 1794603151000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "ts": 1794602992000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Qatar and Turkiye send message of deterrence with new defence pact",
       "summary": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
       "ts": 1794602882000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
+      "summary": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
+      "ts": 1794602440000
     },
     {
       "source": "Al Jazeera",
@@ -65,18 +79,18 @@
       "ts": 1794599637000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
+      "summary": "AI lab’s chief executive brushes off tech stock turbulence less than a week before planned $1.5tn listing",
+      "ts": 1794598886000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
       "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
       "ts": 1794598716000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Migrants risk deadly route to Spain’s Canary Islands",
-      "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
-      "ts": 1794597820000
     },
     {
       "source": "BBC World",
@@ -310,20 +324,6 @@
       "ts": 1794553946000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Value Nvidia, not Huang",
-      "summary": "Plus, sclerotic labour markets",
-      "ts": 1794551407000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "SoftBank’s failed bet on gas turbines for AI drove $3.7bn charge",
-      "summary": "Japanese group overordered small turbines for US data centres as industry shifted to more energy-efficient models",
-      "ts": 1794550889000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Dolly Parton's last song is out today",
@@ -336,13 +336,6 @@
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "ts": 1794522527000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "British Airways plane suffers tail strike as it attempts landing at London's Heathrow Airport",
-      "summary": "The plane, that had flown to London from Amsterdam, had 200 passengers on board.",
-      "ts": 1794521568000
     },
     {
       "source": "MIT Technology Review",
