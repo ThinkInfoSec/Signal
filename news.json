@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T13:39:47Z",
+  "generated": "2026-11-13T14:09:48Z",
   "items": [
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "ts": 1794578722000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "China warns against fresh US chip curbs",
+      "summary": "China has warned the US against imposing additional export controls on AI chips.",
+      "ts": 1794577369000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia scandal: What’s next for the US tech company?",
+      "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
+      "ts": 1794576979000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,11 +30,11 @@
       "ts": 1794576893000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Will Jensen Huang sell his $135bn of stock?",
-      "summary": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks",
-      "ts": 1794576174000
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
+      "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+      "ts": 1794575966000
     },
     {
       "source": "Al Jazeera",
@@ -39,7 +60,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "France slams Israel’s ‘demagogic’ ban on left-wing leader Melenchon",
+      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
       "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
       "ts": 1794574628000
     },
@@ -70,27 +91,6 @@
       "title": "Microsoft says November security updates cause printing issues",
       "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
       "ts": 1794572860000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-      "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
-      "ts": 1794571616000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-      "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
-      "ts": 1794571174000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India cancels visa of Norwegian journalist who questioned Modi",
-      "summary": "The Norwegian journalist who questioned PM Narendra Modi over press freedom has had her visa to India cancelled.",
-      "ts": 1794570848000
     },
     {
       "source": "The Hacker News",
@@ -217,6 +217,13 @@
       "title": "Europe’s AI story. With Philip Lane",
       "summary": "How AI is already reshaping Europe's economy",
       "ts": 1794546000000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Watchmakers wrestle with influence of AI on buyers",
+      "summary": "Brands are under pressure to rethink how they reach consumers and ensure that searches present their products accurately and create desirability",
+      "ts": 1794542408000
     },
     {
       "source": "BBC World",
@@ -623,13 +630,6 @@
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital",
       "ts": 1794229200000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "summary": "",
-      "ts": 1794227669000
     },
     {
       "source": "NVIDIA",
