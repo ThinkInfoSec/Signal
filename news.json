@@ -1,12 +1,54 @@
 {
-  "generated": "2026-11-13T12:09:51Z",
+  "generated": "2026-11-13T12:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "ts": 1794573109000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft says November security updates cause printing issues",
+      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+      "ts": 1794572860000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+      "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
+      "ts": 1794571616000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+      "ts": 1794571174000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India cancels visa of Norwegian journalist who questioned Modi",
+      "summary": "The Norwegian journalist who questioned PM Narendra Modi over press freedom has had her visa to India cancelled.",
+      "ts": 1794570848000
+    },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "When an AI Agent Goes Wrong, Can You Stop It?",
       "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenar",
       "ts": 1794570751000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+      "summary": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+      "ts": 1794570717000
     },
     {
       "source": "Al Jazeera",
@@ -44,13 +86,6 @@
       "ts": 1794567265000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "ts": 1794567220000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Check Point warns of zero-day flaw exploited for root access",
@@ -65,20 +100,6 @@
       "ts": 1794565597000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
-      "summary": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.",
-      "ts": 1794565582000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-      "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
-      "ts": 1794564698000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "How fat are AI trading bots’ fingers?",
@@ -86,25 +107,11 @@
       "ts": 1794563941000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-      "summary": "Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.",
-      "ts": 1794563010000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft confirms Windows activation failures after November updates",
       "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
       "ts": 1794562578000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Microsoft hit by global outages: What happened and why?",
-      "summary": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
-      "ts": 1794562255000
     },
     {
       "source": "Financial Times",
@@ -294,13 +301,6 @@
       "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
       "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
       "ts": 1794511383000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "ts": 1794510775000
     },
     {
       "source": "Hugging Face",
