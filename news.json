@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-13T02:09:48Z",
+  "generated": "2026-11-13T02:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "ts": 1794537540000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "ts": 1794537187000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -23,11 +37,11 @@
       "ts": 1794534197000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "ts": 1794531839000
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The Silicon Valley veterans now steering Nvidia",
+      "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
+      "ts": 1794534150000
     },
     {
       "source": "BBC World",
@@ -56,13 +70,6 @@
       "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
       "summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
       "ts": 1794527558000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "ts": 1794526445000
     },
     {
       "source": "Financial Times",
@@ -371,13 +378,6 @@
       "title": "Nvidia board to decide Jensen Huang’s fate",
       "summary": "Revelation of affair with subordinate piles pressure on CEO days after news of relationship with alleged Chinese spy",
       "ts": 1794481711000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Maga architects blame Big Tech and AI data centres for midterms rout",
-      "summary": "Head of Heritage Foundation admits Republicans’ embrace of Silicon Valley and the effect of Donald Trump’s Iran war cost them votes",
-      "ts": 1794481204000
     },
     {
       "source": "OpenAI",
@@ -700,13 +700,6 @@
       "title": "How “reverse game theory” could keep AI agents in check",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t bre",
       "ts": 1793702621000
-    },
-    {
-      "source": "Krebs on Security",
-      "cat": "cyber",
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is lik",
-      "ts": 1793672671000
     }
   ]
 }
