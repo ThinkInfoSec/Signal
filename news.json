@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-13T02:39:49Z",
+  "generated": "2026-11-13T03:09:47Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "ts": 1794538974000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spanish court suspends far-right group over alleged hate crimes",
+      "summary": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
+      "ts": 1794538345000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Chris Van Hollen to run for US Senate majority leader",
+      "summary": "Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.",
+      "ts": 1794537761000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,11 +30,18 @@
       "ts": 1794537540000
     },
     {
-      "source": "BBC World",
+      "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "ts": 1794537187000
+      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+      "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
+      "ts": 1794537321000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump moots toppling Cuba authorities before leaving office",
+      "summary": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
+      "ts": 1794537208000
     },
     {
       "source": "BBC World",
@@ -61,7 +89,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-      "summary": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+      "summary": "Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.",
       "ts": 1794528026000
     },
     {
@@ -77,13 +105,6 @@
       "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
       "summary": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
       "ts": 1794525986000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian court jails rights lawyer for 12 years on treason charge",
-      "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
-      "ts": 1794525530000
     },
     {
       "source": "BleepingComputer",
@@ -126,27 +147,6 @@
       "title": "British Airways plane suffers tail strike as it attempts landing at London's Heathrow Airport",
       "summary": "The plane, that had flown to London from Amsterdam, had 200 passengers on board.",
       "ts": 1794521568000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
-      "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.",
-      "ts": 1794521552000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Deadly shooting in Washington DC",
-      "summary": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
-      "ts": 1794518304000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Microsoft outage hits tens of thousands of users",
-      "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
-      "ts": 1794517389000
     },
     {
       "source": "MIT Technology Review",
