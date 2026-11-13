@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-13T15:39:53Z",
+  "generated": "2026-11-13T16:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+      "summary": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
+      "ts": 1794584619000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's h",
+      "ts": 1794583625000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,6 +28,13 @@
       "title": "How one AI agent exposed five critical enterprise security gaps",
       "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them.",
       "ts": 1794582071000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "ts": 1794582000000
     },
     {
       "source": "The Hacker News",
@@ -91,13 +112,6 @@
       "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
       "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
       "ts": 1794575966000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kenyan building collapse near Nairobi kills six people",
-      "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
-      "ts": 1794575484000
     },
     {
       "source": "NVIDIA",
@@ -352,13 +366,6 @@
       "ts": 1794509865000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. ",
-      "ts": 1794506835000
-    },
-    {
       "source": "Google DeepMind",
       "cat": "ai",
       "title": "Introducing Gemini 4 Hydrogen",
@@ -560,13 +567,6 @@
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
       "ts": 1794312148000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "ts": 1794312000000
     },
     {
       "source": "Google DeepMind",
