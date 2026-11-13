@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-13T10:09:50Z",
+  "generated": "2026-11-13T10:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+      "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
+      "ts": 1794564698000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "What we know about the global Microsoft outage",
       "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
       "ts": 1794563960000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "How fat are AI trading bots’ fingers?",
+      "summary": "Sizing up the risks",
+      "ts": 1794563941000
     },
     {
       "source": "Al Jazeera",
@@ -84,13 +98,6 @@
       "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
       "summary": "Asian football giants Australia's upcoming friendly with Jordan was initially scheduled to be played in Amman.",
       "ts": 1794556771000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
-      "summary": "Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.",
-      "ts": 1794555558000
     },
     {
       "source": "BBC World",
@@ -175,13 +182,6 @@
       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
       "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
       "ts": 1794535295000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The Silicon Valley veterans now steering Nvidia",
-      "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
-      "ts": 1794534150000
     },
     {
       "source": "BleepingComputer",
