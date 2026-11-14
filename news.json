@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T08:39:50Z",
+  "generated": "2026-11-14T09:09:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+      "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+      "ts": 1794645547000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -32,7 +39,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "What we know about the longest ground stop since 9/11",
+      "title": "What we know about the ground stop and what to do if you're affected",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "ts": 1794642131000
     },
@@ -56,13 +63,6 @@
       "title": "The ANC’s implosion was decades in the making",
       "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
       "ts": 1794639160000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-      "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
-      "ts": 1794638894000
     },
     {
       "source": "BBC World",
@@ -156,13 +156,6 @@
       "ts": 1794598716000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "ts": 1794594885000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -175,6 +168,13 @@
       "title": "Three tremors have shaken AI",
       "summary": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
       "ts": 1794592551000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "ts": 1794592473000
     },
     {
       "source": "Financial Times",
