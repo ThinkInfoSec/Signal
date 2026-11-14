@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T12:09:47Z",
+  "generated": "2026-11-14T12:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+      "summary": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
+      "ts": 1794659299000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
+      "ts": 1794658454000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -56,20 +70,6 @@
       "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
       "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
       "ts": 1794649434000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-      "summary": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
-      "ts": 1794649407000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
-      "summary": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
-      "ts": 1794648479000
     },
     {
       "source": "BBC World",
