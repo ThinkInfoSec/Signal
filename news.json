@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T03:39:48Z",
+  "generated": "2026-11-14T04:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+      "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+      "ts": 1794627127000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
       "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
       "ts": 1794614425000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
-      "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
-      "ts": 1794613522000
     },
     {
       "source": "BBC World",
