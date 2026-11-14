@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T10:09:50Z",
+  "generated": "2026-11-14T10:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
+      "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
+      "ts": 1794650592000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,13 +56,6 @@
       "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
       "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
       "ts": 1794643814000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
-      "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
-      "ts": 1794643283000
     },
     {
       "source": "BBC World",
