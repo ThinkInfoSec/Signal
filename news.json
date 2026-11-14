@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T18:39:55Z",
+  "generated": "2026-11-14T19:09:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US blames outdated technology for nationwide flight disruption",
+      "summary": "US blames outdated technology for nationwide flight disruption",
+      "ts": 1794681160000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -91,13 +98,6 @@
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "ts": 1794671635000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-      "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
-      "ts": 1794670597000
     },
     {
       "source": "BBC World",
@@ -672,13 +672,6 @@
       "title": "Want to Rent an Internet Address at the White House?",
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyber",
       "ts": 1793853377000
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican ",
-      "ts": 1793818255000
     }
   ]
 }
