@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-14T07:39:49Z",
+  "generated": "2026-11-14T08:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+      "ts": 1794642396000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Missing Australian teenager reunites with his mother",
+      "summary": "A 17-year-old Australian teenager who went missing for six days has been reunited with his mother.",
+      "ts": 1794642286000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What we know about the longest ground stop since 9/11",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "ts": 1794642131000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+      "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
+      "ts": 1794640760000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
+      "summary": "US House Minority Leader Hakeem Jeffries faced repeated heckling at a Democratic conference in Denver.",
+      "ts": 1794640733000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -18,7 +53,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Microsoft says services fully restored after for day-long global outage",
+      "title": "Microsoft says services fully restored after day-long global outage",
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "ts": 1794638547000
     },
@@ -37,34 +72,6 @@
       "ts": 1794638037000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
-      "summary": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
-      "ts": 1794637483000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Siege fuels disease fears in Yemen’s Taiz",
-      "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
-      "ts": 1794637047000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
-      "summary": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
-      "ts": 1794636849000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-      "summary": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
-      "ts": 1794635989000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -77,13 +84,6 @@
       "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
       "summary": "Opportunities in China lie as much in the picks and shovels of the AI supply chain",
       "ts": 1794632437000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What we know about the longest ground stop since 9/11",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
-      "ts": 1794627921000
     },
     {
       "source": "Financial Times",
