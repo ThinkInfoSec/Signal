@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T11:40:26Z",
+  "generated": "2026-11-14T12:09:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+      "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+      "ts": 1794656586000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "ts": 1794656480000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -21,13 +35,6 @@
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
       "ts": 1794652940000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "ts": 1794652238000
     },
     {
       "source": "Al Jazeera",
@@ -63,13 +70,6 @@
       "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
       "summary": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
       "ts": 1794648479000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-      "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
-      "ts": 1794647983000
     },
     {
       "source": "BBC World",
