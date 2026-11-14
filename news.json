@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-14T21:39:48Z",
+  "generated": "2026-11-14T22:09:49Z",
   "items": [
     {
-      "source": "BBC World",
+      "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "ts": 1794690314000
+      "title": "US flights resume after ageing technology blamed for outage",
+      "summary": "US flights resume after ageing technology blamed for outage",
+      "ts": 1794692179000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+      "ts": 1794690626000
     },
     {
       "source": "BBC World",
@@ -65,13 +72,6 @@
       "ts": 1794683545000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US blames outdated technology for nationwide flight disruption",
-      "summary": "US blames outdated technology for nationwide flight disruption",
-      "ts": 1794681160000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Italy fines Meta €805m over accessing users' photos",
@@ -84,13 +84,6 @@
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
       "ts": 1794680278000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-      "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
-      "ts": 1794679373000
     },
     {
       "source": "BBC World",
@@ -112,6 +105,13 @@
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "ts": 1794671635000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "ts": 1794670974000
     },
     {
       "source": "BleepingComputer",
