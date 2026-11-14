@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T04:39:48Z",
+  "generated": "2026-11-14T05:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iranian shopkeeper goes viral for Netanyahu resemblance",
+      "summary": "A shopkeeper in Tehran has become an unlikely social media sensation because of his striking resemblance to Netanyahu.",
+      "ts": 1794630548000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
+      "summary": "The UN says Israel could have prevented death and destruction caused by the storm in Gaza had it allowed sufficient aid.",
+      "ts": 1794629535000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -51,25 +65,11 @@
       "ts": 1794615727000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Microsoft services begin recovering after global outage",
-      "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
-      "ts": 1794615479000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
       "summary": "So far this year, 36 people have been killed in Russia by brown bears, with more than 87 attacks and 12,000 reports of the bears approaching people, officials say.",
       "ts": 1794615270000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Afghanistan’s new road to China ends at a closed border",
-      "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
-      "ts": 1794614803000
     },
     {
       "source": "BBC World",
