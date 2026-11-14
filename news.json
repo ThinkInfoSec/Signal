@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T01:39:48Z",
+  "generated": "2026-11-14T02:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Tanker collision leaves riverboat passengers clinging to railings",
+      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+      "ts": 1794620228000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Former FAA official says ‘nobody really knows what is going on’",
+      "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+      "ts": 1794619726000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -77,20 +91,6 @@
       "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
       "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
       "ts": 1794610036000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "LIVE: FAA issues US ground stop, some international flights to depart",
-      "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
-      "ts": 1794607327000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "FAA grounds US flights nationwide after ‘communication issue’",
-      "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is ‘investigating the issue’.",
-      "ts": 1794605528000
     },
     {
       "source": "Ars Technica",
