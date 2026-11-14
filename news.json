@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T23:09:49Z",
+  "generated": "2026-11-14T23:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+      "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
+      "ts": 1794697290000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,13 +70,6 @@
       "title": "Can being ‘non-Western’ cost you your home in Denmark?",
       "summary": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
       "ts": 1794685969000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Deadly car bomb blast kills two near Syria’s capital",
-      "summary": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.",
-      "ts": 1794685596000
     },
     {
       "source": "BBC World",
