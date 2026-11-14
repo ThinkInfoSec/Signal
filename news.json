@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-13T23:39:49Z",
+  "generated": "2026-11-14T00:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "ts": 1794614461000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+      "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+      "ts": 1794613522000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -19,7 +33,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "FAA grounds US flights nationwide after ‘communication issue’",
-      "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'.",
+      "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is ‘investigating the issue’.",
       "ts": 1794605528000
     },
     {
@@ -70,20 +84,6 @@
       "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
       "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
       "ts": 1794601700000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-      "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
-      "ts": 1794601089000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
-      "ts": 1794600722000
     },
     {
       "source": "BBC World",
