@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-14T06:09:48Z",
+  "generated": "2026-11-14T06:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+      "summary": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
+      "ts": 1794635989000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "ts": 1794635551000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
+      "summary": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
+      "ts": 1794635502000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
+      "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+      "ts": 1794634961000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
+      "summary": "Opportunities in China lie as much in the picks and shovels of the AI supply chain",
+      "ts": 1794632437000
     },
     {
       "source": "Al Jazeera",
@@ -44,32 +72,11 @@
       "ts": 1794629535000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
-      "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
-      "ts": 1794629029000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "What we know about the longest ground stop since 9/11",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
       "ts": 1794627921000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-      "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
-      "ts": 1794627127000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-      "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
-      "ts": 1794623690000
     },
     {
       "source": "Financial Times",
@@ -308,13 +315,6 @@
       "title": "Check Point warns of zero-day flaw exploited for root access",
       "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
       "ts": 1794566662000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "How fat are AI trading bots’ fingers?",
-      "summary": "Sizing up the risks",
-      "ts": 1794563941000
     },
     {
       "source": "BleepingComputer",
