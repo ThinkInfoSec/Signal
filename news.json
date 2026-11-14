@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T10:39:49Z",
+  "generated": "2026-11-14T11:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "ts": 1794652940000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "ts": 1794652238000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "South Sudan postpones first-ever national elections until February",
+      "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+      "ts": 1794652232000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,13 +70,6 @@
       "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
       "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
       "ts": 1794645547000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-      "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
-      "ts": 1794643814000
     },
     {
       "source": "BBC World",
@@ -135,13 +149,6 @@
       "ts": 1794602440000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "ts": 1794599637000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
@@ -168,13 +175,6 @@
       "title": "Three tremors have shaken AI",
       "summary": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
       "ts": 1794592551000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-      "ts": 1794592473000
     },
     {
       "source": "Financial Times",
