@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T19:39:49Z",
+  "generated": "2026-11-14T20:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can being ‘non-Western’ cost you your home in Denmark?",
+      "summary": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
+      "ts": 1794685969000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Deadly car bomb blast kills two near Syria’s capital",
+      "summary": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.",
+      "ts": 1794685596000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "More than 100,000 rally across France in new Yellow Vest protests",
+      "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
+      "ts": 1794685584000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -77,27 +98,6 @@
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
       "ts": 1794677245000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-      "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-      "ts": 1794675219000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Portugal vs Denmark LIVE: UEFA Nations League",
-      "summary": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
-      "ts": 1794674700000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Italy fines Meta $880m over photo privacy",
-      "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
-      "ts": 1794672975000
     },
     {
       "source": "BBC World",
