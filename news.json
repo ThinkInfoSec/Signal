@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T08:09:50Z",
+  "generated": "2026-11-14T08:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+      "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
+      "ts": 1794643814000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+      "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+      "ts": 1794643283000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -56,20 +70,6 @@
       "title": "Microsoft says services fully restored after day-long global outage",
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "ts": 1794638547000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ukraine is running out of options, and Russia knows it",
-      "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
-      "ts": 1794638349000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-      "summary": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
-      "ts": 1794638037000
     },
     {
       "source": "BBC World",
