@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-14T00:09:50Z",
+  "generated": "2026-11-14T00:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK police open sex offence probe into comedian and author David Walliams",
+      "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+      "ts": 1794615727000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Microsoft services begin recovering after global outage",
+      "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+      "ts": 1794615479000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
+      "summary": "So far this year, 36 people have been killed in Russia by brown bears, with more than 87 attacks and 12,000 reports of the bears approaching people, officials say.",
+      "ts": 1794615270000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+      "ts": 1794614803000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -11,21 +39,35 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+      "ts": 1794614425000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
       "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
       "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
       "ts": 1794613522000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "ts": 1794613245000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
       "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
       "ts": 1794610036000
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+      "title": "LIVE: Pacific-bound, transatlantic flights to take off amid US ground halt",
       "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
       "ts": 1794607327000
     },
@@ -51,39 +93,11 @@
       "ts": 1794604462000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-      "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
-      "ts": 1794603151000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-      "summary": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
-      "ts": 1794602882000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
       "summary": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
       "ts": 1794602440000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-      "summary": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
-      "ts": 1794601962000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-      "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
-      "ts": 1794601700000
     },
     {
       "source": "BBC World",
@@ -182,13 +196,6 @@
       "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
       "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
       "ts": 1794586903000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-      "ts": 1794584572000
     },
     {
       "source": "The Hacker News",
@@ -322,6 +329,13 @@
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
       "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30,",
       "ts": 1794557149000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "ts": 1794556800000
     },
     {
       "source": "Financial Times",
@@ -504,13 +518,6 @@
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "ts": 1794366020000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "ts": 1794355200000
     },
     {
       "source": "Hugging Face",
