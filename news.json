@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-14T12:39:51Z",
+  "generated": "2026-11-14T13:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+      "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+      "ts": 1794661056000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Green turtles move from ‘endangered’ to ‘least concern’ status",
+      "summary": "Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.",
+      "ts": 1794660798000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
+      "summary": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
+      "ts": 1794660557000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114",
+      "ts": 1794659915000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,27 +77,6 @@
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
       "ts": 1794652940000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "South Sudan postpones first-ever national elections until February",
-      "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
-      "ts": 1794652232000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
-      "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
-      "ts": 1794650592000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
-      "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
-      "ts": 1794649434000
     },
     {
       "source": "BBC World",
@@ -329,13 +336,6 @@
       "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
       "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
       "ts": 1794558860000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30,",
-      "ts": 1794557149000
     },
     {
       "source": "OpenAI",
@@ -679,13 +679,6 @@
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican ",
       "ts": 1793818255000
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either ",
-      "ts": 1793797200000
     }
   ]
 }
