@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T02:39:51Z",
+  "generated": "2026-11-14T03:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+      "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+      "ts": 1794623690000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -86,13 +93,6 @@
       "ts": 1794613166000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
-      "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
-      "ts": 1794610036000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
@@ -102,7 +102,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "ts": 1794604462000
     },
