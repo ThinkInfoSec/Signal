@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T00:39:49Z",
+  "generated": "2026-11-14T01:09:50Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
+      "summary": "Sarvam has received government backing to build native models in world’s most populous country",
+      "ts": 1794618005000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -53,9 +60,16 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
       "ts": 1794613245000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+      "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
+      "ts": 1794613166000
     },
     {
       "source": "Al Jazeera",
@@ -67,7 +81,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "LIVE: Pacific-bound, transatlantic flights to take off amid US ground halt",
+      "title": "LIVE: FAA issues US ground stop, some international flights to depart",
       "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
       "ts": 1794607327000
     },
@@ -310,13 +324,6 @@
       "ts": 1794562578000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
-      "summary": "Ousted chief executive Jensen Huang had supported keeping sales open to China",
-      "ts": 1794560848000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
@@ -336,13 +343,6 @@
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "ts": 1794556800000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "AI agents shouldn’t have to pretend to be us",
-      "summary": "Service providers from banks to online platforms need to offer a standard channel of access on fair terms",
-      "ts": 1794553946000
     },
     {
       "source": "MIT Technology Review",
