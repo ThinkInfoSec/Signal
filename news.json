@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T09:39:49Z",
+  "generated": "2026-11-14T10:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+      "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
+      "ts": 1794649434000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+      "summary": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
+      "ts": 1794649407000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
+      "summary": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
+      "ts": 1794648479000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -37,32 +58,11 @@
       "ts": 1794643283000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-      "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-      "ts": 1794642396000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Missing Australian teenager reunites with his mother",
-      "summary": "A 17-year-old Australian teenager who went missing for six days has been reunited with his mother.",
-      "ts": 1794642286000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "What we know about the ground stop and what to do if you're affected",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "ts": 1794642131000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
-      "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
-      "ts": 1794640760000
     },
     {
       "source": "BBC World",
