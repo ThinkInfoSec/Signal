@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T17:09:50Z",
+  "generated": "2026-11-14T17:39:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "ts": 1794677245000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "ts": 1794676596000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -19,7 +33,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "ts": 1794673788000
     },
     {
@@ -140,13 +154,6 @@
       "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
       "summary": "So far this year, 36 people have been killed in Russia by brown bears, with more than 87 attacks and 12,000 reports of the bears approaching people, officials say.",
       "ts": 1794615270000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "ts": 1794613245000
     },
     {
       "source": "Financial Times",
@@ -329,13 +336,6 @@
       "title": "Check Point warns of zero-day flaw exploited for root access",
       "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
       "ts": 1794566662000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-      "ts": 1794562578000
     },
     {
       "source": "OpenAI",
