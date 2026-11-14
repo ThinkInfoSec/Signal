@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T22:09:49Z",
+  "generated": "2026-11-14T22:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "ts": 1794695845000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "ts": 1794694180000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+      "summary": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
+      "ts": 1794693645000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,13 +35,6 @@
       "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
       "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
       "ts": 1794690626000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-      "ts": 1794688905000
     },
     {
       "source": "Al Jazeera",
@@ -56,13 +70,6 @@
       "title": "Tens of thousands march in latest Portugal housing protests",
       "summary": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
       "ts": 1794684475000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-      "summary": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
-      "ts": 1794684011000
     },
     {
       "source": "BBC World",
@@ -105,13 +112,6 @@
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "ts": 1794671635000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "ts": 1794670974000
     },
     {
       "source": "BleepingComputer",
