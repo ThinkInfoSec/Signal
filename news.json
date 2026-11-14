@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-14T16:09:50Z",
+  "generated": "2026-11-14T16:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "ts": 1794673788000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Italy fines Meta $880m over photo privacy",
+      "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+      "ts": 1794672975000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+      "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+      "ts": 1794672823000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "EU calls for immediate humanitarian access to Gaza",
+      "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+      "ts": 1794671842000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -65,13 +93,6 @@
       "ts": 1794667777000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "When tech founders leave, what happens to their companies?",
-      "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
-      "ts": 1794666276000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "What we know about the ground stop and what to do if you're affected",
@@ -86,20 +107,6 @@
       "ts": 1794665921000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Young musicians connect a community across the Line of Control",
-      "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
-      "ts": 1794664567000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-      "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
-      "ts": 1794662684000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -112,13 +119,6 @@
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
       "ts": 1794652940000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "ts": 1794638547000
     },
     {
       "source": "Financial Times",
