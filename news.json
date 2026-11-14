@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T20:39:49Z",
+  "generated": "2026-11-14T21:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "ts": 1794690314000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "ts": 1794688905000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India’s Assam state demolishes homes of 132 Muslim families",
+      "summary": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
+      "ts": 1794687250000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -28,13 +49,6 @@
       "title": "Tens of thousands march in latest Portugal housing protests",
       "summary": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
       "ts": 1794684475000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "ts": 1794684070000
     },
     {
       "source": "Al Jazeera",
@@ -86,13 +100,6 @@
       "ts": 1794679210000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rising costs and arrests fuel protests in Central African Republic",
-      "summary": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
-      "ts": 1794678628000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
@@ -112,13 +119,6 @@
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
       "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
       "ts": 1794669349000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "ts": 1794665921000
     },
     {
       "source": "The Hacker News",
