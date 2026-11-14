@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T14:39:49Z",
+  "generated": "2026-11-14T15:09:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "When tech founders leave, what happens to their companies?",
+      "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
+      "ts": 1794666276000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
       "summary": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
       "ts": 1794659299000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-      "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
-      "ts": 1794658454000
     },
     {
       "source": "BBC World",
