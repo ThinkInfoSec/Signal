@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T13:39:50Z",
+  "generated": "2026-11-14T14:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+      "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+      "ts": 1794662684000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,13 +70,6 @@
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "ts": 1794656480000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
-      "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
-      "ts": 1794654858000
     },
     {
       "source": "BBC World",
