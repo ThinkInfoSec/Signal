@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T16:39:50Z",
+  "generated": "2026-11-14T17:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+      "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+      "ts": 1794675219000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+      "summary": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
+      "ts": 1794674700000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -77,20 +91,6 @@
       "title": "Canada’s Stelco to recall 175 workers after government pressure",
       "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
       "ts": 1794668812000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-      "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
-      "ts": 1794668224000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Empower conference: officials and youth discuss peace and security",
-      "summary": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
-      "ts": 1794667777000
     },
     {
       "source": "BBC World",
