@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T09:09:52Z",
+  "generated": "2026-11-14T09:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+      "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+      "ts": 1794647983000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+      "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
+      "ts": 1794647301000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,20 +63,6 @@
       "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
       "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
       "ts": 1794640760000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
-      "summary": "US House Minority Leader Hakeem Jeffries faced repeated heckling at a Democratic conference in Denver.",
-      "ts": 1794640733000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The ANC’s implosion was decades in the making",
-      "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
-      "ts": 1794639160000
     },
     {
       "source": "BBC World",
