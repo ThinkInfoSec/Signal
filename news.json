@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T13:09:49Z",
+  "generated": "2026-11-14T13:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
+      "summary": "Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.",
+      "ts": 1794661386000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,13 +70,6 @@
       "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
       "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
       "ts": 1794654858000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-      "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
-      "ts": 1794654039000
     },
     {
       "source": "BBC World",
