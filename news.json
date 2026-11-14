@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T15:39:52Z",
+  "generated": "2026-11-14T16:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "ts": 1794671635000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "ts": 1794670974000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+      "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+      "ts": 1794670597000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -19,7 +40,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
-      "summary": "The probe was launched in 1977 but it continues to relay space-related data back to a team of NASA scientists daily.",
+      "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
       "ts": 1794669294000
     },
     {
@@ -79,13 +100,6 @@
       "ts": 1794662684000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
-      "summary": "Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.",
-      "ts": 1794661386000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -105,13 +119,6 @@
       "title": "Microsoft says services fully restored after day-long global outage",
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "ts": 1794638547000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "ts": 1794635551000
     },
     {
       "source": "Financial Times",
@@ -224,13 +231,6 @@
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, ha",
       "ts": 1794588788000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "ts": 1794588031000
     },
     {
       "source": "BleepingComputer",
