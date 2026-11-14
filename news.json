@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T07:09:52Z",
+  "generated": "2026-11-14T07:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The ANC’s implosion was decades in the making",
+      "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
+      "ts": 1794639160000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+      "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
+      "ts": 1794638894000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -56,20 +70,6 @@
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "ts": 1794635551000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
-      "summary": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
-      "ts": 1794635502000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US lifts ground stop, but passengers face second day of flight disruption",
-      "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
-      "ts": 1794634961000
     },
     {
       "source": "Financial Times",
