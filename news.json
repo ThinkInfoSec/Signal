@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-14T06:39:48Z",
+  "generated": "2026-11-14T07:09:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Microsoft says services fully restored after for day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "ts": 1794638547000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ukraine is running out of options, and Russia knows it",
+      "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
+      "ts": 1794638349000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
+      "summary": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
+      "ts": 1794638037000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
+      "summary": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
+      "ts": 1794637483000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Siege fuels disease fears in Yemen’s Taiz",
+      "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
+      "ts": 1794637047000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
+      "summary": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
+      "ts": 1794636849000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -25,7 +67,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
+      "title": "US lifts ground stop, but passengers face second day of flight disruption",
       "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
       "ts": 1794634961000
     },
@@ -35,41 +77,6 @@
       "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
       "summary": "Opportunities in China lie as much in the picks and shovels of the AI supply chain",
       "ts": 1794632437000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump, Xi and Putin to hold first three-way summit in China",
-      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-      "ts": 1794632158000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Lagos Art Week confronts history, identity and belonging",
-      "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
-      "ts": 1794631561000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "German spies granted sweeping new powers",
-      "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
-      "ts": 1794631271000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iranian shopkeeper goes viral for Netanyahu resemblance",
-      "summary": "A shopkeeper in Tehran has become an unlikely social media sensation because of his striking resemblance to Netanyahu.",
-      "ts": 1794630548000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
-      "summary": "The UN says Israel could have prevented death and destruction caused by the storm in Gaza had it allowed sufficient aid.",
-      "ts": 1794629535000
     },
     {
       "source": "BBC World",
@@ -119,13 +126,6 @@
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "ts": 1794604847000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "ts": 1794604462000
     },
     {
       "source": "Financial Times",
