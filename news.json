@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T14:09:49Z",
+  "generated": "2026-11-14T14:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "ts": 1794666057000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "ts": 1794665921000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Young musicians connect a community across the Line of Control",
+      "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
+      "ts": 1794664567000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,13 +79,6 @@
       "ts": 1794658454000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-      "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
-      "ts": 1794656586000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -77,13 +91,6 @@
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
       "ts": 1794652940000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "ts": 1794642131000
     },
     {
       "source": "BBC World",
@@ -119,13 +126,6 @@
       "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
       "summary": "So far this year, 36 people have been killed in Russia by brown bears, with more than 87 attacks and 12,000 reports of the bears approaching people, officials say.",
       "ts": 1794615270000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "ts": 1794614461000
     },
     {
       "source": "BBC World",
