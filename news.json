@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T05:09:50Z",
+  "generated": "2026-11-14T05:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "ts": 1794632158000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Lagos Art Week confronts history, identity and belonging",
+      "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
+      "ts": 1794631561000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "German spies granted sweeping new powers",
+      "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+      "ts": 1794631271000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -37,32 +58,11 @@
       "ts": 1794623690000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tanker collision leaves riverboat passengers clinging to railings",
-      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
-      "ts": 1794620228000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Former FAA official says ‘nobody really knows what is going on’",
-      "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
-      "ts": 1794619726000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
       "summary": "Sarvam has received government backing to build native models in world’s most populous country",
       "ts": 1794618005000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK police open sex offence probe into comedian and author David Walliams",
-      "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
-      "ts": 1794615727000
     },
     {
       "source": "RNZ World",
