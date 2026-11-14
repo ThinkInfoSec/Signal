@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-14T15:09:53Z",
+  "generated": "2026-11-14T15:39:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "ts": 1794669357000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "ts": 1794669349000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+      "summary": "The probe was launched in 1977 but it continues to relay space-related data back to a team of NASA scientists daily.",
+      "ts": 1794669294000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Canada’s Stelco to recall 175 workers after government pressure",
+      "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
+      "ts": 1794668812000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
+      "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
+      "ts": 1794668224000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Empower conference: officials and youth discuss peace and security",
+      "summary": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
+      "ts": 1794667777000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -44,46 +86,11 @@
       "ts": 1794661386000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-      "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
-      "ts": 1794661056000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Green turtles move from ‘endangered’ to ‘least concern’ status",
-      "summary": "Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.",
-      "ts": 1794660798000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
-      "summary": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
-      "ts": 1794660557000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114",
       "ts": 1794659915000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
-      "summary": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
-      "ts": 1794659299000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "ts": 1794656480000
     },
     {
       "source": "BBC World",
@@ -329,13 +336,6 @@
       "title": "Microsoft confirms Windows activation failures after November updates",
       "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
       "ts": 1794562578000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-      "ts": 1794558860000
     },
     {
       "source": "OpenAI",
