@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T11:09:50Z",
+  "generated": "2026-11-14T11:40:26Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+      "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
+      "ts": 1794654858000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+      "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+      "ts": 1794654039000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -56,20 +70,6 @@
       "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
       "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
       "ts": 1794647983000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-      "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
-      "ts": 1794647301000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
-      "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
-      "ts": 1794645547000
     },
     {
       "source": "BBC World",
