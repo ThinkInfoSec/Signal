@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-14T22:39:49Z",
+  "generated": "2026-11-14T23:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Explosion near Syria’s capital kills father and child",
+      "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+      "ts": 1794696192000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "ts": 1794695845000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Palestinian stories set for major presence at 2027 Oscars",
+      "summary": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
+      "ts": 1794695327000
     },
     {
       "source": "BBC World",
@@ -56,20 +70,6 @@
       "title": "Deadly car bomb blast kills two near Syria’s capital",
       "summary": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.",
       "ts": 1794685596000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "More than 100,000 rally across France in new Yellow Vest protests",
-      "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
-      "ts": 1794685584000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tens of thousands march in latest Portugal housing protests",
-      "summary": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
-      "ts": 1794684475000
     },
     {
       "source": "BBC World",
