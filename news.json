@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T04:09:50Z",
+  "generated": "2026-11-14T04:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+      "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
+      "ts": 1794629029000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "Setback for SpaceX Starship rocket's double-catch test",
       "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
       "ts": 1794614461000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-      "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
-      "ts": 1794614425000
     },
     {
       "source": "BBC World",
