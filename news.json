@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-15T22:09:48Z",
+  "generated": "2026-11-15T22:39:49Z",
   "items": [
     {
-      "source": "Financial Times",
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "ts": 1794781734000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "ts": 1794781460000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+      "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
+      "ts": 1794780398000
+    },
+    {
+      "source": "OpenAI",
       "cat": "ai",
-      "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
-      "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
-      "ts": 1794779633000
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "ts": 1794780001000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "ts": 1794780000000
     },
     {
       "source": "Al Jazeera",
@@ -63,13 +91,6 @@
       "title": "Jordan sentences three men to death over deadly church attack in Karak",
       "summary": "Jordan sentences three men to death over deadly church attack in Karak",
       "ts": 1794773558000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-      "summary": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.",
-      "ts": 1794773226000
     },
     {
       "source": "RNZ World",
@@ -133,20 +154,6 @@
       "title": "TSMC employee data breach linked to cloud provider",
       "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
       "ts": 1794756228000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "ts": 1794754581000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "ts": 1794750178000
     },
     {
       "source": "BBC World",
@@ -238,6 +245,13 @@
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
       "summary": "Sarvam has received government backing to build native models in world’s most populous country",
       "ts": 1794618005000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+      "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
+      "ts": 1794613166000
     },
     {
       "source": "Ars Technica",
@@ -450,13 +464,6 @@
       "ts": 1794441600000
     },
     {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "ts": 1794441600000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
@@ -511,13 +518,6 @@
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
       "ts": 1794387600000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "ts": 1794384000000
     },
     {
       "source": "Hugging Face",
