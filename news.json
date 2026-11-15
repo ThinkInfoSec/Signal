@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T04:09:58Z",
+  "generated": "2026-11-15T04:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Zimbabwe’s HIV gains face a test among young people",
+      "summary": "New prevention tools offer hope, but reaching young people remains a challenge.",
+      "ts": 1794715980000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,13 +70,6 @@
       "title": "SpaceX’s Starship nails a smooth return with historic catch",
       "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
       "ts": 1794705721000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli air strike kills senior Hamas commander in Gaza",
-      "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-      "ts": 1794704442000
     },
     {
       "source": "BBC World",
@@ -665,13 +665,6 @@
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
       "ts": 1793898000000
-    },
-    {
-      "source": "Krebs on Security",
-      "cat": "cyber",
-      "title": "Want to Rent an Internet Address at the White House?",
-      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyber",
-      "ts": 1793853377000
     }
   ]
 }
