@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T00:39:48Z",
+  "generated": "2026-11-15T01:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+      "ts": 1794704442000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Hundreds of men march in Switzerland to protest violence against women",
+      "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+      "ts": 1794702434000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -12,7 +26,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza as fighting in Yemen grips the region.",
+      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
       "ts": 1794700808000
     },
     {
@@ -51,25 +65,11 @@
       "ts": 1794695845000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Palestinian stories set for major presence at 2027 Oscars",
-      "summary": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
-      "ts": 1794695327000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "ts": 1794694180000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-      "summary": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
-      "ts": 1794693645000
     },
     {
       "source": "BBC World",
