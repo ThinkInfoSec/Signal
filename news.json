@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T10:39:51Z",
+  "generated": "2026-11-15T11:09:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+      "summary": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
+      "ts": 1794739956000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain football coach denies racism ahead of England match",
+      "summary": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
+      "ts": 1794738508000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,20 +72,6 @@
       "ts": 1794732587000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands in Portugal protest against surging rental prices",
-      "summary": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
-      "ts": 1794732037000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-      "summary": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
-      "ts": 1794731358000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
@@ -95,8 +95,8 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
-      "summary": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss",
+      "title": "When human judgment is not all it’s cracked up to be",
+      "summary": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss Jensen Huang",
       "ts": 1794718804000
     },
     {
