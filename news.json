@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T18:39:52Z",
+  "generated": "2026-11-15T19:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+      "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+      "ts": 1794767512000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -84,13 +91,6 @@
       "title": "Somalia: We would not have recovered without the international community",
       "summary": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
       "ts": 1794761256000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spain vs England live: UEFA Nations League",
-      "summary": "Team news , score and live text commentary as England and Spain vie for top spot in final Nations League group game.",
-      "ts": 1794761100000
     },
     {
       "source": "BBC World",
