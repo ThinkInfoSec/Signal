@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T15:09:51Z",
+  "generated": "2026-11-15T15:39:51Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "TSMC employee data breach linked to cloud provider",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "ts": 1794756228000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -151,7 +158,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
       "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
       "ts": 1794712864000
     },
@@ -329,13 +336,6 @@
       "title": "When an AI Agent Goes Wrong, Can You Stop It?",
       "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenar",
       "ts": 1794570751000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "ts": 1794566662000
     },
     {
       "source": "OpenAI",
