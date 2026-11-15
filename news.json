@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T22:39:49Z",
+  "generated": "2026-11-15T23:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+      "summary": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
+      "ts": 1794782401000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -35,6 +42,13 @@
       "title": "Our new blog for science",
       "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
       "ts": 1794780000000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
+      "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
+      "ts": 1794779633000
     },
     {
       "source": "Al Jazeera",
@@ -84,13 +98,6 @@
       "title": "Estonia to close border crossings with Russia after alleged arson attack",
       "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
       "ts": 1794774678000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jordan sentences three men to death over deadly church attack in Karak",
-      "summary": "Jordan sentences three men to death over deadly church attack in Karak",
-      "ts": 1794773558000
     },
     {
       "source": "RNZ World",
@@ -245,13 +252,6 @@
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
       "summary": "Sarvam has received government backing to build native models in world’s most populous country",
       "ts": 1794618005000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-      "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
-      "ts": 1794613166000
     },
     {
       "source": "Ars Technica",
