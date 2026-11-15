@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-15T20:10:04Z",
+  "generated": "2026-11-15T20:39:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jordan sentences three men to death over deadly church attack in Karak",
+      "summary": "Jordan sentences three men to death over deadly church attack in Karak",
+      "ts": 1794773558000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+      "summary": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.",
+      "ts": 1794773226000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Cyclone Xavier to bring damaging winds to Cook Islands",
+      "summary": "A storm warning is in force for Manihiki and Rakahanga.",
+      "ts": 1794772434000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "NZ charity steps in to help woman stuck in Cook Islands",
+      "summary": "The 50-year-old arrived in November 2023 from New Zealand and has been unable to leave.",
+      "ts": 1794772327000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,18 +37,18 @@
       "ts": 1794771159000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-      "ts": 1794771108000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
       "summary": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
       "ts": 1794769341000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "ts": 1794767891000
     },
     {
       "source": "Al Jazeera",
@@ -79,20 +107,6 @@
       "ts": 1794763983000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
-      "summary": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
-      "ts": 1794763980000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The hidden costs of the US AI boom",
-      "summary": "The hidden costs of the US AI boom",
-      "ts": 1794763499000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Czechs rally against plan to switch funding of public media",
@@ -102,9 +116,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-      "ts": 1794758223000
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "ts": 1794759320000
     },
     {
       "source": "BleepingComputer",
