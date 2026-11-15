@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-15T17:39:50Z",
+  "generated": "2026-11-15T18:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian missiles.",
+      "ts": 1794766100000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US and allies sign accord to protect AI supply chains from China",
+      "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+      "ts": 1794764863000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "What do we do with the works of problematic people?",
+      "summary": "Do we pretend the records, books and films no longer exist, or ban our children from engaging with them?",
+      "ts": 1794764600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+      "summary": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+      "ts": 1794764363000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
+      "summary": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
+      "ts": 1794763983000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+      "summary": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
+      "ts": 1794763980000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The hidden costs of the US AI boom",
+      "summary": "The hidden costs of the US AI boom",
+      "ts": 1794763499000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -44,39 +93,11 @@
       "ts": 1794758223000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "70 bodies recovered from Gaza rubble, thousands still missing",
-      "summary": "70 bodies recovered from Gaza rubble, thousands still missing",
-      "ts": 1794756763000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "TSMC employee data breach linked to cloud provider",
       "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
       "ts": 1794756228000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-      "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
-      "ts": 1794756081000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "20 years of Al Jazeera English: Our story is still being written",
-      "summary": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
-      "ts": 1794756072000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Record number of migrants arrive in Spain’s Canary Islands",
-      "summary": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
-      "ts": 1794755789000
     },
     {
       "source": "BBC World",
@@ -119,13 +140,6 @@
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
       "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
       "ts": 1794740792000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "ts": 1794734797000
     },
     {
       "source": "The Hacker News",
@@ -210,13 +224,6 @@
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "ts": 1794604847000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
-      "summary": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
-      "ts": 1794602440000
     },
     {
       "source": "BleepingComputer",
