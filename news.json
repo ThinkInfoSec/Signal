@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T03:39:51Z",
+  "generated": "2026-11-15T04:09:58Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Monkey attacks woman inside residential complex in India",
+      "summary": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
+      "ts": 1794713979000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+      "summary": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+      "ts": 1794713429000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -56,20 +70,6 @@
       "title": "Israeli air strike kills senior Hamas commander in Gaza",
       "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
       "ts": 1794704442000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
-      "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-      "ts": 1794702434000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-      "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
-      "ts": 1794701662000
     },
     {
       "source": "BBC World",
