@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T19:39:49Z",
+  "generated": "2026-11-15T20:10:04Z",
   "items": [
     {
       "source": "BBC World",
@@ -7,6 +7,13 @@
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
       "ts": 1794771159000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "ts": 1794771108000
     },
     {
       "source": "Al Jazeera",
@@ -154,13 +161,6 @@
       "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
       "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was expos",
       "ts": 1794730924000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "ts": 1794730661000
     },
     {
       "source": "Financial Times",
