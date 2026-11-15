@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-15T17:09:51Z",
+  "generated": "2026-11-15T17:39:50Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
-      "ts": 1794760602000
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "ts": 1794763420000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Somalia: We would not have recovered without the international community",
+      "summary": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
+      "ts": 1794761256000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "LIVE: Spain vs England – UEFA Nations League",
+      "summary": "Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.",
+      "ts": 1794761100000
     },
     {
       "source": "Al Jazeera",
@@ -65,25 +79,11 @@
       "ts": 1794755789000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-      "summary": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
-      "ts": 1794754914000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "ts": 1794754581000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-      "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
-      "ts": 1794754540000
     },
     {
       "source": "BBC World",
@@ -196,13 +196,6 @@
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
       "summary": "Sarvam has received government backing to build native models in world’s most populous country",
       "ts": 1794618005000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
-      "summary": "So far this year, 36 people have been killed in Russia by brown bears, with more than 87 attacks and 12,000 reports of the bears approaching people, officials say.",
-      "ts": 1794615270000
     },
     {
       "source": "Financial Times",
