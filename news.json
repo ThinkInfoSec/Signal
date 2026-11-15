@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T08:39:49Z",
+  "generated": "2026-11-15T09:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Thousands in Portugal protest against surging rental prices",
+      "summary": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+      "ts": 1794732037000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+      "summary": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
+      "ts": 1794731358000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -58,20 +72,6 @@
       "ts": 1794725067000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-      "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-      "ts": 1794723060000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-      "ts": 1794719102000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
@@ -96,7 +96,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
       "ts": 1794712864000
     },
     {
