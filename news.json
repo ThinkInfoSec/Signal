@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-15T04:39:49Z",
+  "generated": "2026-11-15T05:09:52Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
+      "summary": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss",
+      "ts": 1794718804000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Samsung conquered AI chips. Now it wants to build data centres",
+      "summary": "South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses",
+      "ts": 1794718804000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+      "summary": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
+      "ts": 1794718804000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+      "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+      "ts": 1794717897000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Video shows moment of Brooklyn building collapse from inside",
+      "summary": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
+      "ts": 1794717115000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -56,20 +91,6 @@
       "title": "Netanyahu sends plea to Eisenkot for unity government",
       "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
       "ts": 1794706391000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thailand’s elderly kept in cages",
-      "summary": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
-      "ts": 1794706328000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "SpaceX’s Starship nails a smooth return with historic catch",
-      "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-      "ts": 1794705721000
     },
     {
       "source": "BBC World",
@@ -198,20 +219,6 @@
       "ts": 1794592839000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Three tremors have shaken AI",
-      "summary": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
-      "ts": 1794592551000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-      "summary": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
-      "ts": 1794591954000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "German military drone operations disrupted by cyberattack",
@@ -287,13 +294,6 @@
       "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
       "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attacker",
       "ts": 1794578060000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Will Jensen Huang sell his $135bn of stock?",
-      "summary": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks",
-      "ts": 1794576174000
     },
     {
       "source": "NVIDIA",
