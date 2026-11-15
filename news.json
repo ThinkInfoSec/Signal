@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T16:39:51Z",
+  "generated": "2026-11-15T17:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+      "ts": 1794760602000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Thousands rally in Czech Republic against state media funding changes",
+      "summary": "Critics say proposed funding changes will give the government more control of state media.",
+      "ts": 1794760342000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -70,20 +84,6 @@
       "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
       "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
       "ts": 1794754540000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Fascism built the AI bubble. What will burst it?",
-      "summary": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
-      "ts": 1794754500000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "ts": 1794753239000
     },
     {
       "source": "BBC World",
@@ -651,20 +651,6 @@
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
       "ts": 1793959200000
-    },
-    {
-      "source": "Google DeepMind",
-      "cat": "ai",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "",
-      "ts": 1793898316000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-      "ts": 1793898000000
     }
   ]
 }
