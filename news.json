@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-15T20:39:52Z",
+  "generated": "2026-11-15T21:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "ts": 1794776620000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
+      "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+      "ts": 1794775063000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Estonia to close border crossings with Russia after alleged arson attack",
+      "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+      "ts": 1794774678000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -91,27 +112,6 @@
       "title": "What do we do with the works of problematic people?",
       "summary": "Do we pretend the records, books and films no longer exist, or ban our children from engaging with them?",
       "ts": 1794764600000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
-      "summary": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
-      "ts": 1794764363000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
-      "summary": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
-      "ts": 1794763983000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "ts": 1794763420000
     },
     {
       "source": "BBC World",
