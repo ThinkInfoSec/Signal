@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-15T08:09:52Z",
+  "generated": "2026-11-15T08:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "ts": 1794730661000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jordan sentences three men to death by hanging after deadly church attack",
+      "summary": "This is a breaking news story.",
+      "ts": 1794730504000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+      "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+      "ts": 1794730028000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -72,20 +93,6 @@
       "ts": 1794718804000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-      "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
-      "ts": 1794717897000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Video shows moment of Brooklyn building collapse from inside",
-      "summary": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
-      "ts": 1794717115000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -126,13 +133,6 @@
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
       "ts": 1794680278000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "ts": 1794679210000
     },
     {
       "source": "BleepingComputer",
