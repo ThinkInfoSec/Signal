@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T10:09:51Z",
+  "generated": "2026-11-15T10:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Polls open in Cape Verde in race with first female presidential candidate",
+      "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
+      "ts": 1794736982000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+      "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
+      "ts": 1794736777000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -60,7 +74,7 @@
     {
       "source": "The Hacker News",
       "cat": "cyber",
-      "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
       "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was expos",
       "ts": 1794730924000
     },
@@ -70,20 +84,6 @@
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
       "ts": 1794730661000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jordan sentences three men to death by hanging after deadly church attack",
-      "summary": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
-      "ts": 1794730504000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-      "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
-      "ts": 1794730028000
     },
     {
       "source": "BBC World",
