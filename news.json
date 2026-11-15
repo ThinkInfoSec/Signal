@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T09:09:49Z",
+  "generated": "2026-11-15T09:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "ts": 1794734797000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+      "summary": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+      "ts": 1794732587000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -16,6 +30,13 @@
       "ts": 1794731358000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was expos",
+      "ts": 1794730924000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
@@ -26,7 +47,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Jordan sentences three men to death by hanging after deadly church attack",
-      "summary": "This is a breaking news story.",
+      "summary": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
       "ts": 1794730504000
     },
     {
@@ -63,13 +84,6 @@
       "title": "Israel: Making the Holy Land burn",
       "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
       "ts": 1794725354000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The French Republic’s forgotten promise of equality",
-      "summary": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
-      "ts": 1794725067000
     },
     {
       "source": "Financial Times",
@@ -116,16 +130,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "ts": 1794694180000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "ts": 1794680886000
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "ts": 1794695226000
     },
     {
       "source": "BBC World",
@@ -322,13 +329,6 @@
       "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
       "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this w",
       "ts": 1794568240000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according t",
-      "ts": 1794567303000
     },
     {
       "source": "BleepingComputer",
