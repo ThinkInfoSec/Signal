@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-15T15:39:51Z",
+  "generated": "2026-11-15T16:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "ts": 1794758223000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "summary": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "ts": 1794756763000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "TSMC employee data breach linked to cloud provider",
       "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
       "ts": 1794756228000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+      "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+      "ts": 1794756081000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "20 years of Al Jazeera English: Our story is still being written",
+      "summary": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
+      "ts": 1794756072000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Record number of migrants arrive in Spain’s Canary Islands",
+      "summary": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+      "ts": 1794755789000
     },
     {
       "source": "Al Jazeera",
@@ -46,37 +81,9 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Twenty Years of Al Jazeera English: The Counternarrative",
+      "title": "20 Years of Al Jazeera English: The Counter Narrative",
       "summary": "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations.",
       "ts": 1794752981000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
-      "summary": "SpaceX's Starship successfully returned to its launchpad after orbiting in space.",
-      "ts": 1794751929000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
-      "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
-      "ts": 1794751328000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
-      "summary": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-      "ts": 1794750845000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
-      "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
-      "ts": 1794750302000
     },
     {
       "source": "BBC World",
@@ -154,13 +161,6 @@
       "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
       "summary": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
       "ts": 1794718804000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
-      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-      "ts": 1794712864000
     },
     {
       "source": "BleepingComputer",
