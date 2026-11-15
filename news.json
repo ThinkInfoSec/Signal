@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T00:09:48Z",
+  "generated": "2026-11-15T00:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+      "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+      "ts": 1794701662000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,13 +70,6 @@
       "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
       "summary": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
       "ts": 1794693645000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US flights resume after ageing technology blamed for outage",
-      "summary": "US flights resume after ageing technology blamed for outage",
-      "ts": 1794692179000
     },
     {
       "source": "BBC World",
