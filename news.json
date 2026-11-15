@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-15T09:39:50Z",
+  "generated": "2026-11-15T10:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "ts": 1794736645000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
+      "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
+      "ts": 1794736183000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran says it targets US radar in Bahrain. What do we know?",
+      "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
+      "ts": 1794735687000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
       "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
       "ts": 1794734797000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What forced the US to ground all planes? A router switch, we now know",
+      "summary": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+      "ts": 1794734269000
     },
     {
       "source": "Al Jazeera",
@@ -58,32 +86,11 @@
       "ts": 1794730028000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-      "summary": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
-      "ts": 1794727821000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "ASEAN summit: Who’s attending and what’s at stake?",
-      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-      "ts": 1794726684000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
       "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
       "ts": 1794726631000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israel: Making the Holy Land burn",
-      "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
-      "ts": 1794725354000
     },
     {
       "source": "Financial Times",
@@ -112,13 +119,6 @@
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
       "ts": 1794712864000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "ts": 1794710985000
     },
     {
       "source": "BBC World",
