@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T01:09:50Z",
+  "generated": "2026-11-15T01:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "SpaceX’s Starship nails a smooth return with historic catch",
+      "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+      "ts": 1794705721000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,13 +56,6 @@
       "title": "Netanyahu says only a unity government can guarantee Israel’s security",
       "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
       "ts": 1794697290000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Explosion near Syria’s capital kills father and child",
-      "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
-      "ts": 1794696192000
     },
     {
       "source": "BBC World",
