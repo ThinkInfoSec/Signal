@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-15T13:39:50Z",
+  "generated": "2026-11-15T14:09:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
+      "summary": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
+      "ts": 1794750845000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+      "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
+      "ts": 1794750302000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Explosive attack targets investigative journalist’s home in Panama",
+      "summary": "An investigative journalist’s home in Panama was attacked in a suspected bombing.",
+      "ts": 1794750191000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "ts": 1794750178000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "ts": 1794749865000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+      "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+      "ts": 1794749828000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Al Jazeera English celebrates 20 years on air",
+      "summary": "For 20 years, Al Jazeera English has brought untold stories to the world, giving a voice to the voiceless.",
+      "ts": 1794749806000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
+      "summary": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
+      "ts": 1794749451000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,48 +70,6 @@
       "title": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
       "summary": "Aid agencies are struggling to provide food, medical care and shelter to more than 50,000 Ethiopian refugees in Kenya.",
       "ts": 1794747020000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-      "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
-      "ts": 1794746179000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
-      "summary": "Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy.",
-      "ts": 1794745288000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-      "summary": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
-      "ts": 1794744951000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-      "summary": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
-      "ts": 1794744165000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
-      "summary": "Mansour Abbas faces mounting pressure from Israel’s change bloc to denounce Hamas as a prerequisite for coalition role.",
-      "ts": 1794743786000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
-      "summary": "Hosts Senegal thrive, and exuberant athletes defy the shadows cast over the Games by politics and history.",
-      "ts": 1794743619000
     },
     {
       "source": "Financial Times",
@@ -77,13 +91,6 @@
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
       "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
       "ts": 1794740792000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-      "ts": 1794736645000
     },
     {
       "source": "BBC World",
@@ -140,13 +147,6 @@
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
       "ts": 1794712864000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "ts": 1794695845000
     },
     {
       "source": "BBC World",
