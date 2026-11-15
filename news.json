@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T16:09:50Z",
+  "generated": "2026-11-15T16:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "British tourist smashes Jesus statue outside Vilnius church",
+      "summary": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+      "ts": 1794758662000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -77,13 +84,6 @@
       "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
       "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
       "ts": 1794753239000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "20 Years of Al Jazeera English: The Counter Narrative",
-      "summary": "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations.",
-      "ts": 1794752981000
     },
     {
       "source": "BBC World",
