@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-15T14:39:50Z",
+  "generated": "2026-11-15T15:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+      "summary": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+      "ts": 1794754914000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "ts": 1794754581000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+      "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
+      "ts": 1794754540000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Fascism built the AI bubble. What will burst it?",
+      "summary": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
+      "ts": 1794754500000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -44,13 +72,6 @@
       "ts": 1794750302000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Explosive attack targets investigative journalist’s home in Panama",
-      "summary": "An investigative journalist’s home in Panama was attacked in a suspected bombing.",
-      "ts": 1794750191000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Iran targets US military base in Bahrain with drone attack",
@@ -63,20 +84,6 @@
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
       "ts": 1794749865000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-      "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
-      "ts": 1794749828000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Al Jazeera English celebrates 20 years on air",
-      "summary": "For 20 years, Al Jazeera English has brought untold stories to the world, giving a voice to the voiceless.",
-      "ts": 1794749806000
     },
     {
       "source": "Financial Times",
@@ -119,13 +126,6 @@
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
       "ts": 1794730661000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "ts": 1794726631000
     },
     {
       "source": "Financial Times",
