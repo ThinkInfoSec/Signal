@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T23:09:50Z",
+  "generated": "2026-11-15T23:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday.",
+      "ts": 1794783447000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -42,13 +49,6 @@
       "title": "Our new blog for science",
       "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
       "ts": 1794780000000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
-      "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
-      "ts": 1794779633000
     },
     {
       "source": "Al Jazeera",
@@ -149,13 +149,6 @@
       "ts": 1794764600000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "ts": 1794759320000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "TSMC employee data breach linked to cloud provider",
@@ -252,6 +245,13 @@
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
       "summary": "Sarvam has received government backing to build native models in world’s most populous country",
       "ts": 1794618005000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+      "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
+      "ts": 1794613166000
     },
     {
       "source": "Ars Technica",
