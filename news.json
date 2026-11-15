@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-15T11:09:53Z",
+  "generated": "2026-11-15T11:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "ts": 1794740792000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Police confront protesters in clashes across France and Germany",
+      "summary": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
+      "ts": 1794740650000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+      "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
+      "ts": 1794740316000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,20 +79,6 @@
       "ts": 1794734797000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What forced the US to ground all planes? A router switch, we now know",
-      "summary": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
-      "ts": 1794734269000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-      "summary": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
-      "ts": 1794732587000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
@@ -126,13 +133,6 @@
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "ts": 1794695845000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "ts": 1794695226000
     },
     {
       "source": "BBC World",
