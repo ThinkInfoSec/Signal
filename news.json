@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T07:39:51Z",
+  "generated": "2026-11-15T08:09:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
+      "summary": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
+      "ts": 1794727821000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -77,13 +84,6 @@
       "title": "Video shows moment of Brooklyn building collapse from inside",
       "summary": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
       "ts": 1794717115000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Zimbabwe’s HIV gains face a test among young people",
-      "summary": "New prevention tools offer hope, but reaching young people remains a challenge.",
-      "ts": 1794715980000
     },
     {
       "source": "BBC World",
