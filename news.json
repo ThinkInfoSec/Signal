@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T21:39:51Z",
+  "generated": "2026-11-15T22:09:48Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
+      "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
+      "ts": 1794779633000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+      "summary": "Scott Bessent gives Nvidia's board 10 days to show the company's compliance with US export controls.",
+      "ts": 1794779267000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -75,15 +89,8 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "ts": 1794771159000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-      "summary": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
-      "ts": 1794769341000
     },
     {
       "source": "BBC World",
@@ -231,13 +238,6 @@
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
       "summary": "Sarvam has received government backing to build native models in world’s most populous country",
       "ts": 1794618005000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-      "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
-      "ts": 1794613166000
     },
     {
       "source": "Ars Technica",
