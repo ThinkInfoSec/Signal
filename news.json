@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T19:09:50Z",
+  "generated": "2026-11-15T19:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "ts": 1794771159000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
+      "summary": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+      "ts": 1794769341000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,13 +28,6 @@
       "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
       "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
       "ts": 1794767393000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-      "ts": 1794766100000
     },
     {
       "source": "Al Jazeera",
@@ -84,13 +91,6 @@
       "title": "Czechs rally against plan to switch funding of public media",
       "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "ts": 1794763420000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Somalia: We would not have recovered without the international community",
-      "summary": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
-      "ts": 1794761256000
     },
     {
       "source": "BBC World",
