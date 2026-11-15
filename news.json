@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-15T21:09:50Z",
+  "generated": "2026-11-15T21:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "summary": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+      "ts": 1794777548000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Czechs rally against plan to switch funding of public media",
       "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "ts": 1794776620000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+      "summary": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+      "ts": 1794776053000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+      "summary": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+      "ts": 1794775815000
     },
     {
       "source": "Al Jazeera",
@@ -72,32 +93,11 @@
       "ts": 1794767891000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-      "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
-      "ts": 1794767512000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
       "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
       "ts": 1794767393000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Christian priest says US denied him a visa for being Palestinian",
-      "summary": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
-      "ts": 1794766052000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Estonia to close border crossings with Russia after attack on drone maker",
-      "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
-      "ts": 1794766022000
     },
     {
       "source": "Financial Times",
