@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-15T03:09:51Z",
+  "generated": "2026-11-15T03:39:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "ts": 1794712864000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+      "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+      "ts": 1794711546000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "ts": 1794710985000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,13 +70,6 @@
       "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
       "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
       "ts": 1794701662000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
-      "ts": 1794700808000
     },
     {
       "source": "BBC World",
@@ -107,13 +121,6 @@
       "ts": 1794677245000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "ts": 1794671635000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
@@ -147,13 +154,6 @@
       "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
       "summary": "So far this year, 36 people have been killed in Russia by brown bears, with more than 87 attacks and 12,000 reports of the bears approaching people, officials say.",
       "ts": 1794615270000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "ts": 1794614632000
     },
     {
       "source": "Financial Times",
