@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-15T12:39:49Z",
+  "generated": "2026-11-15T13:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt",
+      "summary": "Harrison won by a fourth-round submission against MMA legend Nunes, who made a comeback after a three-year absence.",
+      "ts": 1794747050000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
+      "summary": "Aid agencies are struggling to provide food, medical care and shelter to more than 50,000 Ethiopian refugees in Kenya.",
+      "ts": 1794747020000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+      "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
+      "ts": 1794746179000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -37,11 +58,11 @@
       "ts": 1794743619000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
-      "summary": "Ten people have been convicted by the Abu Dhabi Criminal Court over a brawl in a hotel lobby.",
-      "ts": 1794742429000
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "summary": "Even the most powerful frontier labs must bend to the power of public equity",
+      "ts": 1794742844000
     },
     {
       "source": "The Hacker News",
@@ -56,20 +77,6 @@
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
       "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
       "ts": 1794740792000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Police confront protesters in clashes across France and Germany",
-      "summary": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
-      "ts": 1794740650000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-      "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
-      "ts": 1794740316000
     },
     {
       "source": "BBC World",
@@ -144,9 +151,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "ts": 1794680278000
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "ts": 1794695226000
     },
     {
       "source": "BleepingComputer",
@@ -210,13 +217,6 @@
       "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
       "summary": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
       "ts": 1794602440000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
-      "summary": "AI lab’s chief executive brushes off tech stock turbulence less than a week before planned $1.5tn listing",
-      "ts": 1794598886000
     },
     {
       "source": "BleepingComputer",
