@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-15T05:09:52Z",
+  "generated": "2026-11-15T05:39:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+      "ts": 1794719102000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -67,7 +74,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
       "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
       "ts": 1794711546000
     },
@@ -84,13 +91,6 @@
       "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
       "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
       "ts": 1794707695000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu sends plea to Eisenkot for unity government",
-      "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
-      "ts": 1794706391000
     },
     {
       "source": "BBC World",
