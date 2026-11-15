@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T07:09:49Z",
+  "generated": "2026-11-15T07:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "ts": 1794726684000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "ts": 1794726631000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -72,13 +86,6 @@
       "ts": 1794715980000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Monkey attacks woman inside residential complex in India",
-      "summary": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
-      "ts": 1794713979000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -105,13 +112,6 @@
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "ts": 1794694180000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "ts": 1794683545000
     },
     {
       "source": "BBC World",
