@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-15T18:09:51Z",
+  "generated": "2026-11-15T18:39:52Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+      "ts": 1794767393000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian missiles.",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
       "ts": 1794766100000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Christian priest says US denied him a visa for being Palestinian",
+      "summary": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
+      "ts": 1794766052000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Estonia to close border crossings with Russia after attack on drone maker",
+      "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
+      "ts": 1794766022000
     },
     {
       "source": "Financial Times",
@@ -67,23 +88,9 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "LIVE: Spain vs England – UEFA Nations League",
-      "summary": "Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.",
+      "title": "Spain vs England live: UEFA Nations League",
+      "summary": "Team news , score and live text commentary as England and Spain vie for top spot in final Nations League group game.",
       "ts": 1794761100000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands rally in Czech Republic against state media funding changes",
-      "summary": "Critics say proposed funding changes will give the government more control of state media.",
-      "ts": 1794760342000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "British tourist smashes Jesus statue outside Vilnius church",
-      "summary": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
-      "ts": 1794758662000
     },
     {
       "source": "BBC World",
@@ -322,13 +329,6 @@
       "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians s",
       "ts": 1794574842000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft says November security updates cause printing issues",
-      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "ts": 1794572860000
     },
     {
       "source": "The Hacker News",
