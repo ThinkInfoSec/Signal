@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-15T06:39:51Z",
+  "generated": "2026-11-15T07:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israel: Making the Holy Land burn",
+      "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+      "ts": 1794725354000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The French Republic’s forgotten promise of equality",
+      "summary": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
+      "ts": 1794725067000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
+      "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
+      "ts": 1794723060000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,13 +79,6 @@
       "ts": 1794713979000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-      "summary": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
-      "ts": 1794713429000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -72,25 +86,11 @@
       "ts": 1794712864000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-      "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-      "ts": 1794711546000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
       "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
       "ts": 1794710985000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-      "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-      "ts": 1794707695000
     },
     {
       "source": "BBC World",
