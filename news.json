@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-15T12:09:52Z",
+  "generated": "2026-11-15T12:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
+      "summary": "Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy.",
+      "ts": 1794745288000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+      "summary": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
+      "ts": 1794744951000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+      "summary": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
+      "ts": 1794744165000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
+      "summary": "Mansour Abbas faces mounting pressure from Israel’s change bloc to denounce Hamas as a prerequisite for coalition role.",
+      "ts": 1794743786000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -42,34 +70,6 @@
       "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
       "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
       "ts": 1794740316000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
-      "summary": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
-      "ts": 1794739956000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spain football coach denies racism ahead of England match",
-      "summary": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
-      "ts": 1794738508000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Polls open in Cape Verde in race with first female presidential candidate",
-      "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
-      "ts": 1794736982000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-      "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
-      "ts": 1794736777000
     },
     {
       "source": "BBC World",
