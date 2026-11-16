@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-16T06:09:50Z",
+  "generated": "2026-11-16T06:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US and rivals spar over next UN boss as race lurches towards deadline",
+      "summary": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
+      "ts": 1794808674000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -112,13 +119,6 @@
       "title": "ASEAN, China fall short of agreeing on South China Sea code",
       "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
       "ts": 1794797195000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Houthis advance in Yemen as government forces move to defend Aden",
-      "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
-      "ts": 1794795749000
     },
     {
       "source": "BBC World",
