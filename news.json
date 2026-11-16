@@ -1,10 +1,31 @@
 {
-  "generated": "2026-11-16T07:39:50Z",
+  "generated": "2026-11-16T08:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why is China resisting a nuclear treaty with the US and Russia?",
+      "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+      "ts": 1794815649000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "At least 11 killed in blaze on Thailand’s Phuket island",
+      "summary": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
+      "ts": 1794814968000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run",
+      "ts": 1794814461000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
       "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
       "ts": 1794813803000
     },
@@ -28,6 +49,13 @@
       "title": "How Russia is preparing Iran for the next escalation",
       "summary": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
       "ts": 1794812251000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has be",
+      "ts": 1794812014000
     },
     {
       "source": "Al Jazeera",
@@ -86,25 +114,11 @@
       "ts": 1794804822000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
-      "summary": "Chinese tech executive romantically linked to ex-Nvidia CEO Jensen Huang left in August 2025, Singapore-based firm says.",
-      "ts": 1794804409000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Accounting student’s AI cheating sparks South Korean exam furore",
       "summary": "Seoul promises crackdown just days ahead of annual university entrance test",
       "ts": 1794803777000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-      "summary": "Prabowo says his government has a 'zero-tolerance policy' for firms that contribute to blazes and pledges strict action.",
-      "ts": 1794802313000
     },
     {
       "source": "BBC World",
@@ -151,7 +165,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
       "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
       "ts": 1794780013000
     },
@@ -359,25 +373,11 @@
       "ts": 1794578722000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attacker",
-      "ts": 1794578060000
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians s",
       "ts": 1794574842000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenar",
-      "ts": 1794570751000
     },
     {
       "source": "OpenAI",
