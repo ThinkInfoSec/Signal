@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-16T05:09:50Z",
+  "generated": "2026-11-16T05:39:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+      "ts": 1794805619000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI",
+      "summary": "Ex-Nvidia chief’s ignominious exit removes a vocal and influential supporter of open AI systems",
+      "ts": 1794805221000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
+      "summary": "Ten biggest flotations have fallen more than 20% on average in 2026 after four years of gains",
+      "ts": 1794805211000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Publishers can afford to play hardball with Big Tech",
+      "summary": "The value of deep wells of real human content has increased as AI fluff floods internet search engines",
+      "ts": 1794805211000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US manufacturing is back and better",
+      "summary": "Resiliency enabled by technology is driving an uptick in factory output and jobs",
+      "ts": 1794805211000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+      "summary": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
+      "ts": 1794804822000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+      "summary": "Chinese tech executive romantically linked to ex-Nvidia CEO Jensen Huang left in August 2025, Singapore-based firm says.",
+      "ts": 1794804409000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Accounting student’s AI cheating sparks South Korean exam furore",
+      "summary": "Seoul promises crackdown just days ahead of annual university entrance test",
+      "ts": 1794803777000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -72,25 +128,11 @@
       "ts": 1794793677000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope urges end to Amazon deforestation",
-      "summary": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
-      "ts": 1794793451000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "'Had plans for the future': Diary of dead Kiwi monk Justin Evans at centre of police probe",
       "summary": "Diary entries showed no indication Justin Evans wanted to leave the remote Scottish island or take his own life, police say.",
       "ts": 1794793239000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
-      "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
-      "ts": 1794790283000
     },
     {
       "source": "NVIDIA",
@@ -126,13 +168,6 @@
       "title": "Our new blog for science",
       "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
       "ts": 1794780000000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
-      "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
-      "ts": 1794779633000
     },
     {
       "source": "RNZ World",
@@ -184,13 +219,6 @@
       "ts": 1794756228000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "ts": 1794749865000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic’s IPO is the next big test for AI",
@@ -219,20 +247,6 @@
       "ts": 1794718804000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Samsung conquered AI chips. Now it wants to build data centres",
-      "summary": "South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses",
-      "ts": 1794718804000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
-      "summary": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
-      "ts": 1794718804000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
@@ -252,20 +266,6 @@
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114",
       "ts": 1794659915000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
-      "summary": "Opportunities in China lie as much in the picks and shovels of the AI supply chain",
-      "ts": 1794632437000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
-      "summary": "Sarvam has received government backing to build native models in world’s most populous country",
-      "ts": 1794618005000
     },
     {
       "source": "Ars Technica",
