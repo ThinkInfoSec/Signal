@@ -1,19 +1,40 @@
 {
-  "generated": "2026-11-16T03:09:51Z",
+  "generated": "2026-11-16T03:39:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "ts": 1794799316000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "ts": 1794798589000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "ts": 1794798511000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "ASEAN, China fall short of agreeing on South China Sea code",
+      "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
+      "ts": 1794797195000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Houthis advance in Yemen as government forces move to defend Aden",
       "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
       "ts": 1794795749000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
-      "ts": 1794793999000
     },
     {
       "source": "Al Jazeera",
@@ -72,13 +93,6 @@
       "ts": 1794787468000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
-      "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
-      "ts": 1794787305000
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -88,16 +102,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-      "ts": 1794786730000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-      "ts": 1794783447000
+      "title": "Canada bars Russia from Junior World Championships",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "ts": 1794780076000
     },
     {
       "source": "BBC World",
@@ -147,13 +154,6 @@
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "ts": 1794771159000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "ts": 1794767891000
     },
     {
       "source": "BleepingComputer",
