@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-16T05:39:52Z",
+  "generated": "2026-11-16T06:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
+      "summary": "Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.",
+      "ts": 1794807532000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -112,13 +119,6 @@
       "title": "Houthis advance in Yemen as government forces move to defend Aden",
       "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
       "ts": 1794795749000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-      "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
-      "ts": 1794793932000
     },
     {
       "source": "BBC World",
