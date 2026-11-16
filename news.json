@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-16T02:39:50Z",
+  "generated": "2026-11-16T03:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+      "ts": 1794795749000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -77,13 +84,6 @@
       "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
       "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weigh",
       "ts": 1794787228000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-      "summary": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
-      "ts": 1794787200000
     },
     {
       "source": "BBC World",
