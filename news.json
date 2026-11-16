@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-16T07:09:49Z",
+  "generated": "2026-11-16T07:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "ts": 1794813803000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
+      "summary": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
+      "ts": 1794813180000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The Red Sea cannot be secured without restoring the Yemeni state",
+      "summary": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
+      "ts": 1794812783000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -86,20 +107,6 @@
       "ts": 1794802313000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pope Leo flies to mass in the Papacoptero",
-      "summary": "Pope Leo was filmed flying in the cockpit of an army helicopter to celebrate mass",
-      "ts": 1794801244000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Shophouse fire kills at least 11 in Phuket",
-      "summary": "Fire engulfed buildings in Thailand’s popular tourist town of Patong, killing several people and injuring many others.",
-      "ts": 1794801103000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
@@ -112,13 +119,6 @@
       "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
       "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
       "ts": 1794798589000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-      "ts": 1794798511000
     },
     {
       "source": "BBC World",
