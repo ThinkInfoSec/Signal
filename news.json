@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-16T01:39:50Z",
+  "generated": "2026-11-16T02:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "ts": 1794793677000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "'Had plans for the future': Diary of dead Kiwi monk Justin Evans at centre of police probe",
       "summary": "Diary entries showed no indication Justin Evans wanted to leave the remote Scottish island or take his own life, police say.",
-      "ts": 1794792119000
+      "ts": 1794793239000
     },
     {
       "source": "Al Jazeera",
@@ -91,13 +98,6 @@
       "title": "Police ban protests near 10 schools and five universities in Paris",
       "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
       "ts": 1794781734000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "ts": 1794781460000
     },
     {
       "source": "OpenAI",
