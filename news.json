@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-16T06:39:48Z",
+  "generated": "2026-11-16T07:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How Russia is preparing Iran for the next escalation",
+      "summary": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
+      "ts": 1794812251000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -95,7 +102,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
       "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
       "ts": 1794799316000
     },
@@ -112,13 +119,6 @@
       "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
       "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
       "ts": 1794798511000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "ASEAN, China fall short of agreeing on South China Sea code",
-      "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
-      "ts": 1794797195000
     },
     {
       "source": "BBC World",
