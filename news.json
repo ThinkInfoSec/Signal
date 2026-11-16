@@ -1,11 +1,46 @@
 {
-  "generated": "2026-11-15T23:39:50Z",
+  "generated": "2026-11-16T00:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+      "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
+      "ts": 1794787305000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weigh",
+      "ts": 1794787228000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Tehran warns it may strike first before another US attack",
+      "summary": "Yemeni army says it is 'repositioning' troops away from the Bab al-Mandeb strait and other key coastal areas.",
+      "ts": 1794787200000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
-      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday.",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "ts": 1794786730000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Brawl erupts in Brazil’s Women’s League final",
+      "summary": "A fist fight erupted between opposing players during the final of Brazil's under-20 Women’s League.",
+      "ts": 1794786397000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
       "ts": 1794783447000
     },
     {
@@ -51,6 +86,13 @@
       "ts": 1794780000000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
+      "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
+      "ts": 1794779633000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
@@ -77,27 +119,6 @@
       "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
       "summary": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
       "ts": 1794776053000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-      "summary": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
-      "ts": 1794775815000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Who can force Israel to implement Gaza ceasefire deal?",
-      "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-      "ts": 1794775063000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Estonia to close border crossings with Russia after alleged arson attack",
-      "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
-      "ts": 1794774678000
     },
     {
       "source": "RNZ World",
@@ -177,13 +198,6 @@
       "ts": 1794742051000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "ts": 1794740792000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
@@ -245,13 +259,6 @@
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
       "summary": "Sarvam has received government backing to build native models in world’s most populous country",
       "ts": 1794618005000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-      "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
-      "ts": 1794613166000
     },
     {
       "source": "Ars Technica",
@@ -651,13 +658,6 @@
       "title": "Korea Advances Physical AI Across Industries With NVIDIA",
       "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helpi",
       "ts": 1794200440000
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employe",
-      "ts": 1794200439000
     },
     {
       "source": "MIT Technology Review",
