@@ -1,13 +1,6 @@
 {
-  "generated": "2026-11-16T04:39:51Z",
+  "generated": "2026-11-16T05:09:50Z",
   "items": [
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Accounting student’s AI cheating sparks South Korean exam furore",
-      "summary": "Seoul promises crackdown just days ahead of annual university entrance test",
-      "ts": 1794803777000
-    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -266,6 +259,13 @@
       "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
       "summary": "Opportunities in China lie as much in the picks and shovels of the AI supply chain",
       "ts": 1794632437000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
+      "summary": "Sarvam has received government backing to build native models in world’s most populous country",
+      "ts": 1794618005000
     },
     {
       "source": "Ars Technica",
