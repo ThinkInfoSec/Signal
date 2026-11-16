@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-16T00:09:48Z",
+  "generated": "2026-11-16T00:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Czechs rally against gov’t threat to media independence",
+      "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+      "ts": 1794788792000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+      "summary": "Workers' rights, environmental concerns and local businesses remain at the centre of the debate.",
+      "ts": 1794787468000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -100,25 +114,11 @@
       "ts": 1794779267000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
-      "summary": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
-      "ts": 1794777548000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Czechs rally against plan to switch funding of public media",
       "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "ts": 1794776620000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
-      "summary": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
-      "ts": 1794776053000
     },
     {
       "source": "RNZ World",
