@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-16T00:39:51Z",
+  "generated": "2026-11-16T01:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+      "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+      "ts": 1794790283000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+      "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+      "ts": 1794789948000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -79,13 +93,6 @@
       "ts": 1794781460000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-      "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
-      "ts": 1794780398000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -105,13 +112,6 @@
       "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
       "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
       "ts": 1794779633000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
-      "summary": "Scott Bessent gives Nvidia's board 10 days to show the company's compliance with US export controls.",
-      "ts": 1794779267000
     },
     {
       "source": "BBC World",
