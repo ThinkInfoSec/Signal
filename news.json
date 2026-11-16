@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-16T02:09:50Z",
+  "generated": "2026-11-16T02:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+      "ts": 1794793999000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+      "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+      "ts": 1794793932000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "ts": 1794793677000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope urges end to Amazon deforestation",
+      "summary": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
+      "ts": 1794793451000
     },
     {
       "source": "RNZ World",
@@ -60,8 +81,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Iran war live: Tehran warns it may strike first before another US attack",
-      "summary": "Yemeni army says it is 'repositioning' troops away from the Bab al-Mandeb strait and other key coastal areas.",
+      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+      "summary": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
       "ts": 1794787200000
     },
     {
@@ -72,13 +93,6 @@
       "ts": 1794786730000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Brawl erupts in Brazil’s Women’s League final",
-      "summary": "A fist fight erupted between opposing players during the final of Brazil's under-20 Women’s League.",
-      "ts": 1794786397000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
@@ -86,18 +100,11 @@
       "ts": 1794783447000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
-      "summary": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
-      "ts": 1794782401000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Police ban protests near 10 schools and five universities in Paris",
-      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-      "ts": 1794781734000
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "ts": 1794780013000
     },
     {
       "source": "OpenAI",
@@ -119,13 +126,6 @@
       "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
       "summary": "Also in today’s newsletter: data centre construction stocks lose $4.2tn and the FDA rejects a cancer drug invented in China",
       "ts": 1794779633000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "ts": 1794776620000
     },
     {
       "source": "RNZ World",
