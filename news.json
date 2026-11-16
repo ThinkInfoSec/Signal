@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-16T04:09:51Z",
+  "generated": "2026-11-16T04:39:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Accounting student’s AI cheating sparks South Korean exam furore",
+      "summary": "Seoul promises crackdown just days ahead of annual university entrance test",
+      "ts": 1794803777000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+      "summary": "Prabowo says his government has a 'zero-tolerance policy' for firms that contribute to blazes and pledges strict action.",
+      "ts": 1794802313000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pope Leo flies to mass in the Papacoptero",
+      "summary": "Pope Leo was filmed flying in the cockpit of an army helicopter to celebrate mass",
+      "ts": 1794801244000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Shophouse fire kills at least 11 in Phuket",
+      "summary": "Fire engulfed buildings in Thailand’s popular tourist town of Patong, killing several people and injuring many others.",
+      "ts": 1794801103000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -70,27 +98,6 @@
       "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
       "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
       "ts": 1794790283000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
-      "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
-      "ts": 1794789948000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Czechs rally against gov’t threat to media independence",
-      "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
-      "ts": 1794788792000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
-      "summary": "Workers' rights, environmental concerns and local businesses remain at the centre of the debate.",
-      "ts": 1794787468000
     },
     {
       "source": "NVIDIA",
@@ -259,13 +266,6 @@
       "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
       "summary": "Opportunities in China lie as much in the picks and shovels of the AI supply chain",
       "ts": 1794632437000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
-      "summary": "Sarvam has received government backing to build native models in world’s most populous country",
-      "ts": 1794618005000
     },
     {
       "source": "Ars Technica",
