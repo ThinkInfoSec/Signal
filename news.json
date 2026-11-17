@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-17T21:39:49Z",
+  "generated": "2026-11-17T22:09:49Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia sales doubled last quarter",
+      "summary": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
+      "ts": 1794953290000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,13 +21,6 @@
       "title": "UK sanctions Israeli settlement firms to protect two-state solution",
       "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
       "ts": 1794950911000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia sales doubled last quarter",
-      "summary": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
-      "ts": 1794950902000
     },
     {
       "source": "BleepingComputer",
