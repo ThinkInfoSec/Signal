@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-17T17:54:58Z",
+  "generated": "2026-11-17T18:09:51Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "summary": "[...]",
+      "ts": 1794938655000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Category 5 cyclone with gusts up to 295km/h slams Cook Islands",
+      "summary": "Warnings for gales and strong winds are in place.",
+      "ts": 1794938433000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -343,13 +357,6 @@
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
       "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
       "ts": 1794869907000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
-      "ts": 1794869640000
     },
     {
       "source": "RNZ World",
