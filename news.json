@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-17T23:09:49Z",
+  "generated": "2026-11-17T23:39:51Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Nvidia shares rise as chip giant beats forecasts",
+      "summary": "The latest third quarter result eases investor concerns about demand for artificial intelligence infrastructure.",
+      "ts": 1794957616000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Top spy agency suffers network outage, the latest US technical failure",
+      "summary": "A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.",
+      "ts": 1794957552000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+      "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+      "ts": 1794956940000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -11,9 +32,16 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "ts": 1794955590000
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "ts": 1794956619000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+      "ts": 1794955455000
     },
     {
       "source": "Financial Times",
@@ -86,13 +114,6 @@
       "ts": 1794950075000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-      "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
-      "ts": 1794950071000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russian military plane crashes, killing all 19 on board",
@@ -112,13 +133,6 @@
       "title": "The Nvidious tech CEO",
       "summary": "How much should markets value the likes of Huang, Musk and Amodei?",
       "ts": 1794949200000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-      "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-      "ts": 1794949076000
     },
     {
       "source": "BleepingComputer",
@@ -168,13 +182,6 @@
       "title": "Category 5 cyclone with gusts up to 315km/h slams Cook Islands",
       "summary": "Warnings for gales and strong winds are in place.",
       "ts": 1794940015000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "ts": 1794939861000
     },
     {
       "source": "BleepingComputer",
