@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-17T22:09:49Z",
+  "generated": "2026-11-17T22:39:47Z",
   "items": [
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Nvidia sales doubled last quarter",
-      "summary": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
-      "ts": 1794953290000
+      "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+      "summary": "Chip giant raised next year’s financial forecasts and doubled revenue last quarter",
+      "ts": 1794954783000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+      "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
+      "ts": 1794952887000
     },
     {
       "source": "Al Jazeera",
@@ -112,13 +119,6 @@
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
       "ts": 1794948294000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tensions rise over draft climate deal at COP31",
-      "summary": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks",
-      "ts": 1794948029000
     },
     {
       "source": "Ars Technica",
