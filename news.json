@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-17T20:39:50Z",
+  "generated": "2026-11-17T21:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "ts": 1794949571000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "ts": 1794949440000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+      "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+      "ts": 1794949076000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "ts": 1794948681000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What’s behind the ANC’s decline in South Africa?",
+      "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
+      "ts": 1794948427000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "ts": 1794948294000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Tensions rise over draft climate deal at COP31",
+      "summary": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks",
+      "ts": 1794948029000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
@@ -14,20 +63,6 @@
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
       "ts": 1794947420000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "ts": 1794947146000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian military plane crashes killing all 19 on board",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "ts": 1794947127000
     },
     {
       "source": "Al Jazeera",
@@ -65,32 +100,11 @@
       "ts": 1794944630000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
-      "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
-      "ts": 1794944505000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
       "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonst",
       "ts": 1794944060000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ugandan human trafficking survivor uses music to fight abuse",
-      "summary": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
-      "ts": 1794943964000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "ts": 1794943890000
     },
     {
       "source": "RNZ World",
@@ -147,13 +161,6 @@
       "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
       "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
       "ts": 1794935997000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "ts": 1794935403000
     },
     {
       "source": "Google AI",
@@ -294,13 +301,6 @@
       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
       "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
       "ts": 1794908662000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-      "ts": 1794904542000
     },
     {
       "source": "The Hacker News",
