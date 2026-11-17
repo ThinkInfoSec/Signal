@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-17T22:39:47Z",
+  "generated": "2026-11-17T23:09:49Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "ts": 1794956661000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "ts": 1794955590000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
-      "summary": "Chip giant raised next year’s financial forecasts and doubled revenue last quarter",
+      "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
       "ts": 1794954783000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russian military plane crash in Siberia kills 19",
+      "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+      "ts": 1794954076000
     },
     {
       "source": "Al Jazeera",
@@ -74,7 +95,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "ts": 1794949571000
     },
@@ -105,20 +126,6 @@
       "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
       "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
       "ts": 1794948681000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What’s behind the ANC’s decline in South Africa?",
-      "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
-      "ts": 1794948427000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "ts": 1794948294000
     },
     {
       "source": "Ars Technica",
@@ -310,13 +317,6 @@
       "ts": 1794914418000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-      "ts": 1794914391000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
@@ -329,6 +329,13 @@
       "title": "An argument for AI eyewear",
       "summary": "Spectacles to help the visually impaired, plus four more smart-tech inventions",
       "ts": 1794913206000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "ts": 1794902400000
     },
     {
       "source": "The Hacker News",
@@ -368,15 +375,15 @@
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "ts": 1794873600000
     },
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "ts": 1794873600000
     },
     {
@@ -504,13 +511,6 @@
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
       "ts": 1794830400000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "ts": 1794821400000
     },
     {
       "source": "Hugging Face",
