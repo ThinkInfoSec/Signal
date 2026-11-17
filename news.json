@@ -1,10 +1,38 @@
 {
-  "generated": "2026-11-17T18:39:49Z",
+  "generated": "2026-11-17T19:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mozambique opposition leader goes on trial on terrorism charges",
+      "summary": "Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges",
+      "ts": 1794941295000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Indian limbo skater breaks world record",
+      "summary": "An Indian skater broke her own Guinness World Record, limbo skating 50 metres beneath descending poles in 6.86 seconds.",
+      "ts": 1794941279000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+      "summary": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+      "ts": 1794941026000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Category 5 cyclone with gusts up to 315km/h slams Cook Islands",
+      "summary": "Warnings for gales and strong winds are in place.",
+      "ts": 1794940015000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
       "ts": 1794939861000
     },
@@ -18,7 +46,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Jensen Huang to testify before US House committees next month",
+      "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
       "summary": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
       "ts": 1794939246000
     },
@@ -28,13 +56,6 @@
       "title": "Tor releases emergency update amid ongoing DDoS attack",
       "summary": "[...]",
       "ts": 1794938655000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Category 5 cyclone with gusts up to 295km/h slams Cook Islands",
-      "summary": "Warnings for gales and strong winds are in place.",
-      "ts": 1794938433000
     },
     {
       "source": "Al Jazeera",
@@ -86,13 +107,6 @@
       "ts": 1794935403000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "CAIR defends civil rights work against Trump’s ‘smear’",
-      "summary": "The country's largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
-      "ts": 1794935389000
-    },
-    {
       "source": "Google AI",
       "cat": "ai",
       "title": "Put Gemini to work for you",
@@ -107,25 +121,11 @@
       "ts": 1794934598000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-      "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
-      "ts": 1794934405000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Google makes it easier to use Gemini without training AI on your data",
       "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
       "ts": 1794934210000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Photos: Tens of thousands rally in France over living standards and wages",
-      "summary": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
-      "ts": 1794933541000
     },
     {
       "source": "BleepingComputer",
