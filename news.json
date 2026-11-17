@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-17T20:09:48Z",
+  "generated": "2026-11-17T20:39:50Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "ts": 1794947575000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "ts": 1794947420000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "ts": 1794947146000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "ts": 1794947127000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kalshi halts Trump speech bets after CFTC order",
+      "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+      "ts": 1794946818000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Police charge crowds at Brussels student march",
+      "summary": "Thousands of students and teachers marched in Brussels against higher tuition fees, education reforms and cuts.",
+      "ts": 1794946447000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+      "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+      "ts": 1794946301000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -23,11 +72,11 @@
       "ts": 1794944505000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian military plane crashes killing all 19 on board",
-      "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
-      "ts": 1794944035000
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonst",
+      "ts": 1794944060000
     },
     {
       "source": "Al Jazeera",
@@ -56,27 +105,6 @@
       "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
       "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
       "ts": 1794943447000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "More than 100,000 take part in France pay protests",
-      "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
-      "ts": 1794942589000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-      "summary": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
-      "ts": 1794942194000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Monster waves threaten California coast as storms intensify",
-      "summary": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
-      "ts": 1794941580000
     },
     {
       "source": "RNZ World",
@@ -163,13 +191,6 @@
       "ts": 1794929890000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "ts": 1794929771000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
@@ -217,13 +238,6 @@
       "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
       "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for",
       "ts": 1794924010000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "ts": 1794920072000
     },
     {
       "source": "The Hacker News",
@@ -294,13 +308,6 @@
       "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
       "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to Repor",
       "ts": 1794899533000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments continues to be repo",
-      "ts": 1794896967000
     },
     {
       "source": "Financial Times",
@@ -385,13 +392,6 @@
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
       "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
       "ts": 1794869907000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Can Jensen Huang save his reputation?",
-      "summary": "The world is \"remarkably forgiving\" of successful men, but can Jensen Huang come back from his scandal.",
-      "ts": 1794862003000
     },
     {
       "source": "NVIDIA",
@@ -525,13 +525,6 @@
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "summary": "",
       "ts": 1794592839000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "ts": 1794590745000
     },
     {
       "source": "Hugging Face",
