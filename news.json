@@ -1,6 +1,69 @@
 {
-  "generated": "2026-11-17T21:09:50Z",
+  "generated": "2026-11-17T21:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+      "ts": 1794951324000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "ts": 1794950911000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia sales doubled last quarter",
+      "summary": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
+      "ts": 1794950902000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "ts": 1794950837000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+      "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+      "ts": 1794950802000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Moment Russian military plane crashes in Siberia, killing 19",
+      "summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
+      "ts": 1794950743000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "ts": 1794950675000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "These are the 'world's coolest' streets this year, according to Time Out",
+      "summary": "Time Out's \"coolest streets\" round-up celebrates the world's best promenades and pathways.",
+      "ts": 1794950075000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+      "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+      "ts": 1794950071000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -14,6 +77,13 @@
       "title": "US loses measles elimination status after 26 years amid record case numbers",
       "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
       "ts": 1794949440000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The Nvidious tech CEO",
+      "summary": "How much should markets value the likes of Huang, Musk and Amodei?",
+      "ts": 1794949200000
     },
     {
       "source": "Al Jazeera",
@@ -65,41 +135,6 @@
       "ts": 1794947420000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kalshi halts Trump speech bets after CFTC order",
-      "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
-      "ts": 1794946818000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Police charge crowds at Brussels student march",
-      "summary": "Thousands of students and teachers marched in Brussels against higher tuition fees, education reforms and cuts.",
-      "ts": 1794946447000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-      "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
-      "ts": 1794946301000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India’s footballers celebrate SAFF final win against Pakistan",
-      "summary": "The Indian men’s football team has been celebrating after winning the 2026 SAFF Championship.",
-      "ts": 1794945360000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can a robot pianist upstage a human musician?",
-      "summary": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
-      "ts": 1794944630000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
@@ -149,6 +184,13 @@
       "ts": 1794938655000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia without Jensen Huang",
+      "summary": "Can the chip giant survive the loss of its talismanic CEO?",
+      "ts": 1794938641000
+    },
+    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -168,13 +210,6 @@
       "title": "Put Gemini to work for you",
       "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
       "ts": 1794934800000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "ts": 1794934598000
     },
     {
       "source": "Ars Technica",
@@ -296,13 +331,6 @@
       "ts": 1794913206000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-      "ts": 1794908662000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
@@ -329,27 +357,6 @@
       "title": "Banks seek to curb AI debt exposure as backlash mounts",
       "summary": "Lenders are offloading debt tied to data centres and chips as public opposition threatens to derail mega projects",
       "ts": 1794891614000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "China’s robot makers have more to offer than viral backflip videos",
-      "summary": "Established robotics companies are continuing to grow and many are highly profitable",
-      "ts": 1794891614000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Inside the $900bn data centre bet behind Anthropic’s IPO",
-      "summary": "In Louisiana’s woods, the AI lab is racing to slash computing costs but creating enormous financial obligations",
-      "ts": 1794891608000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The best environment, science and technology books to read this year",
-      "summary": "Pilita Clark, Clive Cookson and John Thornhill select their must-read titles",
-      "ts": 1794891607000
     },
     {
       "source": "OpenAI",
