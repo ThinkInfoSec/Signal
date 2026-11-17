@@ -1,285 +1,502 @@
 {
-  "generated": "2026-11-16T08:09:51Z",
+  "generated": "2026-11-17T17:54:58Z",
   "items": [
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Why is China resisting a nuclear treaty with the US and Russia?",
-      "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-      "ts": 1794815649000
+      "title": "Has empire shaped today’s world?",
+      "summary": "How much of today’s world is a legacy of empire?",
+      "ts": 1794937500000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "ts": 1794937346000
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "At least 11 killed in blaze on Thailand’s Phuket island",
-      "summary": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
-      "ts": 1794814968000
+      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+      "summary": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
+      "ts": 1794936867000
     },
     {
-      "source": "The Hacker News",
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Religious ruling revives memories in Israel of Rabin assassination",
+      "summary": "Hostility towards Palestinian participation in Israel's government fuels fears of far-right political violence.",
+      "ts": 1794936798000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "ts": 1794935997000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "ts": 1794935403000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "CAIR defends civil rights work against Trump’s ‘smear’",
+      "summary": "The country's largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
+      "ts": 1794935389000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "Put Gemini to work for you",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "ts": 1794934800000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "ts": 1794934598000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+      "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
+      "ts": 1794934405000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "ts": 1794934210000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Photos: Tens of thousands rally in France over living standards and wages",
+      "summary": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
+      "ts": 1794933541000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+      "summary": "Online petition with more than 32,000 signatures demands the university 'cancel Nathan Cofnas's invitation to speak'.",
+      "ts": 1794933508000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Election-winning student movement enters Serbia’s new parliament",
+      "summary": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
+      "ts": 1794932028000
+    },
+    {
+      "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run",
-      "ts": 1794814461000
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "ts": 1794931200000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-      "ts": 1794813803000
+      "title": "How the attack on Crimean Bridge unfolded",
+      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "ts": 1794929890000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
-      "summary": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
-      "ts": 1794813180000
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "ts": 1794929771000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The Red Sea cannot be secured without restoring the Yemeni state",
-      "summary": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
-      "ts": 1794812783000
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "ts": 1794929339000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How Russia is preparing Iran for the next escalation",
-      "summary": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
-      "ts": 1794812251000
-    },
-    {
-      "source": "The Hacker News",
+      "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has be",
-      "ts": 1794812014000
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "ts": 1794927671000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US and rivals spar over next UN boss as race lurches towards deadline",
-      "summary": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
-      "ts": 1794808674000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
-      "summary": "Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.",
-      "ts": 1794807532000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
-      "ts": 1794805619000
-    },
-    {
-      "source": "Financial Times",
+      "source": "MIT Technology Review",
       "cat": "ai",
-      "title": "Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI",
-      "summary": "Ex-Nvidia chief’s ignominious exit removes a vocal and influential supporter of open AI systems",
-      "ts": 1794805221000
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below.",
+      "ts": 1794926386000
     },
     {
-      "source": "Financial Times",
+      "source": "Ars Technica",
       "cat": "ai",
-      "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
-      "summary": "Ten biggest flotations have fallen more than 20% on average in 2026 after four years of gains",
-      "ts": 1794805211000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Publishers can afford to play hardball with Big Tech",
-      "summary": "The value of deep wells of real human content has increased as AI fluff floods internet search engines",
-      "ts": 1794805211000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US manufacturing is back and better",
-      "summary": "Resiliency enabled by technology is driving an uptick in factory output and jobs",
-      "ts": 1794805211000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
-      "summary": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
-      "ts": 1794804822000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Accounting student’s AI cheating sparks South Korean exam furore",
-      "summary": "Seoul promises crackdown just days ahead of annual university entrance test",
-      "ts": 1794803777000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-      "ts": 1794799316000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-      "ts": 1794798589000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "ts": 1794793677000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "'Had plans for the future': Diary of dead Kiwi monk Justin Evans at centre of police probe",
-      "summary": "Diary entries showed no indication Justin Evans wanted to leave the remote Scottish island or take his own life, police say.",
-      "ts": 1794793239000
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "ts": 1794924029000
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
-      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weigh",
-      "ts": 1794787228000
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for",
+      "ts": 1794924010000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Canada bars Russia from Junior World Championships",
-      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-      "ts": 1794780076000
+      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "ts": 1794920072000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked ",
+      "ts": 1794918306000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI grapples with the return of the ‘Antichrist’",
+      "summary": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
+      "ts": 1794918022000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks. Nik Tsytsa",
+      "ts": 1794917676000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The R",
+      "ts": 1794914418000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "ts": 1794914391000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control ",
+      "ts": 1794913651000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "An argument for AI eyewear",
+      "summary": "Spectacles to help the visually impaired, plus four more smart-tech inventions",
+      "ts": 1794913206000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "ts": 1794908662000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-      "ts": 1794780013000
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+      "ts": 1794907664000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+      "ts": 1794904542000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+      "ts": 1794900344000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to Repor",
+      "ts": 1794899533000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments continues to be repo",
+      "ts": 1794896967000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "A bluffer’s guide to data centre moratorium litigation",
+      "summary": "Oh, the fun you’ll have!",
+      "ts": 1794895206000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and",
+      "ts": 1794891634000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Do we really want to make our work machine-readable?",
+      "summary": "Centralising corporate information in an AI system would redistribute power in potentially disruptive ways",
+      "ts": 1794891625000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Banks seek to curb AI debt exposure as backlash mounts",
+      "summary": "Lenders are offloading debt tied to data centres and chips as public opposition threatens to derail mega projects",
+      "ts": 1794891614000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "China’s robot makers have more to offer than viral backflip videos",
+      "summary": "Established robotics companies are continuing to grow and many are highly profitable",
+      "ts": 1794891614000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Inside the $900bn data centre bet behind Anthropic’s IPO",
+      "summary": "In Louisiana’s woods, the AI lab is racing to slash computing costs but creating enormous financial obligations",
+      "ts": 1794891608000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The best environment, science and technology books to read this year",
+      "summary": "Pilita Clark, Clive Cookson and John Thornhill select their must-read titles",
+      "ts": 1794891607000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [.",
+      "ts": 1794881537000
     },
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "ts": 1794780001000
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "ts": 1794873600000
     },
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "ts": 1794780000000
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "ts": 1794873600000
     },
     {
       "source": "RNZ World",
       "cat": "geo",
-      "title": "Cyclone Xavier to bring damaging winds to Cook Islands",
-      "summary": "A storm warning is in force for Manihiki and Rakahanga.",
-      "ts": 1794772434000
+      "title": "What people are saying about the new James Bond",
+      "summary": "The revelation that Robert Pattinson is the new Bond caps off an incredible run for the British actor, but will he satisfy fans of the long-running franchise?",
+      "ts": 1794872601000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK inst",
+      "ts": 1794870005000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "ts": 1794869907000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+      "ts": 1794869640000
     },
     {
       "source": "RNZ World",
       "cat": "geo",
-      "title": "NZ charity steps in to help woman stuck in Cook Islands",
-      "summary": "The 50-year-old arrived in November 2023 from New Zealand and has been unable to leave.",
-      "ts": 1794772327000
+      "title": "Can Jensen Huang save his reputation?",
+      "summary": "The world is \"remarkably forgiving\" of successful men, but can Jensen Huang come back from his scandal.",
+      "ts": 1794862003000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "ts": 1794771159000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-      "ts": 1794767393000
-    },
-    {
-      "source": "Financial Times",
+      "source": "NVIDIA",
       "cat": "ai",
-      "title": "US and allies sign accord to protect AI supply chains from China",
-      "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
-      "ts": 1794764863000
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introdu",
+      "ts": 1794859237000
     },
     {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "What do we do with the works of problematic people?",
-      "summary": "Do we pretend the records, books and films no longer exist, or ban our children from engaging with them?",
-      "ts": 1794764600000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "TSMC employee data breach linked to cloud provider",
-      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-      "ts": 1794756228000
-    },
-    {
-      "source": "Financial Times",
+      "source": "Ars Technica",
       "cat": "ai",
-      "title": "Anthropic’s IPO is the next big test for AI",
-      "summary": "Even the most powerful frontier labs must bend to the power of public equity",
-      "ts": 1794742844000
+      "title": "US moves to cut China’s remote access to AI chips",
+      "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "ts": 1794856209000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several ",
+      "ts": 1794854327000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "ts": 1794848400000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "ts": 1794848400000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do",
+      "ts": 1794845068000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than",
+      "ts": 1794844851000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its su",
+      "ts": 1794844847000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in th",
+      "ts": 1794844825000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new ",
+      "ts": 1794844816000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to th",
+      "ts": 1794844811000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "ts": 1794837976000
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and rela",
-      "ts": 1794742051000
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat act",
+      "ts": 1794837600000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was expos",
-      "ts": 1794730924000
-    },
-    {
-      "source": "Financial Times",
+      "source": "Google AI",
       "cat": "ai",
-      "title": "When human judgment is not all it’s cracked up to be",
-      "summary": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss Jensen Huang",
-      "ts": 1794718804000
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "tbd",
+      "ts": 1794837600000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-      "ts": 1794677245000
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: reth",
+      "ts": 1794834000000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-      "ts": 1794669349000
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "ts": 1794830400000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114",
-      "ts": 1794659915000
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "ts": 1794821400000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "ts": 1794819600000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "ts": 1794816000000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "",
+      "ts": 1794787200000
     },
     {
       "source": "Ars Technica",
@@ -289,25 +506,11 @@
       "ts": 1794604847000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-      "ts": 1794598716000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "summary": "",
       "ts": 1794592839000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "German military drone operations disrupted by cyberattack",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "ts": 1794591116000
     },
     {
       "source": "Ars Technica",
@@ -324,67 +527,11 @@
       "ts": 1794589355000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, ha",
-      "ts": 1794588788000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "ts": 1794586903000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's h",
-      "ts": 1794583625000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them.",
-      "ts": 1794582071000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "ts": 1794582000000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinat",
-      "ts": 1794580138000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "summary": "",
       "ts": 1794578722000
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians s",
-      "ts": 1794574842000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "ts": 1794556800000
     },
     {
       "source": "MIT Technology Review",
@@ -394,39 +541,11 @@
       "ts": 1794514584000
     },
     {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "ts": 1794513600000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "ts": 1794513599000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "ts": 1794511383000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "summary": "",
       "ts": 1794510455000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "ts": 1794509865000
     },
     {
       "source": "Google DeepMind",
@@ -443,53 +562,11 @@
       "ts": 1794506400000
     },
     {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "ts": 1794495017000
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-      "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings ",
-      "ts": 1794492059000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "ts": 1794484800000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "ts": 1794475800000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "ts": 1794441600000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "summary": "",
       "ts": 1794441600000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "ts": 1794421000000
     },
     {
       "source": "Krebs on Security",
@@ -504,13 +581,6 @@
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "ts": 1794420000000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "ts": 1794418652000
     },
     {
       "source": "Google AI",
@@ -541,13 +611,6 @@
       "ts": 1794373276000
     },
     {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-      "ts": 1794366020000
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
@@ -576,25 +639,11 @@
       "ts": 1794326627000
     },
     {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes an",
-      "ts": 1794326403000
-    },
-    {
       "source": "Google AI",
       "cat": "ai",
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
       "ts": 1794319200000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "ts": 1794315600000
     },
     {
       "source": "Google DeepMind",
@@ -609,13 +658,6 @@
       "title": "Opening the datasets behind our AI weather models",
       "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
       "ts": 1794309184000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "",
-      "ts": 1794268800000
     },
     {
       "source": "Google DeepMind",
@@ -639,39 +681,11 @@
       "ts": 1794243943000
     },
     {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Confe",
-      "ts": 1794232801000
-    },
-    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital",
       "ts": 1794229200000
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment",
-      "ts": 1794211253000
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helpi",
-      "ts": 1794200440000
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
-      "ts": 1793959200000
     }
   ]
 }
