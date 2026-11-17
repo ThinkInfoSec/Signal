@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-17T18:09:51Z",
+  "generated": "2026-11-17T18:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "ts": 1794939861000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+      "ts": 1794939684000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jensen Huang to testify before US House committees next month",
+      "summary": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
+      "ts": 1794939246000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -18,16 +39,23 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
+      "title": "Israeli forces invade Syrian village leaving homes damaged",
+      "summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
+      "ts": 1794938240000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
       "title": "Has empire shaped today’s world?",
       "summary": "How much of today’s world is a legacy of empire?",
       "ts": 1794937500000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "ts": 1794937346000
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "ts": 1794937500000
     },
     {
       "source": "Al Jazeera",
@@ -98,20 +126,6 @@
       "title": "Photos: Tens of thousands rally in France over living standards and wages",
       "summary": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
       "ts": 1794933541000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
-      "summary": "Online petition with more than 32,000 signatures demands the university 'cancel Nathan Cofnas's invitation to speak'.",
-      "ts": 1794933508000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Election-winning student movement enters Serbia’s new parliament",
-      "summary": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
-      "ts": 1794932028000
     },
     {
       "source": "BleepingComputer",
@@ -317,13 +331,6 @@
       "ts": 1794891607000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [.",
-      "ts": 1794881537000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -335,6 +342,13 @@
       "cat": "ai",
       "title": "Introducing OpenAI for Chile",
       "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "ts": 1794873600000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "ts": 1794873600000
     },
     {
@@ -483,20 +497,6 @@
       "title": "How Revolut raises ambition without lowering the bar",
       "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
       "ts": 1794821400000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "ts": 1794819600000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "ts": 1794816000000
     },
     {
       "source": "Hugging Face",
@@ -690,7 +690,7 @@
     {
       "source": "MIT Technology Review",
       "cat": "ai",
-      "title": "Innovating with AI in the special chemicals industry",
+      "title": "Innovating with AI in the specialty chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital",
       "ts": 1794229200000
     }
