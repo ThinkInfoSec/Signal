@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-17T19:09:49Z",
+  "generated": "2026-11-17T19:39:46Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "ts": 1794943447000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "More than 100,000 take part in France pay protests",
+      "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+      "ts": 1794942589000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "NSA’s classified internal communications network reportedly faces outage",
+      "summary": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
+      "ts": 1794942194000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Monster waves threaten California coast as storms intensify",
+      "summary": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
+      "ts": 1794941580000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -65,32 +93,11 @@
       "ts": 1794938240000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Has empire shaped today’s world?",
-      "summary": "How much of today’s world is a legacy of empire?",
-      "ts": 1794937500000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Introducing GPT-6.2 Astra and Sol",
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "ts": 1794937500000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-      "summary": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-      "ts": 1794936867000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Religious ruling revives memories in Israel of Rabin assassination",
-      "summary": "Hostility towards Palestinian participation in Israel's government fuels fears of far-right political violence.",
-      "ts": 1794936798000
     },
     {
       "source": "BBC World",
@@ -154,6 +161,20 @@
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
       "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
       "ts": 1794929339000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilities carry a maximum CV",
+      "ts": 1794928656000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an inf",
+      "ts": 1794928648000
     },
     {
       "source": "BleepingComputer",
@@ -261,13 +282,6 @@
       "ts": 1794904542000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-      "ts": 1794900344000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
@@ -287,13 +301,6 @@
       "title": "A bluffer’s guide to data centre moratorium litigation",
       "summary": "Oh, the fun you’ll have!",
       "ts": 1794895206000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and",
-      "ts": 1794891634000
     },
     {
       "source": "Financial Times",
@@ -462,13 +469,6 @@
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
       "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
       "ts": 1794837976000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat act",
-      "ts": 1794837600000
     },
     {
       "source": "Google AI",
