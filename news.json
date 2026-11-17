@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-17T19:39:46Z",
+  "generated": "2026-11-17T20:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India’s footballers celebrate SAFF final win against Pakistan",
+      "summary": "The Indian men’s football team has been celebrating after winning the 2026 SAFF Championship.",
+      "ts": 1794945360000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can a robot pianist upstage a human musician?",
+      "summary": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
+      "ts": 1794944630000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+      "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
+      "ts": 1794944505000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+      "ts": 1794944035000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ugandan human trafficking survivor uses music to fight abuse",
+      "summary": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
+      "ts": 1794943964000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "ts": 1794943890000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Grand Theft Auto 6 is out at midnight - here is what you need to know",
+      "summary": "The long-anticipated video game sequel will arrive this week. What's all the hype and is there any controversy?",
+      "ts": 1794943552000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -18,8 +67,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "NSA’s classified internal communications network reportedly faces outage",
-      "summary": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
+      "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+      "summary": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
       "ts": 1794942194000
     },
     {
@@ -28,27 +77,6 @@
       "title": "Monster waves threaten California coast as storms intensify",
       "summary": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
       "ts": 1794941580000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mozambique opposition leader goes on trial on terrorism charges",
-      "summary": "Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges",
-      "ts": 1794941295000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Indian limbo skater breaks world record",
-      "summary": "An Indian skater broke her own Guinness World Record, limbo skating 50 metres beneath descending poles in 6.86 seconds.",
-      "ts": 1794941279000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-      "summary": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
-      "ts": 1794941026000
     },
     {
       "source": "RNZ World",
@@ -72,25 +100,11 @@
       "ts": 1794939684000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
-      "summary": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
-      "ts": 1794939246000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "summary": "[...]",
+      "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
       "ts": 1794938655000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli forces invade Syrian village leaving homes damaged",
-      "summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-      "ts": 1794938240000
     },
     {
       "source": "OpenAI",
@@ -266,13 +280,6 @@
       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
       "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
       "ts": 1794908662000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-      "ts": 1794907664000
     },
     {
       "source": "BleepingComputer",
