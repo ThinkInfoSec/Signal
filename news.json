@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-18T00:09:49Z",
+  "generated": "2026-11-18T00:39:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "ts": 1794961681000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "ts": 1794961649000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Forensic experts claim Epstein was strangled to death",
+      "summary": "A team of forensic scientists is challenging the ruling that convicted sex offender Jeffrey Epstein died by suicide.",
+      "ts": 1794961043000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why China’s Shenzhen was chosen for APEC summit",
+      "summary": "Al Jazeera’s Katrina Yu explains why China’s Shenzhen was chosen for APEC summit.",
+      "ts": 1794960986000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain issues an 'all-clear' alert, saying danger has passed.",
+      "ts": 1794960027000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -46,15 +81,8 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
-      "ts": 1794956619000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "Thomas Markle charged over child sex abuse material in Philippines",
-      "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
       "ts": 1794955455000
     },
     {
@@ -70,27 +98,6 @@
       "title": "Russian military plane crash in Siberia kills 19",
       "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
       "ts": 1794954076000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-      "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
-      "ts": 1794952887000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-      "summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
-      "ts": 1794951324000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-      "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
-      "ts": 1794950911000
     },
     {
       "source": "BleepingComputer",
@@ -525,13 +532,6 @@
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "summary": "",
       "ts": 1794787200000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "ts": 1794604847000
     },
     {
       "source": "Hugging Face",
