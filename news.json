@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-18T02:39:50Z",
+  "generated": "2026-11-18T03:09:48Z",
   "items": [
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
-      "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
-      "ts": 1794968238000
+      "source": "Krebs on Security",
+      "cat": "cyber",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malici",
+      "ts": 1794970324000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+      "summary": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
+      "ts": 1794969369000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Hungary on the hunt for a football hero",
+      "summary": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
+      "ts": 1794969177000
     },
     {
       "source": "Al Jazeera",
@@ -63,20 +77,6 @@
       "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
       "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
       "ts": 1794964021000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ecuadorian fishermen sue Trump administration over drone strike",
-      "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
-      "ts": 1794963883000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
-      "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
-      "ts": 1794963476000
     },
     {
       "source": "Financial Times",
@@ -378,6 +378,13 @@
       "title": "Do we really want to make our work machine-readable?",
       "summary": "Centralising corporate information in an AI system would redistribute power in potentially disruptive ways",
       "ts": 1794891625000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Banks seek to curb AI debt exposure as backlash mounts",
+      "summary": "Lenders are offloading debt tied to data centres and chips as public opposition threatens to derail mega projects",
+      "ts": 1794891614000
     },
     {
       "source": "OpenAI",
