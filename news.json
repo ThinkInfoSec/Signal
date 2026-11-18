@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-18T05:39:50Z",
+  "generated": "2026-11-18T06:09:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
+      "summary": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions",
+      "ts": 1794981608000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "When’s the crash? Ask a journalist",
+      "summary": "Because in 170 years of perma-anxiety, stopped clocks are right fairly regularly",
+      "ts": 1794981608000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
+      "summary": "Jared Novelly responded after the Auckland mayor declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
+      "ts": 1794980365000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
+      "summary": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+      "ts": 1794979442000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,13 +42,6 @@
       "title": "Rare video of Brazilian Amazon tribe",
       "summary": "A new video has emerged showing members of the isolated Awa tribe who live in the remote part of Brazil’s Amazon forest.",
       "ts": 1794978847000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
-      "summary": "It came after Wayne Brown declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
-      "ts": 1794978744000
     },
     {
       "source": "Financial Times",
@@ -91,13 +112,6 @@
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malici",
       "ts": 1794970324000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
-      "summary": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
-      "ts": 1794969369000
     },
     {
       "source": "Financial Times",
@@ -254,13 +268,6 @@
       "ts": 1794938655000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia without Jensen Huang",
-      "summary": "Can the chip giant survive the loss of its talismanic CEO?",
-      "ts": 1794938641000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -357,13 +364,6 @@
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
       "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked ",
       "ts": 1794918306000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "AI grapples with the return of the ‘Antichrist’",
-      "summary": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
-      "ts": 1794918022000
     },
     {
       "source": "The Hacker News",
