@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-18T03:39:48Z",
+  "generated": "2026-11-18T04:09:49Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
+      "summary": "It came after Wayne Brown declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
+      "ts": 1794974205000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+      "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+      "ts": 1794972521000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -72,13 +86,6 @@
       "ts": 1794965513000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Protests as Jason Arday’s accuser speaks at Oxford University",
-      "summary": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
-      "ts": 1794965333000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
@@ -109,7 +116,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
       "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
       "ts": 1794955455000
     },
