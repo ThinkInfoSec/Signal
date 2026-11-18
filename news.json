@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-18T01:39:49Z",
+  "generated": "2026-11-18T02:09:48Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Nvidia shares rise as chip giant beats forecasts",
+      "summary": "The latest third quarter result eases investor concerns about demand for artificial intelligence infrastructure.",
+      "ts": 1794967220000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -77,13 +84,6 @@
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "ts": 1794961649000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Nvidia shares rise as chip giant beats forecasts",
-      "summary": "The latest third quarter result eases investor concerns about demand for artificial intelligence infrastructure.",
-      "ts": 1794957616000
     },
     {
       "source": "BleepingComputer",
