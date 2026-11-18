@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-17T23:39:51Z",
+  "generated": "2026-11-18T00:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+      "ts": 1794958718000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+      "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
+      "ts": 1794958134000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
@@ -84,20 +98,6 @@
       "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
       "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
       "ts": 1794950837000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-      "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
-      "ts": 1794950802000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Moment Russian military plane crashes in Siberia, killing 19",
-      "summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
-      "ts": 1794950743000
     },
     {
       "source": "BBC World",
