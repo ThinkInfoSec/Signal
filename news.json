@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-18T02:09:48Z",
+  "generated": "2026-11-18T02:39:50Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+      "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
+      "ts": 1794968238000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "ICE agents shove and pepper-spray pregnant woman",
+      "summary": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
+      "ts": 1794968232000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
@@ -63,13 +77,6 @@
       "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
       "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
       "ts": 1794963476000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
-      "summary": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
-      "ts": 1794962822000
     },
     {
       "source": "Financial Times",
@@ -371,13 +378,6 @@
       "title": "Do we really want to make our work machine-readable?",
       "summary": "Centralising corporate information in an AI system would redistribute power in potentially disruptive ways",
       "ts": 1794891625000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Banks seek to curb AI debt exposure as backlash mounts",
-      "summary": "Lenders are offloading debt tied to data centres and chips as public opposition threatens to derail mega projects",
-      "ts": 1794891614000
     },
     {
       "source": "OpenAI",
