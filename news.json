@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-18T03:09:48Z",
+  "generated": "2026-11-18T03:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+      "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
+      "ts": 1794970822000
+    },
     {
       "source": "Krebs on Security",
       "cat": "cyber",
@@ -21,6 +28,13 @@
       "title": "Hungary on the hunt for a football hero",
       "summary": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
       "ts": 1794969177000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+      "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
+      "ts": 1794968238000
     },
     {
       "source": "Al Jazeera",
@@ -70,13 +84,6 @@
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "ts": 1794964698000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-      "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-      "ts": 1794964021000
     },
     {
       "source": "Financial Times",
@@ -378,13 +385,6 @@
       "title": "Do we really want to make our work machine-readable?",
       "summary": "Centralising corporate information in an AI system would redistribute power in potentially disruptive ways",
       "ts": 1794891625000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Banks seek to curb AI debt exposure as backlash mounts",
-      "summary": "Lenders are offloading debt tied to data centres and chips as public opposition threatens to derail mega projects",
-      "ts": 1794891614000
     },
     {
       "source": "OpenAI",
