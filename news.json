@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-18T06:09:51Z",
+  "generated": "2026-11-18T06:39:53Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
+      "summary": "Jared Novelly responded after the Auckland mayor declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
+      "ts": 1794982838000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How the Houthis fund war effort and tighten grip on Yemen",
+      "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+      "ts": 1794982757000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -16,17 +30,24 @@
       "ts": 1794981608000
     },
     {
-      "source": "RNZ World",
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 ",
+      "ts": 1794981484000
+    },
+    {
+      "source": "Al Jazeera",
       "cat": "geo",
-      "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
-      "summary": "Jared Novelly responded after the Auckland mayor declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
-      "ts": 1794980365000
+      "title": "What’s in the air you breathe? How to stay safe during smog season",
+      "summary": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
+      "ts": 1794981308000
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
-      "summary": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+      "summary": "The nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
       "ts": 1794979442000
     },
     {
@@ -91,20 +112,6 @@
       "title": "Rubio rules out cyberattacks or links between tech outages",
       "summary": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
       "ts": 1794974476000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-      "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
-      "ts": 1794972521000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
-      "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
-      "ts": 1794970822000
     },
     {
       "source": "Krebs on Security",
@@ -378,13 +385,6 @@
       "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
       "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The R",
       "ts": 1794914418000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control ",
-      "ts": 1794913651000
     },
     {
       "source": "OpenAI",
