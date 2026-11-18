@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-18T06:39:53Z",
+  "generated": "2026-11-18T07:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Africa’s economic future cannot depend on Washington",
+      "summary": "Trump's move to exclude South Africa and Rwanda from AGOA shows why Africa must accelerate its own economic integration.",
+      "ts": 1794982979000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
@@ -14,20 +21,6 @@
       "title": "How the Houthis fund war effort and tighten grip on Yemen",
       "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
       "ts": 1794982757000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
-      "summary": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions",
-      "ts": 1794981608000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "When’s the crash? Ask a journalist",
-      "summary": "Because in 170 years of perma-anxiety, stopped clocks are right fairly regularly",
-      "ts": 1794981608000
     },
     {
       "source": "The Hacker News",
@@ -107,13 +100,6 @@
       "ts": 1794975123000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rubio rules out cyberattacks or links between tech outages",
-      "summary": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
-      "ts": 1794974476000
-    },
-    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -137,7 +123,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "ts": 1794964698000
     },
@@ -275,6 +261,13 @@
       "ts": 1794938655000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia without Jensen Huang",
+      "summary": "Can the chip giant survive the loss of its talismanic CEO?",
+      "ts": 1794938641000
+    },
+    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -371,6 +364,13 @@
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
       "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked ",
       "ts": 1794918306000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI grapples with the return of the ‘Antichrist’",
+      "summary": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
+      "ts": 1794918022000
     },
     {
       "source": "The Hacker News",
