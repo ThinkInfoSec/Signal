@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-18T04:39:48Z",
+  "generated": "2026-11-18T05:09:47Z",
   "items": [
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
       "summary": "It came after Wayne Brown declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
-      "ts": 1794975927000
+      "ts": 1794976860000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Australia issues sanctions targeting Israeli settlers",
+      "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+      "ts": 1794975123000
     },
     {
       "source": "Al Jazeera",
@@ -77,13 +84,6 @@
       "title": "What is Trump hoping to achieve at APEC meeting in China?",
       "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
       "ts": 1794965585000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-      "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
-      "ts": 1794965572000
     },
     {
       "source": "BBC World",
