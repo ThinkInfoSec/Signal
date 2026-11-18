@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-18T00:39:48Z",
+  "generated": "2026-11-18T01:09:46Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+      "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+      "ts": 1794963476000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+      "summary": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
+      "ts": 1794962822000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+      "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
+      "ts": 1794962745000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+      "summary": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+      "ts": 1794962016000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -11,7 +39,7 @@
     {
       "source": "Ars Technica",
       "cat": "ai",
-      "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "ts": 1794961649000
     },
@@ -33,7 +61,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-      "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain issues an 'all-clear' alert, saying danger has passed.",
+      "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain accuses Iran of 'criminal attacks'.",
       "ts": 1794960027000
     },
     {
@@ -58,20 +86,6 @@
       "ts": 1794957616000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Top spy agency suffers network outage, the latest US technical failure",
-      "summary": "A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.",
-      "ts": 1794957552000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-      "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
-      "ts": 1794956940000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -84,20 +98,6 @@
       "title": "Thomas Markle charged over child sex abuse material in Philippines",
       "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
       "ts": 1794955455000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
-      "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
-      "ts": 1794954783000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian military plane crash in Siberia kills 19",
-      "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
-      "ts": 1794954076000
     },
     {
       "source": "BleepingComputer",
@@ -399,13 +399,6 @@
       "title": "Introducing OpenAI for Chile",
       "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "ts": 1794873600000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "What people are saying about the new James Bond",
-      "summary": "The revelation that Robert Pattinson is the new Bond caps off an incredible run for the British actor, but will he satisfy fans of the long-running franchise?",
-      "ts": 1794872601000
     },
     {
       "source": "NVIDIA",
