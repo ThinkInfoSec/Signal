@@ -1,12 +1,61 @@
 {
-  "generated": "2026-11-18T05:09:47Z",
+  "generated": "2026-11-18T05:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
+      "summary": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
+      "ts": 1794978985000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rare video of Brazilian Amazon tribe",
+      "summary": "A new video has emerged showing members of the isolated Awa tribe who live in the remote part of Brazil’s Amazon forest.",
+      "ts": 1794978847000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
       "summary": "It came after Wayne Brown declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
-      "ts": 1794976860000
+      "ts": 1794978744000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Is financial advice from a malign super-entity trustworthy?",
+      "summary": "AI, while useful for individual tasks, could be hugely destructive for the human race — that does not foster trust",
+      "ts": 1794978016000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
+      "summary": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
+      "ts": 1794978007000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The rise of AI facial analysers",
+      "summary": "Companies that offer personalised tech-based beauty advice market it as a way to achieve your best-looking self — but is it just more looksmaxxing pressure?",
+      "ts": 1794978007000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Waymo suspends driverless freeway rides across US after California ban",
+      "summary": "California authorities have declared self-driving cars an 'imminent hazard to public safety' after traffic incidents.",
+      "ts": 1794977882000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel ",
+      "ts": 1794976061000
     },
     {
       "source": "Al Jazeera",
@@ -51,13 +100,6 @@
       "ts": 1794969369000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hungary on the hunt for a football hero",
-      "summary": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
-      "ts": 1794969177000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
@@ -65,25 +107,11 @@
       "ts": 1794968238000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "ICE agents shove and pepper-spray pregnant woman",
-      "summary": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
-      "ts": 1794968232000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Nvidia shares rise as chip giant beats forecasts",
       "summary": "The latest third quarter result eases investor concerns about demand for artificial intelligence infrastructure.",
       "ts": 1794967220000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What is Trump hoping to achieve at APEC meeting in China?",
-      "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
-      "ts": 1794965585000
     },
     {
       "source": "BBC World",
@@ -359,39 +387,11 @@
       "ts": 1794913651000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "An argument for AI eyewear",
-      "summary": "Spectacles to help the visually impaired, plus four more smart-tech inventions",
-      "ts": 1794913206000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Introducing ChatGPT for Sales",
       "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
       "ts": 1794902400000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to Repor",
-      "ts": 1794899533000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "A bluffer’s guide to data centre moratorium litigation",
-      "summary": "Oh, the fun you’ll have!",
-      "ts": 1794895206000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Do we really want to make our work machine-readable?",
-      "summary": "Centralising corporate information in an AI system would redistribute power in potentially disruptive ways",
-      "ts": 1794891625000
     },
     {
       "source": "OpenAI",
