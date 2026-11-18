@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-18T04:09:49Z",
+  "generated": "2026-11-18T04:39:48Z",
   "items": [
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
       "summary": "It came after Wayne Brown declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
-      "ts": 1794974205000
+      "ts": 1794975927000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rubio rules out cyberattacks or links between tech outages",
+      "summary": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
+      "ts": 1794974476000
     },
     {
       "source": "Al Jazeera",
@@ -77,13 +84,6 @@
       "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
       "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
       "ts": 1794965572000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
-      "summary": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
-      "ts": 1794965513000
     },
     {
       "source": "BBC World",
