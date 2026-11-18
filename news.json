@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-18T01:09:46Z",
+  "generated": "2026-11-18T01:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What is Trump hoping to achieve at APEC meeting in China?",
+      "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+      "ts": 1794965585000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+      "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
+      "ts": 1794965572000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+      "summary": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
+      "ts": 1794965513000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Protests as Jason Arday’s accuser speaks at Oxford University",
+      "summary": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
+      "ts": 1794965333000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "ts": 1794964698000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+      "ts": 1794964021000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ecuadorian fishermen sue Trump administration over drone strike",
+      "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
+      "ts": 1794963883000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -23,60 +72,11 @@
       "ts": 1794962745000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
-      "summary": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
-      "ts": 1794962016000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "ts": 1794961681000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "ts": 1794961649000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Forensic experts claim Epstein was strangled to death",
-      "summary": "A team of forensic scientists is challenging the ruling that convicted sex offender Jeffrey Epstein died by suicide.",
-      "ts": 1794961043000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why China’s Shenzhen was chosen for APEC summit",
-      "summary": "Al Jazeera’s Katrina Yu explains why China’s Shenzhen was chosen for APEC summit.",
-      "ts": 1794960986000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-      "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain accuses Iran of 'criminal attacks'.",
-      "ts": 1794960027000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-      "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
-      "ts": 1794958718000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-      "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
-      "ts": 1794958134000
     },
     {
       "source": "RNZ World",
