@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-19T23:09:50Z",
+  "generated": "2026-11-19T23:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "ts": 1795131231000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "ts": 1795130323000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Six killed in suspected gas explosion at Georgia apartment building",
+      "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+      "ts": 1795129788000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "California probing whether China improperly acquired Nvidia technology",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "ts": 1795129470000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+      "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+      "ts": 1795129128000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -35,13 +70,6 @@
       "title": "Haiti police say at least 34 suspected gang members killed in raid",
       "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
       "ts": 1795124379000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "ts": 1795124322000
     },
     {
       "source": "BBC World",
@@ -91,20 +119,6 @@
       "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
       "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
       "ts": 1795121921000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
-      "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.",
-      "ts": 1795121918000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-      "summary": "With crowds rallying behind El Salvador's deployment in Haiti, analysts question whether civilians are any safer.",
-      "ts": 1795121648000
     },
     {
       "source": "Ars Technica",
@@ -205,13 +219,6 @@
       "ts": 1795105703000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-      "ts": 1795103546000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
@@ -289,13 +296,6 @@
       "ts": 1795093688000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
-      "ts": 1795093655000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Is AI now superior to junior accountants?",
@@ -357,6 +357,27 @@
       "title": "Has anyone finished Grand Theft Auto 6 yet?",
       "summary": "Gamers around the world tapped away for hours as the much-anticipated Grand Theft Auto 6 finally arrived, nearly 13 years after the previous instalment from Rockstar Games.",
       "ts": 1795048595000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "ts": 1795046400000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "ts": 1795046400000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "ts": 1795046400000
     },
     {
       "source": "Google DeepMind",
@@ -464,13 +485,6 @@
       "ts": 1794988800000
     },
     {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "ts": 1794981600000
-    },
-    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -483,20 +497,6 @@
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "ts": 1794961649000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "ts": 1794960000000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "ts": 1794960000000
     },
     {
       "source": "Hugging Face",
