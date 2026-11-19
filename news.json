@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-19T22:09:49Z",
+  "generated": "2026-11-19T22:39:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+      "ts": 1795127142000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
       "ts": 1795126144000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+      "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
+      "ts": 1795125507000
     },
     {
       "source": "Al Jazeera",
@@ -51,18 +65,18 @@
       "ts": 1795122564000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic shares jump 17% after record Wall Street listing",
+      "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
+      "ts": 1795122129000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
       "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
       "ts": 1795121960000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Cincinnati Zoo's hippo, Fiona, dies after eating hat",
-      "summary": "The zoo announced her death on social media, saying the incident ended up being a medical emergency.",
-      "ts": 1795121957000
     },
     {
       "source": "Al Jazeera",
@@ -84,13 +98,6 @@
       "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
       "summary": "With crowds rallying behind El Salvador's deployment in Haiti, analysts question whether civilians are any safer.",
       "ts": 1795121648000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Will the Shenzhen summit safeguard world peace?",
-      "summary": "Xi, Putin and Trump issue 'Peace Declaration' after historic summit.",
-      "ts": 1795121031000
     },
     {
       "source": "Ars Technica",
@@ -303,13 +310,6 @@
       "ts": 1795088760000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-      "ts": 1795084505000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
@@ -343,13 +343,6 @@
       "title": "Virtual ‘Jensanity’ rocks Taipei in support for Nvidia chief",
       "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
       "ts": 1795074694000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic raises $81bn in record IPO",
-      "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
-      "ts": 1795071866000
     },
     {
       "source": "BBC World",
