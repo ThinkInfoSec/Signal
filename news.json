@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-19T22:39:48Z",
+  "generated": "2026-11-19T23:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "ts": 1795128502000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -343,13 +350,6 @@
       "title": "Virtual ‘Jensanity’ rocks Taipei in support for Nvidia chief",
       "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
       "ts": 1795074694000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-      "ts": 1795049359000
     },
     {
       "source": "RNZ World",
