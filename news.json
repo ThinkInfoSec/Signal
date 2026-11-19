@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-19T21:58:40Z",
+  "generated": "2026-11-19T22:09:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+      "ts": 1795126144000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -11,16 +18,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
       "ts": 1795124322000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
-      "ts": 1795123570000
     },
     {
       "source": "BBC World",
@@ -49,13 +49,6 @@
       "title": "Ten killed in Pakistan as bus crashes into gas tanker",
       "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
       "ts": 1795122564000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic shares jump 17% after record Wall Street listing",
-      "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
-      "ts": 1795122129000
     },
     {
       "source": "Al Jazeera",
@@ -350,6 +343,13 @@
       "title": "Virtual ‘Jensanity’ rocks Taipei in support for Nvidia chief",
       "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
       "ts": 1795074694000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic raises $81bn in record IPO",
+      "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
+      "ts": 1795071866000
     },
     {
       "source": "BBC World",
