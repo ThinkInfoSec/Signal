@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-20T06:09:50Z",
+  "generated": "2026-11-20T06:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+      "summary": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
+      "ts": 1795154583000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -79,13 +86,6 @@
       "ts": 1795145183000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
-      "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
-      "ts": 1795145089000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -116,7 +116,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
       "ts": 1795133601000
     },
