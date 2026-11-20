@@ -1,19 +1,40 @@
 {
-  "generated": "2026-11-20T00:09:50Z",
+  "generated": "2026-11-20T00:39:49Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "ts": 1795134385000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+      "ts": 1795134122000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "ts": 1795133601000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
+      "ts": 1795133404000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran war live: Houthis escalate attacks on Saudi capital",
       "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
       "ts": 1795132720000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-      "ts": 1795132310000
     },
     {
       "source": "BBC World",
@@ -100,25 +121,11 @@
       "ts": 1795122705000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ten killed in Pakistan as bus crashes into gas tanker",
-      "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
-      "ts": 1795122564000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic shares jump 17% after record Wall Street listing",
       "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
       "ts": 1795122129000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
-      "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
-      "ts": 1795121960000
     },
     {
       "source": "Ars Technica",
@@ -310,13 +317,6 @@
       "ts": 1795089143000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "ts": 1795088760000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
@@ -361,8 +361,8 @@
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "ts": 1795046400000
     },
     {
@@ -370,6 +370,13 @@
       "cat": "ai",
       "title": "See PR scans in action",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "ts": 1795046400000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "ts": 1795046400000
     },
     {
@@ -466,13 +473,6 @@
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "ts": 1794988800000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
       "title": "Research acceleration: The jagged frontier",
       "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "ts": 1794988800000
@@ -480,8 +480,8 @@
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "Inside the Codex sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "ts": 1794988800000
     },
     {
