@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-20T07:09:53Z",
+  "generated": "2026-11-20T07:39:48Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+      "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "ts": 1795159788000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The Gambia stood up for the Rohingya, now the world must act",
+      "summary": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
+      "ts": 1795159253000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "ts": 1795158886000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "EU and Britain to agree steps towards relations reset",
+      "summary": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
+      "ts": 1795158763000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while re",
+      "ts": 1795158699000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
+      "summary": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
+      "ts": 1795158267000
+    },
     {
       "source": "The Hacker News",
       "cat": "cyber",
@@ -53,44 +95,9 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Tech stocks fall after Anthropic IPO",
-      "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
-      "ts": 1795152170000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-      "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
-      "ts": 1795150900000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
       "title": "Anthropic’s Wall Street stimulus fades",
       "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
       "ts": 1795150826000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
-      "summary": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
-      "ts": 1795150816000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
-      "summary": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
-      "ts": 1795149893000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-      "ts": 1795149351000
     },
     {
       "source": "BBC World",
@@ -329,13 +336,6 @@
       "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
       "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
       "ts": 1795093688000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web se",
-      "ts": 1795089143000
     },
     {
       "source": "OpenAI",
