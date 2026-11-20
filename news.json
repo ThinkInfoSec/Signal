@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-20T19:39:49Z",
+  "generated": "2026-11-20T20:09:50Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "ts": 1795203526000
+      "ts": 1795204853000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "ts": 1795204312000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "ts": 1795203920000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+      "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+      "ts": 1795203607000
     },
     {
       "source": "BBC World",
@@ -14,6 +35,13 @@
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
       "ts": 1795202869000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nepal cricket fans celebrate their team’s global rise",
+      "summary": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
+      "ts": 1795202666000
     },
     {
       "source": "Al Jazeera",
@@ -107,20 +135,6 @@
       "ts": 1795196988000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
-      "summary": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
-      "ts": 1795196658000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Protests held across Europe over wages, services, high living costs",
-      "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
-      "ts": 1795195952000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
@@ -156,13 +170,6 @@
       "ts": 1795190116000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "ts": 1795190102000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The AI fever in markets is breaking",
@@ -189,13 +196,6 @@
       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
       "ts": 1795179676000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "ts": 1795178557000
     },
     {
       "source": "The Hacker News",
