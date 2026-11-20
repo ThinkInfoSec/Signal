@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T04:09:49Z",
+  "generated": "2026-11-20T04:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "ts": 1795149351000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+      "summary": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
+      "ts": 1795147517000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
+      "summary": "Asian markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "ts": 1795146690000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -49,13 +70,6 @@
       "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
       "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
       "ts": 1795137006000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
-      "ts": 1795136775000
     },
     {
       "source": "BBC World",
@@ -112,13 +126,6 @@
       "title": "California targets Nvidia in China AI chip probe",
       "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
       "ts": 1795129470000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-      "ts": 1795128502000
     },
     {
       "source": "BleepingComputer",
@@ -301,13 +308,6 @@
       "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
       "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for",
       "ts": 1795096812000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The key to Anthropic’s value",
-      "summary": "The AI company needs to become a full enterprise technology platform after IPO",
-      "ts": 1795096020000
     },
     {
       "source": "BleepingComputer",
