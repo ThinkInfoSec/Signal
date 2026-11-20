@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-20T13:09:53Z",
+  "generated": "2026-11-20T13:39:50Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic shares slide 13% as fears over AI boom dominate",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
+      "ts": 1795181342000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "ts": 1795181312000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "N-able says recent security breach led to major service outage",
+      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "ts": 1795180716000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+      "summary": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
+      "ts": 1795180620000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -35,13 +63,6 @@
       "title": "BaddyDeadpool: The protester blending humour with activism",
       "summary": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
       "ts": 1795177589000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic shares slide as fears over AI boom dominate",
-      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
-      "ts": 1795177548000
     },
     {
       "source": "Al Jazeera",
@@ -100,13 +121,6 @@
       "ts": 1795175992000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘We didn’t come here to beg’: Africa’s message at COP31",
-      "summary": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
-      "ts": 1795175716000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
@@ -149,25 +163,11 @@
       "ts": 1795167495000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "ts": 1795167479000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
       "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
       "ts": 1795166735000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-      "ts": 1795158886000
     },
     {
       "source": "The Hacker News",
@@ -198,6 +198,13 @@
       "ts": 1795150826000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "ts": 1795135824000
+    },
+    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
@@ -224,6 +231,13 @@
       "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
       "ts": 1795133601000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "ts": 1795132800000
     },
     {
       "source": "BleepingComputer",
@@ -322,13 +336,6 @@
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
       "ts": 1795107600000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-      "ts": 1795105703000
     },
     {
       "source": "NVIDIA",
@@ -616,13 +623,6 @@
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "summary": "",
       "ts": 1794592839000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "XYBench: Helping with the problem behind the question",
-      "summary": "",
-      "ts": 1794589355000
     },
     {
       "source": "MIT Technology Review",
