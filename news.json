@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-20T18:39:52Z",
+  "generated": "2026-11-20T19:09:50Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "New Zealander found with explosive-making instructions, extremist material jailed in Australia",
+      "summary": "Australian Border Force officers who examined the 25-year-old's mobile phone when he arrived at Perth Airport found \"concerning videos\".",
+      "ts": 1795201002000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+      "ts": 1795200703000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Swimming lessons offer Gaza’s children a moment of relief",
+      "summary": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
+      "ts": 1795200217000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+      "summary": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
+      "ts": 1795199855000
+    },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
@@ -21,6 +49,13 @@
       "title": "Anthropic shares slide as tech stocks tumble",
       "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
       "ts": 1795197801000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for And",
+      "ts": 1795197440000
     },
     {
       "source": "Al Jazeera",
@@ -105,20 +140,6 @@
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
       "ts": 1795193669000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
-      "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
-      "ts": 1795192835000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-      "summary": "German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.",
-      "ts": 1795191237000
     },
     {
       "source": "BleepingComputer",
@@ -247,13 +268,6 @@
       "ts": 1795158699000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles M",
-      "ts": 1795152601000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic’s Wall Street stimulus fades",
@@ -266,13 +280,6 @@
       "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
       "summary": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
       "ts": 1795135364000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "ts": 1795134385000
     },
     {
       "source": "Financial Times",
