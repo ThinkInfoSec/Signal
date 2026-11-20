@@ -1,10 +1,17 @@
 {
-  "generated": "2026-11-20T01:39:49Z",
+  "generated": "2026-11-20T02:09:52Z",
   "items": [
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Democrats say law firm gave $11.8m worth of service to Trump administration",
+      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+      "ts": 1795138168000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
       "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
       "ts": 1795137006000
     },
@@ -105,13 +112,6 @@
       "title": "California targets Nvidia in China AI chip probe",
       "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
       "ts": 1795129470000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-      "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
-      "ts": 1795129128000
     },
     {
       "source": "BBC World",
