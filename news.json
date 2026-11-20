@@ -1,12 +1,54 @@
 {
-  "generated": "2026-11-20T15:39:57Z",
+  "generated": "2026-11-20T16:09:51Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "ts": 1795190286000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "ts": 1795190116000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "One third of attacks on children worldwide recorded in Palestine",
+      "summary": "Almost one in three reported violations against children worldwide occurred in Palestine in 2025.",
+      "ts": 1795189828000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
+      "summary": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
+      "ts": 1795189746000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Palestinians return home to ruins",
+      "summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
+      "ts": 1795189324000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The AI fever in markets is breaking",
       "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
       "ts": 1795188218000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+      "summary": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
+      "ts": 1795187906000
     },
     {
       "source": "BleepingComputer",
@@ -44,39 +86,11 @@
       "ts": 1795185244000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Xi’s greatest power is what he chooses not to do",
-      "summary": "As Trump and Putin struggle to end their wars, China is gaining influence through restraint.",
-      "ts": 1795183388000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK says new deal will ‘rebuild bridges’ with EU: What’s in it?",
-      "summary": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
-      "ts": 1795183157000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
       "ts": 1795182724000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-      "summary": "The philanthropist is accused by US authorities of financially supporting Hamas.",
-      "ts": 1795182314000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
-      "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
-      "ts": 1795182176000
     },
     {
       "source": "Financial Times",
@@ -140,13 +154,6 @@
       "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
       "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
       "ts": 1795172263000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "ts": 1795172162000
     },
     {
       "source": "The Hacker News",
@@ -266,13 +273,6 @@
       "title": "Anthropic’s rocketing IPO",
       "summary": "The AI lab’s shares pop on day one even as the Nasdaq continues to slide",
       "ts": 1795124672000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-      "ts": 1795122959000
     },
     {
       "source": "Financial Times",
@@ -679,13 +679,6 @@
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from",
       "ts": 1794347703000
-    },
-    {
-      "source": "Google DeepMind",
-      "cat": "ai",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "",
-      "ts": 1794326627000
     }
   ]
 }
