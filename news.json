@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-20T11:39:58Z",
+  "generated": "2026-11-20T12:09:57Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three Kyiv bridges hit during major Russian missile attack",
       "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "ts": 1795173177000
+      "ts": 1795176472000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "How Anthropic’s blockbuster IPO came together",
+      "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "ts": 1795176166000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US appoints new cybersecurity chief after series of tech failures",
+      "summary": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+      "ts": 1795173988000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "EU and UK seal reset deal",
+      "summary": "This is a breaking news story.",
+      "ts": 1795173619000
     },
     {
       "source": "Al Jazeera",
@@ -112,20 +133,6 @@
       "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
       "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
       "ts": 1795166190000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistan minister visits India for first time since 2025 war",
-      "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
-      "ts": 1795165917000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia’s day-long attack on Kyiv damages embassies",
-      "summary": "Russia’s day-long attack on Kyiv damages embassies",
-      "ts": 1795164968000
     },
     {
       "source": "BBC World",
@@ -322,13 +329,6 @@
       "title": "Five warning signs of ransomware breach before encryption or data theft",
       "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
       "ts": 1795100410000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nscale warns of its exposure to suppliers facing US blacklist",
-      "summary": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
-      "ts": 1795099158000
     },
     {
       "source": "NVIDIA",
@@ -686,13 +686,6 @@
       "title": "Gemini 4 Carbon is now available",
       "summary": "",
       "ts": 1794326627000
-    },
-    {
-      "source": "Google DeepMind",
-      "cat": "ai",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "ts": 1794312148000
     }
   ]
 }
