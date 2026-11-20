@@ -1,12 +1,68 @@
 {
-  "generated": "2026-11-20T12:09:57Z",
+  "generated": "2026-11-20T12:39:50Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "ts": 1795176472000
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+      "ts": 1795178094000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "BaddyDeadpool: The protester blending humour with activism",
+      "summary": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
+      "ts": 1795177589000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic shares slide as fears over AI boom dominate",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
+      "ts": 1795177548000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+      "summary": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
+      "ts": 1795177229000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Searching for the next Messi at the Under-17 World Cup",
+      "summary": "Nearly 100 football scouts are in Qatar, searching for the next superstar at the FIFA Under-17 World Cup.",
+      "ts": 1795177209000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with ",
+      "ts": 1795177200000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+      "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
+      "ts": 1795177164000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+      "ts": 1795176868000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+      "ts": 1795176569000
     },
     {
       "source": "Financial Times",
@@ -14,6 +70,27 @@
       "title": "How Anthropic’s blockbuster IPO came together",
       "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
       "ts": 1795176166000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "The Path to AI Autonomy in the SOC",
+      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Ove",
+      "ts": 1795176000000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
+      "summary": "As players return from international break, Premier League leaders Arsenal face Newcastle away on match day 11.",
+      "ts": 1795175992000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘We didn’t come here to beg’: Africa’s message at COP31",
+      "summary": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
+      "ts": 1795175716000
     },
     {
       "source": "Al Jazeera",
@@ -26,29 +103,8 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "EU and UK seal reset deal",
-      "summary": "This is a breaking news story.",
+      "summary": "Deals on food and animal goods, mobility and student fees have been agreed, but months of negotiations lay ahead.",
       "ts": 1795173619000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-      "summary": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-      "ts": 1795173006000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic shares slide as fears over AI boom dominate",
-      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
-      "ts": 1795172641000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-      "summary": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
-      "ts": 1795172511000
     },
     {
       "source": "BleepingComputer",
@@ -65,25 +121,11 @@
       "ts": 1795172162000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can the Rohingya genocide verdict deliver justice?",
-      "summary": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
-      "ts": 1795171520000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
       "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" Soni",
       "ts": 1795171102000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Drone operator removes Man United training footage and issues apology",
-      "summary": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
-      "ts": 1795171040000
     },
     {
       "source": "The Hacker News",
@@ -98,13 +140,6 @@
       "title": "South Korea catches 111 students with new measures against exam cheating",
       "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
       "ts": 1795169779000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
-      "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
-      "ts": 1795168440000
     },
     {
       "source": "The Hacker News",
@@ -126,13 +161,6 @@
       "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
       "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
       "ts": 1795166735000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-      "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
-      "ts": 1795166190000
     },
     {
       "source": "BBC World",
@@ -168,13 +196,6 @@
       "title": "Anthropic’s Wall Street stimulus fades",
       "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
       "ts": 1795150826000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "ts": 1795135824000
     },
     {
       "source": "Financial Times",
@@ -303,32 +324,11 @@
       "ts": 1795107600000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the fla",
-      "ts": 1795107596000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
       "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
       "ts": 1795105703000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical",
-      "ts": 1795101487000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
-      "ts": 1795100410000
     },
     {
       "source": "NVIDIA",
