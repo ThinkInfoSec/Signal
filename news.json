@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-20T16:09:51Z",
+  "generated": "2026-11-20T16:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "ts": 1795192067000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+      "summary": "German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.",
+      "ts": 1795191237000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US Senate passes bill to speed up energy project approvals",
+      "summary": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
+      "ts": 1795191012000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+      "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
+      "ts": 1795190731000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -14,6 +42,13 @@
       "title": "Nearly 600 women killed in South Africa within three months",
       "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
       "ts": 1795190116000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "ts": 1795190102000
     },
     {
       "source": "Al Jazeera",
@@ -65,27 +100,6 @@
       "ts": 1795186800000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
-      "summary": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
-      "ts": 1795186084000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
-      "summary": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
-      "ts": 1795185505000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Outages in US cause worry, despite official attempts to downplay concerns",
-      "summary": "Experts say Trump administration is not taking the threat of AI attacks seriously, as consumers stock up on supplies.",
-      "ts": 1795185244000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
@@ -119,6 +133,13 @@
       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
       "ts": 1795179676000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Texas death-row inmate screams as execution takes more than one hour",
+      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+      "ts": 1795178557000
     },
     {
       "source": "The Hacker News",
@@ -198,13 +219,6 @@
       "ts": 1795158699000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-      "ts": 1795156337000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
@@ -217,13 +231,6 @@
       "title": "Anthropic’s Wall Street stimulus fades",
       "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
       "ts": 1795150826000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "ts": 1795135824000
     },
     {
       "source": "Financial Times",
@@ -245,13 +252,6 @@
       "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
       "summary": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
       "ts": 1795133712000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "ts": 1795133601000
     },
     {
       "source": "Hugging Face",
