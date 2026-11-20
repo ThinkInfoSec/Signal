@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T03:09:50Z",
+  "generated": "2026-11-20T03:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "ts": 1795143262000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Beloved hippo Fiona dies days after swallowing visitor’s hat",
+      "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+      "ts": 1795143104000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -77,20 +91,6 @@
       "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
       "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
       "ts": 1795133601000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
-      "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
-      "ts": 1795133404000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-      "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
-      "ts": 1795132720000
     },
     {
       "source": "BBC World",
@@ -249,7 +249,7 @@
     {
       "source": "The Hacker News",
       "cat": "cyber",
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central consol",
       "ts": 1795101066000
     },
