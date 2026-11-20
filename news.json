@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T17:39:51Z",
+  "generated": "2026-11-20T18:09:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic shares slide as tech stocks tumble",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
+      "ts": 1795197801000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+      "summary": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
+      "ts": 1795196658000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,11 +23,25 @@
       "ts": 1795196189000
     },
     {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Protests held across Europe over wages, services, high living costs",
+      "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+      "ts": 1795195952000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
       "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
       "ts": 1795195800000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Qatar’s emir calls for diplomacy to end regional conflicts",
+      "summary": "Qatar’s Emir Sheikh Tamim bin Hamad Al Thani called for diplomatic efforts to de-escalate conflicts.",
+      "ts": 1795195138000
     },
     {
       "source": "Al Jazeera",
@@ -65,13 +93,6 @@
       "ts": 1795191012000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
-      "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
-      "ts": 1795190731000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
@@ -93,20 +114,6 @@
       "ts": 1795190102000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "One third of attacks on children worldwide recorded in Palestine",
-      "summary": "Almost one in three reported violations against children worldwide occurred in Palestine in 2025.",
-      "ts": 1795189828000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
-      "summary": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
-      "ts": 1795189746000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The AI fever in markets is breaking",
@@ -119,13 +126,6 @@
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
       "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [",
       "ts": 1795186810000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic shares slide as fears over AI boom dominate",
-      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
-      "ts": 1795181342000
     },
     {
       "source": "BBC World",
