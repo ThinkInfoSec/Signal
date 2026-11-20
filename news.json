@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-20T21:09:48Z",
+  "generated": "2026-11-20T21:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iraq PM targets militia stronghold in bid to assert state control",
+      "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+      "ts": 1795210105000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Inside Anthropic’s historic IPO",
+      "summary": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "ts": 1795209689000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+      "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+      "ts": 1795209053000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+      "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+      "ts": 1795208707000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
-      "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "ts": 1795208348000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+      "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+      "ts": 1795208344000
     },
     {
       "source": "BBC World",
@@ -44,20 +79,6 @@
       "ts": 1795206646000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-      "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
-      "ts": 1795205696000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-      "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
-      "ts": 1795204991000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
@@ -65,25 +86,11 @@
       "ts": 1795204853000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-      "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
-      "ts": 1795204625000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Gérard Depardieu and French author investigated over sexual allegations",
       "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
       "ts": 1795203920000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-      "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
-      "ts": 1795203607000
     },
     {
       "source": "BBC World",
@@ -217,13 +224,6 @@
       "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
       "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
       "ts": 1795176868000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
-      "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
-      "ts": 1795176166000
     },
     {
       "source": "The Hacker News",
