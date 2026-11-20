@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T01:09:48Z",
+  "generated": "2026-11-20T01:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Democrats say law firm gave $11.8m worth of service to Trump administration",
+      "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+      "ts": 1795137006000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
+      "ts": 1795136775000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -112,20 +126,6 @@
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
       "ts": 1795127142000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-      "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
-      "ts": 1795125507000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Haiti police say at least 34 suspected gang members killed in raid",
-      "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
-      "ts": 1795124379000
     },
     {
       "source": "BleepingComputer",
