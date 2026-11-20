@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-20T05:09:51Z",
+  "generated": "2026-11-20T05:39:50Z",
   "items": [
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles M",
+      "ts": 1795152601000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Asian tech stocks fall after Anthropic IPO",
+      "summary": "Region’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "ts": 1795152170000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+      "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
+      "ts": 1795150900000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic’s Wall Street stimulus fades",
       "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
       "ts": 1795150826000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+      "summary": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
+      "ts": 1795150816000
     },
     {
       "source": "Al Jazeera",
@@ -28,13 +56,6 @@
       "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
       "summary": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
       "ts": 1795147517000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
-      "summary": "Asian markets follow Wall Street lower despite Claude AI maker’s record listing",
-      "ts": 1795146690000
     },
     {
       "source": "Al Jazeera",
@@ -63,20 +84,6 @@
       "title": "Hippo Fiona dies days after swallowing visitor’s hat",
       "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
       "ts": 1795143104000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-      "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
-      "ts": 1795141533000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-      "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-      "ts": 1795138168000
     },
     {
       "source": "BBC World",
@@ -140,6 +147,13 @@
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
       "ts": 1795127142000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic’s rocketing IPO",
+      "summary": "The AI lab’s shares pop on day one even as the Nasdaq continues to slide",
+      "ts": 1795124672000
     },
     {
       "source": "BleepingComputer",
@@ -296,13 +310,6 @@
       "ts": 1795098786000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Germany hit by AI-driven surge in cyber attacks",
-      "summary": "Threat level ‘critical’ as new tools make it far easier for hackers to exploit security flaws",
-      "ts": 1795098528000
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
@@ -329,13 +336,6 @@
       "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
       "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of re",
       "ts": 1795080686000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be used to trigger remote ",
-      "ts": 1795077731000
     },
     {
       "source": "OpenAI",
