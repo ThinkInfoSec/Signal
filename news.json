@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T23:09:49Z",
+  "generated": "2026-11-20T23:39:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+      "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+      "ts": 1795216850000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "ts": 1795216137000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+      "ts": 1795216001000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -93,32 +114,11 @@
       "ts": 1795208344000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "ts": 1795208052000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Can the UK and EU turn the page on Brexit?",
       "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
       "ts": 1795207879000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gaza’s displaced children celebrate World Children’s Day",
-      "summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
-      "ts": 1795207509000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Sudan’s war leaves disabled children missing out on education",
-      "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
-      "ts": 1795207508000
     },
     {
       "source": "BBC World",
