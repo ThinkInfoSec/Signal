@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T06:39:48Z",
+  "generated": "2026-11-20T07:09:53Z",
   "items": [
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in ",
+      "ts": 1795156411000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+      "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
+      "ts": 1795155626000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
+      "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
+      "ts": 1795155306000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -72,20 +93,6 @@
       "ts": 1795149351000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-      "summary": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
-      "ts": 1795147517000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands protest Colombia’s tax plans amid row over US military role",
-      "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
-      "ts": 1795145183000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -117,7 +124,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
       "ts": 1795133601000
     },
     {
@@ -329,13 +336,6 @@
       "title": "Everything Is a Web Application, Including Your Firewall",
       "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web se",
       "ts": 1795089143000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of re",
-      "ts": 1795080686000
     },
     {
       "source": "OpenAI",
