@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T08:39:53Z",
+  "generated": "2026-11-20T09:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+      "ts": 1795165266000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia’s day-long attack on Kyiv damages embassies",
+      "summary": "Russia’s day-long attack on Kyiv damages embassies",
+      "ts": 1795164968000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -79,11 +93,11 @@
       "ts": 1795156411000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "‘We don’t want our future decided by the military’: Young Germans protest",
-      "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
-      "ts": 1795155626000
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+      "ts": 1795156337000
     },
     {
       "source": "The Hacker News",
@@ -137,23 +151,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-      "ts": 1795131629000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
       "ts": 1795131231000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "California targets Nvidia in China AI chip probe",
-      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "ts": 1795129470000
     },
     {
       "source": "BleepingComputer",
