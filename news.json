@@ -1,19 +1,33 @@
 {
-  "generated": "2026-11-19T23:39:50Z",
+  "generated": "2026-11-20T00:09:50Z",
   "items": [
     {
-      "source": "BBC World",
+      "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "ts": 1795131231000
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+      "ts": 1795132720000
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Trump posthumously pardons US baseball legend Pete Rose",
       "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-      "ts": 1795130323000
+      "ts": 1795132310000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "ts": 1795131629000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "ts": 1795131231000
     },
     {
       "source": "Al Jazeera",
@@ -25,7 +39,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "California probing whether China improperly acquired Nvidia technology",
+      "title": "California targets Nvidia in China AI chip probe",
       "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
       "ts": 1795129470000
     },
@@ -49,13 +63,6 @@
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
       "ts": 1795127142000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-      "ts": 1795126144000
     },
     {
       "source": "Al Jazeera",
@@ -112,13 +119,6 @@
       "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
       "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
       "ts": 1795121960000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-      "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
-      "ts": 1795121921000
     },
     {
       "source": "Ars Technica",
