@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-20T15:09:54Z",
+  "generated": "2026-11-20T15:39:57Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The AI fever in markets is breaking",
+      "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
+      "ts": 1795188218000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -74,7 +81,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Anthropic shares slide 13% as fears over AI boom dominate",
+      "title": "Anthropic shares slide as fears over AI boom dominate",
       "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
       "ts": 1795181342000
     },
@@ -308,13 +315,6 @@
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
       "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over acc",
       "ts": 1795114078000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Sage maps out the attractions of the UK’s tech hinterland",
-      "summary": "By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere",
-      "ts": 1795113849000
     },
     {
       "source": "Google AI",
