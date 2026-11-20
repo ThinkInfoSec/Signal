@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-20T11:09:51Z",
+  "generated": "2026-11-20T11:39:58Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three Kyiv bridges hit during major Russian missile attack",
       "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "ts": 1795172920000
+      "ts": 1795173177000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+      "summary": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+      "ts": 1795173006000
     },
     {
       "source": "Financial Times",
@@ -16,11 +23,32 @@
       "ts": 1795172641000
     },
     {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+      "summary": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
+      "ts": 1795172511000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
       "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
       "ts": 1795172263000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "ts": 1795172162000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can the Rohingya genocide verdict deliver justice?",
+      "summary": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
+      "ts": 1795171520000
     },
     {
       "source": "The Hacker News",
@@ -44,11 +72,11 @@
       "ts": 1795170770000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Searching for the next Messi at the Under-17 World Cup",
-      "summary": "Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup.",
-      "ts": 1795168991000
+      "title": "South Korea catches 111 students with new measures against exam cheating",
+      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+      "ts": 1795169779000
     },
     {
       "source": "Al Jazeera",
@@ -63,6 +91,13 @@
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
       "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in ",
       "ts": 1795167495000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "ts": 1795167479000
     },
     {
       "source": "BleepingComputer",
@@ -91,20 +126,6 @@
       "title": "Russia’s day-long attack on Kyiv damages embassies",
       "summary": "Russia’s day-long attack on Kyiv damages embassies",
       "ts": 1795164968000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "El Salvador’s Bukele seeks third term after constitution change",
-      "summary": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
-      "ts": 1795162894000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US robbery suspects charged over alleged $22M train heist spree",
-      "summary": "US robbery suspects charged over alleged $22M train heist spree",
-      "ts": 1795161390000
     },
     {
       "source": "BBC World",
@@ -177,13 +198,6 @@
       "ts": 1795133601000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "ts": 1795131231000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
@@ -217,13 +231,6 @@
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
       "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
       "ts": 1795119568000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "ts": 1795118822000
     },
     {
       "source": "NVIDIA",
@@ -273,13 +280,6 @@
       "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": "Gemini spark on a space background",
       "ts": 1795111200000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "ts": 1795109902000
     },
     {
       "source": "NVIDIA",
@@ -693,13 +693,6 @@
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
       "ts": 1794312148000
-    },
-    {
-      "source": "Google DeepMind",
-      "cat": "ai",
-      "title": "Opening the datasets behind our AI weather models",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "ts": 1794309184000
     }
   ]
 }
