@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-20T14:39:53Z",
+  "generated": "2026-11-20T15:09:54Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [",
+      "ts": 1795186810000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
+      "summary": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
+      "ts": 1795186800000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+      "summary": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
+      "ts": 1795186084000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
+      "summary": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
+      "ts": 1795185505000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Outages in US cause worry, despite official attempts to downplay concerns",
+      "summary": "Experts say Trump administration is not taking the threat of AI attacks seriously, as consumers stock up on supplies.",
+      "ts": 1795185244000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -26,7 +61,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-      "summary": "This is a breaking news story.",
+      "summary": "The philanthropist is accused by US authorities of financially supporting Hamas.",
       "ts": 1795182314000
     },
     {
@@ -35,13 +70,6 @@
       "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
       "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
       "ts": 1795182176000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
-      "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
-      "ts": 1795182109000
     },
     {
       "source": "Financial Times",
@@ -58,13 +86,6 @@
       "ts": 1795181312000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Poland hit by at least one Russian missile, says Polish govt",
-      "summary": "Poland hit by at least one Russian missile, says Polish govt",
-      "ts": 1795181033000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "N-able says recent security breach led to major service outage",
@@ -72,25 +93,11 @@
       "ts": 1795180716000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
-      "summary": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
-      "ts": 1795180620000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
       "ts": 1795179676000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Brexit debate returns as UK PM seeks closer EU ties",
-      "summary": "Brexit debate returns as UK PM seeks closer EU ties",
-      "ts": 1795178775000
     },
     {
       "source": "The Hacker News",
@@ -308,13 +315,6 @@
       "title": "Sage maps out the attractions of the UK’s tech hinterland",
       "summary": "By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere",
       "ts": 1795113849000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "ts": 1795112401000
     },
     {
       "source": "Google AI",
