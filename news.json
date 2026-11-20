@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-20T12:39:50Z",
+  "generated": "2026-11-20T13:09:53Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "ts": 1795178094000
+      "ts": 1795179676000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "ts": 1795179408000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Brexit debate returns as UK PM seeks closer EU ties",
+      "summary": "Brexit debate returns as UK PM seeks closer EU ties",
+      "ts": 1795178775000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
+      "summary": "World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.",
+      "ts": 1795178698000
     },
     {
       "source": "Al Jazeera",
@@ -58,13 +79,6 @@
       "ts": 1795176868000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
-      "ts": 1795176569000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "How Anthropic’s blockbuster IPO came together",
@@ -91,20 +105,6 @@
       "title": "‘We didn’t come here to beg’: Africa’s message at COP31",
       "summary": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
       "ts": 1795175716000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US appoints new cybersecurity chief after series of tech failures",
-      "summary": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
-      "ts": 1795173988000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "EU and UK seal reset deal",
-      "summary": "Deals on food and animal goods, mobility and student fees have been agreed, but months of negotiations lay ahead.",
-      "ts": 1795173619000
     },
     {
       "source": "BleepingComputer",
