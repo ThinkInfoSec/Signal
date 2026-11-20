@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-20T02:39:48Z",
+  "generated": "2026-11-20T03:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+      "ts": 1795141533000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -98,13 +105,6 @@
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
       "ts": 1795131231000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Six killed in suspected gas explosion at Georgia apartment building",
-      "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
-      "ts": 1795129788000
     },
     {
       "source": "BBC World",
