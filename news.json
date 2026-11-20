@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-20T19:09:50Z",
+  "generated": "2026-11-20T19:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "ts": 1795203526000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "ts": 1795202869000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+      "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+      "ts": 1795202118000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What are the implications of the ICJ Rohingya genocide ruling?",
+      "summary": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
+      "ts": 1795201934000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "New Zealander found with explosive-making instructions, extremist material jailed in Australia",
-      "summary": "Australian Border Force officers who examined the 25-year-old's mobile phone when he arrived at Perth Airport found \"concerning videos\".",
-      "ts": 1795201002000
+      "summary": "Australian Border Force officers who examined the 25-year-old’s mobile phone when he arrived at Perth Airport found \"concerning videos\".",
+      "ts": 1795201552000
     },
     {
       "source": "BleepingComputer",
@@ -14,6 +42,13 @@
       "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
       "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
       "ts": 1795200703000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Former US national security adviser confronted by students on Gaza",
+      "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
+      "ts": 1795200686000
     },
     {
       "source": "Al Jazeera",
@@ -67,13 +102,6 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "ts": 1795197277000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "ts": 1795196988000
@@ -84,13 +112,6 @@
       "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
       "summary": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
       "ts": 1795196658000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "ts": 1795196189000
     },
     {
       "source": "Al Jazeera",
@@ -105,27 +126,6 @@
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
       "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
       "ts": 1795195800000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Qatar’s emir calls for diplomacy to end regional conflicts",
-      "summary": "Qatar’s Emir Sheikh Tamim bin Hamad Al Thani called for diplomatic efforts to de-escalate conflicts.",
-      "ts": 1795195138000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Top US Democrat warns Trump admin against destroying records",
-      "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
-      "ts": 1795194342000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
-      "summary": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
-      "ts": 1795194332000
     },
     {
       "source": "The Hacker News",
@@ -247,6 +247,13 @@
       "ts": 1795170770000
     },
     {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "ts": 1795168800000
+    },
+    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
@@ -287,6 +294,13 @@
       "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
       "summary": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
       "ts": 1795133712000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "ts": 1795132800000
     },
     {
       "source": "Hugging Face",
@@ -375,6 +389,13 @@
     {
       "source": "OpenAI",
       "cat": "ai",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "ts": 1795046400000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
       "title": "Deploying Daybreak Red",
       "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "ts": 1795046400000
@@ -384,13 +405,6 @@
       "cat": "ai",
       "title": "See PR scans in action",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "ts": 1795046400000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "ts": 1795046400000
     },
     {
@@ -483,20 +497,6 @@
       "title": "The Silent Consensus",
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "ts": 1794996000000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "ts": 1794988800000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "ts": 1794988800000
     },
     {
       "source": "Krebs on Security",
