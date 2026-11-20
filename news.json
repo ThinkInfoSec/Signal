@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T17:09:48Z",
+  "generated": "2026-11-20T17:39:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "ts": 1795196189000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "ts": 1795195800000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -16,6 +30,13 @@
       "ts": 1795194332000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investig",
+      "ts": 1795193896000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
@@ -28,13 +49,6 @@
       "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
       "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
       "ts": 1795192835000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "ts": 1795192067000
     },
     {
       "source": "Al Jazeera",
@@ -261,13 +275,6 @@
       "ts": 1795132800000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
-      "ts": 1795127142000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic’s rocketing IPO",
@@ -308,13 +315,6 @@
       "title": "Comancheros first gang in NZ to be sanctioned by US Office of Foreign Assets",
       "summary": "The US Treasury Department's Office of Foreign Assets Control has sanctioned the gang and five people linked to it, including New Zealand brothers Pasilika and Vetekina Naufahu.",
       "ts": 1795117229000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over acc",
-      "ts": 1795114078000
     },
     {
       "source": "Google AI",
