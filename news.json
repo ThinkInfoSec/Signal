@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-20T10:39:50Z",
+  "generated": "2026-11-20T11:09:51Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three Kyiv bridges hit during major Russian missile attack",
       "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "ts": 1795170008000
+      "ts": 1795172920000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic shares slide as fears over AI boom dominate",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
+      "ts": 1795172641000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+      "ts": 1795172263000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" Soni",
+      "ts": 1795171102000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Drone operator removes Man United training footage and issues apology",
+      "summary": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
+      "ts": 1795171040000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow ",
+      "ts": 1795170770000
     },
     {
       "source": "Al Jazeera",
@@ -70,20 +105,6 @@
       "title": "US robbery suspects charged over alleged $22M train heist spree",
       "summary": "US robbery suspects charged over alleged $22M train heist spree",
       "ts": 1795161390000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-      "summary": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
-      "ts": 1795161363000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
-      "summary": "Markets in Europe and Asia follow Wall Street lower despite Claude AI maker’s record listing",
-      "ts": 1795159788000
     },
     {
       "source": "BBC World",
@@ -296,13 +317,6 @@
       "ts": 1795101487000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central consol",
-      "ts": 1795101066000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Five warning signs of ransomware breach before encryption or data theft",
@@ -310,25 +324,11 @@
       "ts": 1795100410000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-      "ts": 1795100244000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Nscale warns of its exposure to suppliers facing US blacklist",
       "summary": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
       "ts": 1795099158000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for ",
-      "ts": 1795098786000
     },
     {
       "source": "NVIDIA",
