@@ -1,10 +1,17 @@
 {
-  "generated": "2026-11-20T22:09:51Z",
+  "generated": "2026-11-20T22:39:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+      "ts": 1795212907000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
-      "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "ts": 1795211909000
     },
@@ -98,13 +105,6 @@
       "title": "Sudan’s war leaves disabled children missing out on education",
       "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
       "ts": 1795207508000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-      "summary": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer.",
-      "ts": 1795206646000
     },
     {
       "source": "BBC World",
