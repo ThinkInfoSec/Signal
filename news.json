@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T20:09:50Z",
+  "generated": "2026-11-20T20:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "ts": 1795206926000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+      "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
+      "ts": 1795205696000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
+      "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
+      "ts": 1795204991000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,11 +30,11 @@
       "ts": 1795204853000
     },
     {
-      "source": "BBC World",
+      "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "ts": 1795204312000
+      "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+      "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
+      "ts": 1795204625000
     },
     {
       "source": "BBC World",
@@ -79,20 +100,6 @@
       "ts": 1795200686000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Swimming lessons offer Gaza’s children a moment of relief",
-      "summary": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
-      "ts": 1795200217000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-      "summary": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
-      "ts": 1795199855000
-    },
-    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "The most misunderstood graph in AI just got a major update",
@@ -119,13 +126,6 @@
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for And",
       "ts": 1795197440000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-      "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
-      "ts": 1795197295000
     },
     {
       "source": "BBC World",
@@ -300,6 +300,13 @@
       "cat": "ai",
       "title": "Can AI help scientists identify promising drug candidates?",
       "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "ts": 1795132800000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "",
       "ts": 1795132800000
     },
     {
@@ -630,13 +637,6 @@
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "summary": "",
       "ts": 1794787200000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "summary": "",
-      "ts": 1794592839000
     },
     {
       "source": "MIT Technology Review",
