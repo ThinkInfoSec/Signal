@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-20T21:39:49Z",
+  "generated": "2026-11-20T22:09:51Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "ts": 1795211909000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "ts": 1795211827000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+      "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+      "ts": 1795211545000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "ts": 1795211230000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -177,13 +205,6 @@
       "ts": 1795190286000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "ts": 1795190116000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The AI fever in markets is breaking",
@@ -329,13 +350,6 @@
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "summary": "",
       "ts": 1795132800000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic’s rocketing IPO",
-      "summary": "The AI lab’s shares pop on day one even as the Nasdaq continues to slide",
-      "ts": 1795124672000
     },
     {
       "source": "Ars Technica",
@@ -548,20 +562,6 @@
       "ts": 1794934800000
     },
     {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "ts": 1794934210000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "ts": 1794929339000
-    },
-    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Research Reports",
@@ -679,13 +679,6 @@
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "ts": 1794409215000
-    },
-    {
-      "source": "Krebs on Security",
-      "cat": "cyber",
-      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from",
-      "ts": 1794347703000
     }
   ]
 }
