@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-20T18:09:51Z",
+  "generated": "2026-11-20T18:39:52Z",
   "items": [
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which",
+      "ts": 1795198515000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic staffer claims solution to mathematics’ Riemann hypothesis",
+      "summary": "Proof for 167-year-old problem would be most spectacular AI advance in field",
+      "ts": 1795198290000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic shares slide as tech stocks tumble",
       "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
       "ts": 1795197801000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+      "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
+      "ts": 1795197295000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "ts": 1795197277000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "ts": 1795196988000
     },
     {
       "source": "Al Jazeera",
@@ -86,13 +121,6 @@
       "ts": 1795191237000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US Senate passes bill to speed up energy project approvals",
-      "summary": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
-      "ts": 1795191012000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
@@ -126,13 +154,6 @@
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
       "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [",
       "ts": 1795186810000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "ts": 1795181312000
     },
     {
       "source": "BleepingComputer",
@@ -205,13 +226,6 @@
       "ts": 1795170770000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "ts": 1795169779000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
@@ -280,13 +294,6 @@
       "title": "Anthropic’s rocketing IPO",
       "summary": "The AI lab’s shares pop on day one even as the Nasdaq continues to slide",
       "ts": 1795124672000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic shares jump 17% after record Wall Street listing",
-      "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
-      "ts": 1795122129000
     },
     {
       "source": "Ars Technica",
