@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-20T13:39:50Z",
+  "generated": "2026-11-20T14:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "ts": 1795182724000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+      "summary": "This is a breaking news story.",
+      "ts": 1795182314000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+      "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
+      "ts": 1795182176000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+      "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
+      "ts": 1795182109000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -14,6 +42,13 @@
       "title": "White House removes cyber-security chief after series of tech outages",
       "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
       "ts": 1795181312000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Poland hit by at least one Russian missile, says Polish govt",
+      "summary": "Poland hit by at least one Russian missile, says Polish govt",
+      "ts": 1795181033000
     },
     {
       "source": "BleepingComputer",
@@ -37,13 +72,6 @@
       "ts": 1795179676000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "ts": 1795179408000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Brexit debate returns as UK PM seeks closer EU ties",
@@ -65,32 +93,11 @@
       "ts": 1795177589000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-      "summary": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
-      "ts": 1795177229000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Searching for the next Messi at the Under-17 World Cup",
-      "summary": "Nearly 100 football scouts are in Qatar, searching for the next superstar at the FIFA Under-17 World Cup.",
-      "ts": 1795177209000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
       "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with ",
       "ts": 1795177200000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-      "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
-      "ts": 1795177164000
     },
     {
       "source": "BleepingComputer",
@@ -102,7 +109,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "How Anthropic’s blockbuster IPO came together",
+      "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
       "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
       "ts": 1795176166000
     },
@@ -112,13 +119,6 @@
       "title": "The Path to AI Autonomy in the SOC",
       "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Ove",
       "ts": 1795176000000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
-      "summary": "As players return from international break, Premier League leaders Arsenal face Newcastle away on match day 11.",
-      "ts": 1795175992000
     },
     {
       "source": "BleepingComputer",
