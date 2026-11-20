@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T03:39:51Z",
+  "generated": "2026-11-20T04:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+      "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+      "ts": 1795145183000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+      "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+      "ts": 1795145089000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -11,7 +25,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Beloved hippo Fiona dies days after swallowing visitor’s hat",
+      "title": "Hippo Fiona dies days after swallowing visitor’s hat",
       "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
       "ts": 1795143104000
     },
@@ -58,25 +72,11 @@
       "ts": 1795135364000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Haiti police say 34 gang members killed in capital raid",
-      "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
-      "ts": 1795134662000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
       "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
       "ts": 1795134385000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
-      "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
-      "ts": 1795134122000
     },
     {
       "source": "Financial Times",
