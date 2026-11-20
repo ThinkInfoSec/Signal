@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T09:39:49Z",
+  "generated": "2026-11-20T10:09:50Z",
   "items": [
     {
       "source": "BBC World",
@@ -14,6 +14,20 @@
       "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
       "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
       "ts": 1795166735000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+      "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
+      "ts": 1795166190000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pakistan minister visits India for first time since 2025 war",
+      "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+      "ts": 1795165917000
     },
     {
       "source": "Al Jazeera",
@@ -72,25 +86,11 @@
       "ts": 1795158886000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "EU and Britain to agree steps towards relations reset",
-      "summary": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
-      "ts": 1795158763000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while re",
       "ts": 1795158699000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
-      "summary": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
-      "ts": 1795158267000
     },
     {
       "source": "The Hacker News",
