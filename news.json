@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T07:39:48Z",
+  "generated": "2026-11-20T08:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US robbery suspects charged over alleged $22M train heist spree",
+      "summary": "US robbery suspects charged over alleged $22M train heist spree",
+      "ts": 1795161390000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
+      "summary": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
+      "ts": 1795161363000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
+      "summary": "Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year.",
+      "ts": 1795160275000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -63,27 +84,6 @@
       "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
       "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
       "ts": 1795155306000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-      "summary": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
-      "ts": 1795154583000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump bows to pressure, replaces US cyber security director",
-      "summary": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
-      "ts": 1795153715000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-      "summary": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
-      "ts": 1795152981000
     },
     {
       "source": "The Hacker News",
