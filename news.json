@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-20T08:09:48Z",
+  "generated": "2026-11-20T08:39:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "El Salvador’s Bukele seeks third term after constitution change",
+      "summary": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
+      "ts": 1795162894000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -26,7 +33,7 @@
       "source": "Financial Times",
       "cat": "ai",
       "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
-      "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "summary": "Markets in Europe and Asia follow Wall Street lower despite Claude AI maker’s record listing",
       "ts": 1795159788000
     },
     {
@@ -77,13 +84,6 @@
       "title": "‘We don’t want our future decided by the military’: Young Germans protest",
       "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
       "ts": 1795155626000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
-      "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
-      "ts": 1795155306000
     },
     {
       "source": "The Hacker News",
