@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-20T16:39:50Z",
+  "generated": "2026-11-20T17:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Top US Democrat warns Trump admin against destroying records",
+      "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+      "ts": 1795194342000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+      "summary": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
+      "ts": 1795194332000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "ts": 1795193669000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+      "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+      "ts": 1795192835000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -25,7 +53,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+      "title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
       "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
       "ts": 1795190731000
     },
@@ -65,13 +93,6 @@
       "ts": 1795189746000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Palestinians return home to ruins",
-      "summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
-      "ts": 1795189324000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The AI fever in markets is breaking",
@@ -79,32 +100,11 @@
       "ts": 1795188218000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-      "summary": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
-      "ts": 1795187906000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
       "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [",
       "ts": 1795186810000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
-      "summary": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
-      "ts": 1795186800000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "ts": 1795182724000
     },
     {
       "source": "Financial Times",
