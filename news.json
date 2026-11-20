@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T04:39:49Z",
+  "generated": "2026-11-20T05:09:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic’s Wall Street stimulus fades",
+      "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
+      "ts": 1795150826000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+      "summary": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+      "ts": 1795149893000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -63,13 +77,6 @@
       "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
       "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
       "ts": 1795138168000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
-      "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
-      "ts": 1795137006000
     },
     {
       "source": "BBC World",
@@ -294,13 +301,6 @@
       "title": "Germany hit by AI-driven surge in cyber attacks",
       "summary": "Threat level ‘critical’ as new tools make it far easier for hackers to exploit security flaws",
       "ts": 1795098528000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The dangers of AI ‘handoverism’",
-      "summary": "Even some of Silicon Valley’s most enthusiastic capitalists are alarmed about how far and fast the technology is moving",
-      "ts": 1795097049000
     },
     {
       "source": "NVIDIA",
