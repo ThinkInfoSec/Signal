@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T22:39:47Z",
+  "generated": "2026-11-20T23:09:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "ts": 1795214567000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "ts": 1795214229000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -109,23 +123,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "ts": 1795204853000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "Gérard Depardieu and French author investigated over sexual allegations",
       "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
       "ts": 1795203920000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "ts": 1795202869000
     },
     {
       "source": "RNZ World",
