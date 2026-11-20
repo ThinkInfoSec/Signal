@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-20T05:39:50Z",
+  "generated": "2026-11-20T06:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump bows to pressure, replaces US cyber security director",
+      "summary": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
+      "ts": 1795153715000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+      "summary": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
+      "ts": 1795152981000
+    },
     {
       "source": "The Hacker News",
       "cat": "cyber",
@@ -11,8 +25,8 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Asian tech stocks fall after Anthropic IPO",
-      "summary": "Region’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "title": "Tech stocks fall after Anthropic IPO",
+      "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
       "ts": 1795152170000
     },
     {
@@ -70,20 +84,6 @@
       "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
       "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
       "ts": 1795145089000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-      "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
-      "ts": 1795143262000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hippo Fiona dies days after swallowing visitor’s hat",
-      "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
-      "ts": 1795143104000
     },
     {
       "source": "BBC World",
