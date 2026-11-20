@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T00:39:49Z",
+  "generated": "2026-11-20T01:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "ts": 1795135824000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+      "summary": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+      "ts": 1795135364000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Haiti police say 34 gang members killed in capital raid",
+      "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+      "ts": 1795134662000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -14,6 +35,13 @@
       "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
       "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
       "ts": 1795134122000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+      "summary": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
+      "ts": 1795133712000
     },
     {
       "source": "BBC World",
@@ -100,25 +128,11 @@
       "ts": 1795124379000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "ts": 1795123303000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
       "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
       "ts": 1795122959000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
-      "summary": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
-      "ts": 1795122705000
     },
     {
       "source": "Financial Times",
@@ -303,13 +317,6 @@
       "ts": 1795093688000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Is AI now superior to junior accountants?",
-      "summary": "Models have gone from professionally useless to real-world-ready in a year, but they still cannot replace the relational aspects of the job",
-      "ts": 1795091402000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Everything Is a Web Application, Including Your Firewall",
@@ -343,13 +350,6 @@
       "title": "US senators push for stronger military space ties with NZ",
       "summary": "Nine senators wrote to the Pentagon this week saying further expansion of NZ's space programme would advance US national security objectives.",
       "ts": 1795074975000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Virtual ‘Jensanity’ rocks Taipei in support for Nvidia chief",
-      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
-      "ts": 1795074694000
     },
     {
       "source": "RNZ World",
