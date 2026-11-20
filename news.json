@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-20T09:09:48Z",
+  "generated": "2026-11-20T09:39:49Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three Kyiv bridges hit during major Russian missile attack",
       "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "ts": 1795165266000
+      "ts": 1795167084000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+      "ts": 1795166735000
     },
     {
       "source": "Al Jazeera",
@@ -329,13 +336,6 @@
       "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
       "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for",
       "ts": 1795096812000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "ts": 1795093688000
     },
     {
       "source": "OpenAI",
