@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T20:09:47Z",
+  "generated": "2026-11-21T20:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+      "ts": 1795292113000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
       "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
       "ts": 1795283659000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
-      "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
-      "ts": 1795282131000
     },
     {
       "source": "Financial Times",
