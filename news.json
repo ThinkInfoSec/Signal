@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T01:09:50Z",
+  "generated": "2026-11-21T01:39:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+      "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+      "ts": 1795223568000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+      "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
+      "ts": 1795222501000
+    },
     {
       "source": "Krebs on Security",
       "cat": "cyber",
@@ -105,20 +119,6 @@
       "title": "Inside Anthropic’s historic IPO",
       "summary": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
       "ts": 1795209689000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-      "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-      "ts": 1795209053000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-      "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-      "ts": 1795208707000
     },
     {
       "source": "Ars Technica",
