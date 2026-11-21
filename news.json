@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T12:09:50Z",
+  "generated": "2026-11-21T12:39:54Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "At least four Palestinians killed in Israeli attacks on Gaza",
+      "summary": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+      "ts": 1795264189000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
+      "summary": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
+      "ts": 1795263744000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "ts": 1795263655000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -65,20 +86,6 @@
       "ts": 1795258949000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-      "summary": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
-      "ts": 1795258462000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
-      "summary": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
-      "ts": 1795257493000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -112,13 +119,6 @@
       "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (",
       "ts": 1795250953000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "ts": 1795248625000
     },
     {
       "source": "Financial Times",
@@ -158,7 +158,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "ts": 1795216137000
     },
