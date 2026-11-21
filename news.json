@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T01:39:47Z",
+  "generated": "2026-11-21T02:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+      "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+      "ts": 1795225747000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "summary": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "ts": 1795225449000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
+      "summary": "The new African agency aims to bring greater transparency to credit ratings.",
+      "ts": 1795224970000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,13 +79,6 @@
       "ts": 1795216137000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-      "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
-      "ts": 1795216001000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -77,13 +91,6 @@
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
       "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
       "ts": 1795214229000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-      "ts": 1795212907000
     },
     {
       "source": "Ars Technica",
@@ -105,13 +112,6 @@
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
       "ts": 1795211230000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraq PM targets militia stronghold in bid to assert state control",
-      "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
-      "ts": 1795210105000
     },
     {
       "source": "Financial Times",
