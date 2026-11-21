@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T17:39:52Z",
+  "generated": "2026-11-21T18:09:53Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+      "ts": 1795284118000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+      "ts": 1795282131000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+      "summary": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
+      "ts": 1795281697000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -65,25 +86,11 @@
       "ts": 1795274247000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-      "ts": 1795273278000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "ts": 1795272864000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-      "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
-      "ts": 1795271752000
     },
     {
       "source": "BleepingComputer",
@@ -236,7 +243,7 @@
       "source": "RNZ World",
       "cat": "geo",
       "title": "New Zealander found with explosive-making instructions, extremist material jailed in Australia",
-      "summary": "Australian Border Force officers who examined the 25-year-old’s mobile phone when he arrived at Perth Airport found \"concerning videos\".",
+      "summary": "Australian Border Force officers who examined the 25-year-old's mobile phone when he arrived at Perth Airport found \"concerning videos\".",
       "ts": 1795201552000
     },
     {
@@ -315,13 +322,6 @@
       "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
       "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with ",
       "ts": 1795177200000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-      "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
-      "ts": 1795176868000
     },
     {
       "source": "OpenAI",
@@ -644,20 +644,6 @@
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
       "ts": 1794506400000
-    },
-    {
-      "source": "Krebs on Security",
-      "cat": "cyber",
-      "title": "Who Runs the Ransomware Group Qilin?",
-      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that",
-      "ts": 1794420361000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "ts": 1794420000000
     }
   ]
 }
