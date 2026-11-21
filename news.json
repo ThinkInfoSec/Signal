@@ -1,11 +1,25 @@
 {
-  "generated": "2026-11-21T05:39:52Z",
+  "generated": "2026-11-21T06:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+      "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
+      "ts": 1795239989000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Funeral held for New York teen shot while walking to school",
+      "summary": "Funeral held for New York teen shot while walking to school",
+      "ts": 1795238175000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
       "ts": 1795238141000
     },
     {
@@ -56,20 +70,6 @@
       "title": "COP31 deal stalls as nations struggle to agree on climate plan",
       "summary": "COP31 deal stalls as nations struggle to agree on climate plan",
       "ts": 1795225449000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
-      "summary": "The new African agency aims to bring greater transparency to credit ratings.",
-      "ts": 1795224970000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-      "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
-      "ts": 1795223568000
     },
     {
       "source": "Krebs on Security",
