@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T14:09:50Z",
+  "generated": "2026-11-21T14:39:48Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+      "ts": 1795271164000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
+      "ts": 1795270536000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "ts": 1795269966000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -25,8 +46,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
-      "summary": "Two drones attack a cargo ship close to Russia's maritime border, causing damage and crew evacuation.",
+      "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
+      "summary": "Two drones attack a cargo ship that Finnish authorities say has links to Russia's armed forces.",
       "ts": 1795265124000
     },
     {
@@ -51,25 +72,11 @@
       "ts": 1795263744000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mexico captures FBI-wanted cartel boss in military raid",
-      "summary": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
-      "ts": 1795262036000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstrat",
       "ts": 1795261987000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why is GTA VI so expensive to play?",
-      "summary": "Grand Theft Auto VI costs less than GTA V to buy, yet far more to play. AJLabs explains where the money goes.",
-      "ts": 1795261143000
     },
     {
       "source": "The Hacker News",
@@ -322,13 +329,6 @@
       "title": "Combatting adversarial distillation",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "ts": 1795168800000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-      "ts": 1795166735000
     },
     {
       "source": "OpenAI",
