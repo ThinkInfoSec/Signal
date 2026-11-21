@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-21T11:39:51Z",
+  "generated": "2026-11-21T12:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mexico captures FBI-wanted cartel boss in military raid",
+      "summary": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
+      "ts": 1795262036000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstrat",
+      "ts": 1795261987000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why is GTA VI so expensive to play?",
+      "summary": "Grand Theft Auto VI costs less than GTA V to buy, yet far more to play. AJLabs explains where the money goes.",
+      "ts": 1795261143000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
+      "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
+      "ts": 1795260942000
+    },
     {
       "source": "The Hacker News",
       "cat": "cyber",
@@ -49,27 +77,6 @@
       "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
       "summary": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
       "ts": 1795257493000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
-      "summary": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
-      "ts": 1795256843000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
-      "summary": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
-      "ts": 1795256729000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
-      "summary": "Max Verstappen escapes discipline in Vegas F1 practice after run-ins and takes pole as Kimi Antonelli hit with penalty.",
-      "ts": 1795255139000
     },
     {
       "source": "BBC World",
@@ -301,13 +308,6 @@
       "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
       "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
       "ts": 1795176868000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "The Path to AI Autonomy in the SOC",
-      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Ove",
-      "ts": 1795176000000
     },
     {
       "source": "BleepingComputer",
