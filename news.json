@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T16:09:52Z",
+  "generated": "2026-11-21T16:39:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "ts": 1795278915000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India’s opposition stages protests against Meta over account removals",
+      "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
+      "ts": 1795277641000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -72,13 +86,6 @@
       "ts": 1795271164000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
-      "ts": 1795270536000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -119,13 +126,6 @@
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
       "ts": 1795256796000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "ts": 1795253660000
     },
     {
       "source": "The Hacker News",
