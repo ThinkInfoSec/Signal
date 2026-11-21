@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T23:09:50Z",
+  "generated": "2026-11-21T23:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "ts": 1795303877000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran faces a ‘silent economic war’, says Iranian president",
+      "summary": "Iran faces a ‘silent economic war’, says Iranian president",
+      "ts": 1795303094000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -51,13 +65,6 @@
       "ts": 1795295358000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "ts": 1795295129000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
@@ -77,13 +84,6 @@
       "title": "Thousands protest across Europe over living costs and housing",
       "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
       "ts": 1795294070000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
-      "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
-      "ts": 1795293500000
     },
     {
       "source": "BBC World",
