@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T02:39:49Z",
+  "generated": "2026-11-21T03:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Three French police officers sentenced over racist assault on Black man",
+      "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
+      "ts": 1795230084000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
+      "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+      "ts": 1795229356000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -61,22 +75,8 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "summary": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
+      "summary": "Saudi-led coalition says it intercepted three missiles as IRGC claims it downed a US MQ-9 drone over Strait of Hormuz.",
       "ts": 1795219206000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
-      "summary": "Police say two children among dead as search continues for more victims.",
-      "ts": 1795217796000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-      "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
-      "ts": 1795216850000
     },
     {
       "source": "BBC World",
