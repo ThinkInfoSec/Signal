@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T02:09:48Z",
+  "generated": "2026-11-21T02:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "ts": 1795226986000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -196,13 +203,6 @@
       "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
       "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investig",
       "ts": 1795193896000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "ts": 1795193669000
     },
     {
       "source": "BleepingComputer",
