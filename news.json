@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T17:09:49Z",
+  "generated": "2026-11-21T17:39:52Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+      "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
+      "ts": 1795281696000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+      "ts": 1795281603000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -70,13 +84,6 @@
       "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
       "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
       "ts": 1795271752000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Newcastle United vs Arsenal LIVE: Premier League",
-      "summary": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
-      "ts": 1795271400000
     },
     {
       "source": "BleepingComputer",
@@ -287,13 +294,6 @@
       "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
       "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
       "ts": 1795190286000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The AI fever in markets is breaking",
-      "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
-      "ts": 1795188218000
     },
     {
       "source": "BleepingComputer",
