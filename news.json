@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T07:39:50Z",
+  "generated": "2026-11-21T08:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can mediation succeed in a war-torn world? | Episode 1",
+      "summary": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
+      "ts": 1795246718000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -11,8 +18,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
-      "summary": "The blaze at the Hartha power station that spread to nearby houses injures dozens of others.",
+      "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+      "summary": "The blaze erupted at the Hartha power station and spread to nearby houses.",
       "ts": 1795245929000
     },
     {
@@ -70,13 +77,6 @@
       "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
       "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
       "ts": 1795239989000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Funeral held for New York teen shot while walking to school",
-      "summary": "Funeral held for New York teen shot while walking to school",
-      "ts": 1795238175000
     },
     {
       "source": "Financial Times",
