@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T10:09:48Z",
+  "generated": "2026-11-21T10:39:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
+      "summary": "Max Verstappen escapes discipline in Vegas F1 practice after run-ins and takes pole as Kimi Antonelli hit with penalty.",
+      "ts": 1795255139000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -84,13 +91,6 @@
       "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
       "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
       "ts": 1795250375000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-      "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
-      "ts": 1795250032000
     },
     {
       "source": "BBC World",
