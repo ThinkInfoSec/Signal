@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-21T11:09:48Z",
+  "generated": "2026-11-21T11:39:51Z",
   "items": [
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2",
+      "ts": 1795259153000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Migrants caravan in Mexico walks towards US border",
+      "summary": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
+      "ts": 1795259050000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storag",
+      "ts": 1795258997000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
+      "ts": 1795258969000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Deadly fire engulfs power station in southern Iraq",
+      "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+      "ts": 1795258949000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
+      "summary": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
+      "ts": 1795258462000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -44,39 +86,11 @@
       "ts": 1795254055000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
-      "summary": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
-      "ts": 1795253909000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "ts": 1795253660000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
-      "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
-      "ts": 1795253424000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Fire sprinkler sprays water at flame-covered sign in China",
-      "summary": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
-      "ts": 1795252840000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-      "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
-      "ts": 1795252334000
     },
     {
       "source": "The Hacker News",
@@ -301,20 +315,6 @@
       "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
       "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
       "ts": 1795172263000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" Soni",
-      "ts": 1795171102000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow ",
-      "ts": 1795170770000
     },
     {
       "source": "OpenAI",
