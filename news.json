@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T23:39:47Z",
+  "generated": "2026-11-21T00:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "ts": 1795219299000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+      "summary": "Saudi Arabia issues a flurry of emergency alerts for Riyah as coalition says intercepted three ballistic missiles.",
+      "ts": 1795219206000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+      "summary": "Police say two children among dead as search continues for more victims.",
+      "ts": 1795217796000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -51,13 +72,6 @@
       "ts": 1795211909000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "ts": 1795211827000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
@@ -105,20 +119,6 @@
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "ts": 1795208348000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-      "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-      "ts": 1795208344000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can the UK and EU turn the page on Brexit?",
-      "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
-      "ts": 1795207879000
     },
     {
       "source": "BBC World",
