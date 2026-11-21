@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-21T07:09:48Z",
+  "generated": "2026-11-21T07:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "ts": 1795246265000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
+      "summary": "The blaze at the Hartha power station that spread to nearby houses injures dozens of others.",
+      "ts": 1795245929000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "ts": 1795245885000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Emergency crews in Ukraine hit by a double-tap strike",
+      "summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+      "ts": 1795245123000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+      "summary": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
+      "ts": 1795244879000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Train collides with minibus in Indonesia",
+      "summary": "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.",
+      "ts": 1795244102000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -37,20 +79,6 @@
       "ts": 1795238175000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-      "ts": 1795238141000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
-      "summary": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
-      "ts": 1795237720000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The chip war’s next battleground",
@@ -77,27 +105,6 @@
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
       "ts": 1795235640000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-      "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
-      "ts": 1795235527000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Three French police officers sentenced over racist assault on Black man",
-      "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
-      "ts": 1795230084000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-      "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
-      "ts": 1795229356000
     },
     {
       "source": "Krebs on Security",
@@ -168,13 +175,6 @@
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "ts": 1795208348000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "ts": 1795203920000
     },
     {
       "source": "RNZ World",
