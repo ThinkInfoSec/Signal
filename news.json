@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T08:09:48Z",
+  "generated": "2026-11-21T08:39:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "ts": 1795248625000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -21,13 +28,6 @@
       "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
       "summary": "The blaze erupted at the Hartha power station and spread to nearby houses.",
       "ts": 1795245929000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "ts": 1795245885000
     },
     {
       "source": "Al Jazeera",
