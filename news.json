@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T14:39:48Z",
+  "generated": "2026-11-21T15:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "ts": 1795272864000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+      "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
+      "ts": 1795271752000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Newcastle United vs Arsenal LIVE: Premier League",
+      "summary": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
+      "ts": 1795271400000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -58,20 +79,6 @@
       "ts": 1795264249000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli attacks on Gaza kill at least four Palestinians",
-      "summary": "Israeli drone attack kills three people in Gaza City; another is shot dead by Israeli forces in Jabalia.",
-      "ts": 1795264189000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-      "summary": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
-      "ts": 1795263744000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -91,13 +98,6 @@
       "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
       "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storag",
       "ts": 1795258997000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "ts": 1795254731000
     },
     {
       "source": "BBC World",
@@ -665,13 +665,6 @@
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
       "ts": 1794412800000
-    },
-    {
-      "source": "Google DeepMind",
-      "cat": "ai",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "ts": 1794409215000
     }
   ]
 }
