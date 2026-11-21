@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-21T13:09:47Z",
+  "generated": "2026-11-21T13:39:51Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "ts": 1795265520000
+      "ts": 1795267058000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+      "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
+      "ts": 1795266539000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+      "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
+      "ts": 1795265360000
     },
     {
       "source": "Al Jazeera",
@@ -58,25 +72,11 @@
       "ts": 1795261143000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-      "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
-      "ts": 1795260942000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
       "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2",
       "ts": 1795259153000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Migrants caravan in Mexico walks towards US border",
-      "summary": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
-      "ts": 1795259050000
     },
     {
       "source": "The Hacker News",
