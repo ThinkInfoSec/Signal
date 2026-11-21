@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T22:39:49Z",
+  "generated": "2026-11-21T23:09:50Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "ts": 1795301998000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -308,13 +315,6 @@
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
       "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [",
       "ts": 1795186810000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "N-able says recent security breach led to major service outage",
-      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
-      "ts": 1795180716000
     },
     {
       "source": "The Hacker News",
