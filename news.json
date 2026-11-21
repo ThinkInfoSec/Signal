@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T22:09:49Z",
+  "generated": "2026-11-21T22:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "ts": 1795299583000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Bahrain says Iranian attack hits industrial facility",
+      "summary": "Bahrain says Iranian attack hits industrial facility",
+      "ts": 1795298523000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "ts": 1795298479000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -56,20 +77,6 @@
       "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
       "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
       "ts": 1795293500000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
-      "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
-      "ts": 1795292113000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "ts": 1795289629000
     },
     {
       "source": "BBC World",
@@ -184,25 +191,18 @@
       "ts": 1795237216000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "ts": 1795235640000
+    },
+    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key",
       "ts": 1795221399000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "ts": 1795214567000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "ts": 1795214229000
     },
     {
       "source": "Ars Technica",
