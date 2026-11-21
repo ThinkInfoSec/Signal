@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T06:09:49Z",
+  "generated": "2026-11-21T06:39:48Z",
   "items": [
     {
       "source": "Al Jazeera",
@@ -19,7 +19,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
       "ts": 1795238141000
     },
     {
@@ -371,13 +371,6 @@
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by ",
       "ts": 1795118415000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Could James Bond ever be anything other than a white, British man?",
-      "summary": "Rumours have circulated for years regarding a potentially diverse Bond, whether that's someone who isn't white, or a woman.",
-      "ts": 1795118045000
     },
     {
       "source": "Google AI",
