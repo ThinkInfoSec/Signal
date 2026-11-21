@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T15:39:48Z",
+  "generated": "2026-11-21T16:09:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+      "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+      "ts": 1795276996000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US midterms 2026: What happens before the new Congress takes office?",
+      "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
+      "ts": 1795276172000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "French presidential candidate blames media for racist attack",
+      "summary": "French presidential candidate blames media for racist attack",
+      "ts": 1795275978000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -11,7 +32,7 @@
     {
       "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
       "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
       "ts": 1795274247000
     },
@@ -58,13 +79,6 @@
       "ts": 1795270536000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "ts": 1795269966000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -77,20 +91,6 @@
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "ts": 1795266921000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-      "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
-      "ts": 1795266539000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-      "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
-      "ts": 1795265360000
     },
     {
       "source": "The Hacker News",
@@ -658,13 +658,6 @@
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "ts": 1794420000000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "ts": 1794412800000
     }
   ]
 }
