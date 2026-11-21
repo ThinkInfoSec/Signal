@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T09:39:50Z",
+  "generated": "2026-11-21T10:09:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "ts": 1795254731000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "ts": 1795254055000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -9,18 +23,18 @@
       "ts": 1795253909000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "ts": 1795253660000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
       "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
       "ts": 1795253424000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "ts": 1795253271000
     },
     {
       "source": "Al Jazeera",
@@ -86,13 +100,6 @@
       "ts": 1795248625000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "ts": 1795246265000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The chip war’s next battleground",
@@ -126,13 +133,6 @@
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key",
       "ts": 1795221399000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-      "ts": 1795219299000
     },
     {
       "source": "BBC World",
