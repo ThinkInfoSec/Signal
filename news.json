@@ -1,19 +1,26 @@
 {
-  "generated": "2026-11-21T19:09:51Z",
+  "generated": "2026-11-21T19:39:47Z",
   "items": [
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
-      "ts": 1795286558000
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "ts": 1795289629000
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "ts": 1795285329000
+      "ts": 1795288822000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "ts": 1795286558000
     },
     {
       "source": "Al Jazeera",
@@ -91,13 +98,6 @@
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
       "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
       "ts": 1795274247000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "ts": 1795272864000
     },
     {
       "source": "BleepingComputer",
