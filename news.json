@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T06:39:48Z",
+  "generated": "2026-11-21T07:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sudan’s war will end, but will it be too late?",
+      "summary": "Pressure from within Sudan may achieve what international diplomacy has not.",
+      "ts": 1795242724000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu is playing with the fire that killed Rabin",
+      "summary": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
+      "ts": 1795242063000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "ts": 1795240809000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -30,6 +51,27 @@
       "ts": 1795237720000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The chip war’s next battleground",
+      "summary": "As the US and China’s AI rivalry intensifies, focus is moving to supply chains",
+      "ts": 1795237236000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’",
+      "summary": "The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent",
+      "ts": 1795237226000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The AI cyber threat is already here",
+      "summary": "The freezer war is just a start",
+      "ts": 1795237216000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
@@ -56,20 +98,6 @@
       "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
       "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
       "ts": 1795229356000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-      "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
-      "ts": 1795225747000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "COP31 deal stalls as nations struggle to agree on climate plan",
-      "summary": "COP31 deal stalls as nations struggle to agree on climate plan",
-      "ts": 1795225449000
     },
     {
       "source": "Krebs on Security",
@@ -191,13 +219,6 @@
       "ts": 1795197440000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "ts": 1795196988000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
@@ -308,27 +329,6 @@
       "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while re",
       "ts": 1795158699000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic’s Wall Street stimulus fades",
-      "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
-      "ts": 1795150826000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
-      "summary": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
-      "ts": 1795135364000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
-      "summary": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
-      "ts": 1795133712000
     },
     {
       "source": "OpenAI",
