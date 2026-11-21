@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T18:39:50Z",
+  "generated": "2026-11-21T19:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "ts": 1795286558000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "ts": 1795285329000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,13 +77,6 @@
       "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
       "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
       "ts": 1795281696000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-      "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-      "ts": 1795281603000
     },
     {
       "source": "BBC World",
@@ -175,13 +182,6 @@
       "title": "The AI cyber threat is already here",
       "summary": "The freezer war is just a start",
       "ts": 1795237216000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "ts": 1795235640000
     },
     {
       "source": "Krebs on Security",
