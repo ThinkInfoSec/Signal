@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T04:39:50Z",
+  "generated": "2026-11-21T05:09:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "ts": 1795235640000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "ts": 1795235570000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+      "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+      "ts": 1795235527000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -14,13 +35,6 @@
       "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
       "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
       "ts": 1795229356000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "ts": 1795226986000
     },
     {
       "source": "Al Jazeera",
@@ -70,13 +84,6 @@
       "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
       "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
       "ts": 1795219299000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "summary": "Saudi-led coalition says it intercepted three missiles as IRGC claims it downed a US MQ-9 drone over Strait of Hormuz.",
-      "ts": 1795219206000
     },
     {
       "source": "BBC World",
@@ -231,13 +238,6 @@
       "title": "N-able says recent security breach led to major service outage",
       "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
       "ts": 1795180716000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "ts": 1795179676000
     },
     {
       "source": "The Hacker News",
