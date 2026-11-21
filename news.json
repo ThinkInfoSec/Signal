@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T19:39:47Z",
+  "generated": "2026-11-21T20:09:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+      "ts": 1795290780000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
       "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
       "ts": 1795282131000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
-      "summary": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
-      "ts": 1795281697000
     },
     {
       "source": "Financial Times",
