@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-21T08:39:48Z",
+  "generated": "2026-11-21T09:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+      "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
+      "ts": 1795251689000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted mess",
+      "ts": 1795250960000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (",
+      "ts": 1795250953000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+      "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+      "ts": 1795250934000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+      "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+      "ts": 1795250375000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
+      "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
+      "ts": 1795250032000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+      "summary": "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist.",
+      "ts": 1795249582000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -37,46 +86,11 @@
       "ts": 1795245123000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
-      "summary": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
-      "ts": 1795244879000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Train collides with minibus in Indonesia",
-      "summary": "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.",
-      "ts": 1795244102000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Sudan’s war will end, but will it be too late?",
-      "summary": "Pressure from within Sudan may achieve what international diplomacy has not.",
-      "ts": 1795242724000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu is playing with the fire that killed Rabin",
-      "summary": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
-      "ts": 1795242063000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
       "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
       "ts": 1795240809000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
-      "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
-      "ts": 1795239989000
     },
     {
       "source": "Financial Times",
@@ -215,7 +229,7 @@
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for And",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs i",
       "ts": 1795197440000
     },
     {
@@ -310,25 +324,11 @@
       "ts": 1795168800000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in ",
-      "ts": 1795167495000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
       "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
       "ts": 1795166735000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while re",
-      "ts": 1795158699000
     },
     {
       "source": "OpenAI",
