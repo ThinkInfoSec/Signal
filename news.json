@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-21T18:09:53Z",
+  "generated": "2026-11-21T18:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "ts": 1795285150000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Could Brexit be reversed?",
+      "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+      "ts": 1795285091000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "ts": 1795284351000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
       "ts": 1795284118000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "summary": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "ts": 1795283847000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "ts": 1795283659000
     },
     {
       "source": "Al Jazeera",
@@ -42,41 +77,6 @@
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "ts": 1795278915000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India’s opposition stages protests against Meta over account removals",
-      "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
-      "ts": 1795277641000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-      "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
-      "ts": 1795276996000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US midterms 2026: What happens before the new Congress takes office?",
-      "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-      "ts": 1795276172000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "French presidential candidate blames media for racist attack",
-      "summary": "French presidential candidate blames media for racist attack",
-      "ts": 1795275978000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-      "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
-      "ts": 1795274443000
     },
     {
       "source": "BleepingComputer",
