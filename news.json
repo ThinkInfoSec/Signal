@@ -1,19 +1,26 @@
 {
-  "generated": "2026-11-21T05:09:49Z",
+  "generated": "2026-11-21T05:39:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+      "ts": 1795238141000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
+      "summary": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
+      "ts": 1795237720000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
       "ts": 1795235640000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
-      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
-      "ts": 1795235570000
     },
     {
       "source": "Al Jazeera",
@@ -63,13 +70,6 @@
       "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
       "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
       "ts": 1795223568000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
-      "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
-      "ts": 1795222501000
     },
     {
       "source": "Krebs on Security",
@@ -378,13 +378,6 @@
       "title": "Could James Bond ever be anything other than a white, British man?",
       "summary": "Rumours have circulated for years regarding a potentially diverse Bond, whether that's someone who isn't white, or a woman.",
       "ts": 1795118045000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Comancheros first gang in NZ to be sanctioned by US Office of Foreign Assets",
-      "summary": "The US Treasury Department's Office of Foreign Assets Control has sanctioned the gang and five people linked to it, including New Zealand brothers Pasilika and Vetekina Naufahu.",
-      "ts": 1795117229000
     },
     {
       "source": "Google AI",
