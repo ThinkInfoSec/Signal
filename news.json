@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-21T10:39:47Z",
+  "generated": "2026-11-21T11:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+      "summary": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
+      "ts": 1795257493000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
+      "summary": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
+      "ts": 1795256843000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+      "summary": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
+      "ts": 1795256729000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,13 +79,6 @@
       "ts": 1795252334000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
-      "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
-      "ts": 1795251689000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
@@ -77,20 +91,6 @@
       "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (",
       "ts": 1795250953000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-      "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
-      "ts": 1795250934000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-      "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
-      "ts": 1795250375000
     },
     {
       "source": "BBC World",
