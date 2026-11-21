@@ -1,10 +1,31 @@
 {
-  "generated": "2026-11-21T12:39:54Z",
+  "generated": "2026-11-21T13:09:47Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "ts": 1795265520000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "At least four Palestinians killed in Israeli attacks on Gaza",
+      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+      "summary": "Two drones attack a cargo ship close to Russia's maritime border, causing damage and crew evacuation.",
+      "ts": 1795265124000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+      "summary": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
+      "ts": 1795264249000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli attacks on Gaza kill at least four Palestinians",
       "summary": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
       "ts": 1795264189000
     },
@@ -14,13 +35,6 @@
       "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
       "summary": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
       "ts": 1795263744000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "ts": 1795263655000
     },
     {
       "source": "Al Jazeera",
@@ -70,20 +84,6 @@
       "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
       "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storag",
       "ts": 1795258997000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-      "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-      "ts": 1795258969000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Deadly fire engulfs power station in southern Iraq",
-      "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
-      "ts": 1795258949000
     },
     {
       "source": "BBC World",
