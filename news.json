@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T03:09:49Z",
+  "generated": "2026-11-21T03:39:52Z",
   "items": [
     {
       "source": "Al Jazeera",
@@ -345,20 +345,6 @@
       "ts": 1795132800000
     },
     {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "summary": "",
-      "ts": 1795132800000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "summary": "",
-      "ts": 1795132800000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
@@ -457,25 +443,11 @@
       "ts": 1795037743000
     },
     {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "summary": "",
-      "ts": 1795031696000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
       "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
       "ts": 1795029573000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "summary": "",
-      "ts": 1795028023000
     },
     {
       "source": "Google DeepMind",
@@ -497,13 +469,6 @@
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "ts": 1795021200000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary": "",
-      "ts": 1795014023000
     },
     {
       "source": "MIT Technology Review",
@@ -539,20 +504,6 @@
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "ts": 1794961649000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "summary": "",
-      "ts": 1794960000000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "summary": "",
-      "ts": 1794960000000
     },
     {
       "source": "Ars Technica",
@@ -630,13 +581,6 @@
       "title": "Building AI that can work across the enterprise",
       "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: reth",
       "ts": 1794834000000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "summary": "",
-      "ts": 1794787200000
     },
     {
       "source": "MIT Technology Review",
