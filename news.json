@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T09:39:53Z",
+  "generated": "2026-11-22T10:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+      "summary": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
+      "ts": 1795340748000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Restored wells bring life back to Hebron’s occupied Old City",
+      "summary": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
+      "ts": 1795339996000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -51,32 +65,11 @@
       "ts": 1795333595000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Wembanyama scores 50 points, bags 19 rebounds in Spurs’ 14th win of season",
-      "summary": "Wembanyama was just shy of his career-high score of 52 points, set in a victory over Dallas on November 4.",
-      "ts": 1795333477000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
       "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
       "ts": 1795331561000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The European revolt may be coming to the UK",
-      "summary": "There is enough justified anger among the British youth to spark a wave of mass protests.",
-      "ts": 1795330799000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "ts": 1795330446000
     },
     {
       "source": "BBC World",
@@ -231,6 +224,13 @@
       "title": "The AI cyber threat is already here",
       "summary": "The freezer war is just a start",
       "ts": 1795237216000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "ts": 1795235640000
     },
     {
       "source": "Krebs on Security",
