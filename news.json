@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T02:09:50Z",
+  "generated": "2026-11-22T02:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
+      "ts": 1795313658000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "ts": 1795313150000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -77,20 +91,6 @@
       "title": "Lock of former US President George Washington's hair sells for $4,000",
       "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
       "ts": 1795298479000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-      "ts": 1795296663000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Impunity fuels surge in settler violence across occupied West Bank",
-      "summary": "Impunity fuels surge in settler violence across occupied West Bank",
-      "ts": 1795295514000
     },
     {
       "source": "BBC World",
