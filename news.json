@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T20:39:51Z",
+  "generated": "2026-11-22T21:09:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
+      "summary": "A fire tore through six hotels and dozens of shops in Nungwi, a popular tourist hotspot in Zanzibar.",
+      "ts": 1795379341000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -91,13 +98,6 @@
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
       "ts": 1795371479000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Civilians killed in RSF drone strikes in Sudan",
-      "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
-      "ts": 1795371127000
     },
     {
       "source": "BBC World",
