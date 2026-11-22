@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T10:39:48Z",
+  "generated": "2026-11-22T11:09:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russian cargo ship still on fire off Finland after drone attack",
+      "summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
+      "ts": 1795343990000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -56,13 +63,6 @@
       "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
       "summary": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
       "ts": 1795333708000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Indonesia factory fire kills three, 36 missing",
-      "summary": "At least 15 people rescued, including 4 taken to hospital, as authorities say cause of the fire is under investigation.",
-      "ts": 1795333595000
     },
     {
       "source": "BBC World",
