@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T06:09:50Z",
+  "generated": "2026-11-22T06:39:49Z",
   "items": [
     {
       "source": "BBC World",
@@ -37,6 +37,13 @@
       "ts": 1795324906000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. Op",
+      "ts": 1795324015000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "ICE agents detain two people at Seattle airport",
@@ -44,11 +51,11 @@
       "ts": 1795323992000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Tech suppliers hike AI server prices up to 45% months after deals are signed",
-      "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
-      "ts": 1795323606000
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling i",
+      "ts": 1795323821000
     },
     {
       "source": "Al Jazeera",
@@ -289,6 +296,13 @@
       "ts": 1795198290000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic shares slide as tech stocks tumble",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
+      "ts": 1795197801000
+    },
+    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
@@ -303,13 +317,6 @@
       "ts": 1795195800000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investig",
-      "ts": 1795193896000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
@@ -322,13 +329,6 @@
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
       "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [",
       "ts": 1795186810000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with ",
-      "ts": 1795177200000
     },
     {
       "source": "OpenAI",
