@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-22T09:09:48Z",
+  "generated": "2026-11-22T09:39:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Photos: People rally across France over living costs, public services",
+      "summary": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
+      "ts": 1795339668000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "ts": 1795339245000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+      "summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+      "ts": 1795338387000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -37,11 +58,11 @@
       "ts": 1795333477000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Why Somalia’s president turned against his former ally, the UAE",
-      "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
-      "ts": 1795330799000
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "ts": 1795331561000
     },
     {
       "source": "Al Jazeera",
@@ -56,13 +77,6 @@
       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
       "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
       "ts": 1795330446000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
-      "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
-      "ts": 1795329618000
     },
     {
       "source": "BBC World",
@@ -184,13 +198,6 @@
       "ts": 1795258997000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "ts": 1795256796000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
@@ -224,13 +231,6 @@
       "title": "The AI cyber threat is already here",
       "summary": "The freezer war is just a start",
       "ts": 1795237216000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "ts": 1795235640000
     },
     {
       "source": "Krebs on Security",
