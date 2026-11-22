@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T15:39:51Z",
+  "generated": "2026-11-22T16:09:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+      "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+      "ts": 1795363525000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "ts": 1795362184000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -247,13 +261,6 @@
       "ts": 1795237216000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "ts": 1795235640000
-    },
-    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
@@ -322,13 +329,6 @@
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
       "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
       "ts": 1795195800000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-      "ts": 1795190286000
     },
     {
       "source": "OpenAI",
