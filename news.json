@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-22T15:09:49Z",
+  "generated": "2026-11-22T15:39:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Can we build a more ethical AI future?",
+      "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
+      "ts": 1795361409000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+      "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+      "ts": 1795361060000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "ts": 1795360525000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+      "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
+      "ts": 1795359818000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -37,32 +65,11 @@
       "ts": 1795357827000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-      "ts": 1795357241000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-      "summary": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
-      "ts": 1795356508000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three killed and dozens missing after fire at Indonesian factory",
       "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
       "ts": 1795356320000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-      "summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
-      "ts": 1795356031000
     },
     {
       "source": "Financial Times",
@@ -322,13 +329,6 @@
       "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
       "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
       "ts": 1795190286000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [",
-      "ts": 1795186810000
     },
     {
       "source": "OpenAI",
