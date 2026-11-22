@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T16:39:55Z",
+  "generated": "2026-11-22T17:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
+      "ts": 1795365206000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
@@ -77,13 +84,6 @@
       "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
       "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
       "ts": 1795358155000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-      "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
-      "ts": 1795358006000
     },
     {
       "source": "BBC World",
