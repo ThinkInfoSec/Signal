@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T23:09:51Z",
+  "generated": "2026-11-22T23:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "ts": 1795389779000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
       "summary": "United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.",
       "ts": 1795377852000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why has the COP31 climate summit failed to reach agreement?",
-      "summary": "Fossil fuels are at the centre of deep division.",
-      "ts": 1795377600000
     },
     {
       "source": "RNZ World",
