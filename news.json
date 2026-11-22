@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T23:39:50Z",
+  "generated": "2026-11-22T00:09:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+      "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
+      "ts": 1795304640000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -77,13 +84,6 @@
       "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
       "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
       "ts": 1795294595000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands protest across Europe over living costs and housing",
-      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
-      "ts": 1795294070000
     },
     {
       "source": "BBC World",
