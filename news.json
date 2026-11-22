@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-22T14:39:49Z",
+  "generated": "2026-11-22T15:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The Drugs Don’t Work",
+      "summary": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
+      "ts": 1795359099000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "summary": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+      "ts": 1795358930000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+      "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
+      "ts": 1795358155000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
+      "ts": 1795358006000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "ts": 1795357827000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -28,41 +63,6 @@
       "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
       "summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
       "ts": 1795356031000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
-      "summary": "Police in US investigating whether Tennessee Titans defensive end assaulted rideshare driver before collision.",
-      "ts": 1795355205000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-      "summary": "Laila Abdulaziz fought society to become a pioneering Kuwaiti female musician.",
-      "ts": 1795354509000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Croatia outraged after psychiatric patient dies from alleged hospital abuse",
-      "summary": "Eight psychiatric workers have been arrested in Croatia on murder charges after images emerged of a patient being abused",
-      "ts": 1795354300000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Live: Liverpool vs Manchester United – Premier League",
-      "summary": "Previews, teams and live text commentary stream as Manchester United visit Anfield to face Liverpool in Premier League.",
-      "ts": 1795354200000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Major fire erupts at a fuel station in Lagos",
-      "summary": "Major fire erupts at a fuel station in Lagos",
-      "ts": 1795353979000
     },
     {
       "source": "Financial Times",
