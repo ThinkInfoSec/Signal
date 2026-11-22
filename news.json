@@ -1,11 +1,25 @@
 {
-  "generated": "2026-11-22T16:09:52Z",
+  "generated": "2026-11-22T16:39:55Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "A wave of funerals: The NZ student who went home to a wiped-out village",
+      "summary": "Canterbury student Sunil Tamang has seen first-hand the devastation of Nepal's earthquakes and floods - now he is working on ways to predict the next disaster.",
+      "ts": 1795364081000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Canada’s PM appears next to Trump impersonator at press dinner",
+      "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
+      "ts": 1795363606000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-      "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
       "ts": 1795363525000
     },
     {
@@ -53,8 +67,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
-      "summary": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
+      "summary": "Two Russian attacks kill at least four people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
       "ts": 1795358930000
     },
     {
@@ -70,13 +84,6 @@
       "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
       "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
       "ts": 1795358006000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-      "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-      "ts": 1795357827000
     },
     {
       "source": "BBC World",
