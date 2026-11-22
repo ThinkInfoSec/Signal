@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-22T06:39:49Z",
+  "generated": "2026-11-22T07:09:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "ts": 1795330446000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
+      "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
+      "ts": 1795329618000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What Sandpapergate reveals about Australian cricket",
+      "summary": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
+      "ts": 1795329163000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -21,13 +42,6 @@
       "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
       "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
       "ts": 1795325932000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "ts": 1795325170000
     },
     {
       "source": "Al Jazeera",
@@ -58,6 +72,13 @@
       "ts": 1795323821000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+      "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+      "ts": 1795323606000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
@@ -77,20 +98,6 @@
       "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
       "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
       "ts": 1795318442000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
-      "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
-      "ts": 1795315536000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-      "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
-      "ts": 1795313658000
     },
     {
       "source": "BBC World",
@@ -294,13 +301,6 @@
       "title": "Anthropic staffer claims solution to mathematics’ Riemann hypothesis",
       "summary": "Proof for 167-year-old problem would be most spectacular AI advance in field",
       "ts": 1795198290000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic shares slide as tech stocks tumble",
-      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
-      "ts": 1795197801000
     },
     {
       "source": "The Hacker News",
