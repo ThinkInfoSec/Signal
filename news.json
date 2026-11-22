@@ -1,17 +1,38 @@
 {
-  "generated": "2026-11-22T19:39:51Z",
+  "generated": "2026-11-22T20:10:06Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "ts": 1795375614000
+      "ts": 1795377170000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "'He's a killer': Christopher Luxon criticises Donald Trump's Vladimir Putin embrace",
+      "summary": "The US president met with Putin at the APEC summit in China last week - and had a friendly interaction, calling him \"my friend\".",
+      "ts": 1795376884000
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
+      "title": "Cockroaches, dissent and a paradigm shift in India",
+      "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
+      "ts": 1795376412000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "On China, is Trump bucking the US national security establishment?",
+      "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+      "ts": 1795375800000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
       "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
       "ts": 1795375109000
     },
@@ -54,7 +75,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
       "ts": 1795371479000
     },
     {
@@ -77,20 +98,6 @@
       "title": "UN climate talks collapse without a deal",
       "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
       "ts": 1795370665000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Cox’s Bazar: Rohingya Life in Exile",
-      "summary": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
-      "ts": 1795370526000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
-      "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
-      "ts": 1795370400000
     },
     {
       "source": "BBC World",
