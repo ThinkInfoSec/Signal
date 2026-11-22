@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T00:39:50Z",
+  "generated": "2026-11-22T01:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Clashes erupt across France in another night of protest",
+      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+      "ts": 1795307852000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -11,8 +18,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
-      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
       "ts": 1795305543000
     },
     {
@@ -84,13 +91,6 @@
       "title": "Indian man jailed over plot to kill Sikh separatist in US",
       "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
       "ts": 1795295358000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-      "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
-      "ts": 1795294938000
     },
     {
       "source": "BBC World",
