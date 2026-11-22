@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T22:39:50Z",
+  "generated": "2026-11-22T23:09:51Z",
   "items": [
     {
       "source": "BBC World",
@@ -7,6 +7,13 @@
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
       "ts": 1795387063000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump to host private dinner for largest owners of his meme coin",
+      "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "ts": 1795387058000
     },
     {
       "source": "Al Jazeera",
@@ -77,13 +84,6 @@
       "title": "'He's a killer': Christopher Luxon criticises Donald Trump's Vladimir Putin embrace",
       "summary": "The US president met with Putin at the APEC summit in China last week - and had a friendly interaction, calling him \"my friend\".",
       "ts": 1795376884000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Cockroaches, dissent and a paradigm shift in India",
-      "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
-      "ts": 1795376412000
     },
     {
       "source": "BBC World",
