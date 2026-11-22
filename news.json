@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T11:09:53Z",
+  "generated": "2026-11-22T11:39:47Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "ts": 1795346714000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -126,13 +133,6 @@
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
       "ts": 1795301998000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "ts": 1795288822000
     },
     {
       "source": "BleepingComputer",
