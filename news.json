@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T21:39:49Z",
+  "generated": "2026-11-22T22:09:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+      "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
+      "ts": 1795383191000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+      "summary": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
+      "ts": 1795382772000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -65,13 +79,6 @@
       "ts": 1795375109000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
-      "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
-      "ts": 1795374600000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "What's next after no deal at COP31 climate talks?",
@@ -84,13 +91,6 @@
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
       "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
       "ts": 1795373137000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
-      "summary": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
-      "ts": 1795373064000
     },
     {
       "source": "BBC World",
