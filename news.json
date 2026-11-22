@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-22T05:09:48Z",
+  "generated": "2026-11-22T05:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "ICE agents detain two people at Seattle airport",
+      "summary": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.",
+      "ts": 1795323992000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Tech suppliers hike AI server prices up to 45% months after deals are signed",
+      "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+      "ts": 1795323606000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+      "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
+      "ts": 1795323095000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+      "summary": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+      "ts": 1795322522000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -44,32 +72,11 @@
       "ts": 1795309639000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Clashes erupt across France in another night of protest",
-      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-      "ts": 1795307852000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "ts": 1795306244000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
-      "ts": 1795305543000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
-      "ts": 1795304640000
     },
     {
       "source": "BleepingComputer",
@@ -273,13 +280,6 @@
       "title": "Anthropic staffer claims solution to mathematics’ Riemann hypothesis",
       "summary": "Proof for 167-year-old problem would be most spectacular AI advance in field",
       "ts": 1795198290000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic shares slide as tech stocks tumble",
-      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
-      "ts": 1795197801000
     },
     {
       "source": "The Hacker News",
