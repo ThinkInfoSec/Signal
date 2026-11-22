@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-22T20:10:06Z",
+  "generated": "2026-11-22T20:39:51Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "ts": 1795377170000
+      "ts": 1795379289000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "ts": 1795379184000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+      "summary": "United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.",
+      "ts": 1795377852000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why has the COP31 climate summit failed to reach agreement?",
+      "summary": "Fossil fuels are at the centre of deep division.",
+      "ts": 1795377600000
     },
     {
       "source": "RNZ World",
@@ -47,7 +68,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "ts": 1795373844000
     },
     {
@@ -67,13 +88,6 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-      "ts": 1795372186000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
       "ts": 1795371479000
@@ -84,20 +98,6 @@
       "title": "Civilians killed in RSF drone strikes in Sudan",
       "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
       "ts": 1795371127000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-      "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
-      "ts": 1795371090000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UN climate talks collapse without a deal",
-      "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
-      "ts": 1795370665000
     },
     {
       "source": "BBC World",
@@ -644,13 +644,6 @@
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "summary": "",
       "ts": 1794787200000
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”",
-      "ts": 1794514584000
     }
   ]
 }
