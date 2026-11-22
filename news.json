@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-22T17:09:48Z",
+  "generated": "2026-11-22T17:39:54Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "ts": 1795367906000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "ts": 1795367807000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+      "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+      "ts": 1795367568000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+      "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+      "ts": 1795366248000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -21,13 +49,6 @@
       "title": "Canada’s PM appears next to Trump impersonator at press dinner",
       "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
       "ts": 1795363606000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-      "ts": 1795363525000
     },
     {
       "source": "BleepingComputer",
@@ -72,20 +93,6 @@
       "ts": 1795359099000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
-      "summary": "Two Russian attacks kill at least four people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
-      "ts": 1795358930000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
-      "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
-      "ts": 1795358155000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -105,13 +112,6 @@
       "title": "Will Anthropic’s IPO buck the tech sell-off?",
       "summary": "Market Questions is the FT’s guide to the week ahead",
       "ts": 1795348806000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "ts": 1795346714000
     },
     {
       "source": "BBC World",
