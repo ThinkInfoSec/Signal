@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T01:09:49Z",
+  "generated": "2026-11-22T01:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "ts": 1795310703000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Moviegoers head for the exits as quake strikes Peru",
+      "summary": "Moviegoers head for the exits as quake strikes Peru",
+      "ts": 1795309639000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -28,13 +42,6 @@
       "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
       "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
       "ts": 1795304640000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "ts": 1795303877000
     },
     {
       "source": "Al Jazeera",
@@ -84,13 +91,6 @@
       "title": "Impunity fuels surge in settler violence across occupied West Bank",
       "summary": "Impunity fuels surge in settler violence across occupied West Bank",
       "ts": 1795295514000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Indian man jailed over plot to kill Sikh separatist in US",
-      "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
-      "ts": 1795295358000
     },
     {
       "source": "BBC World",
