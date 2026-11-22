@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T17:39:54Z",
+  "generated": "2026-11-22T18:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+      "summary": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
+      "ts": 1795369592000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -86,13 +93,6 @@
       "ts": 1795359818000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The Drugs Don’t Work",
-      "summary": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
-      "ts": 1795359099000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -168,6 +168,13 @@
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "ts": 1795306244000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "ts": 1795305600000
     },
     {
       "source": "BleepingComputer",
@@ -424,8 +431,8 @@
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "ts": 1795046400000
     },
     {
@@ -440,13 +447,6 @@
       "cat": "ai",
       "title": "Get started with Daybreak Blue",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "ts": 1795046400000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "ts": 1795046400000
     },
     {
@@ -644,20 +644,6 @@
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”",
       "ts": 1794514584000
-    },
-    {
-      "source": "Google DeepMind",
-      "cat": "ai",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "",
-      "ts": 1794506450000
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "ts": 1794506400000
     }
   ]
 }
