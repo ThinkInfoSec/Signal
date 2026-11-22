@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-22T19:09:49Z",
+  "generated": "2026-11-22T19:39:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "ts": 1795375614000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
+      "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+      "ts": 1795375109000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+      "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
+      "ts": 1795374600000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -79,32 +100,11 @@
       "ts": 1795370263000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-      "summary": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
-      "ts": 1795369592000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "ts": 1795367906000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "ts": 1795367807000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-      "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-      "ts": 1795367568000
     },
     {
       "source": "RNZ World",
