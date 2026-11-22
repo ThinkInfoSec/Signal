@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-22T05:39:49Z",
+  "generated": "2026-11-22T06:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "ts": 1795327500000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "COP flop: Scientist warns countries are losing faith in UN climate summits as deal talks stall",
+      "summary": "Fraught negotiations at COP31 have run more than a day over deadline, with a major deadlock over whether to mention fossil fuels.",
+      "ts": 1795326491000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
+      "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+      "ts": 1795325932000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "ts": 1795325170000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+      "summary": "Sudan's displacement crisis could worsen with winter approaching.",
+      "ts": 1795324906000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -51,25 +86,11 @@
       "ts": 1795313658000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
-      "ts": 1795313150000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "ts": 1795310703000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Moviegoers head for the exits as quake strikes Peru",
-      "summary": "Moviegoers head for the exits as quake strikes Peru",
-      "ts": 1795309639000
     },
     {
       "source": "BBC World",
@@ -84,20 +105,6 @@
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
       "ts": 1795301998000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "ts": 1795299583000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-      "ts": 1795298479000
     },
     {
       "source": "BBC World",
