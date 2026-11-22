@@ -1,19 +1,12 @@
 {
-  "generated": "2026-11-22T12:09:55Z",
+  "generated": "2026-11-22T12:39:53Z",
   "items": [
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Adoption, not innovation, holds Britain back",
-      "summary": "Once the world’s most innovative country, the UK now struggles to embrace new technologies",
-      "ts": 1795348945000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Will Anthropic’s IPO buck the tech sell-off?",
-      "summary": "Market Questions is the FT’s guide to the week ahead",
-      "ts": 1795348806000
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+      "summary": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
+      "ts": 1795349982000
     },
     {
       "source": "Al Jazeera",
@@ -70,13 +63,6 @@
       "title": "Restored wells bring life back to Hebron’s occupied Old City",
       "summary": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
       "ts": 1795339996000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Photos: People rally across France over living costs, public services",
-      "summary": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
-      "ts": 1795339668000
     },
     {
       "source": "BBC World",
@@ -275,6 +261,13 @@
       "ts": 1795211230000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Inside Anthropic’s historic IPO",
+      "summary": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "ts": 1795209689000
+    },
+    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -301,6 +294,13 @@
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which",
       "ts": 1795198515000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic staffer claims solution to mathematics’ Riemann hypothesis",
+      "summary": "Proof for 167-year-old problem would be most spectacular AI advance in field",
+      "ts": 1795198290000
     },
     {
       "source": "The Hacker News",
