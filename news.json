@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T00:09:47Z",
+  "generated": "2026-11-22T00:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "ts": 1795306244000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+      "ts": 1795305543000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -79,13 +93,6 @@
       "ts": 1795294938000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
-      "ts": 1795294595000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -105,13 +112,6 @@
       "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
       "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
       "ts": 1795281696000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "ts": 1795278915000
     },
     {
       "source": "BleepingComputer",
