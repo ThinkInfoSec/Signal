@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T13:09:51Z",
+  "generated": "2026-11-22T13:39:53Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+      "ts": 1795353405000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+      "ts": 1795353340000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -63,20 +77,6 @@
       "title": "Russian ship attacked by drone in Baltic Sea off Finland",
       "summary": "Russian ship attacked by drone in Baltic Sea off Finland",
       "ts": 1795346127000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-      "summary": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
-      "ts": 1795345650000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian cargo ship still on fire off Finland after drone attack",
-      "summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
-      "ts": 1795343990000
     },
     {
       "source": "BBC World",
