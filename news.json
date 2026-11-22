@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-22T18:09:51Z",
+  "generated": "2026-11-22T18:39:48Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Civilians killed in RSF drone strikes in Sudan",
+      "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
+      "ts": 1795371127000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Suspected drone attack causes explosion on Russian ship in Libya",
+      "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
+      "ts": 1795371090000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UN climate talks collapse without a deal",
+      "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+      "ts": 1795370665000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Cox’s Bazar: Rohingya Life in Exile",
+      "summary": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
+      "ts": 1795370526000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+      "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "ts": 1795370400000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -37,25 +72,11 @@
       "ts": 1795366248000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-      "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
-      "ts": 1795365206000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "A wave of funerals: The NZ student who went home to a wiped-out village",
       "summary": "Canterbury student Sunil Tamang has seen first-hand the devastation of Nepal's earthquakes and floods - now he is working on ways to predict the next disaster.",
       "ts": 1795364081000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-      "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
-      "ts": 1795363606000
     },
     {
       "source": "BleepingComputer",
@@ -65,32 +86,11 @@
       "ts": 1795362184000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Can we build a more ethical AI future?",
-      "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
-      "ts": 1795361409000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-      "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
-      "ts": 1795361060000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
       "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
       "ts": 1795360525000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
-      "ts": 1795359818000
     },
     {
       "source": "BBC World",
