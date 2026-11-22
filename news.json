@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T08:09:49Z",
+  "generated": "2026-11-22T08:39:47Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
+      "summary": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
+      "ts": 1795335100000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+      "summary": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
+      "ts": 1795334369000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -51,13 +65,6 @@
       "ts": 1795329618000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What Sandpapergate reveals about Australian cricket",
-      "summary": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
-      "ts": 1795329163000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -70,13 +77,6 @@
       "title": "COP flop: Scientist warns countries are losing faith in UN climate summits as deal talks stall",
       "summary": "Fraught negotiations at COP31 have run more than a day over deadline, with a major deadlock over whether to mention fossil fuels.",
       "ts": 1795326491000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
-      "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
-      "ts": 1795325932000
     },
     {
       "source": "The Hacker News",
