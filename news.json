@@ -1,10 +1,24 @@
 {
-  "generated": "2026-11-22T07:09:49Z",
+  "generated": "2026-11-22T07:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why Somalia’s president turned against his former ally, the UAE",
+      "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
+      "ts": 1795330799000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The European revolt may be coming to the UK",
+      "summary": "There is enough justified anger among the British youth to spark a wave of mass protests.",
+      "ts": 1795330799000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
       "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
       "ts": 1795330446000
     },
@@ -84,20 +98,6 @@
       "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
       "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
       "ts": 1795323095000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
-      "summary": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
-      "ts": 1795322522000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-      "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
-      "ts": 1795318442000
     },
     {
       "source": "BBC World",
