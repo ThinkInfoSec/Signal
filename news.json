@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-22T03:39:48Z",
+  "generated": "2026-11-22T04:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+      "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+      "ts": 1795318442000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+      "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
+      "ts": 1795315536000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -58,13 +72,6 @@
       "ts": 1795304640000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "summary": "Iran faces a ‘silent economic war’, says Iranian president",
-      "ts": 1795303094000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
@@ -77,13 +84,6 @@
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "ts": 1795299583000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "summary": "Bahrain says Iranian attack hits industrial facility",
-      "ts": 1795298523000
     },
     {
       "source": "BBC World",
