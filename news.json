@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-22T22:09:48Z",
+  "generated": "2026-11-22T22:39:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "ts": 1795387063000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+      "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+      "ts": 1795385987000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+      "ts": 1795384908000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -65,20 +86,6 @@
       "ts": 1795376412000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "On China, is Trump bucking the US national security establishment?",
-      "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
-      "ts": 1795375800000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-      "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-      "ts": 1795375109000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "What's next after no deal at COP31 climate talks?",
@@ -98,13 +105,6 @@
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
       "ts": 1795371479000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "ts": 1795370263000
     },
     {
       "source": "BBC World",
