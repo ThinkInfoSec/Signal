@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-23T08:09:51Z",
+  "generated": "2026-11-23T08:39:49Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
       "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "ts": 1795420559000
+      "ts": 1795421607000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+      "summary": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
+      "ts": 1795421280000
     },
     {
       "source": "Al Jazeera",
@@ -26,7 +33,7 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-      "summary": "This is a breaking news story.",
+      "summary": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an \"exemplary\" sea drone operation.",
       "ts": 1795419429000
     },
     {
@@ -77,20 +84,6 @@
       "title": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
       "summary": "Alcaraz joins an exclusive list, becoming one of only four men to have won all four majors and the ATP Finals.",
       "ts": 1795414540000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
-      "summary": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
-      "ts": 1795414093000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Asian regulators rush to support sagging markets as AI trade falters",
-      "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
-      "ts": 1795414021000
     },
     {
       "source": "BBC World",
@@ -224,6 +217,13 @@
       "title": "Adoption, not innovation, holds Britain back",
       "summary": "Once the world’s most innovative country, the UK now struggles to embrace new technologies",
       "ts": 1795348945000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Will Anthropic buck the tech sell-off?",
+      "summary": "Market Questions is the FT’s guide to the week ahead",
+      "ts": 1795348806000
     },
     {
       "source": "RNZ World",
