@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T01:39:49Z",
+  "generated": "2026-11-23T02:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+      "ts": 1795398803000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+      "ts": 1795398692000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli forces continue house demolitions in southern Lebanon",
+      "summary": "Israeli forces continue house demolitions in southern Lebanon",
+      "ts": 1795398209000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -25,8 +46,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-      "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+      "title": "Asian stock markets tumble as AI bubble fears mount",
+      "summary": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
       "ts": 1795393083000
     },
     {
@@ -58,13 +79,6 @@
       "ts": 1795391878000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Lion on the loose in Turkiye sparks fear among residents",
-      "summary": "Lion on the loose in Turkiye sparks fear among residents",
-      "ts": 1795390848000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Molly Meldrum, former host of Countdown, dies aged 83",
@@ -72,25 +86,11 @@
       "ts": 1795390784000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
-      "ts": 1795389779000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
       "ts": 1795387063000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump to host private dinner for largest owners of his meme coin",
-      "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
-      "ts": 1795387058000
     },
     {
       "source": "BBC World",
