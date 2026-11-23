@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T10:09:51Z",
+  "generated": "2026-11-23T10:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why is Bangladesh’s Grameen Bank under attack?",
+      "summary": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
+      "ts": 1795429354000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
+      "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
+      "ts": 1795429258000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -11,8 +25,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Death toll rises after Russian attacks on Ukraine",
-      "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+      "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+      "summary": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
       "ts": 1795426465000
     },
     {
@@ -53,7 +67,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "AI superintelligence ‘arriving’, warns top Meta executive",
+      "title": "Artificial superintelligence ‘arriving’, warns top Meta executive",
       "summary": "Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.",
       "ts": 1795424887000
     },
@@ -63,13 +77,6 @@
       "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
       "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access t",
       "ts": 1795424648000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
-      "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
-      "ts": 1795423990000
     },
     {
       "source": "BBC World",
@@ -88,7 +95,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
       "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
       "ts": 1795423017000
     },
@@ -98,13 +105,6 @@
       "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
       "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banki",
       "ts": 1795422255000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
-      "summary": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
-      "ts": 1795421280000
     },
     {
       "source": "BleepingComputer",
