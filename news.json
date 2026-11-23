@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-23T11:39:49Z",
+  "generated": "2026-11-23T12:09:50Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+      "summary": "A Peruvian call center operator was sentenced to eight years in prison for stealing millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+      "ts": 1795435343000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "ts": 1795435200000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "ts": 1795435053000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "ts": 1795434001000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Former Icelandic PM says world’s great powers are flexing their muscles",
+      "summary": "Iceland’s former PM warns climate change remains an existential threat as global power politics sidelines action.",
+      "ts": 1795433699000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,18 +44,18 @@
       "ts": 1795433172000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
-      "ts": 1795433116000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "COP31: What next after UN climate talks collapse",
       "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
       "ts": 1795432748000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "ts": 1795432516000
     },
     {
       "source": "Al Jazeera",
@@ -46,7 +81,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "CAS decision on Senegal’s AFCON 2025 title appeal to announced on Tuesday",
+      "title": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
       "summary": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
       "ts": 1795431305000
     },
@@ -70,13 +105,6 @@
       "title": "Thousands displaced after deadly storm hits Brazil town",
       "summary": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
       "ts": 1795427125000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
-      "summary": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
-      "ts": 1795426465000
     },
     {
       "source": "The Hacker News",
@@ -126,13 +154,6 @@
       "title": "South Korean minister says he is too old to tackle AI exam cheating",
       "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
       "ts": 1795417804000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Five takeaways from the failed climate talks COP31",
-      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "ts": 1795415630000
     },
     {
       "source": "Financial Times",
@@ -191,18 +212,18 @@
       "ts": 1795406382000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "ts": 1795392480000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Molly Meldrum, former host of Countdown, dies aged 83",
       "summary": "He was a highly influential figure in Australia's music industry as a critic, producer, interviewer and television presenter.",
       "ts": 1795390784000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "ts": 1795382560000
     },
     {
       "source": "RNZ World",
@@ -217,13 +238,6 @@
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
       "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
       "ts": 1795373137000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "ts": 1795367906000
     },
     {
       "source": "RNZ World",
@@ -294,13 +308,6 @@
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
       "ts": 1795284118000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
-      "ts": 1795274247000
     },
     {
       "source": "The Hacker News",
@@ -567,13 +574,6 @@
       "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
       "summary": "",
       "ts": 1794960000000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-      "ts": 1794947575000
     },
     {
       "source": "Google AI",
