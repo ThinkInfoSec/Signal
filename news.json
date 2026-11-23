@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T07:09:51Z",
+  "generated": "2026-11-23T07:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+      "summary": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
+      "ts": 1795418387000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
+      "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
+      "ts": 1795417653000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -65,13 +79,6 @@
       "ts": 1795413060000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
-      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
-      "ts": 1795412281000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "What's next after no deal at COP31 climate talks?",
@@ -119,13 +126,6 @@
       "title": "Progressives are not radical enough on economics",
       "summary": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
       "ts": 1795410013000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-      "summary": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
-      "ts": 1795408694000
     },
     {
       "source": "RNZ World",
