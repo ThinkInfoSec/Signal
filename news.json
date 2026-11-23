@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T03:09:51Z",
+  "generated": "2026-11-23T03:39:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "summary": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "ts": 1795404325000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Belgium’s airports set to shut down due to anti-austerity strike",
+      "summary": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
+      "ts": 1795403755000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -56,20 +70,6 @@
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
       "ts": 1795395035000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
-      "ts": 1795394391000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Asian stock markets tumble as AI bubble fears mount",
-      "summary": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
-      "ts": 1795393083000
     },
     {
       "source": "RNZ World",
