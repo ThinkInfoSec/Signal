@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-23T11:09:51Z",
+  "generated": "2026-11-23T11:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Flights grounded in Belgium due to strike against austerity measures",
+      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "ts": 1795433172000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+      "ts": 1795433116000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "COP31: What next after UN climate talks collapse",
+      "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
+      "ts": 1795432748000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+      "ts": 1795432212000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -51,20 +79,6 @@
       "ts": 1795426465000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-      "summary": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-      "ts": 1795426439000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.",
-      "ts": 1795426426000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
@@ -91,20 +105,6 @@
       "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
       "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
       "ts": 1795423981000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "ts": 1795423268000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
-      "ts": 1795423017000
     },
     {
       "source": "The Hacker News",
