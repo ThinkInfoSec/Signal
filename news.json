@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-23T02:09:49Z",
+  "generated": "2026-11-23T02:39:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+      "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+      "ts": 1795399755000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
       "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
       "ts": 1795391962000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mystery of the red stream in Turkiye",
-      "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
-      "ts": 1795391878000
     },
     {
       "source": "RNZ World",
