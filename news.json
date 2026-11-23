@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-23T06:09:52Z",
+  "generated": "2026-11-23T06:39:50Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "From rotation to contagion",
+      "summary": "Plus, chips are not cheap",
+      "ts": 1795415402000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
+      "summary": "Alcaraz joins an exclusive list, becoming one of only four men to have won all four majors and the ATP Finals.",
+      "ts": 1795414540000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
+      "summary": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
+      "ts": 1795414093000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Asian regulators rush to support sagging markets as AI trade falters",
       "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
       "ts": 1795414021000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
+      "summary": "New Zealand rescued a draw on the final day, surviving 120 overs in a fighting display to finish on 239-5 at the close.",
+      "ts": 1795413516000
     },
     {
       "source": "Al Jazeera",
@@ -46,7 +74,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Novartis rejects AI industry hopes to cure cancer in 5 to 10 years",
+      "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
       "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
       "ts": 1795410022000
     },
@@ -98,27 +126,6 @@
       "title": "Don Toliver concert chaos after ‘substance’ let off in crowd",
       "summary": "Don Toliver concert chaos after ‘substance’ let off in crowd",
       "ts": 1795404325000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Belgium’s airports set to shut down due to anti-austerity strike",
-      "summary": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
-      "ts": 1795403755000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Indonesia confirms 24 killed in candy factory fire as search continues",
-      "summary": "Rescuers search for 30 people still missing.",
-      "ts": 1795401342000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-      "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
-      "ts": 1795400593000
     },
     {
       "source": "BBC World",
@@ -231,13 +238,6 @@
       "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
       "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling i",
       "ts": 1795323821000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-      "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
-      "ts": 1795323606000
     },
     {
       "source": "OpenAI",
