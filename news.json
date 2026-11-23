@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T10:39:49Z",
+  "generated": "2026-11-23T11:09:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Is the solution to survey problems to make up the data?",
+      "summary": "Questions to which the answer is no",
+      "ts": 1795431536000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Lebanese families return to ruins after Israeli attacks in south",
+      "summary": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+      "ts": 1795431440000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "CAS decision on Senegal’s AFCON 2025 title appeal to announced on Tuesday",
+      "summary": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
+      "ts": 1795431305000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -44,13 +65,6 @@
       "ts": 1795426426000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
-      "summary": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.",
-      "ts": 1795426216000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
@@ -63,13 +77,6 @@
       "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
       "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
       "ts": 1795425075000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Artificial superintelligence ‘arriving’, warns top Meta executive",
-      "summary": "Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.",
-      "ts": 1795424887000
     },
     {
       "source": "The Hacker News",
@@ -245,13 +252,6 @@
       "title": "Adoption, not innovation, holds Britain back",
       "summary": "Once the world’s most innovative country, the UK now struggles to embrace new technologies",
       "ts": 1795348945000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Will Anthropic buck the tech sell-off?",
-      "summary": "Market Questions is the FT’s guide to the week ahead",
-      "ts": 1795348806000
     },
     {
       "source": "RNZ World",
