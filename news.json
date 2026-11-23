@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-23T17:39:52Z",
+  "generated": "2026-11-23T18:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "ts": 1795457060000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified v",
+      "ts": 1795455915000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Tajikistan moves to leave ICC amid US push against court",
+      "summary": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
+      "ts": 1795455377000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentienc",
+      "ts": 1795455368000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What failure of COP31 reveals about a divided world",
+      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "ts": 1795454665000
+    },
     {
       "source": "Hugging Face",
       "cat": "ai",
@@ -121,13 +156,6 @@
       "ts": 1795446648000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Police investigating bomb threats against schools in Germany and Denmark",
-      "summary": "Bomb threats follow hoax emails sent to schools across Europe earlier in November.",
-      "ts": 1795446479000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "AI Agents Are Creating a Shared Responsibility Gap",
@@ -137,9 +165,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-      "ts": 1795445643000
+      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+      "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+      "ts": 1795445714000
     },
     {
       "source": "Financial Times",
@@ -151,9 +179,9 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Flights cancelled in Belgium due to cost-of-living strike",
-      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "ts": 1795440842000
+      "title": "India pledges $1.6bn to Nepal in reset of ties",
+      "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+      "ts": 1795441170000
     },
     {
       "source": "BleepingComputer",
@@ -168,6 +196,13 @@
       "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
       "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Bi",
       "ts": 1795440140000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+      "ts": 1795439392000
     },
     {
       "source": "BBC World",
@@ -261,20 +296,6 @@
       "ts": 1795415402000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-      "ts": 1795411997000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-      "ts": 1795410906000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
@@ -317,13 +338,6 @@
       "ts": 1795390784000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "summary": "The couple have been together for four years and were engaged in 2025.",
-      "ts": 1795382560000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "'He's a killer': Christopher Luxon criticises Donald Trump's Vladimir Putin embrace",
@@ -357,13 +371,6 @@
       "title": "COP flop: Scientist warns countries are losing faith in UN climate summits as deal talks stall",
       "summary": "Fraught negotiations at COP31 have run more than a day over deadline, with a major deadlock over whether to mention fossil fuels.",
       "ts": 1795326491000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. Op",
-      "ts": 1795324015000
     },
     {
       "source": "OpenAI",
