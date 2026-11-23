@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T04:09:53Z",
+  "generated": "2026-11-23T04:39:54Z",
   "items": [
     {
       "source": "RNZ World",
@@ -7,6 +7,13 @@
       "title": "New Zealand would have supported collapsed climate deal, minister says",
       "summary": "The climate change minister says New Zealand stood ready to support the deal that collapsed after the EU criticised.",
       "ts": 1795406382000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pochettino’s nightmare start as Man U thrashed by Liverpool",
+      "summary": "Mauricio Pochettino could hardly have made a worse start as Manchester United manager after they were beaten 4-0.",
+      "ts": 1795405953000
     },
     {
       "source": "Al Jazeera",
@@ -63,13 +70,6 @@
       "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
       "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
       "ts": 1795398692000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli forces continue house demolitions in southern Lebanon",
-      "summary": "Israeli forces continue house demolitions in southern Lebanon",
-      "ts": 1795398209000
     },
     {
       "source": "BBC World",
