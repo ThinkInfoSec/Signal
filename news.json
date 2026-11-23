@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T02:39:52Z",
+  "generated": "2026-11-23T03:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "ts": 1795401422000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Indonesian police remove 24 body bags from factory fire site",
+      "summary": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
+      "ts": 1795401342000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+      "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+      "ts": 1795400593000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -32,13 +53,6 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "ts": 1795397023000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
       "ts": 1795395035000
@@ -65,18 +79,11 @@
       "ts": 1795392851000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
-      "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
-      "ts": 1795392210000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-      "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
-      "ts": 1795391962000
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "ts": 1795392480000
     },
     {
       "source": "RNZ World",
@@ -88,16 +95,16 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "ts": 1795387063000
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "ts": 1795387750000
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "ts": 1795379289000
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "ts": 1795382560000
     },
     {
       "source": "RNZ World",
@@ -165,16 +172,9 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Will Anthropic’s IPO buck the tech sell-off?",
+      "title": "Will Anthropic buck the tech sell-off?",
       "summary": "Market Questions is the FT’s guide to the week ahead",
       "ts": 1795348806000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-      "ts": 1795339245000
     },
     {
       "source": "RNZ World",
