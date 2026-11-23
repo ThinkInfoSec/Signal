@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T12:09:50Z",
+  "generated": "2026-11-23T12:39:48Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "ts": 1795437224000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Flights grounded in Belgium due to strike against austerity measures",
+      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "ts": 1795436854000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -14,6 +28,13 @@
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
       "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
       "ts": 1795435200000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Inside the talks between student protest leaders and Macron’s government",
+      "summary": "Al Jazeera interviews two French student leaders who have met with top government officials as protests continue.",
+      "ts": 1795435089000
     },
     {
       "source": "BBC World",
@@ -37,25 +58,11 @@
       "ts": 1795433699000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Flights grounded in Belgium due to strike against austerity measures",
-      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "ts": 1795433172000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "COP31: What next after UN climate talks collapse",
       "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
       "ts": 1795432748000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
-      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-      "ts": 1795432516000
     },
     {
       "source": "Al Jazeera",
@@ -98,13 +105,6 @@
       "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
       "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
       "ts": 1795429258000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands displaced after deadly storm hits Brazil town",
-      "summary": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
-      "ts": 1795427125000
     },
     {
       "source": "The Hacker News",
