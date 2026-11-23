@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-23T19:39:49Z",
+  "generated": "2026-11-23T20:09:51Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+      "ts": 1795464020000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "As tech outages mount, some New Yorkers prepare for the worst",
+      "summary": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+      "ts": 1795463025000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+      "ts": 1795462940000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "CEO Jensen Huang returns to Nvidia’s office",
+      "summary": "Employees at Nvidia cheered as CEO Jensen Huang returned to the office",
+      "ts": 1795462841000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -126,20 +154,6 @@
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
       "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
       "ts": 1795452601000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why did COP31 climate talks collapse without a deal?",
-      "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
-      "ts": 1795451910000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-      "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
-      "ts": 1795451782000
     },
     {
       "source": "Ars Technica",
@@ -289,13 +303,6 @@
       "ts": 1795420800000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-      "ts": 1795419859000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "South Korean minister says he is too old to tackle AI exam cheating",
@@ -357,13 +364,6 @@
       "title": "'He's a killer': Christopher Luxon criticises Donald Trump's Vladimir Putin embrace",
       "summary": "The US president met with Putin at the APEC summit in China last week - and had a friendly interaction, calling him \"my friend\".",
       "ts": 1795376884000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-      "ts": 1795373137000
     },
     {
       "source": "RNZ World",
