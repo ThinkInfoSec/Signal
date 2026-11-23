@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T06:39:50Z",
+  "generated": "2026-11-23T07:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "ts": 1795417291000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How Ireland resisted British rule through sport",
+      "summary": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
+      "ts": 1795416430000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Is the global far right really in retreat?",
+      "summary": "Electoral defeats alone will not dismantle the political forces that brought the far right to power.",
+      "ts": 1795416240000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -114,20 +135,6 @@
       "ts": 1795406382000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pochettino’s nightmare start as Man U thrashed by Liverpool",
-      "summary": "Mauricio Pochettino could hardly have made a worse start as Manchester United manager after they were beaten 4-0.",
-      "ts": 1795405953000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Don Toliver concert chaos after ‘substance’ let off in crowd",
-      "summary": "Don Toliver concert chaos after ‘substance’ let off in crowd",
-      "ts": 1795404325000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
@@ -140,13 +147,6 @@
       "title": "Molly Meldrum, former host of Countdown, dies aged 83",
       "summary": "He was a highly influential figure in Australia's music industry as a critic, producer, interviewer and television presenter.",
       "ts": 1795390784000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "ts": 1795387750000
     },
     {
       "source": "BBC World",
