@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T15:39:50Z",
+  "generated": "2026-11-23T16:09:50Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "ts": 1795448778000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "ts": 1795448483000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli soldiers assault Palestinian after raiding his home",
+      "summary": "Israeli forces assault a Palestinian man during a raid on his home in the occupied West Bank.",
+      "ts": 1795448415000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -47,15 +68,8 @@
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Nvidia board reinstates Jensen Huang as CEO",
-      "summary": "Huang stepped down as CEO earlier this month after revelations of at least two affairs, including with a suspected spy.",
+      "summary": "Huang stepped down earlier this month after revelations of at least two affairs, including with a suspected Chinese spy.",
       "ts": 1795443878000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
-      "ts": 1795443018000
     },
     {
       "source": "Financial Times",
@@ -88,7 +102,7 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Flights and train services cancelled in Belgium due to strike",
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
       "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
       "ts": 1795440842000
     },
@@ -105,13 +119,6 @@
       "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
       "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Bi",
       "ts": 1795440140000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran says it will use ‘all available means’ to counter US blockade",
-      "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
-      "ts": 1795439051000
     },
     {
       "source": "The Hacker News",
@@ -147,13 +154,6 @@
       "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
       "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
       "ts": 1795435053000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "ts": 1795434001000
     },
     {
       "source": "Financial Times",
