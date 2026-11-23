@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T04:39:54Z",
+  "generated": "2026-11-23T05:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Ten people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "ts": 1795409040000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
+      "summary": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
+      "ts": 1795408694000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
@@ -30,13 +44,6 @@
       "ts": 1795403755000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-      "ts": 1795401422000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Indonesian police remove 24 body bags from factory fire site",
@@ -63,13 +70,6 @@
       "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
       "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
       "ts": 1795398803000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-      "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
-      "ts": 1795398692000
     },
     {
       "source": "BBC World",
