@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-23T09:39:51Z",
+  "generated": "2026-11-23T10:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Thousands displaced after deadly storm hits Brazil town",
+      "summary": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
+      "ts": 1795427125000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Death toll rises after Russian attacks on Ukraine",
+      "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+      "ts": 1795426465000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+      "summary": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+      "ts": 1795426439000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.",
+      "ts": 1795426426000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+      "summary": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.",
+      "ts": 1795426216000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0",
+      "ts": 1795425116000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -11,9 +53,16 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "AI superintelligence ‘arriving’ warns top Meta executive",
+      "title": "AI superintelligence ‘arriving’, warns top Meta executive",
       "summary": "Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.",
       "ts": 1795424887000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access t",
+      "ts": 1795424648000
     },
     {
       "source": "Al Jazeera",
@@ -58,13 +107,6 @@
       "ts": 1795421280000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Taliban deploys police to protect Afghanistan’s vanishing forests",
-      "summary": "Afghanistan’s last remaining forests are being guarded by a Taliban-run police force known as Green Units.",
-      "ts": 1795420052000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
@@ -72,39 +114,11 @@
       "ts": 1795419859000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-      "summary": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an \"exemplary\" sea drone operation.",
-      "ts": 1795419429000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
-      "summary": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
-      "ts": 1795418387000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "South Korean minister says he is too old to tackle AI exam cheating",
       "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
       "ts": 1795417804000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
-      "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
-      "ts": 1795417653000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How Ireland resisted British rule through sport",
-      "summary": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
-      "ts": 1795416430000
     },
     {
       "source": "BBC World",
@@ -308,20 +322,6 @@
       "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
       "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storag",
       "ts": 1795258997000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted mess",
-      "ts": 1795250960000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (",
-      "ts": 1795250953000
     },
     {
       "source": "Krebs on Security",
