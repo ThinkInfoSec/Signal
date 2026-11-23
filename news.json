@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-23T20:09:51Z",
+  "generated": "2026-11-23T20:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+      "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+      "ts": 1795465600000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Turkish police hunting for lioness stalking Istanbul",
+      "summary": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
+      "ts": 1795465348000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+      "summary": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.",
+      "ts": 1795465332000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Protesting Bangladesh garment workers reject pay offer",
+      "summary": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
+      "ts": 1795464228000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
+      "summary": "Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.",
+      "ts": 1795464101000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -37,13 +72,6 @@
       "ts": 1795461630000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands flee Manchester concert after unknown substance released",
-      "summary": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
-      "ts": 1795460857000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Jensen Huang reinstated as Nvidia CEO after Donald Trump intervention",
@@ -58,20 +86,6 @@
       "ts": 1795459120000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What Russian warship did Ukraine just sink?",
-      "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
-      "ts": 1795458355000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-      "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
-      "ts": 1795457575000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -79,25 +93,11 @@
       "ts": 1795457060000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
-      "summary": "The country's top court said eviction of 'non-Western' families did not constitute discrimination.",
-      "ts": 1795456823000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
       "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified v",
       "ts": 1795455915000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Tajikistan moves to leave ICC amid US push against court",
-      "summary": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
-      "ts": 1795455377000
     },
     {
       "source": "MIT Technology Review",
