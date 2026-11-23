@@ -1,12 +1,61 @@
 {
-  "generated": "2026-11-23T05:09:51Z",
+  "generated": "2026-11-23T05:39:51Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "ts": 1795412079000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
       "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "summary": "Ten people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-      "ts": 1795409040000
+      "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "ts": 1795411997000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "ts": 1795410906000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Novartis rejects AI industry hopes to cure cancer in 5 to 10 years",
+      "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
+      "ts": 1795410022000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Grant Thornton warns AI audits could trigger ‘race to the bottom’",
+      "summary": "Accounting firm’s UK audit head says over-reliance on technology could threaten quality of company checks",
+      "ts": 1795410013000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The problem with the circular AI economy",
+      "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
+      "ts": 1795410013000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Progressives are not radical enough on economics",
+      "summary": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
+      "ts": 1795410013000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Asian regulators rush to support sagging markets as AI trade falters",
+      "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+      "ts": 1795409687000
     },
     {
       "source": "Al Jazeera",
@@ -74,13 +123,6 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
-      "ts": 1795395035000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
       "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
       "ts": 1795392480000
@@ -112,13 +154,6 @@
       "title": "'He's a killer': Christopher Luxon criticises Donald Trump's Vladimir Putin embrace",
       "summary": "The US president met with Putin at the APEC summit in China last week - and had a friendly interaction, calling him \"my friend\".",
       "ts": 1795376884000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "ts": 1795373844000
     },
     {
       "source": "BleepingComputer",
@@ -226,13 +261,6 @@
       "ts": 1795284118000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-      "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
-      "ts": 1795281696000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
@@ -282,27 +310,6 @@
       "ts": 1795250953000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The chip war’s next battleground",
-      "summary": "As the US and China’s AI rivalry intensifies, focus is moving to supply chains",
-      "ts": 1795237236000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’",
-      "summary": "The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent",
-      "ts": 1795237226000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The AI cyber threat is already here",
-      "summary": "The freezer war is just a start",
-      "ts": 1795237216000
-    },
-    {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
@@ -315,13 +322,6 @@
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "ts": 1795211909000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-      "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
-      "ts": 1795211545000
     },
     {
       "source": "Ars Technica",
