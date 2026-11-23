@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-23T18:09:51Z",
+  "generated": "2026-11-23T18:39:49Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "ts": 1795459120000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+      "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
+      "ts": 1795457575000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
       "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
       "ts": 1795457060000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
+      "summary": "The country's top court said eviction of 'non-Western' families did not constitute discrimination.",
+      "ts": 1795456823000
     },
     {
       "source": "The Hacker News",
@@ -133,20 +154,6 @@
       "title": "Nvidia surges 30% as tech stocks soar",
       "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
       "ts": 1795448175000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
-      "summary": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
-      "ts": 1795447385000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Brazil coach mistaken for pitch invader, put in headlock",
-      "summary": "Footage shows Parana Clube coach Tcheco being grabbed by security guard after celebrating a goal with fans.",
-      "ts": 1795446936000
     },
     {
       "source": "The Hacker News",
@@ -357,13 +364,6 @@
       "title": "A wave of funerals: The NZ student who went home to a wiped-out village",
       "summary": "Canterbury student Sunil Tamang has seen first-hand the devastation of Nepal's earthquakes and floods - now he is working on ways to predict the next disaster.",
       "ts": 1795364081000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-      "ts": 1795362184000
     },
     {
       "source": "RNZ World",
