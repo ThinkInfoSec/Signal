@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-23T03:39:52Z",
+  "generated": "2026-11-23T04:09:53Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "New Zealand would have supported collapsed climate deal, minister says",
+      "summary": "The climate change minister says New Zealand stood ready to support the deal that collapsed after the EU criticised.",
+      "ts": 1795406382000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -70,13 +77,6 @@
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
       "ts": 1795395035000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "New Zealand would have supported collapsed climate deal, minister says",
-      "summary": "The climate change minister says New Zealand stood ready to support the deal that collapsed after the EU criticised.",
-      "ts": 1795392851000
     },
     {
       "source": "BBC World",
@@ -336,13 +336,6 @@
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "ts": 1795208348000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "New Zealander found with explosive-making instructions, extremist material jailed in Australia",
-      "summary": "Australian Border Force officers who examined the 25-year-old's mobile phone when he arrived at Perth Airport found \"concerning videos\".",
-      "ts": 1795201552000
     },
     {
       "source": "BleepingComputer",
