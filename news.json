@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-23T07:39:49Z",
+  "generated": "2026-11-23T08:09:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "ts": 1795420559000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Taliban deploys police to protect Afghanistan’s vanishing forests",
+      "summary": "Afghanistan’s last remaining forests are being guarded by a Taliban-run police force known as Green Units.",
+      "ts": 1795420052000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+      "ts": 1795419859000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+      "summary": "This is a breaking news story.",
+      "ts": 1795419429000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -9,18 +37,18 @@
       "ts": 1795418387000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "South Korean minister says he is too old to tackle AI exam cheating",
+      "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
+      "ts": 1795417804000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
       "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
       "ts": 1795417653000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "ts": 1795417291000
     },
     {
       "source": "Al Jazeera",
@@ -63,20 +91,6 @@
       "title": "Asian regulators rush to support sagging markets as AI trade falters",
       "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
       "ts": 1795414021000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
-      "summary": "New Zealand rescued a draw on the final day, surviving 120 overs in a fighting display to finish on 239-5 at the close.",
-      "ts": 1795413516000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
-      "summary": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
-      "ts": 1795413060000
     },
     {
       "source": "BBC World",
@@ -212,13 +226,6 @@
       "ts": 1795348945000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Will Anthropic buck the tech sell-off?",
-      "summary": "Market Questions is the FT’s guide to the week ahead",
-      "ts": 1795348806000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "COP flop: Scientist warns countries are losing faith in UN climate summits as deal talks stall",
@@ -336,13 +343,6 @@
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "ts": 1795208348000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
-      "ts": 1795200703000
     },
     {
       "source": "MIT Technology Review",
