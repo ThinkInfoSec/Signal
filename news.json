@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-23T08:39:49Z",
+  "generated": "2026-11-23T09:09:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+      "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+      "ts": 1795423990000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
       "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "ts": 1795421607000
+      "ts": 1795423268000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+      "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+      "ts": 1795423017000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banki",
+      "ts": 1795422255000
     },
     {
       "source": "Al Jazeera",
@@ -72,25 +93,18 @@
       "ts": 1795416240000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "ts": 1795415630000
+    },
+    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "From rotation to contagion",
       "summary": "Plus, chips are not cheap",
       "ts": 1795415402000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
-      "summary": "Alcaraz joins an exclusive list, becoming one of only four men to have won all four majors and the ATP Finals.",
-      "ts": 1795414540000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "ts": 1795412079000
     },
     {
       "source": "BBC World",
@@ -203,13 +217,6 @@
       "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
       "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
       "ts": 1795360525000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "ts": 1795356320000
     },
     {
       "source": "Financial Times",
@@ -350,13 +357,6 @@
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which",
       "ts": 1795198515000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs i",
-      "ts": 1795197440000
     },
     {
       "source": "OpenAI",
