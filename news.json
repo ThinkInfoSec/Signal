@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T23:09:51Z",
+  "generated": "2026-11-23T23:39:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "ts": 1795475768000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+      "summary": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
+      "ts": 1795475163000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -9,11 +23,11 @@
       "ts": 1795474487000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "ts": 1795473951000
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+      "ts": 1795473974000
     },
     {
       "source": "Ars Technica",
@@ -91,13 +105,6 @@
       "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
       "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
       "ts": 1795465600000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Turkish police hunting for lioness stalking Istanbul",
-      "summary": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
-      "ts": 1795465348000
     },
     {
       "source": "BleepingComputer",
@@ -352,13 +359,6 @@
       "ts": 1795410013000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The problem with the circular AI economy",
-      "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
-      "ts": 1795410013000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "New Zealand would have supported collapsed climate deal, minister says",
@@ -371,13 +371,6 @@
       "title": "How to build and maintain an agentic evaluation",
       "summary": "",
       "ts": 1795392000000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Molly Meldrum, former host of Countdown, dies aged 83",
-      "summary": "He was a highly influential figure in Australia's music industry as a critic, producer, interviewer and television presenter.",
-      "ts": 1795390784000
     },
     {
       "source": "RNZ World",
