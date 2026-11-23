@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-23T22:09:51Z",
+  "generated": "2026-11-23T22:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "ts": 1795472126000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
@@ -14,6 +21,13 @@
       "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
       "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
       "ts": 1795469440000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "ts": 1795468800000
     },
     {
       "source": "Al Jazeera",
@@ -231,13 +245,6 @@
       "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
       "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Bi",
       "ts": 1795440140000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-      "ts": 1795439392000
     },
     {
       "source": "BBC World",
@@ -511,13 +518,6 @@
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "ts": 1795075200000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "See PR scans in action",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "ts": 1795046400000
     },
     {
       "source": "Google DeepMind",
