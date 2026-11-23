@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-23T22:39:49Z",
+  "generated": "2026-11-23T23:09:51Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+      "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+      "ts": 1795474487000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "ts": 1795472126000
+      "ts": 1795473951000
     },
     {
       "source": "Ars Technica",
@@ -91,13 +98,6 @@
       "title": "Turkish police hunting for lioness stalking Istanbul",
       "summary": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
       "ts": 1795465348000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
-      "summary": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.",
-      "ts": 1795465332000
     },
     {
       "source": "BleepingComputer",
