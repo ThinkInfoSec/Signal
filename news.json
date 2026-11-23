@@ -1,11 +1,25 @@
 {
-  "generated": "2026-11-23T19:09:49Z",
+  "generated": "2026-11-23T19:39:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+      "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
+      "ts": 1795461630000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Thousands flee Manchester concert after unknown substance released",
+      "summary": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
+      "ts": 1795460857000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Jensen Huang reinstated as Nvidia CEO after Donald Trump intervention",
-      "summary": "Shares surge 30% after stunning leadership reversal and lead Wall Street higher in broad rally",
+      "summary": "Interim chief and senior management were unaware of the discussions over the weekend",
       "ts": 1795459713000
     },
     {
@@ -126,20 +140,6 @@
       "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
       "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
       "ts": 1795451782000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
-      "summary": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
-      "ts": 1795451728000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-      "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
-      "ts": 1795451013000
     },
     {
       "source": "Ars Technica",
@@ -282,6 +282,13 @@
       "ts": 1795422255000
     },
     {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "ts": 1795420800000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
@@ -364,13 +371,6 @@
       "title": "A wave of funerals: The NZ student who went home to a wiped-out village",
       "summary": "Canterbury student Sunil Tamang has seen first-hand the devastation of Nepal's earthquakes and floods - now he is working on ways to predict the next disaster.",
       "ts": 1795364081000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "COP flop: Scientist warns countries are losing faith in UN climate summits as deal talks stall",
-      "summary": "Fraught negotiations at COP31 have run more than a day over deadline, with a major deadlock over whether to mention fossil fuels.",
-      "ts": 1795326491000
     },
     {
       "source": "OpenAI",
@@ -501,8 +501,8 @@
     {
       "source": "OpenAI",
       "cat": "ai",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "ts": 1795046400000
     },
     {
@@ -510,13 +510,6 @@
       "cat": "ai",
       "title": "See PR scans in action",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "ts": 1795046400000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Get started with Daybreak Blue",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "ts": 1795046400000
     },
     {
