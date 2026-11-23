@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T20:39:49Z",
+  "generated": "2026-11-23T21:09:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
+      "summary": "Interim chief and senior management were unaware of the discussions over the weekend",
+      "ts": 1795467944000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "ts": 1795467291000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "ts": 1795466915000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -70,13 +91,6 @@
       "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
       "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
       "ts": 1795461630000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Jensen Huang reinstated as Nvidia CEO after Donald Trump intervention",
-      "summary": "Interim chief and senior management were unaware of the discussions over the weekend",
-      "ts": 1795459713000
     },
     {
       "source": "BleepingComputer",
@@ -184,13 +198,6 @@
       "ts": 1795446010000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-      "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
-      "ts": 1795445714000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "What Nvidia tells us about America and China",
@@ -273,13 +280,6 @@
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
       "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0",
       "ts": 1795425116000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-      "ts": 1795425075000
     },
     {
       "source": "The Hacker News",
