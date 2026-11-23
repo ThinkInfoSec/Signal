@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T12:39:48Z",
+  "generated": "2026-11-23T13:09:50Z",
   "items": [
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting tech",
+      "ts": 1795437664000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Argentina footballer Paredes collapses during post-match interview",
+      "summary": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
+      "ts": 1795437621000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How the US, China and Russia are competing for Africa’s mineral wealth",
+      "summary": "The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.",
+      "ts": 1795437294000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -9,11 +30,32 @@
       "ts": 1795437224000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API a",
+      "ts": 1795436889000
+    },
+    {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Flights grounded in Belgium due to strike against austerity measures",
+      "title": "Flights and train services cancelled in Belgium due to strike",
       "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
       "ts": 1795436854000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran threatens response to any attack amid naval blockade",
+      "summary": "Iran threatens response to any attack amid naval blockade",
+      "ts": 1795436724000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Search continues for dozens missing after Indonesia candy factory fire",
+      "summary": "Rescuers are searching for around 30 missing workers after a candy factory fire killed at least 24 people in Banten.",
+      "ts": 1795436599000
     },
     {
       "source": "BleepingComputer",
@@ -79,34 +121,6 @@
       "ts": 1795431536000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Lebanese families return to ruins after Israeli attacks in south",
-      "summary": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
-      "ts": 1795431440000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
-      "summary": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
-      "ts": 1795431305000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why is Bangladesh’s Grameen Bank under attack?",
-      "summary": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
-      "ts": 1795429354000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
-      "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
-      "ts": 1795429258000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
@@ -137,7 +151,7 @@
     {
       "source": "The Hacker News",
       "cat": "cyber",
-      "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
       "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banki",
       "ts": 1795422255000
     },
@@ -315,20 +329,6 @@
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstrat",
       "ts": 1795261987000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2",
-      "ts": 1795259153000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storag",
-      "ts": 1795258997000
     },
     {
       "source": "Krebs on Security",
