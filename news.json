@@ -1,11 +1,18 @@
 {
-  "generated": "2026-11-23T00:39:50Z",
+  "generated": "2026-11-23T01:09:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "ts": 1795395035000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-      "summary": "Kospi falls 3 percent as markets across the region brace for losses.",
+      "summary": "The Korea Composite Stock Price Index (Kospi) falls 3 percent as markets across the region brace for losses.",
       "ts": 1795393083000
     },
     {
@@ -112,13 +119,6 @@
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
       "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
       "ts": 1795373137000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "ts": 1795371479000
     },
     {
       "source": "BBC World",
