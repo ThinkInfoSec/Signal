@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-23T16:09:50Z",
+  "generated": "2026-11-23T16:39:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+      "ts": 1795451013000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
@@ -42,6 +49,13 @@
       "title": "Brazil coach mistaken for pitch invader, put in headlock",
       "summary": "Footage shows Parana Clube coach Tcheco being grabbed by security guard after celebrating a goal with fans.",
       "ts": 1795446936000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can turn into a much big",
+      "ts": 1795446648000
     },
     {
       "source": "Al Jazeera",
@@ -91,13 +105,6 @@
       "title": "Anti-austerity strike spurs transport chaos across Belgium",
       "summary": "National strike against planned austerity causes widespread disruption, with government's fate hanging in the balance.",
       "ts": 1795441516000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "COP31 has failed. The climate system is working as designed",
-      "summary": "The failure exposes a diplomacy that protects fossil-fuel power while leaving vulnerable countries to pay the price.",
-      "ts": 1795440960000
     },
     {
       "source": "BBC World",
@@ -329,13 +336,6 @@
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
       "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. Op",
       "ts": 1795324015000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling i",
-      "ts": 1795323821000
     },
     {
       "source": "OpenAI",
