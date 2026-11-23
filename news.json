@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-23T15:09:51Z",
+  "generated": "2026-11-23T15:39:50Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nvidia surges 30% as tech stocks soar",
+      "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
+      "ts": 1795448175000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+      "summary": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
+      "ts": 1795447385000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Brazil coach mistaken for pitch invader, put in headlock",
+      "summary": "Footage shows Parana Clube coach Tcheco being grabbed by security guard after celebrating a goal with fans.",
+      "ts": 1795446936000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Police investigating bomb threats against schools in Germany and Denmark",
+      "summary": "Bomb threats follow hoax emails sent to schools across Europe earlier in November.",
+      "ts": 1795446479000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -28,6 +56,13 @@
       "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
       "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
       "ts": 1795443018000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "What Nvidia tells us about America and China",
+      "summary": "The company’s spy scandal shows how little leverage Washington has against Beijing",
+      "ts": 1795442403000
     },
     {
       "source": "Al Jazeera",
@@ -86,32 +121,11 @@
       "ts": 1795437664000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Argentina footballer Paredes collapses during post-match interview",
-      "summary": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
-      "ts": 1795437621000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How the US, China and Russia are competing for Africa’s mineral wealth",
-      "summary": "The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.",
-      "ts": 1795437294000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
       "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API a",
       "ts": 1795436889000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran threatens response to any attack amid naval blockade",
-      "summary": "Iran threatens response to any attack amid naval blockade",
-      "ts": 1795436724000
     },
     {
       "source": "BleepingComputer",
@@ -240,13 +254,6 @@
       "ts": 1795410013000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Progressives are not radical enough on economics",
-      "summary": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
-      "ts": 1795410013000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "New Zealand would have supported collapsed climate deal, minister says",
@@ -308,13 +315,6 @@
       "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
       "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
       "ts": 1795360525000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Adoption, not innovation, holds Britain back",
-      "summary": "Once the world’s most innovative country, the UK now struggles to embrace new technologies",
-      "ts": 1795348945000
     },
     {
       "source": "RNZ World",
