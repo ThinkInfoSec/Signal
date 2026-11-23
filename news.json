@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-23T18:39:49Z",
+  "generated": "2026-11-23T19:09:49Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Jensen Huang reinstated as Nvidia CEO after Donald Trump intervention",
+      "summary": "Shares surge 30% after stunning leadership reversal and lead Wall Street higher in broad rally",
+      "ts": 1795459713000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
       "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
       "ts": 1795459120000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What Russian warship did Ukraine just sink?",
+      "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
+      "ts": 1795458355000
     },
     {
       "source": "Al Jazeera",
@@ -140,20 +154,6 @@
       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
       "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
       "ts": 1795448483000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli soldiers assault Palestinian after raiding his home",
-      "summary": "Israeli forces assault a Palestinian man during a raid on his home in the occupied West Bank.",
-      "ts": 1795448415000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia surges 30% as tech stocks soar",
-      "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
-      "ts": 1795448175000
     },
     {
       "source": "The Hacker News",
