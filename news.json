@@ -1,6 +1,69 @@
 {
-  "generated": "2026-11-23T16:39:52Z",
+  "generated": "2026-11-23T17:09:50Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "ts": 1795453645000
+    },
+    {
+      "source": "NVIDIA",
+      "cat": "ai",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "ts": 1795453208000
+    },
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "ts": 1795453200000
+    },
+    {
+      "source": "Google DeepMind",
+      "cat": "ai",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "ts": 1795453180000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+      "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+      "ts": 1795452601000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+      "ts": 1795452591000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why did COP31 climate talks collapse without a deal?",
+      "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
+      "ts": 1795451910000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
+      "ts": 1795451782000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
+      "summary": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
+      "ts": 1795451728000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -79,32 +142,11 @@
       "ts": 1795445643000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia board reinstates Jensen Huang as CEO",
-      "summary": "Huang stepped down earlier this month after revelations of at least two affairs, including with a suspected Chinese spy.",
-      "ts": 1795443878000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "What Nvidia tells us about America and China",
       "summary": "The company’s spy scandal shows how little leverage Washington has against Beijing",
       "ts": 1795442403000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
-      "summary": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
-      "ts": 1795442088000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Anti-austerity strike spurs transport chaos across Belgium",
-      "summary": "National strike against planned austerity causes widespread disruption, with government's fate hanging in the balance.",
-      "ts": 1795441516000
     },
     {
       "source": "BBC World",
@@ -126,6 +168,13 @@
       "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
       "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Bi",
       "ts": 1795440140000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
+      "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+      "ts": 1795437820000
     },
     {
       "source": "The Hacker News",
@@ -156,13 +205,6 @@
       "ts": 1795435200000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "ts": 1795435053000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Is the solution to survey problems to make up the data?",
@@ -189,13 +231,6 @@
       "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
       "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access t",
       "ts": 1795424648000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-      "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
-      "ts": 1795423981000
     },
     {
       "source": "The Hacker News",
@@ -282,13 +317,6 @@
       "ts": 1795390784000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "summary": "The couple have been together for four years and were engaged in 2025.",
-      "ts": 1795382560000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "'He's a killer': Christopher Luxon criticises Donald Trump's Vladimir Putin embrace",
@@ -315,13 +343,6 @@
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
       "ts": 1795362184000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
-      "ts": 1795360525000
     },
     {
       "source": "RNZ World",
@@ -630,13 +651,6 @@
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do",
       "ts": 1794845068000
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than",
-      "ts": 1794844851000
     },
     {
       "source": "Google AI",
