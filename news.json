@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T00:09:48Z",
+  "generated": "2026-11-23T00:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+      "summary": "Kospi falls 3 percent as markets across the region brace for losses.",
+      "ts": 1795393083000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "New Zealand would have supported collapsed climate deal, minister says",
+      "summary": "The climate change minister says New Zealand stood ready to support the deal that collapsed after the EU criticised.",
+      "ts": 1795392851000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+      "ts": 1795392210000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -56,20 +77,6 @@
       "title": "Democrats win largest House majority since 1992 with North Carolina seat",
       "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
       "ts": 1795385987000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-      "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
-      "ts": 1795384908000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
-      "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
-      "ts": 1795383191000
     },
     {
       "source": "BBC World",
