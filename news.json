@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T13:09:50Z",
+  "generated": "2026-11-23T13:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Flights and train services cancelled in Belgium due to strike",
+      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "ts": 1795440842000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+      "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+      "ts": 1795440525000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran says it will use ‘all available means’ to counter US blockade",
+      "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "ts": 1795439051000
+    },
     {
       "source": "The Hacker News",
       "cat": "cyber",
@@ -37,13 +58,6 @@
       "ts": 1795436889000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Flights and train services cancelled in Belgium due to strike",
-      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "ts": 1795436854000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran threatens response to any attack amid naval blockade",
@@ -61,7 +75,7 @@
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "summary": "A Peruvian call center operator was sentenced to eight years in prison for stealing millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+      "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
       "ts": 1795435343000
     },
     {
@@ -105,13 +119,6 @@
       "title": "COP31: What next after UN climate talks collapse",
       "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
       "ts": 1795432748000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-      "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
-      "ts": 1795432212000
     },
     {
       "source": "Financial Times",
@@ -315,13 +322,6 @@
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
       "ts": 1795301998000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-      "ts": 1795284118000
     },
     {
       "source": "The Hacker News",
