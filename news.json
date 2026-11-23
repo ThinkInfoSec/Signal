@@ -1,19 +1,33 @@
 {
-  "generated": "2026-11-23T14:39:50Z",
+  "generated": "2026-11-23T15:09:51Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "AI Agents Are Creating a Shared Responsibility Gap",
+      "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
+      "ts": 1795446010000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "ts": 1795445643000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "summary": "Huang stepped down as CEO earlier this month after revelations of at least two affairs, including with a suspected spy.",
+      "ts": 1795443878000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
       "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
       "ts": 1795443018000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "What Nvidia tells us about America and China",
-      "summary": "The company’s spy scandal shows how little leverage Washington has against Beijing",
-      "ts": 1795442403000
     },
     {
       "source": "Al Jazeera",
@@ -49,13 +63,6 @@
       "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
       "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
       "ts": 1795440525000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-      "ts": 1795440396000
     },
     {
       "source": "The Hacker News",
@@ -105,13 +112,6 @@
       "title": "Iran threatens response to any attack amid naval blockade",
       "summary": "Iran threatens response to any attack amid naval blockade",
       "ts": 1795436724000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Search continues for dozens missing after Indonesia candy factory fire",
-      "summary": "Rescuers are searching for around 30 missing workers after a candy factory fire killed at least 24 people in Banten.",
-      "ts": 1795436599000
     },
     {
       "source": "BleepingComputer",
@@ -310,6 +310,13 @@
       "ts": 1795360525000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Adoption, not innovation, holds Britain back",
+      "summary": "Once the world’s most innovative country, the UK now struggles to embrace new technologies",
+      "ts": 1795348945000
+    },
+    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "COP flop: Scientist warns countries are losing faith in UN climate summits as deal talks stall",
@@ -336,13 +343,6 @@
       "title": "Perplexity and Intelligence",
       "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "ts": 1795305600000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-      "ts": 1795301998000
     },
     {
       "source": "Krebs on Security",
