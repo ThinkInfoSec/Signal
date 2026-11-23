@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-23T01:09:49Z",
+  "generated": "2026-11-23T01:39:49Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "ts": 1795397023000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -11,8 +18,15 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+      "ts": 1795394391000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
       "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-      "summary": "The Korea Composite Stock Price Index (Kospi) falls 3 percent as markets across the region brace for losses.",
+      "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
       "ts": 1795393083000
     },
     {
@@ -79,25 +93,11 @@
       "ts": 1795387058000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
-      "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
-      "ts": 1795385987000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "ts": 1795379289000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "ts": 1795379184000
     },
     {
       "source": "RNZ World",
