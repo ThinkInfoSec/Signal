@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-23T05:39:51Z",
+  "generated": "2026-11-23T06:09:52Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Asian regulators rush to support sagging markets as AI trade falters",
+      "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+      "ts": 1795414021000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
+      "summary": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
+      "ts": 1795413060000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+      "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+      "ts": 1795412281000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -51,13 +72,6 @@
       "ts": 1795410013000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Asian regulators rush to support sagging markets as AI trade falters",
-      "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
-      "ts": 1795409687000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Child rescued in Ukraine after Russian drone attack kills 10",
@@ -95,8 +109,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Indonesian police remove 24 body bags from factory fire site",
-      "summary": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
+      "title": "Indonesia confirms 24 killed in candy factory fire as search continues",
+      "summary": "Rescuers search for 30 people still missing.",
       "ts": 1795401342000
     },
     {
@@ -105,20 +119,6 @@
       "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
       "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
       "ts": 1795400593000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
-      "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
-      "ts": 1795399755000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
-      "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
-      "ts": 1795398803000
     },
     {
       "source": "BBC World",
