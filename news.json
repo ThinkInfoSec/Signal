@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-23T17:09:50Z",
+  "generated": "2026-11-23T17:39:52Z",
   "items": [
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "",
+      "ts": 1795454437000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -35,13 +42,6 @@
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
       "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
       "ts": 1795452601000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-      "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-      "ts": 1795452591000
     },
     {
       "source": "Al Jazeera",
@@ -315,6 +315,13 @@
       "title": "Molly Meldrum, former host of Countdown, dies aged 83",
       "summary": "He was a highly influential figure in Australia's music industry as a critic, producer, interviewer and television presenter.",
       "ts": 1795390784000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "ts": 1795382560000
     },
     {
       "source": "RNZ World",
@@ -593,13 +600,6 @@
       "source": "Hugging Face",
       "cat": "ai",
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "summary": "",
-      "ts": 1794960000000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
       "summary": "",
       "ts": 1794960000000
     },
