@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-24T19:09:53Z",
+  "generated": "2026-11-24T19:41:16Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "ts": 1795547431000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+      "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+      "ts": 1795546969000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -105,13 +119,6 @@
       "title": "Five tonnes of explosives set to blow up in Iowa",
       "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
       "ts": 1795541621000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
-      "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
-      "ts": 1795541157000
     },
     {
       "source": "The Hacker News",
@@ -268,11 +275,11 @@
       "ts": 1795521714000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "ts": 1795518657000
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "ts": 1795518000000
     },
     {
       "source": "BBC World",
@@ -329,6 +336,13 @@
       "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
       "summary": "Saudi national is also alleged to have photographed confidential documents",
       "ts": 1795483902000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "ts": 1795478400000
     },
     {
       "source": "OpenAI",
@@ -469,20 +483,6 @@
       "title": "Combatting adversarial distillation",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "ts": 1795168800000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "ts": 1795132800000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "ts": 1795132800000
     },
     {
       "source": "Hugging Face",
