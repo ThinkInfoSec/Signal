@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T06:39:50Z",
+  "generated": "2026-11-24T07:09:51Z",
   "items": [
     {
       "source": "Financial Times",
@@ -14,6 +14,13 @@
       "title": "The Jensen put",
       "summary": "Plus, Capex or die trying",
       "ts": 1795501804000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+      "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
+      "ts": 1795501465000
     },
     {
       "source": "The Hacker News",
@@ -107,13 +114,6 @@
       "ts": 1795490455000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Excavator threatens sacred alpine lake in the Himalayas",
-      "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
-      "ts": 1795487727000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
@@ -144,7 +144,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang",
       "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
       "ts": 1795473974000
     },
