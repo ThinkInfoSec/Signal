@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-24T12:39:51Z",
+  "generated": "2026-11-24T13:09:53Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Jensen Huang’s return should not stop tighter US chip controls",
+      "summary": "Nvidia was wrong to think Chinese competitors would remain inside the company’s ecosystem",
+      "ts": 1795524855000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked ",
+      "ts": 1795524129000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
       "ts": 1795523405000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+      "ts": 1795522368000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's process hardening on Wi",
+      "ts": 1795521720000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations, repe",
+      "ts": 1795521714000
     },
     {
       "source": "Financial Times",
@@ -219,13 +254,6 @@
       "ts": 1795467291000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "ts": 1795466915000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "OpenRouter drops AI providers over leaked prompts and secrets",
@@ -303,13 +331,6 @@
       "ts": 1795448778000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can turn into a much big",
-      "ts": 1795446648000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "AI Agents Are Creating a Shared Responsibility Gap",
@@ -317,32 +338,11 @@
       "ts": 1795446010000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "What Nvidia tells us about America and China",
-      "summary": "The company’s spy scandal shows how little leverage Washington has against Beijing",
-      "ts": 1795442403000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
       "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
       "ts": 1795440525000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Bi",
-      "ts": 1795440140000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting tech",
-      "ts": 1795437664000
     },
     {
       "source": "BleepingComputer",
