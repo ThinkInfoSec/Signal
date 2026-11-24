@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-24T00:09:49Z",
+  "generated": "2026-11-24T00:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+      "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+      "ts": 1795478655000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Borno school enrolment nearly doubles after years of conflict",
+      "summary": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
+      "ts": 1795478536000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+      "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
+      "ts": 1795478400000
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Estonia's advice to New Zealand on dealing with Russia",
       "summary": "\"The question is quite black and white,\" Estonia's Martin Roger told RNZ. \"There is one aggressor and then there's one victim.\"",
       "ts": 1795478069000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
+      "summary": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
+      "ts": 1795478067000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Drone attack on Colombia police base injures civilians, including infant",
+      "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+      "ts": 1795477777000
     },
     {
       "source": "Al Jazeera",
@@ -37,18 +72,18 @@
       "ts": 1795474487000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+      "ts": 1795473974000
+    },
+    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
       "ts": 1795469444000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-      "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
-      "ts": 1795469440000
     },
     {
       "source": "OpenAI",
@@ -58,32 +93,11 @@
       "ts": 1795468800000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israel’s southern Syria incursion triggers fear and destruction",
-      "summary": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
-      "ts": 1795468757000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
-      "summary": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.",
-      "ts": 1795468533000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
       "summary": "Interim chief and senior management were unaware of the discussions over the weekend",
       "ts": 1795467944000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US drug prices leave patients facing impossible choices",
-      "summary": "Despite having jobs and health insurance, some of the US's sickest patients have trouble affording medicines they need.",
-      "ts": 1795467720000
     },
     {
       "source": "BleepingComputer",
@@ -98,13 +112,6 @@
       "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
       "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
       "ts": 1795466915000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
-      "summary": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
-      "ts": 1795466516000
     },
     {
       "source": "BleepingComputer",
@@ -356,13 +363,6 @@
       "cat": "ai",
       "title": "Grant Thornton warns AI audits could trigger ‘race to the bottom’",
       "summary": "Accounting firm’s UK audit head says over-reliance on technology could threaten quality of company checks",
-      "ts": 1795410013000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The problem with the circular AI economy",
-      "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
       "ts": 1795410013000
     },
     {
