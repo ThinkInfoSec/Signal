@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-24T08:09:50Z",
+  "generated": "2026-11-24T08:39:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Tech stocks surge on Jensen Huang’s return",
+      "summary": "Asian markets follow Wall Street higher after Nvidia chief’s reinstatement",
+      "ts": 1795508997000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+      "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
+      "ts": 1795508501000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
+      "summary": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
+      "ts": 1795508246000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+      "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
+      "ts": 1795506918000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -44,32 +72,11 @@
       "ts": 1795503772000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why Eisenkot is negotiating with Netanyahu",
-      "summary": "Talks with different political powers give Yashar leverage. But they also give Likud renewed political relevance.",
-      "ts": 1795503760000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Tech stocks surge on Jensen Huang’s return",
-      "summary": "Asian markets follow Wall Street higher after Nvidia chief’s reinstatement",
-      "ts": 1795501834000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The Jensen put",
       "summary": "Plus, Capex or die trying",
       "ts": 1795501804000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
-      "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
-      "ts": 1795501465000
     },
     {
       "source": "The Hacker News",
@@ -91,13 +98,6 @@
       "title": "German industrial giants launch trading house for rare earths",
       "summary": "Also in this newsletter: Europe’s underused playing card on AI",
       "ts": 1795500005000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
-      "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
-      "ts": 1795499801000
     },
     {
       "source": "BBC World",
@@ -144,7 +144,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang",
       "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
       "ts": 1795473974000
     },
