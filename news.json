@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-24T15:09:52Z",
+  "generated": "2026-11-24T15:39:53Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "ts": 1795534553000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks slide as Jensen Huang return rally fades",
+      "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
+      "ts": 1795534496000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK police arrest two after break-in at Prince William’s country residence",
+      "summary": "The arrests were made at a property on ⁠⁠⁠⁠the royal family's Sandringham estate in Norfolk, eastern England.",
+      "ts": 1795533587000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "ts": 1795533448000
+    },
+    {
+      "source": "MIT Technology Review",
+      "cat": "ai",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done b",
+      "ts": 1795533316000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How the Iran war is reshaping the US military presence in the Middle East",
+      "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+      "ts": 1795533029000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+      "ts": 1795533010000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How Brazil’s mosquitoes are helping to fight dengue",
+      "summary": "Scientists are increasingly using novel ways to re-engineer mosquitoes and use them to battle the diseases they spread.",
+      "ts": 1795532940000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -16,17 +72,24 @@
       "ts": 1795532210000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks slide as Jensen Huang return rally fades",
-      "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
-      "ts": 1795531953000
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
+      "summary": "The Russian cargo ship Sparta II was towed back to home waters after a Ukrainian drone attack in the Gulf of Finland",
+      "ts": 1795532178000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The photos from Gaza resonating with the people of Sarajevo",
+      "summary": "From a photography exhibition to a weekly vigil reading out the names of killed children, solidarity grows in Sarajevo.",
+      "ts": 1795531802000
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
-      "summary": "Court of Arbitration for Sport rules in Senegal's favour over in the controversial final in January.",
+      "summary": "Court of Arbitration for Sport rules in Senegal's favour over the controversial final in January.",
       "ts": 1795530956000
     },
     {
@@ -58,46 +121,11 @@
       "ts": 1795528802000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli air strike kills senior Hamas military official in Gaza",
-      "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
-      "ts": 1795528511000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
-      "summary": "The 15-year-old Sooryavanshi struck a staggering 28 sixes, the most ever in a senior men's innings.",
-      "ts": 1795528365000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
-      "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?",
-      "ts": 1795527562000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-      "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
-      "ts": 1795527351000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
       "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
       "ts": 1795527263000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-      "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
-      "ts": 1795527144000
     },
     {
       "source": "The Hacker News",
@@ -135,13 +163,6 @@
       "ts": 1795523405000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
-      "ts": 1795522368000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
@@ -154,13 +175,6 @@
       "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
       "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations, repe",
       "ts": 1795521714000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "ts": 1795520752000
     },
     {
       "source": "BBC World",
@@ -343,13 +357,6 @@
       "title": "Finding faster quantum algorithms with agents and formal verification",
       "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
       "ts": 1795453180000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-      "ts": 1795452601000
     },
     {
       "source": "Ars Technica",
@@ -637,13 +644,6 @@
       "title": "New Ask Maps features to help with holiday travel and prep",
       "summary": "tbd",
       "ts": 1794837600000
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: reth",
-      "ts": 1794834000000
     }
   ]
 }
