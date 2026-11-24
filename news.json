@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-24T22:39:54Z",
+  "generated": "2026-11-24T23:09:54Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+      "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+      "ts": 1795559840000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -84,13 +91,6 @@
       "title": "What's going on with the Riemann hypothesis?",
       "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
       "ts": 1795552493000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
-      "summary": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
-      "ts": 1795552120000
     },
     {
       "source": "BleepingComputer",
@@ -373,6 +373,13 @@
       "ts": 1795478400000
     },
     {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "ts": 1795478400000
+    },
+    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Estonia's advice to New Zealand on dealing with Russia",
@@ -462,13 +469,6 @@
       "title": "How to build and maintain an agentic evaluation",
       "summary": "",
       "ts": 1795392000000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Perplexity and Intelligence",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "ts": 1795305600000
     },
     {
       "source": "Krebs on Security",
