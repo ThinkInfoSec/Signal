@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-24T08:39:51Z",
+  "generated": "2026-11-24T09:09:51Z",
   "items": [
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Tech stocks surge on Jensen Huang’s return",
       "summary": "Asian markets follow Wall Street higher after Nvidia chief’s reinstatement",
-      "ts": 1795508997000
+      "ts": 1795510826000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "ts": 1795509341000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US army says detonation of lead explosives in Iowa will proceed",
+      "summary": "Public outcry led to a legal battle when details of the plans to conduct two controlled detonations surfaced.",
+      "ts": 1795508648000
     },
     {
       "source": "Al Jazeera",
@@ -63,13 +77,6 @@
       "title": "Member states must not betray the ICC",
       "summary": "Succumbing to US pressure to change the Rome Statute would be devastating for international justice.",
       "ts": 1795504398000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
-      "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
-      "ts": 1795503772000
     },
     {
       "source": "Financial Times",
@@ -210,13 +217,6 @@
       "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
       "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
       "ts": 1795459120000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "ts": 1795457060000
     },
     {
       "source": "The Hacker News",
