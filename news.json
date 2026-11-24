@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-24T20:39:59Z",
+  "generated": "2026-11-24T21:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+      "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+      "ts": 1795554286000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "ts": 1795553961000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+      "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+      "ts": 1795553921000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+      "summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
+      "ts": 1795552503000
+    },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "What's going on with the Riemann hypothesis?",
       "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
       "ts": 1795552493000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+      "summary": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
+      "ts": 1795552120000
     },
     {
       "source": "BleepingComputer",
@@ -21,6 +56,13 @@
       "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
       "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
       "ts": 1795551509000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
+      "summary": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
+      "ts": 1795551499000
     },
     {
       "source": "Financial Times",
@@ -51,25 +93,11 @@
       "ts": 1795547990000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
-      "summary": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
-      "ts": 1795547725000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Nigerian monarch, 92, suspended after sexual assault claims",
       "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
       "ts": 1795547431000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
-      "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
-      "ts": 1795546969000
     },
     {
       "source": "BleepingComputer",
@@ -91,27 +119,6 @@
       "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
       "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
       "ts": 1795546077000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
-      "summary": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
-      "ts": 1795546025000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Is Libya a new front in the Ukraine war?",
-      "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
-      "ts": 1795545529000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Senior Hamas security official killed in Israeli drone strikes",
-      "summary": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
-      "ts": 1795544400000
     },
     {
       "source": "BBC World",
@@ -315,13 +322,6 @@
       "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
       "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yest",
       "ts": 1795509260000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "ts": 1795505187000
     },
     {
       "source": "Financial Times",
