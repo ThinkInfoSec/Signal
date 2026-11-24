@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-24T13:39:55Z",
+  "generated": "2026-11-24T14:09:50Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "McDonald’s Japan data breach exposes customer location information",
+      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "ts": 1795529377000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
+      "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?",
+      "ts": 1795527562000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
+      "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
+      "ts": 1795527351000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -18,6 +39,48 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
+      "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+      "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
+      "ts": 1795527144000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
+      "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.",
+      "ts": 1795527000000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Senegalese families wait for news of missing migrant boat",
+      "summary": "Senegalese families wait for news of missing migrant boat",
+      "ts": 1795526930000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It ",
+      "ts": 1795526906000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to tr",
+      "ts": 1795526901000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Heat deaths reach record high in UK in 2026",
+      "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
+      "ts": 1795525885000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
       "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
       "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
       "ts": 1795524989000
@@ -25,7 +88,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "UK sanctions Yemen’s Houthi group, four senior officials",
+      "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
       "summary": "Group must be held accountable for 'targeting our partners and innocent civilians', says Foreign Secretary Ed Miliband.",
       "ts": 1795524955000
     },
@@ -35,27 +98,6 @@
       "title": "Jensen Huang’s return should not stop tighter US chip controls",
       "summary": "Nvidia was wrong to think Chinese competitors would remain inside the company’s ecosystem",
       "ts": 1795524855000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
-      "summary": "Ukraine's strike off Libya signals Kyiv's ability to challenge Russian influence beyond the front lines, analysts say.",
-      "ts": 1795524443000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump’s Nvidia intervention: What’s at stake?",
-      "summary": "Trump’s intervention to reinstate Nvidia CEO Jensen Huang has raised concerns over US government influence in business.",
-      "ts": 1795524296000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistani astronaut set to make history on Chinese space mission",
-      "summary": "Muhammad Zeeshan Ali is set to become the first foreign national astronaut to travel aboard a Chinese spacecraft.",
-      "ts": 1795524281000
     },
     {
       "source": "The Hacker News",
@@ -70,13 +112,6 @@
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
       "ts": 1795523405000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "China walks ‘thin line’ in push to prevent another Horn of Africa war",
-      "summary": "Beijing has escalated diplomatic efforts to ease tensions involving Egypt, Ethiopia, Eritrea and Djibouti.",
-      "ts": 1795522724000
     },
     {
       "source": "BBC World",
@@ -105,20 +140,6 @@
       "title": "Car bomb tears through Colombian city wounding more than 20",
       "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
       "ts": 1795520752000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-      "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
-      "ts": 1795519807000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-      "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
-      "ts": 1795519655000
     },
     {
       "source": "BBC World",
@@ -175,13 +196,6 @@
       "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
       "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out ",
       "ts": 1795500177000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A serve",
-      "ts": 1795500165000
     },
     {
       "source": "Financial Times",
@@ -282,13 +296,6 @@
       "ts": 1795459120000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified v",
-      "ts": 1795455915000
-    },
-    {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -343,13 +350,6 @@
       "title": "AI Agents Are Creating a Shared Responsibility Gap",
       "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
       "ts": 1795446010000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-      "ts": 1795440525000
     },
     {
       "source": "Ars Technica",
