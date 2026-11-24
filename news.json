@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T21:39:55Z",
+  "generated": "2026-11-24T22:09:57Z",
   "items": [
     {
       "source": "BleepingComputer",
@@ -21,6 +21,13 @@
       "title": "US attorney general dodges questions about Nvidia investigation",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "ts": 1795555182000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Russian jets spark air raid alert in South Korea",
+      "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+      "ts": 1795554897000
     },
     {
       "source": "Financial Times",
@@ -98,13 +105,6 @@
       "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
       "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
       "ts": 1795548164000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
-      "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
-      "ts": 1795547990000
     },
     {
       "source": "BBC World",
