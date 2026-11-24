@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-24T17:09:54Z",
+  "generated": "2026-11-24T17:39:56Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Tidal will ban fully AI-generated music on December 9",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "ts": 1795541674000
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "COP31 format needs re-think, former NZ climate ambassadors say",
+      "summary": "COP31 ended in Antalya, Türkiye, early on Monday (NZT) after more than two weeks of fraught discussion between countries that were unable to produce a 'cover decision'.",
+      "ts": 1795540810000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "After Libya, where will Ukraine strike Russia next?",
+      "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
+      "ts": 1795539945000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "ts": 1795539860000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -98,13 +126,6 @@
       "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
       "summary": "Israeli settler pogroms have continued in the occupied West Bank.",
       "ts": 1795535767000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Five women killed every hour globally by partner, relative last year: UN",
-      "summary": "Home remains the most dangerous place for a woman or girl, 'a pattern that has barely shifted in years', UN Women says.",
-      "ts": 1795535736000
     },
     {
       "source": "BBC World",
@@ -231,13 +252,6 @@
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "ts": 1795517931000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "ts": 1795517617000
     },
     {
       "source": "The Hacker News",
@@ -434,13 +448,6 @@
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
       "ts": 1795211230000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "ts": 1795208348000
     },
     {
       "source": "MIT Technology Review",
