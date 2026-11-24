@@ -1,0 +1,232 @@
+{
+  "generated": "2026-11-24T23:42:59Z",
+  "items": [
+    {
+      "id": "medium:3eaf6b107f25",
+      "kind": "article",
+      "title": "Fal.Con 2026: The Crowd gets ready for the Agentic Era",
+      "url": "https://andrecamillo.medium.com/fal-con-2026-the-crowd-gets-ready-for-the-agentic-era-3eaf6b107f25",
+      "ts": 1788515484000,
+      "summary": "The complete dossier of EVERYTHING announcedThere’s no better teacher than necessity — and this year, necessity showed up in the cyber security realm wearing an agent’s skin. Fal.Con 2026 landed in Las Vegas from August 31 to September 2,…",
+      "minutes": 25,
+      "thumb": "https://cdn-images-1.medium.com/max/1024/1*1kS9eUhPb46ZzG3zfC7XpQ.jpeg"
+    },
+    {
+      "id": "youtube:S8cgevadQ_A",
+      "kind": "video",
+      "title": "Reducing LLM hallucinations with datamodelling from actual reports - Thinkthreats project",
+      "url": "https://www.youtube.com/watch?v=S8cgevadQ_A",
+      "ts": 1781420419000,
+      "summary": "How do you stop Generative AI from hallucinating when analyzing cyber threats? In this video, I break down Thinkthreats, a project build on adversary intelligence atlas I built to solve a critical problem in security operations: ensuring…",
+      "thumb": "https://i.ytimg.com/vi/S8cgevadQ_A/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:B4uMPm-LBfU",
+      "kind": "video",
+      "title": "AI-enabling attackers and larger attack surface - more at the CrowdStrike Global Threat Report 2026",
+      "url": "https://www.youtube.com/watch?v=B4uMPm-LBfU",
+      "ts": 1772402419000,
+      "summary": "Crowdstrike released their GTR last week and the rise in AI-powered threat actors and activity is raising some red flags around. Download it here: https://www.crowdstrike.com/en-us/global-threat-report/ After you read it, tell me - what do…",
+      "thumb": "https://i.ytimg.com/vi/B4uMPm-LBfU/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:yOB28X9B1_E",
+      "kind": "video",
+      "title": "Fortinet + CrowdStrike Integration Explained: Zero Trust & SIEM Use Cases That Actually Work",
+      "url": "https://www.youtube.com/watch?v=yOB28X9B1_E",
+      "ts": 1761994912000,
+      "summary": "Guest John Aziz breaks down two critical integrations from the Fortinet-CrowdStrike partnership that security teams need to understand. While their joint solution whitepaper outlines four major use cases—AI-powered threat protection,…",
+      "thumb": "https://i.ytimg.com/vi/yOB28X9B1_E/hqdefault.jpg"
+    },
+    {
+      "id": "medium:9cbc6097077c",
+      "kind": "article",
+      "title": "CrowdStrike Fal.con 2025 and why cyber security will never be the same after Agentic AI",
+      "url": "https://andrecamillo.medium.com/crowdstrike-fal-con-2025-and-why-cyber-security-will-never-be-the-same-after-agentic-ai-9cbc6097077c",
+      "ts": 1759308283000,
+      "summary": "",
+      "minutes": 1
+    },
+    {
+      "id": "youtube:-F7ysO0qeMQ",
+      "kind": "video",
+      "title": "From Analyst to the future of SOC: Augusto Barros on Building Threat Detection Resilience",
+      "url": "https://www.youtube.com/watch?v=-F7ysO0qeMQ",
+      "ts": 1756555200000,
+      "summary": "Join me in a chat with Augusto Barros about this 20+ year cybersecurity journey—from early analyst roles to Gartner research, and now shaping the future of SOCs at Prophet Security. We break down AI’s role in modern SOCs, the reality vs…",
+      "thumb": "https://i.ytimg.com/vi/-F7ysO0qeMQ/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:KsKxcfhkI4Q",
+      "kind": "video",
+      "title": "SOCs will look something like this in the Future  #ai #cybersecurity #soc #mssp",
+      "url": "https://www.youtube.com/watch?v=KsKxcfhkI4Q",
+      "ts": 1756036836000,
+      "summary": "Industry won't stop evolving in the Security Operations Center front - and here's what's new in AI-Driven SOC Sources: https://www.crowdstrike.com/en-us/platform/charlotte-ai/…",
+      "thumb": "https://i.ytimg.com/vi/KsKxcfhkI4Q/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:_7oPHlFJflo",
+      "kind": "video",
+      "title": "New CrowdStrike Certification - Here's what you need to know and get ready to take on CCSE",
+      "url": "https://www.youtube.com/watch?v=_7oPHlFJflo",
+      "ts": 1755864058000,
+      "summary": "CrowdStrike Certified SIEM Engineer cert is out soon and here are the best study material and guides to it. https://assets.crowdstrike.com/is/content/crowdstrikeinc/ccse-certification-exam-guidepdf All Courses for SIEM Engineer…",
+      "thumb": "https://i.ytimg.com/vi/_7oPHlFJflo/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:ZLeE1SeoSS4",
+      "kind": "video",
+      "title": "2030+ MSSP: Building a Future-proof SOC in Australia & NZ",
+      "url": "https://www.youtube.com/watch?v=ZLeE1SeoSS4",
+      "ts": 1755259266000,
+      "summary": "I sat down to understand what's the future of MSSPs in Australia and New Zealand and its growth expectations according to analysts. Sources: https://www.expertmarketresearch.com.au/reports/australia-cybersecurity-market…",
+      "thumb": "https://i.ytimg.com/vi/ZLeE1SeoSS4/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:uGDXtjmvtnM",
+      "kind": "video",
+      "title": "Cybersecurity Market in Australia & New Zealand | 2025 and beyond",
+      "url": "https://www.youtube.com/watch?v=uGDXtjmvtnM",
+      "ts": 1754181142000,
+      "summary": "Is the cybersecurity market in Australia and New Zealand set for explosive growth? We dive into the latest 2025 data, revealing multi-billion dollar forecasts and the key trends you need to know. In this detailed analysis, we break down…",
+      "thumb": "https://i.ytimg.com/vi/uGDXtjmvtnM/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:RXpEoDZkYnU",
+      "kind": "video",
+      "title": "SharePoint Zero-Day 2025 | ToolShell Exploit Explained | 400+ Organizations Breached",
+      "url": "https://www.youtube.com/watch?v=RXpEoDZkYnU",
+      "ts": 1753485672000,
+      "summary": "In this video, we break down the 2025 SharePoint on-premises zero-day exploit, known as ToolShell, which led to one of the most widespread breaches in recent memory. Discovered in part by Eye Security and exploited in the wild before…",
+      "thumb": "https://i.ytimg.com/vi/RXpEoDZkYnU/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:dW7QwdlpsEQ",
+      "kind": "video",
+      "title": "ChatGPT Agent Information Security Considerations for users",
+      "url": "https://www.youtube.com/watch?v=dW7QwdlpsEQ",
+      "ts": 1753270235000,
+      "summary": "Let's break down the groundbreaking (and potentially risky) ability of ChatGPT Agent to take actions on the web. We'll explore the dangers of \"prompt injection\" – how malicious actors could manipulate the AI into sharing your private data…",
+      "thumb": "https://i.ytimg.com/vi/dW7QwdlpsEQ/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:wzQhZKVV0_g",
+      "kind": "video",
+      "title": "An update to the Browser War? Perplexity Comet and Chatgpt Agent announced #chatgpt #ai #data",
+      "url": "https://www.youtube.com/watch?v=wzQhZKVV0_g",
+      "ts": 1752998467000,
+      "summary": "https://comet.perplexity.ai/ https://openai.com/index/introducing-chatgpt-agent/ https://www.youtube.com/watch?v=xfEUM9ojfNc",
+      "thumb": "https://i.ytimg.com/vi/wzQhZKVV0_g/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:OoA447y_kPM",
+      "kind": "video",
+      "title": "Echo Leak vulnerability - and why protecting AI Agents is going to be massive",
+      "url": "https://www.youtube.com/watch?v=OoA447y_kPM",
+      "ts": 1751983242000,
+      "summary": "Read all about this here: Official research: https://www.aim.security/lp/aim-labs-echoleak-m365 https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html",
+      "thumb": "https://i.ytimg.com/vi/OoA447y_kPM/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:poQhECX2X0Q",
+      "kind": "video",
+      "title": "A methodology to drive real change in People",
+      "url": "https://www.youtube.com/watch?v=poQhECX2X0Q",
+      "ts": 1751724076000,
+      "summary": "",
+      "thumb": "https://i.ytimg.com/vi/poQhECX2X0Q/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:HOsKDu-7lps",
+      "kind": "video",
+      "title": "A look at Brazil’s Largest Financial Hack: Junior Developer Sells Access over a couple of beers",
+      "url": "https://www.youtube.com/watch?v=HOsKDu-7lps",
+      "ts": 1751674780000,
+      "summary": "Check out more details in my blog: https://andrecamillo.medium.com/a-look-at-brazils-largest-financial-hack-junior-developer-sells-access-for-900-over-a-couple-of-cb95df61771d And in official sources:…",
+      "thumb": "https://i.ytimg.com/vi/HOsKDu-7lps/hqdefault.jpg"
+    },
+    {
+      "id": "medium:cb95df61771d",
+      "kind": "article",
+      "title": "A look at Brazil’s Largest Financial Hack: Junior Developer Sells Access for $900 over a couple of…",
+      "url": "https://andrecamillo.medium.com/a-look-at-brazils-largest-financial-hack-junior-developer-sells-access-for-900-over-a-couple-of-cb95df61771d",
+      "ts": 1751670453000,
+      "summary": "",
+      "minutes": 1
+    },
+    {
+      "id": "youtube:9EZ3TXfAbhk",
+      "kind": "video",
+      "title": "A reflection on what powers your \"Security Agent AI\"",
+      "url": "https://www.youtube.com/watch?v=9EZ3TXfAbhk",
+      "ts": 1751382017000,
+      "summary": "Lessons from the bad guys...",
+      "thumb": "https://i.ytimg.com/vi/9EZ3TXfAbhk/hqdefault.jpg"
+    },
+    {
+      "id": "medium:a00f87d7018e",
+      "kind": "article",
+      "title": "Making real STRIDES toThreat Model a self developed application.",
+      "url": "https://andrecamillo.medium.com/making-real-strides-tothreat-model-a-self-developed-application-a00f87d7018e",
+      "ts": 1738998146000,
+      "summary": "",
+      "minutes": 1
+    },
+    {
+      "id": "medium:c0ae9bf8ee19",
+      "kind": "article",
+      "title": "CrowdStrike Certified Falcon Administrator — Certification tips",
+      "url": "https://andrecamillo.medium.com/crowdstrike-certified-falcon-administrator-certification-tips-c0ae9bf8ee19",
+      "ts": 1736103701000,
+      "summary": "",
+      "minutes": 1
+    },
+    {
+      "id": "medium:e39b2e3233bf",
+      "kind": "article",
+      "title": "Supporting CrowdStrike Falcon Platform like a Pro",
+      "url": "https://medium.com/cloudnsec/supporting-crowdstrike-falcon-platform-like-a-pro-e39b2e3233bf",
+      "ts": 1733623960000,
+      "summary": "A few tips FWIWIf you’re familiar with Modern Endpoint security tools — you understand the basics of what you need to do. But here I’ll provide the fundamentals you need to know in order to manage Falcon NGAV/EDR in your environment.Full…",
+      "minutes": 2,
+      "thumb": "https://cdn-images-1.medium.com/max/578/1*b0-9k7bWZGcBEMOj0pnf9w.png"
+    },
+    {
+      "id": "medium:efb4fa410fed",
+      "kind": "article",
+      "title": "CrowdStrike Portfolio Overview 2024 and how to skill up for it",
+      "url": "https://medium.com/cloudnsec/crowdstrike-portfolio-overview-2024-and-how-to-skill-up-for-it-efb4fa410fed",
+      "ts": 1732346295000,
+      "summary": "",
+      "minutes": 1
+    },
+    {
+      "id": "medium:7c2c995e1c27",
+      "kind": "article",
+      "title": "How Industries Evolve and where’s Information Security at the moment?",
+      "url": "https://andrecamillo.medium.com/how-industries-evolve-and-wheres-information-security-at-the-moment-7c2c995e1c27",
+      "ts": 1730513800000,
+      "summary": "",
+      "minutes": 1
+    },
+    {
+      "id": "medium:8db81455e1ac",
+      "kind": "article",
+      "title": "Operating Systems’ Types and common Archetypes",
+      "url": "https://infosecwriteups.com/operating-systems-types-and-common-archetypes-8db81455e1ac",
+      "ts": 1723354087000,
+      "summary": "",
+      "minutes": 1
+    },
+    {
+      "id": "medium:9a27a1aaf95f",
+      "kind": "article",
+      "title": "I left Microsoft — here are my takeaways from the whole experience… in GIFs!",
+      "url": "https://medium.com/cloudnsec/i-left-microsoft-here-are-my-takeaways-from-the-whole-experience-in-gifs-9a27a1aaf95f",
+      "ts": 1720724546000,
+      "summary": "",
+      "minutes": 1
+    }
+  ]
+}
