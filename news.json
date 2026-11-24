@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-24T15:39:53Z",
+  "generated": "2026-11-24T16:09:59Z",
   "items": [
+    {
+      "source": "Google AI",
+      "cat": "ai",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "ts": 1795536000000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
+      "summary": "Israeli settler pogroms have continued in the occupied West Bank.",
+      "ts": 1795535767000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Five women killed every hour globally by partner, relative last year: UN",
+      "summary": "Home remains the most dangerous place for a woman or girl, 'a pattern that has barely shifted in years', UN Women says.",
+      "ts": 1795535736000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Nvidia stock cools after Huang’s return-driven surge",
+      "summary": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
+      "ts": 1795535236000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -14,6 +42,13 @@
       "title": "US tech stocks slide as Jensen Huang return rally fades",
       "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
       "ts": 1795534496000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+      "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
+      "ts": 1795534010000
     },
     {
       "source": "Al Jazeera",
@@ -77,34 +112,6 @@
       "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
       "summary": "The Russian cargo ship Sparta II was towed back to home waters after a Ukrainian drone attack in the Gulf of Finland",
       "ts": 1795532178000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "The photos from Gaza resonating with the people of Sarajevo",
-      "summary": "From a photography exhibition to a weekly vigil reading out the names of killed children, solidarity grows in Sarajevo.",
-      "ts": 1795531802000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
-      "summary": "Court of Arbitration for Sport rules in Senegal's favour over the controversial final in January.",
-      "ts": 1795530956000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
-      "summary": "The Saudi-led coalition says building in financial district targeted, marking second time in a week.",
-      "ts": 1795530458000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
-      "summary": "Ukraine's involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
-      "ts": 1795529793000
     },
     {
       "source": "BleepingComputer",
