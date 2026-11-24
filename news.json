@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-24T11:39:50Z",
+  "generated": "2026-11-24T12:09:50Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks set to slip after blistering rally",
+      "summary": "Asian markets rise as investors react to news of Jensen Huang’s reinstatement as Nvidia chief",
+      "ts": 1795521268000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
+      "ts": 1795520752000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -30,11 +44,11 @@
       "ts": 1795519040000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks set to slip after blistering rally",
-      "summary": "Asian markets rise as investors react to news of Jensen Huang’s reinstatement as Nvidia chief",
-      "ts": 1795518265000
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "ts": 1795518657000
     },
     {
       "source": "BBC World",
@@ -56,13 +70,6 @@
       "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
       "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
       "ts": 1795517318000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "ts": 1795517307000
     },
     {
       "source": "Al Jazeera",
@@ -252,13 +259,6 @@
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "summary": "",
       "ts": 1795454437000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "ts": 1795453645000
     },
     {
       "source": "NVIDIA",
