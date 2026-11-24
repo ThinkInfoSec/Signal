@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-24T01:09:49Z",
+  "generated": "2026-11-24T01:39:49Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+      "summary": "Saudi national is also alleged to have photographed confidential documents",
+      "ts": 1795483902000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+      "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+      "ts": 1795483068000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli minister approves return of Flydubai flights",
+      "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
+      "ts": 1795482591000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+      "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
+      "ts": 1795482360000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
+      "summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
+      "ts": 1795481567000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -30,39 +65,11 @@
       "ts": 1795478536000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-      "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
-      "ts": 1795478400000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Estonia's advice to New Zealand on dealing with Russia",
       "summary": "\"The question is quite black and white,\" Estonia's Martin Roger told RNZ. \"There is one aggressor and then there's one victim.\"",
       "ts": 1795478069000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
-      "summary": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
-      "ts": 1795478067000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Drone attack on Colombia police base injures civilians, including infant",
-      "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
-      "ts": 1795477777000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-      "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
-      "ts": 1795476376000
     },
     {
       "source": "BBC World",
@@ -74,7 +81,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
       "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
       "ts": 1795473974000
     },
@@ -357,13 +364,6 @@
       "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
       "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
       "ts": 1795410022000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Grant Thornton warns AI audits could trigger ‘race to the bottom’",
-      "summary": "Accounting firm’s UK audit head says over-reliance on technology could threaten quality of company checks",
-      "ts": 1795410013000
     },
     {
       "source": "RNZ World",
