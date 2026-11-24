@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-24T14:09:50Z",
+  "generated": "2026-11-24T14:39:56Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks slide as Jensen Huang return rally fades",
+      "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
+      "ts": 1795530865000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
-      "title": "McDonald’s Japan data breach exposes customer location information",
+      "title": "McDonald's Japan data breach exposes customer location information",
       "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
       "ts": 1795529377000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "How Trump helped orchestrate Huang’s return to Nvidia",
+      "summary": "Also in today’s newsletter, Democrats widen probe into Trump Jr-linked companies",
+      "ts": 1795528802000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli air strike kills senior Hamas military official in Gaza",
+      "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
+      "ts": 1795528511000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
+      "summary": "The 15-year-old Sooryavanshi struck a staggering 28 sixes, the most ever in a senior men's innings.",
+      "ts": 1795528365000
     },
     {
       "source": "Al Jazeera",
@@ -28,13 +56,6 @@
       "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
       "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
       "ts": 1795527263000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks set to slide after blistering rally",
-      "summary": "Shares in Anthropic on track to open below IPO price for first time",
-      "ts": 1795527229000
     },
     {
       "source": "Al Jazeera",
@@ -77,20 +98,6 @@
       "title": "Heat deaths reach record high in UK in 2026",
       "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
       "ts": 1795525885000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
-      "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
-      "ts": 1795524989000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
-      "summary": "Group must be held accountable for 'targeting our partners and innocent civilians', says Foreign Secretary Ed Miliband.",
-      "ts": 1795524955000
     },
     {
       "source": "Financial Times",
@@ -259,13 +266,6 @@
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "ts": 1795468800000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
-      "summary": "Interim chief and senior management were unaware of the discussions over the weekend",
-      "ts": 1795467944000
     },
     {
       "source": "BleepingComputer",
