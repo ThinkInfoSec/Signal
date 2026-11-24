@@ -1,12 +1,61 @@
 {
-  "generated": "2026-11-24T13:09:53Z",
+  "generated": "2026-11-24T13:39:55Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "ts": 1795527263000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks set to slide after blistering rally",
+      "summary": "Shares in Anthropic on track to open below IPO price for first time",
+      "ts": 1795527229000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
+      "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
+      "ts": 1795524989000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UK sanctions Yemen’s Houthi group, four senior officials",
+      "summary": "Group must be held accountable for 'targeting our partners and innocent civilians', says Foreign Secretary Ed Miliband.",
+      "ts": 1795524955000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Jensen Huang’s return should not stop tighter US chip controls",
       "summary": "Nvidia was wrong to think Chinese competitors would remain inside the company’s ecosystem",
       "ts": 1795524855000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
+      "summary": "Ukraine's strike off Libya signals Kyiv's ability to challenge Russian influence beyond the front lines, analysts say.",
+      "ts": 1795524443000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Trump’s Nvidia intervention: What’s at stake?",
+      "summary": "Trump’s intervention to reinstate Nvidia CEO Jensen Huang has raised concerns over US government influence in business.",
+      "ts": 1795524296000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pakistani astronaut set to make history on Chinese space mission",
+      "summary": "Muhammad Zeeshan Ali is set to become the first foreign national astronaut to travel aboard a Chinese spacecraft.",
+      "ts": 1795524281000
     },
     {
       "source": "The Hacker News",
@@ -21,6 +70,13 @@
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
       "ts": 1795523405000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "China walks ‘thin line’ in push to prevent another Horn of Africa war",
+      "summary": "Beijing has escalated diplomatic efforts to ease tensions involving Egypt, Ethiopia, Eritrea and Djibouti.",
+      "ts": 1795522724000
     },
     {
       "source": "BBC World",
@@ -44,13 +100,6 @@
       "ts": 1795521714000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks set to slip after blistering rally",
-      "summary": "Asian markets rise as investors react to news of Jensen Huang’s reinstatement as Nvidia chief",
-      "ts": 1795521268000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Car bomb tears through Colombian city wounding more than 20",
@@ -70,20 +119,6 @@
       "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
       "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
       "ts": 1795519655000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
-      "summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
-      "ts": 1795519144000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Vietnam restaurant blast kills at least six",
-      "summary": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
-      "ts": 1795519040000
     },
     {
       "source": "BBC World",
@@ -107,39 +142,11 @@
       "ts": 1795517617000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
-      "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
-      "ts": 1795517318000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
-      "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
-      "ts": 1795517261000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
       "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens",
       "ts": 1795517089000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
-      "summary": "South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.",
-      "ts": 1795514035000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
-      "summary": "Russian attack on Zaporizhzhia destroyed a house and damaged a five-storey apartment building, Ukrainian officials said.",
-      "ts": 1795513886000
     },
     {
       "source": "The Hacker News",
@@ -343,13 +350,6 @@
       "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
       "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
       "ts": 1795440525000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-      "ts": 1795435343000
     },
     {
       "source": "Ars Technica",
