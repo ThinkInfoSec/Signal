@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-24T06:09:51Z",
+  "generated": "2026-11-24T06:39:50Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Tech stocks surge on Jensen Huang’s return",
+      "summary": "Asian markets follow Wall Street higher after Nvidia chief’s reinstatement",
+      "ts": 1795501834000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The Jensen put",
+      "summary": "Plus, Capex or die trying",
+      "ts": 1795501804000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out ",
+      "ts": 1795500177000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A serve",
+      "ts": 1795500165000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "German industrial giants launch trading house for rare earths",
       "summary": "Also in this newsletter: Europe’s underused playing card on AI",
       "ts": 1795500005000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
+      "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
+      "ts": 1795499801000
     },
     {
       "source": "BBC World",
@@ -65,13 +100,6 @@
       "ts": 1795494937000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Asian tech stocks surge after Jensen Huang’s return",
-      "summary": "Region’s markets follow Wall Street higher on Nvidia chief’s reinstatement",
-      "ts": 1795491985000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
@@ -84,13 +112,6 @@
       "title": "Excavator threatens sacred alpine lake in the Himalayas",
       "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
       "ts": 1795487727000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UN chief calls for world to agree on AI oversight within a year",
-      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
-      "ts": 1795487239000
     },
     {
       "source": "BBC World",
@@ -324,32 +345,11 @@
       "ts": 1795435200000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Is the solution to survey problems to make up the data?",
-      "summary": "Questions to which the answer is no",
-      "ts": 1795431536000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
       "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0",
       "ts": 1795425116000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access t",
-      "ts": 1795424648000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banki",
-      "ts": 1795422255000
     },
     {
       "source": "OpenAI",
