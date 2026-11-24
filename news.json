@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-24T11:09:51Z",
+  "generated": "2026-11-24T11:39:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
+      "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
+      "ts": 1795519807000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+      "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
+      "ts": 1795519655000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+      "summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
+      "ts": 1795519144000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Vietnam restaurant blast kills at least six",
+      "summary": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
+      "ts": 1795519040000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -70,34 +98,6 @@
       "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
       "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yest",
       "ts": 1795509260000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US army says detonation of lead explosives in Iowa will proceed",
-      "summary": "Public outcry led to a legal battle when details of the plans to conduct two controlled detonations surfaced.",
-      "ts": 1795508648000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-      "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
-      "ts": 1795508501000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
-      "summary": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
-      "ts": 1795508246000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
-      "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
-      "ts": 1795506918000
     },
     {
       "source": "BBC World",
