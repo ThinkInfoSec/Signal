@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-24T00:39:50Z",
+  "generated": "2026-11-24T01:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What could Democrats do with their expanding congressional majority?",
+      "summary": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
+      "ts": 1795480762000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Turns out it wasn’t a lion afterall",
+      "summary": "The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.",
+      "ts": 1795480558000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -56,20 +70,6 @@
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
       "ts": 1795475768000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
-      "summary": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
-      "ts": 1795475163000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-      "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
-      "ts": 1795474487000
     },
     {
       "source": "Financial Times",
@@ -378,13 +378,6 @@
       "title": "How to build and maintain an agentic evaluation",
       "summary": "",
       "ts": 1795392000000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "A wave of funerals: The NZ student who went home to a wiped-out village",
-      "summary": "Canterbury student Sunil Tamang has seen first-hand the devastation of Nepal's earthquakes and floods - now he is working on ways to predict the next disaster.",
-      "ts": 1795364081000
     },
     {
       "source": "OpenAI",
