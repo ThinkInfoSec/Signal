@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-24T01:39:49Z",
+  "generated": "2026-11-24T02:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+      "summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
+      "ts": 1795483932000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -56,13 +63,6 @@
       "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
       "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
       "ts": 1795478655000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Borno school enrolment nearly doubles after years of conflict",
-      "summary": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
-      "ts": 1795478536000
     },
     {
       "source": "RNZ World",
