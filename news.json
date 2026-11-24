@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T10:09:50Z",
+  "generated": "2026-11-24T10:39:51Z",
   "items": [
     {
       "source": "Financial Times",
@@ -18,8 +18,8 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
-      "summary": "Attack on city in southeastern Ukraine destroyed a house and damaged a five-storey apartment building, officials said.",
+      "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+      "summary": "Russian attack on Zaporizhzhia destroyed a house and damaged a five-storey apartment building, Ukrainian officials said.",
       "ts": 1795513886000
     },
     {
@@ -35,6 +35,13 @@
       "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
       "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
       "ts": 1795509341000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+      "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yest",
+      "ts": 1795509260000
     },
     {
       "source": "Al Jazeera",
@@ -343,13 +350,6 @@
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
       "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
       "ts": 1795435200000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0",
-      "ts": 1795425116000
     },
     {
       "source": "OpenAI",
