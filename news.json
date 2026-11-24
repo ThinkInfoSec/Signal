@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-24T02:39:48Z",
+  "generated": "2026-11-24T03:09:52Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Asian tech stocks surge after Jensen Huang’s return",
+      "summary": "Region’s markets follow Wall Street higher on Nvidia chief’s reinstatement",
+      "ts": 1795488025000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Excavator threatens sacred alpine lake in the Himalayas",
+      "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
+      "ts": 1795487727000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UN chief calls for world to agree on AI oversight within a year",
+      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+      "ts": 1795487239000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -23,9 +44,16 @@
       "ts": 1795483068000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "ts": 1795482714000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Israeli minister approves return of Flydubai flights",
+      "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
       "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
       "ts": 1795482591000
     },
@@ -51,18 +79,11 @@
       "ts": 1795480762000
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Turns out it wasn’t a lion afterall",
-      "summary": "The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.",
-      "ts": 1795480558000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
-      "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
-      "ts": 1795478655000
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "ts": 1795479805000
     },
     {
       "source": "RNZ World",
@@ -93,6 +114,13 @@
       "ts": 1795469444000
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "ts": 1795469087000
+    },
+    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -105,6 +133,13 @@
       "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
       "summary": "Interim chief and senior management were unaware of the discussions over the weekend",
       "ts": 1795467944000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+      "ts": 1795467814000
     },
     {
       "source": "BleepingComputer",
@@ -140,13 +175,6 @@
       "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
       "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
       "ts": 1795459120000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "ts": 1795457060000
     },
     {
       "source": "The Hacker News",
@@ -219,13 +247,6 @@
       "ts": 1795448778000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "ts": 1795448483000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
@@ -247,13 +268,6 @@
       "ts": 1795442403000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "India pledges $1.6bn to Nepal in reset of ties",
-      "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-      "ts": 1795441170000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
@@ -266,13 +280,6 @@
       "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
       "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Bi",
       "ts": 1795440140000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-      "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
-      "ts": 1795437820000
     },
     {
       "source": "The Hacker News",
@@ -357,20 +364,6 @@
       "title": "From rotation to contagion",
       "summary": "Plus, chips are not cheap",
       "ts": 1795415402000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
-      "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
-      "ts": 1795410022000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "New Zealand would have supported collapsed climate deal, minister says",
-      "summary": "The climate change minister says New Zealand stood ready to support the deal that collapsed after the EU criticised.",
-      "ts": 1795406382000
     },
     {
       "source": "Hugging Face",
