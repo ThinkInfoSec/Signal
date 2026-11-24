@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T04:39:52Z",
+  "generated": "2026-11-24T05:09:48Z",
   "items": [
     {
       "source": "BBC World",
@@ -7,6 +7,13 @@
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
       "ts": 1795494991000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "WHO chief visits Cuba as healthcare system deteriorates",
+      "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
+      "ts": 1795494937000
     },
     {
       "source": "Financial Times",
@@ -77,13 +84,6 @@
       "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
       "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
       "ts": 1795482360000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US adds Megaspeed to trade blacklist after Nvidia spy scandal",
-      "summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
-      "ts": 1795481567000
     },
     {
       "source": "BBC World",
