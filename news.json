@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-24T05:39:54Z",
+  "generated": "2026-11-24T06:09:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "German industrial giants launch trading house for rare earths",
+      "summary": "Also in this newsletter: Europe’s underused playing card on AI",
+      "ts": 1795500005000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "ts": 1795498387000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -93,13 +107,6 @@
       "ts": 1795483902000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "ts": 1795479805000
-    },
-    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "Estonia's advice to New Zealand on dealing with Russia",
@@ -149,13 +156,6 @@
       "ts": 1795467944000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-      "ts": 1795467814000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
@@ -189,6 +189,13 @@
       "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
       "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
       "ts": 1795459120000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "ts": 1795457060000
     },
     {
       "source": "The Hacker News",
@@ -357,13 +364,6 @@
       "title": "Richpanel helps companies automate 50% of support in 30 days",
       "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
       "ts": 1795420800000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "South Korean minister says he is too old to tackle AI exam cheating",
-      "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
-      "ts": 1795417804000
     },
     {
       "source": "Hugging Face",
