@@ -1,6 +1,69 @@
 {
-  "generated": "2026-11-24T16:09:59Z",
+  "generated": "2026-11-24T16:39:56Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "ts": 1795538224000
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "ts": 1795538053000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "ts": 1795537819000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic falls below IPO price as tech rally fades",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "ts": 1795537576000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "ts": 1795537364000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jerusalem Daily: Clash in Israeli parliament",
+      "summary": "An alleged altercation between Arab Israeli lawmaker Ahmad Tibi and comedian Guy Hochman sparks controversy.",
+      "ts": 1795537091000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+      "ts": 1795536923000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Qatar urges restraint and dialogue amid US-Iran tensions",
+      "summary": "Qatar urges the US and Iran to show restraint and pursue dialogue amid rising tensions, says FM spokesman.",
+      "ts": 1795536714000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
+      "summary": "Follow updates with build-up and team news coverage from our live text commentary stream as Martin Odegaard headlines.",
+      "ts": 1795536083000
+    },
     {
       "source": "Google AI",
       "cat": "ai",
@@ -37,13 +100,6 @@
       "ts": 1795534553000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks slide as Jensen Huang return rally fades",
-      "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
-      "ts": 1795534496000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "China’s probes Shanghai party chief Chen Jining over corruption",
@@ -72,25 +128,11 @@
       "ts": 1795533316000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How the Iran war is reshaping the US military presence in the Middle East",
-      "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
-      "ts": 1795533029000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
       "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
       "ts": 1795533010000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How Brazil’s mosquitoes are helping to fight dengue",
-      "summary": "Scientists are increasingly using novel ways to re-engineer mosquitoes and use them to battle the diseases they spread.",
-      "ts": 1795532940000
     },
     {
       "source": "BleepingComputer",
@@ -105,13 +147,6 @@
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
       "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
       "ts": 1795532210000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
-      "summary": "The Russian cargo ship Sparta II was towed back to home waters after a Ukrainian drone attack in the Gulf of Finland",
-      "ts": 1795532178000
     },
     {
       "source": "BleepingComputer",
@@ -247,13 +282,6 @@
       "ts": 1795500005000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "ts": 1795498387000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "What are you thinking? It depends who’s asking",
@@ -308,27 +336,6 @@
       "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
       "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
       "ts": 1795467291000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-      "ts": 1795464020000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-      "ts": 1795462940000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-      "ts": 1795459120000
     },
     {
       "source": "MIT Technology Review",
@@ -588,13 +595,6 @@
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malici",
       "ts": 1794970324000
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "summary": "",
-      "ts": 1794960000000
     },
     {
       "source": "Google AI",
