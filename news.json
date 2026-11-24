@@ -1,12 +1,47 @@
 {
-  "generated": "2026-11-24T14:39:56Z",
+  "generated": "2026-11-24T15:09:52Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
+      "ts": 1795532471000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "ts": 1795532210000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "US tech stocks slide as Jensen Huang return rally fades",
       "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
-      "ts": 1795530865000
+      "ts": 1795531953000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+      "summary": "Court of Arbitration for Sport rules in Senegal's favour over in the controversial final in January.",
+      "ts": 1795530956000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
+      "summary": "The Saudi-led coalition says building in financial district targeted, marking second time in a week.",
+      "ts": 1795530458000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+      "summary": "Ukraine's involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
+      "ts": 1795529793000
     },
     {
       "source": "BleepingComputer",
@@ -65,20 +100,6 @@
       "ts": 1795527144000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
-      "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.",
-      "ts": 1795527000000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Senegalese families wait for news of missing migrant boat",
-      "summary": "Senegalese families wait for news of missing migrant boat",
-      "ts": 1795526930000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -91,13 +112,6 @@
       "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
       "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to tr",
       "ts": 1795526901000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Heat deaths reach record high in UK in 2026",
-      "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
-      "ts": 1795525885000
     },
     {
       "source": "Financial Times",
@@ -345,13 +359,6 @@
       "ts": 1795448778000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
-      "ts": 1795446010000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
@@ -455,13 +462,6 @@
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "summary": "",
       "ts": 1795132800000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "ts": 1795119568000
     },
     {
       "source": "NVIDIA",
