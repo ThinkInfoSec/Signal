@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T23:39:52Z",
+  "generated": "2026-11-24T00:09:49Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Estonia's advice to New Zealand on dealing with Russia",
+      "summary": "\"The question is quite black and white,\" Estonia's Martin Roger told RNZ. \"There is one aggressor and then there's one victim.\"",
+      "ts": 1795478069000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+      "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
+      "ts": 1795476376000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -21,13 +35,6 @@
       "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
       "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
       "ts": 1795474487000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
-      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
-      "ts": 1795473974000
     },
     {
       "source": "Ars Technica",
@@ -98,13 +105,6 @@
       "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
       "summary": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
       "ts": 1795466516000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
-      "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
-      "ts": 1795465600000
     },
     {
       "source": "BleepingComputer",
@@ -359,6 +359,13 @@
       "ts": 1795410013000
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The problem with the circular AI economy",
+      "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
+      "ts": 1795410013000
+    },
+    {
       "source": "RNZ World",
       "cat": "geo",
       "title": "New Zealand would have supported collapsed climate deal, minister says",
@@ -371,13 +378,6 @@
       "title": "How to build and maintain an agentic evaluation",
       "summary": "",
       "ts": 1795392000000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "'He's a killer': Christopher Luxon criticises Donald Trump's Vladimir Putin embrace",
-      "summary": "The US president met with Putin at the APEC summit in China last week - and had a friendly interaction, calling him \"my friend\".",
-      "ts": 1795376884000
     },
     {
       "source": "RNZ World",
