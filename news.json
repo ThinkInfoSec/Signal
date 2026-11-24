@@ -1,12 +1,40 @@
 {
-  "generated": "2026-11-24T20:09:52Z",
+  "generated": "2026-11-24T20:39:59Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "What's going on with the Riemann hypothesis?",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "ts": 1795552493000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "ts": 1795551680000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+      "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
+      "ts": 1795551509000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic falls below IPO price as tech rally fades",
       "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
       "ts": 1795550871000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Turkish military helicopter crash kills five in western Turkiye",
+      "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
+      "ts": 1795549941000
     },
     {
       "source": "Al Jazeera",
@@ -91,13 +119,6 @@
       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
       "ts": 1795543666000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Colombia at a Crossroads: Searching for peace amid conflict",
-      "summary": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
-      "ts": 1795543200000
     },
     {
       "source": "BleepingComputer",
@@ -210,13 +231,6 @@
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
       "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
       "ts": 1795532210000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-      "ts": 1795529377000
     },
     {
       "source": "Financial Times",
@@ -359,13 +373,6 @@
       "ts": 1795478069000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang",
-      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
-      "ts": 1795473974000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
@@ -462,13 +469,6 @@
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key",
       "ts": 1795221399000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "summary": "Google search is making it even easier to access AI tools on the search page.",
-      "ts": 1795211909000
     },
     {
       "source": "MIT Technology Review",
