@@ -1,19 +1,40 @@
 {
-  "generated": "2026-11-24T21:09:49Z",
+  "generated": "2026-11-24T21:39:55Z",
   "items": [
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
-      "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
-      "ts": 1795554286000
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+      "ts": 1795556250000
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
       "summary": "The verdict follows a months-long trial in New York.",
-      "ts": 1795553961000
+      "ts": 1795555954000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "ts": 1795555182000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic closes below IPO price as tech rally fades",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "ts": 1795554697000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+      "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+      "ts": 1795554286000
     },
     {
       "source": "Al Jazeera",
@@ -65,13 +86,6 @@
       "ts": 1795551499000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic falls below IPO price as tech rally fades",
-      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-      "ts": 1795550871000
-    },
-    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Turkish military helicopter crash kills five in western Turkiye",
@@ -105,13 +119,6 @@
       "title": "Turnitin discloses cyberattack affecting customer-facing systems",
       "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
       "ts": 1795546792000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "ts": 1795546559000
     },
     {
       "source": "Ars Technica",
@@ -226,13 +233,6 @@
       "ts": 1795533010000
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
-      "ts": 1795532471000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
@@ -259,6 +259,13 @@
       "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
       "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to tr",
       "ts": 1795526901000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "ts": 1795525200000
     },
     {
       "source": "Financial Times",
@@ -476,13 +483,6 @@
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which",
       "ts": 1795198515000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "Combatting adversarial distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "ts": 1795168800000
     },
     {
       "source": "Hugging Face",
