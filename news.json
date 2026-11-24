@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-24T19:41:16Z",
+  "generated": "2026-11-24T20:09:52Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic falls below IPO price as tech rally fades",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "ts": 1795550871000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+      "ts": 1795548164000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
+      "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
+      "ts": 1795547990000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
+      "summary": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
+      "ts": 1795547725000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -72,13 +100,6 @@
       "ts": 1795543200000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic falls below IPO price as tech rally fades",
-      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-      "ts": 1795542734000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Radware discloses breach exposing customer cloud access keys",
@@ -93,32 +114,11 @@
       "ts": 1795542464000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Should freedom of movement be a right or a privilege?",
-      "summary": "Is freedom of movement a right or a privilege?",
-      "ts": 1795542300000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
-      "summary": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
-      "ts": 1795541958000
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
       "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
       "ts": 1795541674000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Five tonnes of explosives set to blow up in Iowa",
-      "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
-      "ts": 1795541621000
     },
     {
       "source": "The Hacker News",
