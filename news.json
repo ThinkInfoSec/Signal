@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-24T16:39:56Z",
+  "generated": "2026-11-24T17:09:54Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "How Senegal got their AFCON trophy back",
+      "summary": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
+      "ts": 1795538482000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Anthropic falls below IPO price as tech rally fades",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "ts": 1795538454000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -16,18 +30,25 @@
       "ts": 1795538053000
     },
     {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
+      "summary": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
+      "ts": 1795537983000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "African rivals fret over Morocco’s growing football dominance",
+      "summary": "As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?",
+      "ts": 1795537908000
+    },
+    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
       "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
       "ts": 1795537819000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic falls below IPO price as tech rally fades",
-      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-      "ts": 1795537576000
     },
     {
       "source": "BleepingComputer",
@@ -86,32 +107,11 @@
       "ts": 1795535736000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Nvidia stock cools after Huang’s return-driven surge",
-      "summary": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
-      "ts": 1795535236000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
       "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
       "ts": 1795534553000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "China’s probes Shanghai party chief Chen Jining over corruption",
-      "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
-      "ts": 1795534010000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "UK police arrest two after break-in at Prince William’s country residence",
-      "summary": "The arrests were made at a property on ⁠⁠⁠⁠the royal family's Sandringham estate in Norfolk, eastern England.",
-      "ts": 1795533587000
     },
     {
       "source": "BBC World",
