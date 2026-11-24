@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-24T05:09:48Z",
+  "generated": "2026-11-24T05:39:54Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "What are you thinking? It depends who’s asking",
+      "summary": "We may answer questions differently if AI is conducting the interview",
+      "ts": 1795496425000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+      "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
+      "ts": 1795496353000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+      "summary": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+      "ts": 1795495926000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Car bomb strikes governor’s office in Meta, Colombia",
+      "summary": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
+      "ts": 1795495771000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "India’s best known bottled water under scrutiny",
+      "summary": "India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.",
+      "ts": 1795495475000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -51,39 +86,11 @@
       "ts": 1795486559000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-      "summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
-      "ts": 1795483932000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
       "summary": "Saudi national is also alleged to have photographed confidential documents",
       "ts": 1795483902000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
-      "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
-      "ts": 1795483068000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
-      "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
-      "ts": 1795482591000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
-      "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
-      "ts": 1795482360000
     },
     {
       "source": "BBC World",
@@ -357,13 +364,6 @@
       "title": "South Korean minister says he is too old to tackle AI exam cheating",
       "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
       "ts": 1795417804000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "From rotation to contagion",
-      "summary": "Plus, chips are not cheap",
-      "ts": 1795415402000
     },
     {
       "source": "Hugging Face",
