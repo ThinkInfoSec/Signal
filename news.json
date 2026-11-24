@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-24T04:09:51Z",
+  "generated": "2026-11-24T04:39:52Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "ts": 1795494991000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -56,13 +63,6 @@
       "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
       "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
       "ts": 1795483068000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "ts": 1795482714000
     },
     {
       "source": "Al Jazeera",
