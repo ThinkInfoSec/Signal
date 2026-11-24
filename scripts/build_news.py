@@ -124,8 +124,15 @@ def fetch(url: str) -> bytes:
     raise last_error
 
 
+def parse_xml(raw: bytes) -> ET.Element:
+    """Third-party feed: refuse DTDs so entity-expansion payloads never reach the parser."""
+    if b"<!DOCTYPE" in raw or b"<!ENTITY" in raw:
+        raise ValueError("feed declares a DTD; refusing to parse")
+    return ET.fromstring(raw)
+
+
 def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:
-    root = ET.fromstring(raw)
+    root = parse_xml(raw)
     nodes = [node for node in root.iter() if local_name(node.tag) in ("item", "entry")]
     kept: list[dict] = []
     for node in nodes:
