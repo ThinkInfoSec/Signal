@@ -131,6 +131,22 @@ def parse_xml(raw: bytes) -> ET.Element:
     return ET.fromstring(raw)
 
 
+def item_link(node: ET.Element) -> str:
+    """Return an RSS <link> text or the Atom rel=alternate href, if it is https."""
+    for child in node:
+        if local_name(child.tag) != "link":
+            continue
+        href = (child.get("href") or "").strip()
+        if href:
+            if child.get("rel", "alternate") == "alternate" and href.startswith("https://"):
+                return href
+            continue
+        text = "".join(child.itertext()).strip()
+        if text.startswith("https://"):
+            return text
+    return ""
+
+
 def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:
     root = parse_xml(raw)
     nodes = [node for node in root.iter() if local_name(node.tag) in ("item", "entry")]
@@ -152,15 +168,17 @@ def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:
         )
         if not title or ts is None or ts < now_ms - MAX_AGE_MS:
             continue
-        kept.append(
-            {
-                "source": feed["name"],
-                "cat": feed["cat"],
-                "title": title,
-                "summary": summary,
-                "ts": ts,
-            }
-        )
+        item = {
+            "source": feed["name"],
+            "cat": feed["cat"],
+            "title": title,
+            "summary": summary,
+            "ts": ts,
+        }
+        link = item_link(node)
+        if link:
+            item["link"] = link
+        kept.append(item)
     return kept
 
 
