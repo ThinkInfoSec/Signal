@@ -1,19 +1,61 @@
 {
-  "generated": "2026-11-24T17:39:56Z",
+  "generated": "2026-11-24T18:09:52Z",
   "items": [
     {
-      "source": "Ars Technica",
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "ts": 1795543666000
+    },
+    {
+      "source": "Financial Times",
       "cat": "ai",
-      "title": "Tidal will ban fully AI-generated music on December 9",
-      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-      "ts": 1795541674000
+      "title": "Anthropic falls below IPO price as tech rally fades",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "ts": 1795542734000
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+      "ts": 1795542545000
     },
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "COP31 format needs re-think, former NZ climate ambassadors say",
       "summary": "COP31 ended in Antalya, Türkiye, early on Monday (NZT) after more than two weeks of fraught discussion between countries that were unable to produce a 'cover decision'.",
-      "ts": 1795540810000
+      "ts": 1795542464000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
+      "summary": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
+      "ts": 1795541958000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "ts": 1795541674000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Five tonnes of explosives set to blow up in Iowa",
+      "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
+      "ts": 1795541621000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+      "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
+      "ts": 1795541157000
     },
     {
       "source": "Al Jazeera",
@@ -30,25 +72,25 @@
       "ts": 1795539860000
     },
     {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) a",
+      "ts": 1795539247000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "ts": 1795538947000
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "How Senegal got their AFCON trophy back",
       "summary": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
       "ts": 1795538482000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Anthropic falls below IPO price as tech rally fades",
-      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-      "ts": 1795538454000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "ts": 1795538224000
     },
     {
       "source": "Hugging Face",
@@ -100,32 +142,11 @@
       "ts": 1795536923000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Qatar urges restraint and dialogue amid US-Iran tensions",
-      "summary": "Qatar urges the US and Iran to show restraint and pursue dialogue amid rising tensions, says FM spokesman.",
-      "ts": 1795536714000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
-      "summary": "Follow updates with build-up and team news coverage from our live text commentary stream as Martin Odegaard headlines.",
-      "ts": 1795536083000
-    },
-    {
       "source": "Google AI",
       "cat": "ai",
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
       "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
       "ts": 1795536000000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
-      "summary": "Israeli settler pogroms have continued in the occupied West Bank.",
-      "ts": 1795535767000
     },
     {
       "source": "BBC World",
@@ -282,13 +303,6 @@
       "ts": 1795501804000
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out ",
-      "ts": 1795500177000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "German industrial giants launch trading house for rare earths",
@@ -331,25 +345,11 @@
       "ts": 1795469444000
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-      "ts": 1795469087000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "ts": 1795468800000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-      "ts": 1795467291000
     },
     {
       "source": "MIT Technology Review",
