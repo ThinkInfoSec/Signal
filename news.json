@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-24T07:39:51Z",
+  "generated": "2026-11-24T08:09:50Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+      "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
+      "ts": 1795506764000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
+      "summary": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
+      "ts": 1795505767000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+      "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
+      "ts": 1795505702000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
@@ -93,27 +114,6 @@
       "ts": 1795496425000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
-      "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
-      "ts": 1795496353000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
-      "summary": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
-      "ts": 1795495926000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Car bomb strikes governor’s office in Meta, Colombia",
-      "summary": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
-      "ts": 1795495771000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -144,7 +144,7 @@
     {
       "source": "Financial Times",
       "cat": "ai",
-      "title": "Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang",
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
       "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
       "ts": 1795473974000
     },
