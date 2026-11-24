@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-24T03:39:50Z",
+  "generated": "2026-11-24T04:09:51Z",
   "items": [
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Asian tech stocks surge after Jensen Huang’s return",
+      "summary": "Region’s markets follow Wall Street higher on Nvidia chief’s reinstatement",
+      "ts": 1795491985000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
       "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
       "ts": 1795490455000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Asian tech stocks surge after Jensen Huang’s return",
-      "summary": "Region’s markets follow Wall Street higher on Nvidia chief’s reinstatement",
-      "ts": 1795488025000
     },
     {
       "source": "Al Jazeera",
@@ -28,6 +28,13 @@
       "title": "UN chief calls for world to agree on AI oversight within a year",
       "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
       "ts": 1795487239000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "ts": 1795486559000
     },
     {
       "source": "Al Jazeera",
@@ -67,7 +74,7 @@
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+      "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
       "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
       "ts": 1795482360000
     },
@@ -189,13 +196,6 @@
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentienc",
       "ts": 1795455368000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "What failure of COP31 reveals about a divided world",
-      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "ts": 1795454665000
     },
     {
       "source": "Hugging Face",
