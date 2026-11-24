@@ -1,12 +1,54 @@
 {
-  "generated": "2026-11-24T10:39:51Z",
+  "generated": "2026-11-24T11:09:51Z",
   "items": [
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "US tech stocks set to slip after blistering rally",
       "summary": "Asian markets rise as investors react to news of Jensen Huang’s reinstatement as Nvidia chief",
-      "ts": 1795514608000
+      "ts": 1795518265000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "ts": 1795517931000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "ts": 1795517617000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+      "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+      "ts": 1795517318000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "ts": 1795517307000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+      "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
+      "ts": 1795517261000
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens",
+      "ts": 1795517089000
     },
     {
       "source": "Al Jazeera",
@@ -21,20 +63,6 @@
       "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
       "summary": "Russian attack on Zaporizhzhia destroyed a house and damaged a five-storey apartment building, Ukrainian officials said.",
       "ts": 1795513886000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "ts": 1795513374000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "ts": 1795509341000
     },
     {
       "source": "The Hacker News",
@@ -70,20 +98,6 @@
       "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
       "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
       "ts": 1795506918000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-      "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
-      "ts": 1795506764000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
-      "summary": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
-      "ts": 1795505767000
     },
     {
       "source": "BBC World",
@@ -133,13 +147,6 @@
       "title": "What are you thinking? It depends who’s asking",
       "summary": "We may answer questions differently if AI is conducting the interview",
       "ts": 1795496425000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "ts": 1795486559000
     },
     {
       "source": "Financial Times",
@@ -329,13 +336,6 @@
       "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
       "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting tech",
       "ts": 1795437664000
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API a",
-      "ts": 1795436889000
     },
     {
       "source": "BleepingComputer",
