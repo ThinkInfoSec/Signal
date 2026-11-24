@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-24T12:09:50Z",
+  "generated": "2026-11-24T12:39:51Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "ts": 1795523405000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -12,7 +19,7 @@
       "source": "BBC World",
       "cat": "geo",
       "title": "Car bomb tears through Colombian city wounding more than 20",
-      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
+      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
       "ts": 1795520752000
     },
     {
@@ -511,13 +518,6 @@
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "summary": "",
       "ts": 1795031696000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-      "ts": 1795029573000
     },
     {
       "source": "Hugging Face",
