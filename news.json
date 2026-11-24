@@ -1,19 +1,40 @@
 {
-  "generated": "2026-11-24T22:09:57Z",
+  "generated": "2026-11-24T22:39:54Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "ts": 1795559063000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
+      "ts": 1795557686000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+      "ts": 1795556742000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+      "ts": 1795556614000
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Rackspace shuts down Spot cloud platform after security breach",
       "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
       "ts": 1795556250000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "ts": 1795555954000
     },
     {
       "source": "BBC World",
@@ -84,27 +105,6 @@
       "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
       "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
       "ts": 1795551509000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
-      "summary": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
-      "ts": 1795551499000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Turkish military helicopter crash kills five in western Turkiye",
-      "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
-      "ts": 1795549941000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-      "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
-      "ts": 1795548164000
     },
     {
       "source": "BBC World",
