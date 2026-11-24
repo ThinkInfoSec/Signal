@@ -1,12 +1,26 @@
 {
-  "generated": "2026-11-24T18:09:52Z",
+  "generated": "2026-11-24T18:39:52Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Senior Hamas security official killed in Israeli drone strikes",
+      "summary": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
+      "ts": 1795544400000
+    },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
       "ts": 1795543666000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Colombia at a Crossroads: Searching for peace amid conflict",
+      "summary": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
+      "ts": 1795543200000
     },
     {
       "source": "Financial Times",
@@ -28,6 +42,13 @@
       "title": "COP31 format needs re-think, former NZ climate ambassadors say",
       "summary": "COP31 ended in Antalya, Türkiye, early on Monday (NZT) after more than two weeks of fraught discussion between countries that were unable to produce a 'cover decision'.",
       "ts": 1795542464000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Should freedom of movement be a right or a privilege?",
+      "summary": "Is freedom of movement a right or a privilege?",
+      "ts": 1795542300000
     },
     {
       "source": "Al Jazeera",
@@ -100,20 +121,6 @@
       "ts": 1795538053000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
-      "summary": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
-      "ts": 1795537983000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "African rivals fret over Morocco’s growing football dominance",
-      "summary": "As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?",
-      "ts": 1795537908000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
@@ -126,13 +133,6 @@
       "title": "European Commission confirms data theft in EU Academy breach",
       "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
       "ts": 1795537364000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Jerusalem Daily: Clash in Israeli parliament",
-      "summary": "An alleged altercation between Arab Israeli lawmaker Ahmad Tibi and comedian Guy Hochman sparks controversy.",
-      "ts": 1795537091000
     },
     {
       "source": "BleepingComputer",
@@ -322,6 +322,13 @@
       "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
       "summary": "Saudi national is also alleged to have photographed confidential documents",
       "ts": 1795483902000
+    },
+    {
+      "source": "OpenAI",
+      "cat": "ai",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "ts": 1795478400000
     },
     {
       "source": "RNZ World",
@@ -525,13 +532,6 @@
       "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
       "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for",
       "ts": 1795096812000
-    },
-    {
-      "source": "OpenAI",
-      "cat": "ai",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "ts": 1795075200000
     },
     {
       "source": "Google DeepMind",
