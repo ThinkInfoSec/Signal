@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-24T07:09:51Z",
+  "generated": "2026-11-24T07:39:51Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "ts": 1795505187000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Member states must not betray the ICC",
+      "summary": "Succumbing to US pressure to change the Rome Statute would be devastating for international justice.",
+      "ts": 1795504398000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+      "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
+      "ts": 1795503772000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why Eisenkot is negotiating with Netanyahu",
+      "summary": "Talks with different political powers give Yashar leverage. But they also give Likud renewed political relevance.",
+      "ts": 1795503760000
+    },
     {
       "source": "Financial Times",
       "cat": "ai",
@@ -86,32 +114,11 @@
       "ts": 1795495771000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India’s best known bottled water under scrutiny",
-      "summary": "India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.",
-      "ts": 1795495475000
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
       "ts": 1795494991000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "WHO chief visits Cuba as healthcare system deteriorates",
-      "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
-      "ts": 1795494937000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
-      "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
-      "ts": 1795490455000
     },
     {
       "source": "BBC World",
@@ -133,13 +140,6 @@
       "title": "Estonia's advice to New Zealand on dealing with Russia",
       "summary": "\"The question is quite black and white,\" Estonia's Martin Roger told RNZ. \"There is one aggressor and then there's one victim.\"",
       "ts": 1795478069000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "ts": 1795475768000
     },
     {
       "source": "Financial Times",
