@@ -1,6 +1,41 @@
 {
-  "generated": "2026-11-24T18:39:52Z",
+  "generated": "2026-11-24T19:09:53Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "ts": 1795546792000
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "ts": 1795546559000
+    },
+    {
+      "source": "Ars Technica",
+      "cat": "ai",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "ts": 1795546077000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+      "summary": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
+      "ts": 1795546025000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Is Libya a new front in the Ukraine war?",
+      "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
+      "ts": 1795545529000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -79,20 +114,6 @@
       "ts": 1795541157000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "After Libya, where will Ukraine strike Russia next?",
-      "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
-      "ts": 1795539945000
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-      "ts": 1795539860000
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
@@ -105,13 +126,6 @@
       "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
       "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
       "ts": 1795538947000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How Senegal got their AFCON trophy back",
-      "summary": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
-      "ts": 1795538482000
     },
     {
       "source": "Hugging Face",
@@ -203,13 +217,6 @@
       "title": "How Trump helped orchestrate Huang’s return to Nvidia",
       "summary": "Also in today’s newsletter, Democrats widen probe into Trump Jr-linked companies",
       "ts": 1795528802000
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
-      "ts": 1795527263000
     },
     {
       "source": "The Hacker News",
@@ -448,13 +455,6 @@
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "ts": 1795211909000
-    },
-    {
-      "source": "Ars Technica",
-      "cat": "ai",
-      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-      "ts": 1795211230000
     },
     {
       "source": "MIT Technology Review",
