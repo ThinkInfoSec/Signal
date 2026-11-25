@@ -1,6 +1,42 @@
 {
-  "generated": "2026-11-25T01:35:04Z",
+  "generated": "2026-11-25T02:51:32Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "WHO chief urges end to US fuel blockade on Cuba",
+      "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "ts": 1795573399000,
+      "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0627036650-1795565315.jpg?resize=1200%2C630"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+      "ts": 1795570793000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+      "ts": 1795570244000,
+      "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+      "ts": 1795569662000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795569645.jpg?resize=1919%2C1080&quality=80"
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -38,6 +74,22 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b060d7deaecf-1795558781.jpg?resize=1920%2C1440"
     },
     {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Judge grants bail to OpenAI engineer accused of bugging start-up",
+      "summary": "Prosecutors told they failed to provide sufficient evidence of wrongdoing",
+      "ts": 1795565681000,
+      "link": "https://www.ft.com/content/95057819-cbcc-407a-83a7-953fb100a837?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI powers double-digit jump in ‘authorised’ fraud",
+      "summary": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026",
+      "ts": 1795564870000,
+      "link": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018?syn-25a6b1a6=1"
+    },
+    {
       "source": "Al Jazeera",
       "cat": "geo",
       "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
@@ -47,48 +99,12 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1795561635.jpg?resize=1200%2C630"
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-      "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
-      "ts": 1795563553000,
-      "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260613__B6YT743__v2__HighRes__TopshotDrcongoHealthEbola-1795558000.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
-      "ts": 1795562980000,
-      "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05fc7f7b842-1795554431.jpg?resize=1920%2C1440"
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
       "summary": "Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring",
       "ts": 1795560657000,
       "link": "https://www.ft.com/content/189d0c46-3c66-420b-af7d-a1d0b78d68ac?syn-25a6b1a6=1"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-      "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
-      "ts": 1795560616000,
-      "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306704506-1795551283.jpg?resize=1200%2C675"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-      "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
-      "ts": 1795559840000,
-      "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306368971-1795559712.jpg?resize=1200%2C675"
     },
     {
       "source": "BleepingComputer",
@@ -435,22 +451,6 @@
       "link": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1"
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "German industrial giants launch trading house for rare earths",
-      "summary": "Also in this newsletter: Europe’s underused playing card on AI",
-      "ts": 1795500005000,
-      "link": "https://www.ft.com/content/bfcb8ee8-97cc-4ef0-8234-3a8da0d3a814?syn-25a6b1a6=1"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "What are you thinking? It depends who’s asking",
-      "summary": "We may answer questions differently if AI is conducting the interview",
-      "ts": 1795496425000,
-      "link": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1"
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "How Intentful uses dots to make more time for growth",
@@ -474,7 +474,8 @@
       "title": "Clay helps sales teams win with Codex and ChatGPT",
       "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "ts": 1795478400000,
-      "link": "https://openai.com/business/customer-stories/clay-plugins-openai"
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/24rUSNlLR8iXQysKA6dq12/38954f25812d30bf772691824f747b84/clay-seo-1920.png?w=1600&h=900&fit=fill"
     },
     {
       "source": "Ars Technica",
@@ -491,7 +492,8 @@
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "ts": 1795468800000,
-      "link": "https://openai.com/index/introducing-shirudo"
+      "link": "https://openai.com/index/introducing-shirudo",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill"
     },
     {
       "source": "MIT Technology Review",
@@ -499,7 +501,8 @@
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentienc",
       "ts": 1795455368000,
-      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600"
     },
     {
       "source": "Hugging Face",
@@ -507,7 +510,8 @@
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "summary": "",
       "ts": 1795454437000,
-      "link": "https://huggingface.co/blog/allenai/robotrack"
+      "link": "https://huggingface.co/blog/allenai/robotrack",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png"
     },
     {
       "source": "NVIDIA",
@@ -560,7 +564,8 @@
       "title": "Connected intelligence for in-house legal",
       "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
       "ts": 1795420800000,
-      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&h=900&fit=fill"
     },
     {
       "source": "OpenAI",
@@ -568,7 +573,8 @@
       "title": "Richpanel helps companies automate 50% of support in 30 days",
       "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
       "ts": 1795420800000,
-      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill"
     },
     {
       "source": "Hugging Face",
@@ -576,7 +582,8 @@
       "title": "How to build and maintain an agentic evaluation",
       "summary": "",
       "ts": 1795392000000,
-      "link": "https://huggingface.co/blog/agentic-evals"
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png"
     },
     {
       "source": "Krebs on Security",
@@ -593,7 +600,8 @@
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which",
       "ts": 1795198515000,
-      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600"
     },
     {
       "source": "Hugging Face",
@@ -601,7 +609,8 @@
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "summary": "",
       "ts": 1795132800000,
-      "link": "https://huggingface.co/blog/inkling2mini"
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png"
     },
     {
       "source": "Hugging Face",
@@ -609,7 +618,8 @@
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "summary": "",
       "ts": 1795132800000,
-      "link": "https://huggingface.co/blog/harness-adapters-at-scale"
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png"
     },
     {
       "source": "NVIDIA",
@@ -662,7 +672,8 @@
       "title": "Introducing Gemini 4 Neon",
       "summary": "",
       "ts": 1795037743000,
-      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png"
     },
     {
       "source": "Hugging Face",
@@ -670,7 +681,8 @@
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "summary": "",
       "ts": 1795031696000,
-      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png"
     },
     {
       "source": "Hugging Face",
@@ -678,7 +690,8 @@
       "title": "Why your fine-tuning job takes longer than the FLOPs say",
       "summary": "",
       "ts": 1795028023000,
-      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png"
     },
     {
       "source": "Google DeepMind",
@@ -686,7 +699,8 @@
       "title": "Genie 4 is now available",
       "summary": "",
       "ts": 1795025622000,
-      "link": "https://deepmind.google/blog/genie-4-is-now-available/"
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png"
     },
     {
       "source": "Google AI",
@@ -703,7 +717,8 @@
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
       "summary": "",
       "ts": 1795014023000,
-      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif"
     },
     {
       "source": "MIT Technology Review",
@@ -711,7 +726,8 @@
       "title": "The AI Hype Index: AI is everywhere",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, an",
       "ts": 1795012964000,
-      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600"
     },
     {
       "source": "NVIDIA",
@@ -791,7 +807,8 @@
       "title": "The open-source movement wants Jensen Huang back",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several ",
       "ts": 1794854327000,
-      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600"
     },
     {
       "source": "MIT Technology Review",
