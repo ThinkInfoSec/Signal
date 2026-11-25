@@ -6,9 +6,12 @@ The browser only reads this file. It does not call a third-party converter.
 
 from __future__ import annotations
 
+import ipaddress
 import json
+import socket
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -28,6 +31,9 @@ OUT = ROOT / "news.json"
 CACHE = ROOT / "image-cache.json"
 MAX_PAGE_BYTES = 512_000
 OG_FETCH_LIMIT = 30
+OG_TIME_BUDGET = 60
+OG_PAGE_DEADLINE = 10
+OG_MAX_REDIRECTS = 3
 
 FEEDS = [
     {"name": "BleepingComputer", "cat": "cyber", "url": "https://www.bleepingcomputer.com/feed/"},
@@ -261,17 +267,61 @@ class _OgFinder(HTMLParser):
             self.done = True
 
 
+def check_public_host(url: str) -> None:
+    """Raise unless url is https and every address its host resolves to is public."""
+    parts = urllib.parse.urlsplit(url)
+    host = parts.hostname
+    if parts.scheme != "https" or not host:
+        raise urllib.error.URLError("only https URLs are allowed")
+    try:
+        infos = socket.getaddrinfo(host, parts.port or 443, proto=socket.IPPROTO_TCP)
+    except socket.gaierror as exc:
+        raise urllib.error.URLError(f"cannot resolve {host}") from exc
+    if not infos:
+        raise urllib.error.URLError(f"cannot resolve {host}")
+    for info in infos:
+        ip = ipaddress.ip_address(info[4][0].split("%")[0])
+        if getattr(ip, "ipv4_mapped", None):
+            ip = ip.ipv4_mapped
+        if (ip.is_private or ip.is_loopback or ip.is_link_local or ip.is_reserved
+                or ip.is_multicast or ip.is_unspecified):
+            raise urllib.error.URLError(f"refusing non-public address for {host}")
+
+
+class _SafeRedirect(urllib.request.HTTPRedirectHandler):
+    """Follow at most 3 redirects, each to a public https host."""
+
+    def __init__(self) -> None:
+        self.hops = 0
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        self.hops += 1
+        if self.hops > OG_MAX_REDIRECTS:
+            raise urllib.error.URLError("too many redirects")
+        check_public_host(urllib.parse.urljoin(req.full_url, newurl))
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
 def og_image(link: str) -> str:
     """Read og:image / twitter:image from an article's <head>. Any failure returns ''."""
     try:
-        if not link.startswith("https://"):
-            return ""
+        check_public_host(link)
         request = urllib.request.Request(
             link,
             headers={"User-Agent": UA, "Accept": "text/html", "Accept-Encoding": "gzip, identity"},
         )
-        with urllib.request.urlopen(request, timeout=10) as response:
-            data = response.read(MAX_PAGE_BYTES + 1)
+        deadline = time.monotonic() + OG_PAGE_DEADLINE
+        opener = urllib.request.build_opener(_SafeRedirect())
+        chunks: list[bytes] = []
+        total = 0
+        with opener.open(request, timeout=10) as response:
+            while total <= MAX_PAGE_BYTES and time.monotonic() < deadline:
+                chunk = response.read(65536)
+                if not chunk:
+                    break
+                chunks.append(chunk)
+                total += len(chunk)
+        data = b"".join(chunks)
         if data[:2] == b"\x1f\x8b":
             data = gunzip_capped(data, MAX_PAGE_BYTES)
         data = data[:MAX_PAGE_BYTES]
@@ -300,14 +350,16 @@ def add_og_images(items: list[dict], cache: dict, fetcher=None, limit: int = OG_
     """Fill missing images from cache, then og:image (newest first, capped). Returns the pruned cache."""
     fetcher = fetcher or og_image
     fetched = 0
+    started = time.monotonic()
     for item in sorted(items, key=lambda i: i["ts"], reverse=True):
         link = item.get("link")
         if not link or item.get("image"):
             continue
         if link in cache:
             image = cache[link]
-        elif fetched < limit:
+        elif fetched < limit and time.monotonic() - started < OG_TIME_BUDGET:
             fetched += 1
+            cache[link] = ""  # negative entry first, so a hang or crash is not retried every run
             image = fetcher(link)
             cache[link] = image
         else:

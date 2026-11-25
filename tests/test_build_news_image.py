@@ -1,5 +1,8 @@
+import io
+import socket
 import sys
 import unittest
+import urllib.error
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from unittest import mock
@@ -14,12 +17,22 @@ def node(inner):
     return ET.fromstring(f"<item {NS}>{inner}</item>")
 
 
+PUBLIC = [(socket.AF_INET, 0, 0, "", ("93.184.216.34", 0))]
+
+
+def addr(ip):
+    return [(socket.AF_INET, 0, 0, "", (ip, 0))]
+
+
 class FakeResp:
     def __init__(self, data):
         self.data = data
 
     def read(self, n=-1):
-        return self.data[:n] if n >= 0 else self.data
+        if n < 0:
+            n = len(self.data)
+        out, self.data = self.data[:n], self.data[n:]
+        return out
 
     def __enter__(self):
         return self
@@ -59,7 +72,9 @@ class ItemImage(unittest.TestCase):
 
 class OgImage(unittest.TestCase):
     def run_og(self, html, link="https://site.com/a/b"):
-        with mock.patch("urllib.request.urlopen", return_value=FakeResp(html)):
+        opener = mock.Mock()
+        opener.open.return_value = FakeResp(html)
+        with mock.patch("urllib.request.build_opener", return_value=opener),                 mock.patch("socket.getaddrinfo", return_value=PUBLIC):
             return build_news.og_image(link)
 
     def test_absolute_and_relative(self):
@@ -76,8 +91,65 @@ class OgImage(unittest.TestCase):
     def test_rejects_and_errors(self):
         self.assertEqual(self.run_og(b'<head><meta property="og:image" content="http://c.com/i.jpg"></head>'), "")
         self.assertEqual(build_news.og_image("http://site.com/a"), "")
-        with mock.patch("urllib.request.urlopen", side_effect=OSError("boom")):
+        opener = mock.Mock()
+        opener.open.side_effect = OSError("boom")
+        with mock.patch("urllib.request.build_opener", return_value=opener),                 mock.patch("socket.getaddrinfo", return_value=PUBLIC):
             self.assertEqual(build_news.og_image("https://site.com/a"), "")
+
+
+class Ssrf(unittest.TestCase):
+    def redirect(self, url, handler=None):
+        handler = handler or build_news._SafeRedirect()
+        req = urllib.request.Request("https://site.com/a")
+        with mock.patch("socket.getaddrinfo", return_value=PUBLIC):
+            return handler.redirect_request(req, None, 302, "Found", {}, url)
+
+    def test_redirect_to_http_rejected(self):
+        with self.assertRaises(urllib.error.URLError):
+            self.redirect("http://site.com/b")
+
+    def test_redirect_to_private_rejected(self):
+        for ip in ("127.0.0.1", "10.1.2.3", "169.254.169.254", "0.0.0.0", "224.0.0.1"):
+            with mock.patch("socket.getaddrinfo", return_value=addr(ip)):
+                handler = build_news._SafeRedirect()
+                req = urllib.request.Request("https://site.com/a")
+                with self.assertRaises(urllib.error.URLError, msg=ip):
+                    handler.redirect_request(req, None, 302, "Found", {}, "https://evil.com/x")
+
+    def test_redirect_cap(self):
+        handler = build_news._SafeRedirect()
+        for _ in range(3):
+            self.assertIsNotNone(self.redirect("https://site.com/b", handler))
+        with self.assertRaises(urllib.error.URLError):
+            self.redirect("https://site.com/b", handler)
+
+    def test_initial_private_and_literal_hosts_refused(self):
+        with mock.patch("socket.getaddrinfo", return_value=addr("10.0.0.5")),                 mock.patch("urllib.request.build_opener") as bo:
+            self.assertEqual(build_news.og_image("https://internal.example/a"), "")
+            bo.assert_not_called()
+        with mock.patch("urllib.request.build_opener") as bo:
+            self.assertEqual(build_news.og_image("https://127.0.0.1/a"), "")
+            self.assertEqual(build_news.og_image("https://[::1]/a"), "")
+            bo.assert_not_called()
+
+
+class Budget(unittest.TestCase):
+    def test_budget_stops_fetches_and_negative_cache_first(self):
+        items = [{"ts": i, "link": f"https://s.com/{i}"} for i in range(5)]
+        cache = {}
+        seen_before = []
+
+        def fetcher(link):
+            seen_before.append(cache.get(link))
+            return "https://c.com/i.jpg"
+
+        clock = iter([0, 0, 10, 100, 100, 100, 100])
+        with mock.patch("time.monotonic", side_effect=lambda: next(clock)):
+            out = build_news.add_og_images(items, cache, fetcher)
+        self.assertEqual(len(seen_before), 2)
+        self.assertEqual(seen_before, ["", ""])
+        self.assertEqual(sum(1 for i in items if i.get("image")), 2)
+        self.assertEqual(len(out), 2)
 
 
 class Cache(unittest.TestCase):
