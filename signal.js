@@ -1,14 +1,12 @@
 "use strict";
 // Anti-clickjacking: refuse to run inside a frame, except directly inside the ThinkInfoSec hub,
-// which shows Signal full screen. ancestorOrigins (Chromium, Safari) proves the whole chain is just
-// the hub; Firefox lacks it, so fall back to the referrer origin the hub sends.
+// which shows Signal full screen. Only location.ancestorOrigins (Chromium, Safari) can prove the
+// whole chain is just the hub; where it is missing (Firefox) we fail closed and the hub opens
+// Signal as a normal page instead.
 const FRAME_OK = ["https://amcamillo.github.io"];
 function framedByHub() {
-  try {
-    const anc = location.ancestorOrigins;
-    if (anc && anc.length) return anc.length === 1 && FRAME_OK.includes(anc[0]);
-    return window.parent === window.top && FRAME_OK.includes(new URL(document.referrer).origin);
-  } catch { return false; }
+  const anc = location.ancestorOrigins;
+  return !!anc && anc.length === 1 && FRAME_OK.includes(anc[0]);
 }
 if (window.top !== window.self && !framedByHub()) {
   document.documentElement.replaceChildren();
