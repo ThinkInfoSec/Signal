@@ -6,12 +6,12 @@ The browser only reads this file. It does not call a third-party converter.
 
 from __future__ import annotations
 
-import gzip
 import json
 import sys
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
+import zlib
 from xml.parsers import expat
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -101,6 +101,15 @@ def parse_ts(value: str) -> int | None:
         return None
 
 
+def gunzip_capped(data: bytes, limit: int = MAX_FEED_BYTES) -> bytes:
+    """Decompress gzip without letting a small bomb expand past the feed size cap."""
+    d = zlib.decompressobj(16 + zlib.MAX_WBITS)
+    out = d.decompress(data, limit + 1)
+    if len(out) > limit or d.unconsumed_tail:
+        raise ValueError("decompressed feed exceeds size limit")
+    return out
+
+
 def fetch(url: str) -> bytes:
     request = urllib.request.Request(
         url,
@@ -118,7 +127,7 @@ def fetch(url: str) -> bytes:
             if len(data) > MAX_FEED_BYTES:
                 raise ValueError("feed exceeds size limit")
             if data[:2] == b"\x1f\x8b":
-                data = gzip.decompress(data)
+                data = gunzip_capped(data)
             return data
         except Exception as exc:  # a cut connection should not drop the feed
             last_error = exc
