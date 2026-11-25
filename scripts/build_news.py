@@ -6,18 +6,20 @@ The browser only reads this file. It does not call a third-party converter.
 
 from __future__ import annotations
 
-import gzip
 import json
 import sys
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
+import zlib
+from xml.parsers import expat
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 
 UA = "ThinkInfoSec-Signal/1.0 (+https://github.com/ThinkInfoSec/Signal)"
+MAX_FEED_BYTES = 5_000_000
 MAX_AGE_MS = 10 * 24 * 60 * 60 * 1000
 PER_FEED = 8
 ROOT = Path(__file__).resolve().parents[1]
@@ -99,6 +101,15 @@ def parse_ts(value: str) -> int | None:
         return None
 
 
+def gunzip_capped(data: bytes, limit: int = MAX_FEED_BYTES) -> bytes:
+    """Decompress gzip without letting a small bomb expand past the feed size cap."""
+    d = zlib.decompressobj(16 + zlib.MAX_WBITS)
+    out = d.decompress(data, limit + 1)
+    if len(out) > limit or d.unconsumed_tail:
+        raise ValueError("decompressed feed exceeds size limit")
+    return out
+
+
 def fetch(url: str) -> bytes:
     request = urllib.request.Request(
         url,
@@ -112,9 +123,11 @@ def fetch(url: str) -> bytes:
     for attempt in range(2):
         try:
             with urllib.request.urlopen(request, timeout=25) as response:
-                data = response.read()
+                data = response.read(MAX_FEED_BYTES + 1)
+            if len(data) > MAX_FEED_BYTES:
+                raise ValueError("feed exceeds size limit")
             if data[:2] == b"\x1f\x8b":
-                data = gzip.decompress(data)
+                data = gunzip_capped(data)
             return data
         except Exception as exc:  # a cut connection should not drop the feed
             last_error = exc
@@ -124,8 +137,36 @@ def fetch(url: str) -> bytes:
     raise last_error
 
 
+def parse_xml(raw: bytes) -> ET.Element:
+    """Third-party feed: refuse DTDs so entity-expansion payloads never reach the parser."""
+    # The C-accelerated ET.XMLParser hides its expat parser, so guard with a pre-pass on expat itself.
+    def refuse_doctype(*_args):
+        raise ValueError("feed declares a DTD; refusing to parse")
+
+    guard = expat.ParserCreate()
+    guard.StartDoctypeDeclHandler = refuse_doctype
+    guard.Parse(raw, True)
+    return ET.fromstring(raw)
+
+
+def item_link(node: ET.Element) -> str:
+    """Return an RSS <link> text or the Atom rel=alternate href, if it is https."""
+    for child in node:
+        if local_name(child.tag) != "link":
+            continue
+        href = (child.get("href") or "").strip()
+        if href:
+            if child.get("rel", "alternate") == "alternate" and href.startswith("https://"):
+                return href
+            continue
+        text = "".join(child.itertext()).strip()
+        if text.startswith("https://"):
+            return text
+    return ""
+
+
 def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:
-    root = ET.fromstring(raw)
+    root = parse_xml(raw)
     nodes = [node for node in root.iter() if local_name(node.tag) in ("item", "entry")]
     kept: list[dict] = []
     for node in nodes:
@@ -145,15 +186,17 @@ def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:
         )
         if not title or ts is None or ts < now_ms - MAX_AGE_MS:
             continue
-        kept.append(
-            {
-                "source": feed["name"],
-                "cat": feed["cat"],
-                "title": title,
-                "summary": summary,
-                "ts": ts,
-            }
-        )
+        item = {
+            "source": feed["name"],
+            "cat": feed["cat"],
+            "title": title,
+            "summary": summary,
+            "ts": ts,
+        }
+        link = item_link(node)
+        if link:
+            item["link"] = link
+        kept.append(item)
     return kept
 
 
