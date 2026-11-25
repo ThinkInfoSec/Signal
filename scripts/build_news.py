@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import sys
 import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 import zlib
@@ -24,6 +25,9 @@ MAX_AGE_MS = 10 * 24 * 60 * 60 * 1000
 PER_FEED = 8
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "news.json"
+CACHE = ROOT / "image-cache.json"
+MAX_PAGE_BYTES = 512_000
+OG_FETCH_LIMIT = 30
 
 FEEDS = [
     {"name": "BleepingComputer", "cat": "cyber", "url": "https://www.bleepingcomputer.com/feed/"},
@@ -165,6 +169,154 @@ def item_link(node: ET.Element) -> str:
     return ""
 
 
+def safe_image_url(url: str) -> str:
+    """Return the URL only if it is https with a host, no userinfo, and a sane length."""
+    url = (url or "").strip()
+    if not url or len(url) > 1000:
+        return ""
+    try:
+        parts = urllib.parse.urlsplit(url)
+        if parts.scheme != "https" or not parts.hostname or "@" in parts.netloc:
+            return ""
+    except ValueError:
+        return ""
+    return url
+
+
+class _ImgFinder(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.src = ""
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "img" and not self.src:
+            self.src = (dict(attrs).get("src") or "").strip()
+
+    handle_startendtag = handle_starttag
+
+
+def _first_img_src(markup: str) -> str:
+    finder = _ImgFinder()
+    try:
+        finder.feed(markup)
+    except Exception:
+        pass
+    return finder.src
+
+
+def _width(node: ET.Element) -> int:
+    try:
+        return int(node.get("width") or 0)
+    except ValueError:
+        return 0
+
+
+def item_image(node: ET.Element) -> str:
+    """Best banner image: media:*, image enclosure, then first <img> in the body HTML."""
+    media = []
+    for child in node.iter():
+        name = local_name(child.tag)
+        if name == "thumbnail" and child.get("url"):
+            media.append(child)
+        elif name == "content" and child.get("url"):
+            medium = (child.get("medium") or "").lower()
+            mtype = (child.get("type") or "").lower()
+            if medium == "image" or mtype.startswith("image/") or (not medium and not mtype):
+                media.append(child)
+    for child in sorted(media, key=_width, reverse=True):
+        url = safe_image_url(child.get("url") or "")
+        if url:
+            return url
+    for child in node:
+        if local_name(child.tag) == "enclosure" and (child.get("type") or "").lower().startswith("image/"):
+            url = safe_image_url(child.get("url") or "")
+            if url:
+                return url
+    for child in node:
+        if local_name(child.tag) in ("description", "content", "encoded", "summary"):
+            url = safe_image_url(_first_img_src("".join(child.itertext())))
+            if url:
+                return url
+    return ""
+
+
+class _OgFinder(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.og = ""
+        self.twitter = ""
+        self.done = False
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "meta" and not self.done:
+            a = {k: (v or "") for k, v in attrs}
+            key = (a.get("property") or a.get("name") or "").lower()
+            if key == "og:image" and not self.og:
+                self.og = a.get("content", "").strip()
+            elif key == "twitter:image" and not self.twitter:
+                self.twitter = a.get("content", "").strip()
+
+    def handle_endtag(self, tag):
+        if tag == "head":
+            self.done = True
+
+
+def og_image(link: str) -> str:
+    """Read og:image / twitter:image from an article's <head>. Any failure returns ''."""
+    try:
+        if not link.startswith("https://"):
+            return ""
+        request = urllib.request.Request(
+            link,
+            headers={"User-Agent": UA, "Accept": "text/html", "Accept-Encoding": "gzip, identity"},
+        )
+        with urllib.request.urlopen(request, timeout=10) as response:
+            data = response.read(MAX_PAGE_BYTES + 1)
+        if data[:2] == b"\x1f\x8b":
+            data = gunzip_capped(data, MAX_PAGE_BYTES)
+        data = data[:MAX_PAGE_BYTES]
+        finder = _OgFinder()
+        for start in range(0, len(data), 4096):
+            finder.feed(data[start:start + 4096].decode("utf-8", "replace"))
+            if finder.done:
+                break
+        raw = finder.og or finder.twitter
+        return safe_image_url(urllib.parse.urljoin(link, raw)) if raw else ""
+    except Exception:
+        return ""
+
+
+def load_cache(path: Path = CACHE) -> dict:
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if isinstance(data, dict):
+            return {k: v for k, v in data.items() if isinstance(k, str) and isinstance(v, str)}
+    except Exception:
+        pass
+    return {}
+
+
+def add_og_images(items: list[dict], cache: dict, fetcher=None, limit: int = OG_FETCH_LIMIT) -> dict:
+    """Fill missing images from cache, then og:image (newest first, capped). Returns the pruned cache."""
+    fetcher = fetcher or og_image
+    fetched = 0
+    for item in sorted(items, key=lambda i: i["ts"], reverse=True):
+        link = item.get("link")
+        if not link or item.get("image"):
+            continue
+        if link in cache:
+            image = cache[link]
+        elif fetched < limit:
+            fetched += 1
+            image = fetcher(link)
+            cache[link] = image
+        else:
+            continue
+        if image:
+            item["image"] = image
+    return {i["link"]: i.get("image", "") for i in items if i.get("link") and (i["link"] in cache or i.get("image"))}
+
+
 def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:
     root = parse_xml(raw)
     nodes = [node for node in root.iter() if local_name(node.tag) in ("item", "entry")]
@@ -196,6 +348,9 @@ def items_from_feed(feed: dict, raw: bytes, now_ms: int) -> list[dict]:
         link = item_link(node)
         if link:
             item["link"] = link
+        image = item_image(node)
+        if image:
+            item["image"] = image
         kept.append(item)
     return kept
 
@@ -215,6 +370,8 @@ def main() -> int:
         print("no items fetched; leaving news.json unchanged", file=sys.stderr)
         return 1
     items.sort(key=lambda item: item["ts"], reverse=True)
+    cache = add_og_images(items, load_cache())
+    CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
     payload = {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "items": items,
