@@ -2,7 +2,7 @@ name: Refresh news
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7,22,37,52 * * * *"  # off the :00 rush, which GitHub delays or drops
   workflow_dispatch:
 
 permissions:
