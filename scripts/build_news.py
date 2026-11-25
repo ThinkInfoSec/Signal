@@ -12,12 +12,14 @@ import sys
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
+from xml.parsers import expat
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 
 UA = "ThinkInfoSec-Signal/1.0 (+https://github.com/ThinkInfoSec/Signal)"
+MAX_FEED_BYTES = 5_000_000
 MAX_AGE_MS = 10 * 24 * 60 * 60 * 1000
 PER_FEED = 8
 ROOT = Path(__file__).resolve().parents[1]
@@ -112,7 +114,9 @@ def fetch(url: str) -> bytes:
     for attempt in range(2):
         try:
             with urllib.request.urlopen(request, timeout=25) as response:
-                data = response.read()
+                data = response.read(MAX_FEED_BYTES + 1)
+            if len(data) > MAX_FEED_BYTES:
+                raise ValueError("feed exceeds size limit")
             if data[:2] == b"\x1f\x8b":
                 data = gzip.decompress(data)
             return data
@@ -126,8 +130,13 @@ def fetch(url: str) -> bytes:
 
 def parse_xml(raw: bytes) -> ET.Element:
     """Third-party feed: refuse DTDs so entity-expansion payloads never reach the parser."""
-    if b"<!DOCTYPE" in raw or b"<!ENTITY" in raw:
+    # The C-accelerated ET.XMLParser hides its expat parser, so guard with a pre-pass on expat itself.
+    def refuse_doctype(*_args):
         raise ValueError("feed declares a DTD; refusing to parse")
+
+    guard = expat.ParserCreate()
+    guard.StartDoctypeDeclHandler = refuse_doctype
+    guard.Parse(raw, True)
     return ET.fromstring(raw)
 
 

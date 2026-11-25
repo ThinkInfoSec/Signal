@@ -64,6 +64,14 @@ class XmlGuardTests(unittest.TestCase):
             build_media.medium_items(bomb)
 
 
+class DoctypeInCdataTests(unittest.TestCase):
+    def test_literal_doctype_in_cdata_is_not_refused(self):
+        raw = MEDIUM.replace(b"<p>", b"<p>&lt;!DOCTYPE html&gt;", 1).replace(
+            b"]]></content:encoded>", b"<!DOCTYPE html>]]></content:encoded>", 1)
+        self.assertIn(b"<!DOCTYPE html>", raw)
+        self.assertEqual(len(build_media.medium_items(raw)), 1)
+
+
 class MergeTests(unittest.TestCase):
     def test_keeps_old_items_and_updates_by_id(self):
         old = [{"id": "a", "ts": 1, "title": "old a"}, {"id": "b", "ts": 2, "title": "b"}]
