@@ -1,656 +1,815 @@
 {
-  "generated": "2026-11-25T01:09:49Z",
+  "generated": "2026-11-25T01:35:04Z",
   "items": [
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Gunmen hold dozens hostage in Colombia supermarket",
-      "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
-      "ts": 1795567775000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Alaska ends deal to give voter records to US Justice Department",
-      "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
-      "ts": 1795566508000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "AI powers double-digit jump in ‘authorised’ fraud",
-      "summary": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026",
-      "ts": 1795564870000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-      "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
-      "ts": 1795564800000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-      "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
-      "ts": 1795563553000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
-      "ts": 1795562980000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
-      "summary": "Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring",
-      "ts": 1795560657000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-      "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
-      "ts": 1795560616000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-      "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
-      "ts": 1795559840000
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "ts": 1795569262000,
+      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1920%2C1440"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
       "summary": "The verdict follows a months-long trial in New York.",
-      "ts": 1795559063000
+      "ts": 1795569117000,
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
-      "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
-      "ts": 1795557686000
+      "title": "Gunmen hold dozens hostage in Colombia supermarket",
+      "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "ts": 1795567775000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795567656.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Alaska ends deal to give voter records to US Justice Department",
+      "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+      "ts": 1795566508000,
+      "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b060d7deaecf-1795558781.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+      "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+      "ts": 1795564800000,
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1795561635.jpg?resize=1200%2C630"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+      "ts": 1795563553000,
+      "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260613__B6YT743__v2__HighRes__TopshotDrcongoHealthEbola-1795558000.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+      "ts": 1795562980000,
+      "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05fc7f7b842-1795554431.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
+      "summary": "Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring",
+      "ts": 1795560657000,
+      "link": "https://www.ft.com/content/189d0c46-3c66-420b-af7d-a1d0b78d68ac?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "ts": 1795560616000,
+      "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306704506-1795551283.jpg?resize=1200%2C675"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+      "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+      "ts": 1795559840000,
+      "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306368971-1795559712.jpg?resize=1200%2C675"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Rackspace shuts down Spot cloud platform after security breach",
       "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-      "ts": 1795556250000
+      "ts": 1795556250000,
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/12/09/Rackspace.jpg"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "ts": 1795555182000
+      "ts": 1795555182000,
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
     },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic closes below IPO price as tech rally fades",
       "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-      "ts": 1795554697000
+      "ts": 1795554697000,
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "What's going on with the Riemann hypothesis?",
       "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-      "ts": 1795552493000
+      "ts": 1795552493000,
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "New Inception extortion gang launches large-scale vishing campaign",
       "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-      "ts": 1795551680000
+      "ts": 1795551680000,
+      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/24/inception.jpg"
     },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
       "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
-      "ts": 1795551509000
+      "ts": 1795551509000,
+      "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Nigerian monarch, 92, suspended after sexual assault claims",
       "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "ts": 1795547431000
+      "ts": 1795547431000,
+      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Turnitin discloses cyberattack affecting customer-facing systems",
       "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-      "ts": 1795546792000
+      "ts": 1795546792000,
+      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/24/turnitin.jpg"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
       "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "ts": 1795546077000
+      "ts": 1795546077000,
+      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
       "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "ts": 1795543666000
+      "ts": 1795543666000,
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Radware discloses breach exposing customer cloud access keys",
       "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
-      "ts": 1795542545000
+      "ts": 1795542545000,
+      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/24/Radware.jpg"
     },
     {
       "source": "RNZ World",
       "cat": "geo",
       "title": "COP31 format needs re-think, former NZ climate ambassadors say",
       "summary": "COP31 ended in Antalya, Türkiye, early on Monday (NZT) after more than two weeks of fraught discussion between countries that were unable to produce a 'cover decision'.",
-      "ts": 1795542464000
+      "ts": 1795542464000,
+      "link": "https://www.rnz.co.nz/news/environment_climate/2768377/cop31-format-needs-re-think-former-nz-climate-ambassadors-say",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--MCPQcQ10--/t_tohu-badge-facebook/f_auto/q_auto/4JF1PVB_AFP__20261114__D7G793M__v2__HighRes__TopshotTurkeyUnCop31ClimateDemo_jpg"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
       "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-      "ts": 1795541674000
+      "ts": 1795541674000,
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
       "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) a",
-      "ts": 1795539247000
+      "ts": 1795539247000,
+      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
       "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "ts": 1795538947000
+      "ts": 1795538947000,
+      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "summary": "",
-      "ts": 1795538053000
+      "ts": 1795538053000,
+      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
       "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-      "ts": 1795537819000
+      "ts": 1795537819000,
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/24/shinyhunters-var-2.jpg"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "European Commission confirms data theft in EU Academy breach",
       "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-      "ts": 1795537364000
+      "ts": 1795537364000,
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/03/0_European_Union_flag.jpg"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Hackers compromise Check Point Servers in 22 organizations",
       "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-      "ts": 1795536923000
+      "ts": 1795536923000,
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/hacker.jpg"
     },
     {
       "source": "Google AI",
       "cat": "ai",
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
       "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-      "ts": 1795536000000
+      "ts": 1795536000000,
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
       "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "ts": 1795534553000
+      "ts": 1795534553000,
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Land mine casualties soar in Syria, two years after war",
       "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "ts": 1795533448000
+      "ts": 1795533448000,
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Raising the stakes for enterprise networks with AI modernization",
       "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done b",
-      "ts": 1795533316000
+      "ts": 1795533316000,
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840"
     },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
       "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-      "ts": 1795533010000
+      "ts": 1795533010000,
+      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/Police.jpg"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
       "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
-      "ts": 1795532210000
+      "ts": 1795532210000,
+      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg"
     },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "How Trump helped orchestrate Huang’s return to Nvidia",
       "summary": "Also in today’s newsletter, Democrats widen probe into Trump Jr-linked companies",
-      "ts": 1795528802000
+      "ts": 1795528802000,
+      "link": "https://www.ft.com/content/98ec6911-bb0c-42c1-8c5e-5eebf40dc918?syn-25a6b1a6=1"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
       "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It ",
-      "ts": 1795526906000
+      "ts": 1795526906000,
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zpQTclLnhVQHphFdBZZ_hrxhsZvA5G50sGBz5qq1iOg2B1YLu8rE5e_HM1GZOE24SNpwexwst80NTKP7_Wwexq7EzIl-I7ykIXCtTGQjeZhBGVVuAgzxac5JwaquTQuMNRstBFo8JzMDyqgsNbM_KtxGF3wHPBIM9GfaclNu0OTPlpF5YhNvqoKKytAY/s1600/vmware-exploit.jpg"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
       "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to tr",
-      "ts": 1795526901000
+      "ts": 1795526901000,
+      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjete6dy8Fmd7sbjqKI5GKSySXkcnz4NF__irfVMBHzgRIDUnpGHtvRIbCywZYYsoKsnMdPhvanoXcnXbYvZpMjL2lL6d_F9a4ErEaI5rH_boPedH_ru2Ush9wonb8tYhGNVM6M_01DTue1THY7uGMbuKBJKNgMbrACkxHCGJiJylHWoxkkpCXNr2Z_CIdf/s1600/leaks.jpg"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "ts": 1795525200000
+      "ts": 1795525200000,
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
     },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Jensen Huang’s return should not stop tighter US chip controls",
       "summary": "Nvidia was wrong to think Chinese competitors would remain inside the company’s ecosystem",
-      "ts": 1795524855000
+      "ts": 1795524855000,
+      "link": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
       "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked ",
-      "ts": 1795524129000
+      "ts": 1795524129000,
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "ts": 1795523405000
+      "ts": 1795523405000,
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner-500x500.jpg"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
       "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's process hardening on Wi",
-      "ts": 1795521720000
+      "ts": 1795521720000,
+      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOJqhOn7t8wd3NeMCWVCg9xmusuRJmZuaePaCbKTif2XsPpPhu0fR1NwQncA4y-wAMmLOzylBZ3ebd9f4G8F6K54sUdnZ2cTn6yPq1RgAKrh4lSX3y1Ll8LIywXkDyVXItUuUGS4sy0BVUMhwXPvOZGdxhvwnd55_OvjOVnh2CfnAeURMVcmafuFgJlQ/s1600/windows.net.jpg"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
       "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations, repe",
-      "ts": 1795521714000
+      "ts": 1795521714000,
+      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Searching for distant planets with Astra",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-      "ts": 1795518000000
+      "ts": 1795518000000,
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "ts": 1795517931000
+      "ts": 1795517931000,
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
       "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens",
-      "ts": 1795517089000
+      "ts": 1795517089000,
+      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSM2FAnf9UEb3Do4v-r8AEBpoI8byXOrHgng-eRjEyudSf0hiKMpymmDiK_NLTxYuzXdtrWvMrBzY9qmLqDo31r3JOpVefOQxLE77gdkoOAYMkCK__-Bc-AJoWg-8nEOEVjcY6SswkzLbCfYl6kK9clg6xXw3xginWqIwnMxBUaS6wgPKVVwXZNhZA5G85/s1600/azure-ms.jpg"
     },
     {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
       "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yest",
-      "ts": 1795509260000
+      "ts": 1795509260000,
+      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7wXAof6nH7PDC5-3qxXZJgJvZODTjQcrWFOjO8jeb9yGkK6bUkzm27MzMy5n0S_Xywsj0npu_F0FmQ4JcKxPXNEoezLrpKoSStaYK4Ww46QUuzySTeQnnzcIXs_NADunlqeyuMIl5Wm5PKWc3c0JyNmYPxfbInIWx2tfosieI_QS_e4PX-JILlLH-1U/s1600/hosting.jpg"
     },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "The Jensen put",
       "summary": "Plus, Capex or die trying",
-      "ts": 1795501804000
+      "ts": 1795501804000,
+      "link": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1"
     },
     {
       "source": "Financial Times",
       "cat": "ai",
       "title": "German industrial giants launch trading house for rare earths",
       "summary": "Also in this newsletter: Europe’s underused playing card on AI",
-      "ts": 1795500005000
+      "ts": 1795500005000,
+      "link": "https://www.ft.com/content/bfcb8ee8-97cc-4ef0-8234-3a8da0d3a814?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "What are you thinking? It depends who’s asking",
+      "summary": "We may answer questions differently if AI is conducting the interview",
+      "ts": 1795496425000,
+      "link": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "How Intentful uses dots to make more time for growth",
       "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "ts": 1795478400000
+      "ts": 1795478400000,
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "How iFood scales coding agents across 15,000 repositories",
       "summary": "",
-      "ts": 1795478400000
+      "ts": 1795478400000,
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4Ts7RsLLSU4iEOxQwBkGgg/cbf56c075004a9ae2c41af4d5f7b428b/ifood-customer-story-social.png?w=1600&h=900&fit=fill"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
       "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-      "ts": 1795478400000
+      "ts": 1795478400000,
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
-      "ts": 1795469444000
+      "ts": 1795469444000,
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "ts": 1795468800000
+      "ts": 1795468800000,
+      "link": "https://openai.com/index/introducing-shirudo"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentienc",
-      "ts": 1795455368000
+      "ts": 1795455368000,
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "summary": "",
-      "ts": 1795454437000
+      "ts": 1795454437000,
+      "link": "https://huggingface.co/blog/allenai/robotrack"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
       "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
-      "ts": 1795453208000
+      "ts": 1795453208000,
+      "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1.jpg"
     },
     {
       "source": "Google AI",
       "cat": "ai",
       "title": "A more tailored Google Search that’s uniquely yours",
       "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
-      "ts": 1795453200000
+      "ts": 1795453200000,
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp"
     },
     {
       "source": "Google DeepMind",
       "cat": "ai",
       "title": "Finding faster quantum algorithms with agents and formal verification",
       "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "ts": 1795453180000
+      "ts": 1795453180000,
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
       "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-      "ts": 1795448778000
+      "ts": 1795448778000,
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg"
     },
     {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
       "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
-      "ts": 1795435200000
+      "ts": 1795435200000,
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Connected intelligence for in-house legal",
       "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "ts": 1795420800000
+      "ts": 1795420800000,
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
     },
     {
       "source": "OpenAI",
       "cat": "ai",
       "title": "Richpanel helps companies automate 50% of support in 30 days",
       "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "ts": 1795420800000
+      "ts": 1795420800000,
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "How to build and maintain an agentic evaluation",
       "summary": "",
-      "ts": 1795392000000
+      "ts": 1795392000000,
+      "link": "https://huggingface.co/blog/agentic-evals"
     },
     {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key",
-      "ts": 1795221399000
+      "ts": 1795221399000,
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/ransomwarehelp.png"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which",
-      "ts": 1795198515000
+      "ts": 1795198515000,
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "summary": "",
-      "ts": 1795132800000
+      "ts": 1795132800000,
+      "link": "https://huggingface.co/blog/inkling2mini"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "summary": "",
-      "ts": 1795132800000
+      "ts": 1795132800000,
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
       "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by ",
-      "ts": 1795118415000
+      "ts": 1795118415000,
+      "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png"
     },
     {
       "source": "Google AI",
       "cat": "ai",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": "Gemini spark on a space background",
-      "ts": 1795111200000
+      "ts": 1795111200000,
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, invest",
-      "ts": 1795107635000
+      "ts": 1795107635000,
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png"
     },
     {
       "source": "Google AI",
       "cat": "ai",
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "ts": 1795107600000
+      "ts": 1795107600000,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
       "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for",
-      "ts": 1795096812000
+      "ts": 1795096812000,
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday_November_19.jpg"
     },
     {
       "source": "Google DeepMind",
       "cat": "ai",
       "title": "Introducing Gemini 4 Neon",
       "summary": "",
-      "ts": 1795037743000
+      "ts": 1795037743000,
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "summary": "",
-      "ts": 1795031696000
+      "ts": 1795031696000,
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Why your fine-tuning job takes longer than the FLOPs say",
       "summary": "",
-      "ts": 1795028023000
+      "ts": 1795028023000,
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
     },
     {
       "source": "Google DeepMind",
       "cat": "ai",
       "title": "Genie 4 is now available",
       "summary": "",
-      "ts": 1795025622000
+      "ts": 1795025622000,
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/"
     },
     {
       "source": "Google AI",
       "cat": "ai",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "ts": 1795021200000
+      "ts": 1795021200000,
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"
     },
     {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
       "summary": "",
-      "ts": 1795014023000
+      "ts": 1795014023000,
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "The AI Hype Index: AI is everywhere",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, an",
-      "ts": 1795012964000
+      "ts": 1795012964000,
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "NVIDIA RTX Spark Compact Desktops Out Now",
       "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-ac",
-      "ts": 1795010431000
+      "ts": 1795010431000,
+      "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "This smell startup says its AI nose is as good as a human’s",
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the worl",
-      "ts": 1794997230000
+      "ts": 1794997230000,
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
     },
     {
       "source": "Krebs on Security",
       "cat": "cyber",
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malici",
-      "ts": 1794970324000
+      "ts": 1794970324000,
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/zoom-reporturi.png"
     },
     {
       "source": "Google AI",
       "cat": "ai",
       "title": "Put Gemini to work for you",
       "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
-      "ts": 1794934800000
+      "ts": 1794934800000,
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Research Reports",
       "summary": "To access a report, click on the corresponding image below.",
-      "ts": 1794926386000
+      "ts": 1794926386000,
+      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
       "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for",
-      "ts": 1794924010000
+      "ts": 1794924010000,
+      "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
       "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK inst",
-      "ts": 1794870005000
+      "ts": 1794870005000,
+      "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg"
     },
     {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
       "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introdu",
-      "ts": 1794859237000
+      "ts": 1794859237000,
+      "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/IMG_9825-1-scaled.jpeg"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "The open-source movement wants Jensen Huang back",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several ",
-      "ts": 1794854327000
+      "ts": 1794854327000,
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
     },
     {
       "source": "MIT Technology Review",
       "cat": "ai",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do",
-      "ts": 1794845068000
+      "ts": 1794845068000,
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?w=840"
     },
     {
       "source": "Google AI",
       "cat": "ai",
       "title": "New Ask Maps features to help with holiday travel and prep",
       "summary": "tbd",
-      "ts": 1794837600000
+      "ts": 1794837600000,
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp"
     }
   ]
 }

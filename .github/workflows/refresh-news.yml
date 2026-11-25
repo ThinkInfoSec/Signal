@@ -27,7 +27,7 @@ jobs:
         run: python scripts/build_news.py
       - name: Commit and push if changed
         run: |
-          git add news.json
+          git add news.json image-cache.json
           if git diff --cached --quiet; then
             echo "News unchanged"
             exit 0
