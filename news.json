@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-24T23:09:54Z",
+  "generated": "2026-11-25T01:09:49Z",
   "items": [
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gunmen hold dozens hostage in Colombia supermarket",
+      "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "ts": 1795567775000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Alaska ends deal to give voter records to US Justice Department",
+      "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+      "ts": 1795566508000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI powers double-digit jump in ‘authorised’ fraud",
+      "summary": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026",
+      "ts": 1795564870000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+      "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+      "ts": 1795564800000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+      "ts": 1795563553000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+      "ts": 1795562980000
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
+      "summary": "Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring",
+      "ts": 1795560657000
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "ts": 1795560616000
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
@@ -23,20 +79,6 @@
       "ts": 1795557686000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Colombian president blames ex-FARC rebels for car bomb blast",
-      "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
-      "ts": 1795556742000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-      "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
-      "ts": 1795556614000
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Rackspace shuts down Spot cloud platform after security breach",
@@ -51,39 +93,11 @@
       "ts": 1795555182000
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Russian jets spark air raid alert in South Korea",
-      "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
-      "ts": 1795554897000
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Anthropic closes below IPO price as tech rally fades",
       "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
       "ts": 1795554697000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
-      "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
-      "ts": 1795554286000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
-      "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
-      "ts": 1795553921000
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-      "summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
-      "ts": 1795552503000
     },
     {
       "source": "Ars Technica",
@@ -345,20 +359,6 @@
       "ts": 1795500005000
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "What are you thinking? It depends who’s asking",
-      "summary": "We may answer questions differently if AI is conducting the interview",
-      "ts": 1795496425000
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
-      "summary": "Saudi national is also alleged to have photographed confidential documents",
-      "ts": 1795483902000
-    },
-    {
       "source": "OpenAI",
       "cat": "ai",
       "title": "How Intentful uses dots to make more time for growth",
@@ -378,13 +378,6 @@
       "title": "Clay helps sales teams win with Codex and ChatGPT",
       "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "ts": 1795478400000
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Estonia's advice to New Zealand on dealing with Russia",
-      "summary": "\"The question is quite black and white,\" Estonia's Martin Roger told RNZ. \"There is one aggressor and then there's one victim.\"",
-      "ts": 1795478069000
     },
     {
       "source": "Ars Technica",
