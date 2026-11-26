@@ -1,68 +1,202 @@
 {
-  "generated": "2026-11-26T00:15:45Z",
+  "generated": "2026-11-26T08:39:13Z",
   "items": [
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-      "summary": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
-      "ts": 1795651200000,
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=1920%2C1440"
+      "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+      "summary": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+      "ts": 1795679028000,
+      "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e3/live/62b728b0-e967-11f1-9656-317cf5039a62.jpg"
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-      "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
-      "ts": 1795649619000,
-      "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b075e56efe1-1795645014.jpg?resize=1920%2C1440"
+      "title": "Photos: Rallies around the world denounce violence against women",
+      "summary": "About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.",
+      "ts": 1795678994000,
+      "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T195947Z_1495710070_RC23VOAABGEL_RTRMADP_3_BOLIVIA-WOMEN-PROTEST-1795671449.jpg?resize=1920%2C1440"
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "King tides and big waves batter coastal California",
-      "summary": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
-      "ts": 1795648803000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-CAL-2511-1795648755.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Deadly truck fire is latest of Egypt’s transport disasters",
-      "summary": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
-      "ts": 1795646927000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795646903.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
-      "summary": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
-      "ts": 1795646506000,
-      "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306883216-1795645334.jpg?resize=1200%2C675"
+      "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+      "summary": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
+      "ts": 1795678890000,
+      "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07cf6f-1795673967.jpg?resize=1920%2C1440"
     },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "ts": 1795645086000,
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg"
+      "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "ts": 1795678804000,
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Man United denied at Sporting as referee overshadows Fernandes double",
-      "summary": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
-      "ts": 1795644959000,
-      "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8MP88Y__v1__HighRes__FblEurC1SportingManUtd-1795644890.jpg?resize=1920%2C1440"
+      "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+      "summary": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
+      "ts": 1795678680000,
+      "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KX2JG__v1__HighRes__IndonesiaMiningAccident-1795670340.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "French navy intercepts suspected drug-smuggling semi-submersible",
+      "summary": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
+      "ts": 1795677339000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-07.11.22-1795677182.png?resize=1200%2C675"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka F",
+      "ts": 1795676554000,
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2EcytpsKiKLhUfvQEADKBG6Ht2NprR2VIhIXPJcNQMIGqKT20l0afBPUVhehKFhRzpkHvl3Qu_qaPjFL3L4UsLYH3L4C1DM63zqskhJV1UAjaPqONaEbNkBFsxVDX2jpPZrMym52WvBx2pHktUiRfdXOcp_23xjTdUOxxjxJtI906XLMmw258Bjah1J2/s1600/drupal-rce.png"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "War and drought threaten livelihoods of Sudan’s farmers",
+      "summary": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
+      "ts": 1795676194000,
+      "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A9026-1795643333.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "The world must choose between nuclear abolition and nuclear catastrophe",
+      "summary": "The upcoming UN nuclear ban treaty conference offers an opportunity to challenge the dogma of nuclear deterrence.",
+      "ts": 1795675985000,
+      "link": "https://www.aljazeera.com/opinions/2026/11/26/the-world-must-choose-between-nuclear-abolition-and-nuclear-catastrophe?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/05/AP23086631601394-1714988127.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS s",
+      "ts": 1795675486000,
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht82Zul6A6D_rTYZuOr0QQWkA4p8kQXRI-4qAYhdGBdTR0ZNzlHkHCiz3eSv5wm9Gq1rADX0CIEBUu08HBUbWd4fVKtL6f7UrWcaa_nVetYt0DyPj2-f_yM80HEIUbuy57mpftPYHHp1FKCNXvkDnFtsj-V5PWGUvWiNL38OKY3EIKUwKHuoKsIc4oSXeC/s1600/mitel.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Who really wants Pedro Sanchez out of power?",
+      "summary": "As Spain heads to the polls, the biggest threat to Sanchez’s international agenda comes not from Moscow, but Washington.",
+      "ts": 1795674985000,
+      "link": "https://www.aljazeera.com/opinions/2026/11/26/who-really-wants-pedro-sanchez-out-of-power?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260304__99VJ79E__v4__HighRes__ComboSpainUsIranDiplomacyWar-1772624627.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Jannik Sinner ruled out of 2027 Australian Open after knee surgery",
+      "summary": "Sinner, a two-time champion at Melbourne Park, has not played a match since winning the 2026 Wimbledon title in July.",
+      "ts": 1795674768000,
+      "link": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2259042242-1795672152.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+      "ts": 1795672918000,
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "ts": 1795670375000,
+      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcdc/live/8e8b2b50-e965-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "",
+      "ts": 1795669536000,
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Software stocks spared in tech rout as AI narrative shifts",
+      "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+      "ts": 1795669229000,
+      "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+      "ts": 1795669227000,
+      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "ts": 1795669224000,
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9c/live/c1d62ef0-e8da-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incide",
+      "ts": 1795666822000,
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "ts": 1795666258000,
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a",
+      "ts": 1795664932000,
+      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0w3YJQrn6VoUVUTTj46NLfeL_JJE-sDoxKsuBe-_OxBtQ3iX8AZTZ1CEn39-N5TGKYd-0ZKdOT43UwAWUbpIXlFdDwhyphenhyphenEKpkQVVJYJVodQRHyz0pJeKEvJIJgUpAEQqXizajmrriq9Mj1aqioeK1Zug__X26Ra4HwzFg8ImTajGc6b7Ck9LW2OCIpPoa/s1600/dotnet.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "ts": 1795651671000,
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -83,24 +217,6 @@
       "image": "https://media.rnztools.nz/rnz/image/upload/s--11y3lr3q--/t_tohu-badge-facebook/f_auto/q_auto/4JER3JW_Rylan_Photos__Jack_Johnson__Molly_Doyle_261122_7_jpg"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "ts": 1795643477000,
-      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US stocks fall further as fears over AI intensify",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "ts": 1795642998000,
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "1Password customer data stolen after employee GitHub account breach",
@@ -116,42 +232,6 @@
       "summary": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher",
       "ts": 1795641993000,
       "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-      "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
-      "ts": 1795640631000,
-      "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af49632-1794414130.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
-      "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
-      "ts": 1795639952000,
-      "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/03/AP25018750109439-1741282844.jpg?resize=1200%2C675"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "ts": 1795636492000,
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-      "ts": 1795636059000,
-      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -189,15 +269,6 @@
       "link": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-      "ts": 1795627816000,
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -205,15 +276,6 @@
       "ts": 1795625234000,
       "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia-500x500.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US announces new tariffs on host of countries including China",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "ts": 1795623694000,
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -321,15 +383,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/11/25/Office-headpic.jpg"
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-      "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allege",
-      "ts": 1795603387000,
-      "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaKaEIQ9XIhyphenhyphen7wjO1dtGE_h6MwLEEd4or1U6Ud39Ce7BbZfU817kR-mLr4bT5n_dMzAujT3VzKACvto1wsiHVfLjOLyGFnYPsf4PH_DHuog0NWylpF1RXoFIYhb84sb8T7RHCx4qnBCCJnNDKTkjoMQ-KPDaKgHaLW7fII7cOhPzc9XKC0OGGOjjE-ygf/s1600/openai.jpg"
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "An Indic Voice Agent with CUGA",
@@ -357,15 +410,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600"
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a pa",
-      "ts": 1795597619000,
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBxy4VIOekOumZfm8RElWJl6ZTKoIJ1QLc3U7ynLQ8p9PCqm_kYX1T-akwbZwbthTYcNwfVW-aWbRB4wIkvbUeM_gvQmnw8EH-hpY0542jCwFUAaI2mNEXGE3dct9K4JKFURV1smdERZlx4tV1zCy3AbS_NwF4o926_KSW-OKMPfDXT2gWbbZ4lKjFm6Y/s1600/hex-hack.jpg"
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Britain’s schoolchildren need AI guidance",
@@ -374,56 +418,12 @@
       "link": "https://www.ft.com/content/c94bb595-e83f-45c6-98d6-d09a3183c13b"
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to ha",
-      "ts": 1795589419000,
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzxhgIKTt8K5ep8a4qHW9dDpkSYcBC5D1CWgkvvh9Ee5DRlNRSg-2UcZZVNoXrHXVTeIcdzj47FFcSz6gAssLknSDf6f0JDyQCoH51D4GYLSju_wh4smA6-2yE3Z7I30SPeuY8LOKA__Y9xPiU66t1aPsHTzuRnX0QUq2iadcKXFfv7ZhAhcXti_BDnrmu/s1600/code.jpg"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts. The attacks have targeted financial services, healthcare, and legal services located in ",
-      "ts": 1795588626000,
-      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCQn2zL8-RpfdhDeb1Zmyn46vLk1s9lerpXtGlcMkN5IGF9nlhEejtwoOXwhznjS7JVrix_FeG_G6yJ6Jb8mI31CU4Mi2dndKvLp-4nG4wWsqMaBpI60HFIk5d8_5uIxj6XEjSt4sixJYkJN8Xeqs4OrgSzOPK48esNtXbQ_FgtVe67B_WZkfpuUSEiD7/s1600/vishing.jpg"
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "India as AI play",
       "summary": "The downsides are overstated, the upside overlooked",
       "ts": 1795588202000,
       "link": "https://www.ft.com/content/f3e59769-6b74-4dfc-913a-985286847ff0?syn-25a6b1a6=1"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "AI is not the cure-all for drug development",
-      "summary": "Investors need to understand how the technology fits in with the difficult and complex discovery process",
-      "ts": 1795582822000,
-      "link": "https://www.ft.com/content/86cef5ab-ce61-4b50-8511-164aa3e5f499?syn-25a6b1a6=1"
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Nvidia CEO Jensen Huang apologises to staff, reportedly says he's in daily therapy",
-      "summary": "Huang got his old job back on Tuesday, after resigning as chief executive earlier this month over two affairs.",
-      "ts": 1795580863000,
-      "link": "https://www.rnz.co.nz/news/business/2772690/nvidia-ceo-jensen-huang-apologises-to-staff-reportedly-says-he-s-in-daily-therapy",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--MNc8cJ3d--/t_tohu-badge-facebook/f_auto/q_auto/4JF8C75_AFP__20260716__C2CE4GU__v1__HighRes__JapanUsAiNvidiaShipsKawasakiGamesSega_jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-      "ts": 1795568053000,
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "source": "Hugging Face",
@@ -460,15 +460,6 @@
       "ts": 1795541674000,
       "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg"
-    },
-    {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "summary": "",
-      "ts": 1795538053000,
-      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png"
     },
     {
       "source": "Google AI",
