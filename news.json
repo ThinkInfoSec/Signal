@@ -1,14 +1,158 @@
 {
-  "generated": "2026-11-26T18:41:22Z",
+  "generated": "2026-11-27T01:58:04Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "ts": 1795743930000,
+      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Guinea-Bissau presidential election delayed by two years",
-      "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
-      "ts": 1795716438000,
-      "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b086d135f5d-1795714323.jpg?resize=1920%2C1440"
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
+      "ts": 1795743842000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/trump-oil-thumbnail-1795743787.png?resize=1200%2C675"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "summary": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
+      "ts": 1795743383000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-UEFA-2611-1795743260.png?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "ts": 1795741664000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "ts": 1795740731000,
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Inside Ukraine’s power crisis amid its war with Russia",
+      "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+      "ts": 1795740379000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "America’s Thanksgiving holiday seen through different eyes",
+      "summary": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
+      "ts": 1795740088000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740082.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Argentina bars Central Bank from printing money to fund government spending",
+      "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+      "ts": 1795738276000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "summary": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+      "ts": 1795737600000,
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T114809Z_325563367_RC2L3LAZPF22_RTRMADP_3_IRAN-CRISIS-TANKERS-CMBTECH-1795731128.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+      "summary": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
+      "ts": 1795736237000,
+      "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08b161a8463-1795731809.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "Sydney Airport incident involving Qantas and Air NZ planes under investigation",
+      "summary": "The Australian Transport Safety Bureau is investigating an incident at Sydney Airport involving Qantas and Air New Zealand aircraft.",
+      "ts": 1795735617000,
+      "link": "https://www.rnz.co.nz/news/world/2809117/sydney-airport-incident-involving-qantas-and-air-nz-planes-under-investigation",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--3vC6C2vo--/t_tohu-badge-facebook/f_auto/q_auto/4M8J4BL_image_crop_124938"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "ts": 1795733367000,
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "ts": 1795730482000,
+      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+      "ts": 1795727182000,
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/04/11/OpenAI-headpic.jpg"
+    },
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "I stopped waiting for Mr Right and had the baby I wanted",
+      "summary": "For many years, Jane Biggin felt the pressure to find a partner before it was too late.",
+      "ts": 1795726498000,
+      "link": "https://www.rnz.co.nz/life/relationships/family/the-path-to-solo-motherhood-was-filled-with-fear-and-loss-but-i-ve-never-been-happier",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--K333M6_V--/t_tohu-badge-facebook/f_auto/q_auto/4JEIO7K_jane3_avif"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then",
+      "ts": 1795721997000,
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "ts": 1795721176000,
+      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -18,60 +162,6 @@
       "ts": 1795715922000,
       "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
       "image": "https://www.bleepstatic.com/content/posts/2026/11/26/nordvpn-blackfriday-2026.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "ts": 1795715662000,
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
-      "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
-      "ts": 1795715624000,
-      "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261126__D8NR9MQ__v1__HighRes__BelgiumEuCouncilSummit-1795708617.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-      "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
-      "ts": 1795714736000,
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Netanyahu’s corruption trial: Is it really all over?",
-      "summary": "Court recommendations put the Israeli leader's trial, political future and efforts to evade prosecution back in focus.",
-      "ts": 1795714682000,
-      "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-28T150140Z_637646020_RC23NMAX1FK2_RTRMADP_3_USA-TRUMP-1785251853.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Syrian children continue learning amid the ruins of war in Idlib",
-      "summary": "Syria reopened a semi destroyed school in Idlib province",
-      "ts": 1795714341000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-99.00_00_05_04.Still002-1795714440.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
-      "summary": "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould.",
-      "ts": 1795713504000,
-      "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0859c77259-1795709383.jpg?resize=1920%2C1440"
     },
     {
       "source": "BleepingComputer",
@@ -91,33 +181,6 @@
       "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1"
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "How a teen’s death raises questions about Colombia’s security crackdown",
-      "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
-      "ts": 1795711799000,
-      "link": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9BM766__v1__HighRes__ColombiaConflictDrugs-1795137721.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-      "summary": "The Italians were technicians working at an air-defence surveillance station.",
-      "ts": 1795710751000,
-      "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spanish economist to become new European Central Bank chief",
-      "summary": "Economist Pablo Hernandez de Cos was announced after a meeting of eurozone leaders.",
-      "ts": 1795710054000,
-      "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=1920%2C1440"
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
@@ -125,15 +188,6 @@
       "ts": 1795706608000,
       "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/11/25/Gmail.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "ts": 1795706238000,
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
     },
     {
       "source": "The Hacker News",
@@ -154,15 +208,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-      "ts": 1795703722000,
-      "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg"
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "Come for the Games, Stay for the Community With GeForce NOW",
@@ -178,15 +223,6 @@
       "summary": "An interview with Jason Furman, economics professor at Harvard University and former chair of President Obama’s Council of Economic Advisors",
       "ts": 1795696206000,
       "link": "https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-      "ts": 1795695366000,
-      "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg"
     },
     {
       "source": "Financial Times",
@@ -364,15 +400,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/robot.jpg"
     },
     {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "Chef Gordon Ramsay to host new Top Gear series",
-      "summary": "Top Gear will return in 2028 with celebrity chef Gordon Ramsay as lead host alongside a new lineup of co-presenters, yet to be announced.",
-      "ts": 1795634508000,
-      "link": "https://www.rnz.co.nz/life/screens/tv/top-gear-to-return-in-2028-with-celebrity-chef-gordon-ramsay-as-lead-host",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--WNdF4aRi--/t_tohu-badge-facebook/f_auto/q_auto/4JEKM1D_AFP__20251201__porzycki_f1grandp251130_npwHg__v1__HighRes__F1GrandPrixOfQatar2025_jpg"
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Where scientists draw the line on AI agents",
@@ -399,15 +426,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia-500x500.jpg"
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
-      "ts": 1795623220000,
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/25/danfoss.jpg"
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
@@ -415,15 +433,6 @@
       "ts": 1795610934000,
       "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspicious activity reports",
-      "ts": 1795609808000,
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg"
     },
     {
       "source": "Ars Technica",
@@ -809,15 +818,6 @@
       "ts": 1794924010000,
       "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg"
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK inst",
-      "ts": 1794870005000,
-      "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg"
     }
   ]
 }
