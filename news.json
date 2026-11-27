@@ -1,14 +1,270 @@
 {
-  "generated": "2026-11-27T10:46:41Z",
+  "generated": "2026-11-27T19:42:03Z",
   "items": [
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+      "ts": 1795807564000,
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/pcloud-logo.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+      "ts": 1795805862000,
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/bostonscientific.jpg"
+    },
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "ts": 1795775188000,
-      "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg"
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "ts": 1795805553000,
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "ts": 1795804970000,
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+      "ts": 1795803605000,
+      "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI and the decryption nightmare",
+      "summary": "New breakthroughs call for faster upgrades to security, not panic",
+      "ts": 1795803507000,
+      "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Can AI crack encryption?",
+      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+      "ts": 1795803411000,
+      "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "ts": 1795802440000,
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+      "summary": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
+      "ts": 1795802316000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09bc8a-1795800202.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+      "summary": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+      "ts": 1795801490000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801461.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+      "summary": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
+      "ts": 1795801473000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09af2d-1795796781.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+      "summary": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom's security during talks in Islamabad.",
+      "ts": 1795801284000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T174040Z_425394469_RC2HWOAU45OQ_RTRMADP_3_SAUDI-DEFENCE-AGREEMENT-1-1795806164.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Why India’s captain wants saliva back in cricket",
+      "summary": "India captain Shubman Gill wants cricket’s Covid-era saliva ban relaxed after a five-day Test in Wellington.",
+      "ts": 1795801197000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801189.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks rise in latest market swing",
+      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+      "ts": 1795800443000,
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "ts": 1795799971000,
+      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+      "summary": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
+      "ts": 1795799735000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b09b547f029a-1795798343.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "summary": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
+      "ts": 1795799626000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b099d3113c10-1795792177.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+      "ts": 1795799173000,
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/cacti.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
+      "summary": "Elon Musk wants to move AI data centres into space, where near-constant sunlight could help power them.",
+      "ts": 1795798445000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Thumbnail_-H-clean-1795798312.png?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "ts": 1795798426000,
+      "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveL",
+      "ts": 1795797371000,
+      "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj19T-kU1dmVfKt2PtUQ2I25MGovj8kmv6lMkk6inlif4yLeezJS4kVRTvsARL5UkpTT66jYru6k2b5bmWfjjlkmG4JznSKmkmd4ldXcyxTw3xsU5nP6_jxfWMw9thW37m5usfr-eWAZBHq6bPuS613CIx9XgWxPcSVFcZVgz_9tWd5Nu8YWAxexuqcVPrN/s1600/data.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "ts": 1795794855000,
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+      "ts": 1795792180000,
+      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/air-force-red-blue-2.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these risks. [...]",
+      "ts": 1795791610000,
+      "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "image": "https://www.bleepstatic.com/content/posts/2026/11/23/ispsystem-vm.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]",
+      "ts": 1795789326000,
+      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "image": "https://www.bleepstatic.com/content/posts/2026/11/26/malwarebytes_black-friday-2026.jpg"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Delaware’s dangerous plan for autonomous AI companies",
+      "summary": "US state’s proposed law would gut human accountability for agentic AI",
+      "ts": 1795780805000,
+      "link": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e?syn-25a6b1a6=1"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from",
+      "ts": 1795780174000,
+      "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "ts": 1795779880000,
+      "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+      "ts": 1795778316000,
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/Windows-Server.jpg"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone pulls them together ",
+      "ts": 1795775538000,
+      "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -20,121 +276,13 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/Drupal_headpic.jpg"
     },
     {
-      "source": "BleepingComputer",
+      "source": "The Hacker News",
       "cat": "cyber",
-      "title": "SAP confirms security incident after suspicious GitHub activity",
-      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
-      "ts": 1795773396000,
-      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/sap.jpg"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-      "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
-      "ts": 1795772581000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/07/2023-05-16T204100Z_1454706077_RC2WZ0ATGSU9_RTRMADP_3_USA-DEBT-1721708842.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
-      "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
-      "ts": 1795770496000,
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/18/Windows--Server.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "ts": 1795770468000,
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "South Korea sends rescued fishermen back to North",
-      "summary": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
-      "ts": 1795770140000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8RN29E__v1__MidRes__SkoreaNkoreaDiplomacyPolitics-1795765447.jpg?resize=1200%2C630"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-      "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
-      "ts": 1795769888000,
-      "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
-      "summary": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
-      "ts": 1795769857000,
-      "link": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-07-22T100340Z_2125207681_RC2HPO93O73V_RTRMADP_3_OLYMPICS-2020-INDIA-1795768349.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
-      "summary": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
-      "ts": 1795768790000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0e2a6c-1779313260_6da276-1779323018.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-      "summary": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
-      "ts": 1795768672000,
-      "link": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Police bodycam shows rescue of man from burning car in US",
-      "summary": "Dramatic police bodycam video shows the moment an officer and a passing motorist rescued a man inside a burning car",
-      "ts": 1795767899000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-clean-1795767855.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Deadly floods leave parts of Ecuador under water",
-      "summary": "Deadly floods have submerged homes, businesses and roads across Ecuador.",
-      "ts": 1795767858000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795767703.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
-      "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
-      "ts": 1795766818000,
-      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Linux_tux.jpg"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "New Zealand election results set up tricky talks for conservative incumbent",
-      "summary": "Conservative PM Luxon and populist coalition partners face negotiations with centrist kingmaker.",
-      "ts": 1795766132000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T032401Z_831668121_RC22WOAN8LR8_RTRMADP_3_NEW-ZEALAND-POLITICS-1795762066.jpg?resize=1920%2C1440"
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated not only when users downloaded the programs directly from the official",
+      "ts": 1795771770000,
+      "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
     },
     {
       "source": "The Hacker News",
@@ -146,6 +294,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg"
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+      "ts": 1795759419000,
+      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
@@ -153,15 +310,6 @@
       "ts": 1795758500000,
       "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-      "ts": 1795756526000,
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg"
     },
     {
       "source": "Financial Times",
@@ -180,13 +328,13 @@
       "link": "https://www.ft.com/content/da45883c-6612-4071-b363-a826c6edb085?syn-25a6b1a6=1"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-      "ts": 1795750095000,
-      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+      "source": "Hugging Face",
+      "cat": "ai",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "ts": 1795737600000,
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg"
     },
     {
       "source": "RNZ World",
@@ -196,15 +344,6 @@
       "ts": 1795735617000,
       "link": "https://www.rnz.co.nz/news/world/2809117/sydney-airport-incident-involving-qantas-and-air-nz-planes-under-investigation",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--3vC6C2vo--/t_tohu-badge-facebook/f_auto/q_auto/4M8J4BL_image_crop_124938"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-      "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
-      "ts": 1795727182000,
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/04/11/OpenAI-headpic.jpg"
     },
     {
       "source": "RNZ World",
@@ -225,24 +364,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-      "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
-      "ts": 1795715922000,
-      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
-      "image": "https://www.bleepstatic.com/content/posts/2026/11/26/nordvpn-blackfriday-2026.jpg"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
-      "ts": 1795713327000,
-      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/Phishing.jpg"
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
@@ -251,31 +372,13 @@
       "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1"
     },
     {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
-      "ts": 1795706608000,
-      "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/25/Gmail.jpg"
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published this week. \"When Pyt",
+      "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as February 2025. \"These are real developers, not throwaway accounts,\" Ap",
       "ts": 1795706021000,
       "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "ts": 1795704266000,
-      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg"
     },
     {
       "source": "NVIDIA",
@@ -287,22 +390,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-November_26.jpg"
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Can AI replace economics PhDs?",
-      "summary": "An interview with Jason Furman, economics professor at Harvard University and former chair of President Obama’s Council of Economic Advisors",
-      "ts": 1795696206000,
-      "link": "https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Nintendo and Sony ready for a two-level battle with AI",
-      "summary": "Idea that the processing power behind games will one day reside in the cloud is something the industry must plan for",
-      "ts": 1795694372000,
-      "link": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c?syn-25a6b1a6=1"
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -312,58 +399,6 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png"
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Backlash over AI power costs threatens $67bn NextEra-Dominion deal",
-      "summary": "Tie-up faces fierce opposition as anger over soaring electricity bills spills into Wall Street dealmaking",
-      "ts": 1795690806000,
-      "link": "https://www.ft.com/content/1f4095cb-c032-414f-9858-554c8b82b145?syn-25a6b1a6=1"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "VC investors dump old funds at steep discounts to chase AI riches",
-      "summary": "Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for next-generation tech start-ups",
-      "ts": 1795690806000,
-      "link": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get pas",
-      "ts": 1795690675000,
-      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYXUiExbrrmBGGBgTjOFcDJSrLYJuITQwZY-l1mOzzkes21-mR0My9ikeCM7cI6VDXuBIE9BZPnKazemiuZf7A4w_xeeMy_IUUlNVTKX3PmW-Xt7FA9UI8JoICZDPW4ZWSspztPv_Mo4Zf7G_fXEw_phMe4uc89O38ugIlQJJKmc6VD7QN3NzU0n0SQU/s1600/push-most.jpg"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incide",
-      "ts": 1795690645000,
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka F",
-      "ts": 1795676554000,
-      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2EcytpsKiKLhUfvQEADKBG6Ht2NprR2VIhIXPJcNQMIGqKT20l0afBPUVhehKFhRzpkHvl3Qu_qaPjFL3L4UsLYH3L4C1DM63zqskhJV1UAjaPqONaEbNkBFsxVDX2jpPZrMym52WvBx2pHktUiRfdXOcp_23xjTdUOxxjxJtI906XLMmw258Bjah1J2/s1600/drupal-rce.png"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS s",
-      "ts": 1795675486000,
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht82Zul6A6D_rTYZuOr0QQWkA4p8kQXRI-4qAYhdGBdTR0ZNzlHkHCiz3eSv5wm9Gq1rADX0CIEBUu08HBUbWd4fVKtL6f7UrWcaa_nVetYt0DyPj2-f_yM80HEIUbuy57mpftPYHHp1FKCNXvkDnFtsj-V5PWGUvWiNL38OKY3EIKUwKHuoKsIc4oSXeC/s1600/mitel.jpg"
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -371,32 +406,6 @@
       "ts": 1795669536000,
       "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Software stocks spared in tech rout as AI narrative shifts",
-      "summary": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
-      "ts": 1795669229000,
-      "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
-      "ts": 1795669227000,
-      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-      "ts": 1795669224000,
-      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png"
     },
     {
       "source": "Hugging Face",
@@ -667,15 +676,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600"
     },
     {
-      "source": "Hugging Face",
-      "cat": "ai",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "summary": "",
-      "ts": 1795132800000,
-      "link": "https://huggingface.co/blog/inkling2mini",
-      "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png"
-    },
-    {
       "source": "NVIDIA",
       "cat": "ai",
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -782,33 +782,6 @@
       "ts": 1794970324000,
       "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
       "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/zoom-reporturi.png"
-    },
-    {
-      "source": "Google AI",
-      "cat": "ai",
-      "title": "Put Gemini to work for you",
-      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
-      "ts": 1794934800000,
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "Research Reports",
-      "summary": "To access a report, click on the corresponding image below.",
-      "ts": 1794926386000,
-      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png"
-    },
-    {
-      "source": "NVIDIA",
-      "cat": "ai",
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for",
-      "ts": 1794924010000,
-      "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg"
     }
   ]
 }
