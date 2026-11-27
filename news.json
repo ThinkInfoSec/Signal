@@ -1,95 +1,192 @@
 {
-  "generated": "2026-11-27T01:58:04Z",
+  "generated": "2026-11-27T10:46:41Z",
   "items": [
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-      "ts": 1795743930000,
-      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "ts": 1795775188000,
+      "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+      "ts": 1795774215000,
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/Drupal_headpic.jpg"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+      "ts": 1795773396000,
+      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/sap.jpg"
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
-      "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
-      "ts": 1795743842000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/trump-oil-thumbnail-1795743787.png?resize=1200%2C675"
+      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
+      "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
+      "ts": 1795772581000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/07/2023-05-16T204100Z_1454706077_RC2WZ0ATGSU9_RTRMADP_3_USA-DEBT-1721708842.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+      "ts": 1795770496000,
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/18/Windows--Server.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "ts": 1795770468000,
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-      "summary": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
-      "ts": 1795743383000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-UEFA-2611-1795743260.png?resize=1920%2C1080&quality=80"
+      "title": "South Korea sends rescued fishermen back to North",
+      "summary": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
+      "ts": 1795770140000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8RN29E__v1__MidRes__SkoreaNkoreaDiplomacyPolitics-1795765447.jpg?resize=1200%2C630"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+      "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+      "ts": 1795769888000,
+      "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg"
     },
     {
       "source": "Al Jazeera",
       "cat": "geo",
-      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-      "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-      "ts": 1795741664000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=1920%2C1440"
+      "title": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
+      "summary": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
+      "ts": 1795769857000,
+      "link": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-07-22T100340Z_2125207681_RC2HPO93O73V_RTRMADP_3_OLYMPICS-2020-INDIA-1795768349.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+      "summary": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
+      "ts": 1795768790000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0e2a6c-1779313260_6da276-1779323018.jpg?resize=1200%2C630&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+      "summary": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
+      "ts": 1795768672000,
+      "link": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Police bodycam shows rescue of man from burning car in US",
+      "summary": "Dramatic police bodycam video shows the moment an officer and a passing motorist rescued a man inside a burning car",
+      "ts": 1795767899000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-clean-1795767855.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Deadly floods leave parts of Ecuador under water",
+      "summary": "Deadly floods have submerged homes, businesses and roads across Ecuador.",
+      "ts": 1795767858000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795767703.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "BleepingComputer",
+      "cat": "cyber",
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+      "ts": 1795766818000,
+      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Linux_tux.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "New Zealand election results set up tricky talks for conservative incumbent",
+      "summary": "Conservative PM Luxon and populist coalition partners face negotiations with centrist kingmaker.",
+      "ts": 1795766132000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T032401Z_831668121_RC22WOAN8LR8_RTRMADP_3_NEW-ZEALAND-POLITICS-1795762066.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disrupt",
+      "ts": 1795759460000,
+      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT. \"I found a path from a fr",
+      "ts": 1795758500000,
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png"
     },
     {
       "source": "BBC World",
       "cat": "geo",
       "title": "Major Thanksgiving storm brings flooding, flight delays across US",
       "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-      "ts": 1795740731000,
+      "ts": 1795756526000,
       "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg"
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Inside Ukraine’s power crisis amid its war with Russia",
-      "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
-      "ts": 1795740379000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80"
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Do I need an AI art adviser?",
+      "summary": "Buyers can now call on the help of chatbots and data-driven platforms — but the technology raises questions about whether taste can and should be engineered",
+      "ts": 1795755613000,
+      "link": "https://www.ft.com/content/80a5266d-72e1-4f55-976f-e169b440066b"
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "America’s Thanksgiving holiday seen through different eyes",
-      "summary": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
-      "ts": 1795740088000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740082.jpg?resize=1920%2C1080&quality=80"
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Roughnecks lose out to AI as automation in the oil industry gathers pace",
+      "summary": "Artificial intelligence is helping to drill wells faster and replacing workers in some of the most dangerous jobs",
+      "ts": 1795755604000,
+      "link": "https://www.ft.com/content/da45883c-6612-4071-b363-a826c6edb085?syn-25a6b1a6=1"
     },
     {
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "cat": "geo",
-      "title": "Argentina bars Central Bank from printing money to fund government spending",
-      "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
-      "ts": 1795738276000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-      "summary": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
-      "ts": 1795737600000,
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T114809Z_325563367_RC2L3LAZPF22_RTRMADP_3_IRAN-CRISIS-TANKERS-CMBTECH-1795731128.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
-      "summary": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
-      "ts": 1795736237000,
-      "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08b161a8463-1795731809.jpg?resize=1920%2C1440"
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "ts": 1795750095000,
+      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
     },
     {
       "source": "RNZ World",
@@ -99,24 +196,6 @@
       "ts": 1795735617000,
       "link": "https://www.rnz.co.nz/news/world/2809117/sydney-airport-incident-involving-qantas-and-air-nz-planes-under-investigation",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--3vC6C2vo--/t_tohu-badge-facebook/f_auto/q_auto/4M8J4BL_image_crop_124938"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-      "ts": 1795733367000,
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "ts": 1795730482000,
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -144,15 +223,6 @@
       "ts": 1795721997000,
       "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-      "ts": 1795721176000,
-      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -205,7 +275,7 @@
       "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
       "ts": 1795704266000,
       "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg"
     },
     {
       "source": "NVIDIA",
@@ -231,15 +301,6 @@
       "summary": "Idea that the processing power behind games will one day reside in the cloud is something the industry must plan for",
       "ts": 1795694372000,
       "link": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c?syn-25a6b1a6=1"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
-      "ts": 1795693817000,
-      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/26/Gmail,Outlook_browser_inboxe.png"
     },
     {
       "source": "Hugging Face",
@@ -338,15 +399,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png"
     },
     {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a",
-      "ts": 1795664932000,
-      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0w3YJQrn6VoUVUTTj46NLfeL_JJE-sDoxKsuBe-_OxBtQ3iX8AZTZ1CEn39-N5TGKYd-0ZKdOT43UwAWUbpIXlFdDwhyphenhyphenEKpkQVVJYJVodQRHyz0pJeKEvJIJgUpAEQqXizajmrriq9Mj1aqioeK1Zug__X26Ra4HwzFg8ImTajGc6b7Ck9LW2OCIpPoa/s1600/dotnet.jpg"
-    },
-    {
       "source": "Hugging Face",
       "cat": "ai",
       "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
@@ -354,50 +406,6 @@
       "ts": 1795651200000,
       "link": "https://huggingface.co/blog/training-swarms",
       "image": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-      "ts": 1795644309000,
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/11/25/paloalto.jpg"
-    },
-    {
-      "source": "RNZ World",
-      "cat": "geo",
-      "title": "'My new friend Rylan': Jack Johnson pulls Kiwi fan on stage to perform",
-      "summary": "Rylan Urquhart picked up the guitar as a kid thanks to the American star. Fourteen years later, he found himself on stage performing with his idol.",
-      "ts": 1795643612000,
-      "link": "https://www.rnz.co.nz/life/music/my-new-friend-rylan-jack-johnson-pulls-kiwi-fan-on-stage-to-perform",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--11y3lr3q--/t_tohu-badge-facebook/f_auto/q_auto/4JER3JW_Rylan_Photos__Jack_Johnson__Molly_Doyle_261122_7_jpg"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "1Password customer data stolen after employee GitHub account breach",
-      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
-      "ts": 1795642413000,
-      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/10/23/1Password_binary.jpg"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US stocks close lower in volatile session as AI trade remains under pressure",
-      "summary": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher",
-      "ts": 1795641993000,
-      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
-    },
-    {
-      "source": "BleepingComputer",
-      "cat": "cyber",
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-      "ts": 1795635571000,
-      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/robot.jpg"
     },
     {
       "source": "Hugging Face",
@@ -409,14 +417,6 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png"
     },
     {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "The fund manager’s dilemma over AI",
-      "summary": "Assessing concentration risks may be more complicated than it seems",
-      "ts": 1795629953000,
-      "link": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1"
-    },
-    {
       "source": "Ars Technica",
       "cat": "ai",
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -424,15 +424,6 @@
       "ts": 1795625234000,
       "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia-500x500.jpg"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to acc",
-      "ts": 1795610934000,
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png"
     },
     {
       "source": "Ars Technica",
