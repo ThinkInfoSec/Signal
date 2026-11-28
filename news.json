@@ -1,6 +1,147 @@
 {
-  "generated": "2026-11-27T19:42:03Z",
+  "generated": "2026-11-28T02:16:06Z",
   "items": [
+    {
+      "source": "RNZ World",
+      "cat": "geo",
+      "title": "The British are in a sex slump – is this the case for New Zealand?",
+      "summary": "A study of 40,000 people over three decades found Britons are having less sex, and local experts have thoughts on why the same is happening here.",
+      "ts": 1795831260000,
+      "link": "https://www.rnz.co.nz/life/relationships/love-and-sex/the-british-are-having-less-sex-is-this-the-case-for-new-zealanders",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--0SC1DiWG--/t_tohu-badge-facebook/f_auto/q_auto/4JNI908_becca_tapert_F0ZiHWliGGM_unsplash_jpg"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The Chinese car champion turning to police and nurse robots",
+      "summary": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+      "ts": 1795827607000,
+      "link": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+      "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+      "ts": 1795827600000,
+      "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "ts": 1795827415000,
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
+      "summary": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
+      "ts": 1795824740000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-francesca-1795824697.png?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+      "summary": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+      "ts": 1795824000000,
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+      "summary": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
+      "ts": 1795823823000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a0bec-1795820524.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US disables ship attempting to breach Iran blockade",
+      "summary": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
+      "ts": 1795823716000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+      "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
+      "ts": 1795820944000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09705fad-1795780703.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+      "ts": 1795820408000,
+      "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+      "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+      "ts": 1795818797000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+      "ts": 1795818122000,
+      "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "ts": 1795816553000,
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "ts": 1795811685000,
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "US tech stocks rise in latest market swing",
+      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+      "ts": 1795810089000,
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "ts": 1795809991000,
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
+    },
     {
       "source": "BleepingComputer",
       "cat": "cyber",
@@ -22,28 +163,11 @@
     {
       "source": "BBC World",
       "cat": "geo",
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-      "ts": 1795805553000,
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
       "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
       "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
       "ts": 1795804970000,
       "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "OpenAI countersues Apple for stealing trade secrets",
-      "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
-      "ts": 1795803605000,
-      "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
     },
     {
       "source": "Financial Times",
@@ -71,86 +195,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
-      "summary": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
-      "ts": 1795802316000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09bc8a-1795800202.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
-      "summary": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
-      "ts": 1795801490000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801461.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-      "summary": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
-      "ts": 1795801473000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09af2d-1795796781.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
-      "summary": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom's security during talks in Islamabad.",
-      "ts": 1795801284000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T174040Z_425394469_RC2HWOAU45OQ_RTRMADP_3_SAUDI-DEFENCE-AGREEMENT-1-1795806164.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Why India’s captain wants saliva back in cricket",
-      "summary": "India captain Shubman Gill wants cricket’s Covid-era saliva ban relaxed after a five-day Test in Wellington.",
-      "ts": 1795801197000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801189.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "US tech stocks rise in latest market swing",
-      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
-      "ts": 1795800443000,
-      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-      "ts": 1795799971000,
-      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-      "summary": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
-      "ts": 1795799735000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b09b547f029a-1795798343.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-      "summary": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
-      "ts": 1795799626000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b099d3113c10-1795792177.jpg?resize=1920%2C1440"
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
@@ -158,24 +202,6 @@
       "ts": 1795799173000,
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/cacti.jpg"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
-      "summary": "Elon Musk wants to move AI data centres into space, where near-constant sunlight could help power them.",
-      "ts": 1795798445000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Thumbnail_-H-clean-1795798312.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
-      "ts": 1795798426000,
-      "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
     },
     {
       "source": "The Hacker News",
@@ -240,15 +266,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "ts": 1795779880000,
-      "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg"
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "Microsoft removes WSUS server role in Windows Server 2028",
@@ -285,6 +302,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
     },
     {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "ts": 1795767223000,
+      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg"
+    },
+    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
@@ -292,15 +318,6 @@
       "ts": 1795759460000,
       "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-      "ts": 1795759419000,
-      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "source": "The Hacker News",
@@ -362,14 +379,6 @@
       "ts": 1795721997000,
       "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
-      "summary": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
-      "ts": 1795713220000,
-      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1"
     },
     {
       "source": "The Hacker News",
