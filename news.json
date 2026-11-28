@@ -1,6 +1,156 @@
 {
-  "generated": "2026-11-28T02:16:06Z",
+  "generated": "2026-11-28T10:39:53Z",
   "items": [
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "ts": 1795862098000,
+      "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "ts": 1795860877000,
+      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb14/live/1c031d10-eb16-11f1-90b9-a9d17de9c0bd.png"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Several students killed in blast beside Afghan school",
+      "summary": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+      "ts": 1795860326000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Hurriyat_Radio_Pashto_-______________________________________________________________________UdX8dZ.mp4.00_00_01_02.Still001-1795860302.jpg?resize=1200%2C630"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Kenyan starvation cult leader found guilty over deaths of 123 followers",
+      "summary": "Paul Mackenzie was convicted of manslaughter over the deaths of 123 followers.",
+      "ts": 1795859951000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795859745.jpg?resize=1620%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Gaza’s chess players survive a genocide and rebuild a community",
+      "summary": "Gaza's chess players are returning to the sport after three years of genocide.",
+      "ts": 1795858905000,
+      "link": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%B3%D8%AA%D9%84%D9%8A%D9%85%D8%AA-1795850701.jpg?resize=1200%2C630"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+      "summary": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+      "ts": 1795858515000,
+      "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T161010Z_1023982243_RC2OVOATOQZJ_RTRMADP_3_IRAN-CRISIS-YEMEN-AFTERMATH-1795854548.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Spain faces political shift as far right gains ground",
+      "summary": "Spain faces political shift as far right gains ground",
+      "ts": 1795856042000,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795856034.jpg?resize=1539%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "What can we learn from successful peace deals? | Episode 2",
+      "summary": "Top conflict negotiators who brokered historic peace deals reveal the secrets to ending intractable wars.",
+      "ts": 1795854600000,
+      "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/28/what-can-we-learn-from-successful-peace-deals-episode-2?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795822318.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
+      "summary": "In litter-strewn Khartoum, disease and rubble threaten health.",
+      "ts": 1795854243000,
+      "link": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260812__C4GH963__v1__MidRes__SudanConflictDroneKhartoum-1793611389.jpg?resize=1200%2C630"
+    },
+    {
+      "source": "The Hacker News",
+      "cat": "cyber",
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of p",
+      "ts": 1795853291000,
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizySCkvtf5mXH_3zoxzuk-QyEdUnYmspglEsVYdqRITloUFrUDZCQJcwtQG09teFmXo2IJOknOQb7CXhUpjKjGnadD6TuOIvVWIoWmKcaxb8-1uwf-3AiXZPYCFf2RzDkHNZ06d2Q5OS6AcCV7JHjTACCJH2f5aipC8vllpOwj1dSBYQJtqJ_wDc5nXQwU/s1600/pcloud.jpg"
+    },
+    {
+      "source": "Al Jazeera",
+      "cat": "geo",
+      "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
+      "summary": "Albanese leaves the Costa Rican airport where she has been held after the court orders her to be released from the premises.",
+      "ts": 1795853118000,
+      "link": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a91b9-1795854777.jpg?resize=1920%2C1440"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "ts": 1795851074000,
+      "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "Why Jensen Huang’s daily therapy sets a healthy example",
+      "summary": "Seeking to alleviate mental health problems is one more global challenge tech innovators could take on",
+      "ts": 1795842032000,
+      "link": "https://www.ft.com/content/cc26cc08-6d49-4e33-933c-6ccd5e8064e4?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "The mathematicians living through an AI revolution",
+      "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
+      "ts": 1795842032000,
+      "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1"
+    },
+    {
+      "source": "Financial Times",
+      "cat": "ai",
+      "title": "AI agents are coming for big business",
+      "summary": "The technology could unleash much greater competition. But users are wary of giving away too much",
+      "ts": 1795842014000,
+      "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "ts": 1795839556000,
+      "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
+    },
+    {
+      "source": "BBC World",
+      "cat": "geo",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "ts": 1795839225000,
+      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg"
+    },
     {
       "source": "RNZ World",
       "cat": "geo",
@@ -19,15 +169,6 @@
       "link": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1"
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-      "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
-      "ts": 1795827600000,
-      "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440"
-    },
-    {
       "source": "BBC World",
       "cat": "geo",
       "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
@@ -37,75 +178,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
     },
     {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
-      "summary": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
-      "ts": 1795824740000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-francesca-1795824697.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
-      "summary": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
-      "ts": 1795824000000,
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
-      "summary": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
-      "ts": 1795823823000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a0bec-1795820524.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US disables ship attempting to breach Iran blockade",
-      "summary": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
-      "ts": 1795823716000,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-      "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
-      "ts": 1795820944000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09705fad-1795780703.jpg?resize=1920%2C1440"
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "OpenAI countersues Apple for stealing trade secrets",
       "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
       "ts": 1795820408000,
       "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
-      "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
-      "ts": 1795818797000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440"
-    },
-    {
-      "source": "Al Jazeera",
-      "cat": "geo",
-      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-      "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
-      "ts": 1795818122000,
-      "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=1920%2C1440"
     },
     {
       "source": "BBC World",
@@ -117,30 +195,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "ts": 1795811685000,
-      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
       "source": "Financial Times",
       "cat": "ai",
       "title": "US tech stocks rise in latest market swing",
       "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
       "ts": 1795810089000,
       "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-      "ts": 1795809991000,
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "source": "BleepingComputer",
@@ -159,15 +219,6 @@
       "ts": 1795805862000,
       "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/bostonscientific.jpg"
-    },
-    {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "ts": 1795804970000,
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "source": "Financial Times",
@@ -213,15 +264,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj19T-kU1dmVfKt2PtUQ2I25MGovj8kmv6lMkk6inlif4yLeezJS4kVRTvsARL5UkpTT66jYru6k2b5bmWfjjlkmG4JznSKmkmd4ldXcyxTw3xsU5nP6_jxfWMw9thW37m5usfr-eWAZBHq6bPuS613CIx9XgWxPcSVFcZVgz_9tWd5Nu8YWAxexuqcVPrN/s1600/data.jpg"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
-      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-      "ts": 1795794855000,
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
       "source": "BleepingComputer",
       "cat": "cyber",
       "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
@@ -247,14 +289,6 @@
       "ts": 1795789326000,
       "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
       "image": "https://www.bleepstatic.com/content/posts/2026/11/26/malwarebytes_black-friday-2026.jpg"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Delaware’s dangerous plan for autonomous AI companies",
-      "summary": "US state’s proposed law would gut human accountability for agentic AI",
-      "ts": 1795780805000,
-      "link": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e?syn-25a6b1a6=1"
     },
     {
       "source": "The Hacker News",
@@ -302,15 +336,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
     },
     {
-      "source": "BBC World",
-      "cat": "geo",
-      "title": "Millions of wives in South Asia unprotected from marital rape - study",
-      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
-      "ts": 1795767223000,
-      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg"
-    },
-    {
       "source": "The Hacker News",
       "cat": "cyber",
       "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
@@ -327,22 +352,6 @@
       "ts": 1795758500000,
       "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Do I need an AI art adviser?",
-      "summary": "Buyers can now call on the help of chatbots and data-driven platforms — but the technology raises questions about whether taste can and should be engineered",
-      "ts": 1795755613000,
-      "link": "https://www.ft.com/content/80a5266d-72e1-4f55-976f-e169b440066b"
-    },
-    {
-      "source": "Financial Times",
-      "cat": "ai",
-      "title": "Roughnecks lose out to AI as automation in the oil industry gathers pace",
-      "summary": "Artificial intelligence is helping to drill wells faster and replacing workers in some of the most dangerous jobs",
-      "ts": 1795755604000,
-      "link": "https://www.ft.com/content/da45883c-6612-4071-b363-a826c6edb085?syn-25a6b1a6=1"
     },
     {
       "source": "Hugging Face",
@@ -379,15 +388,6 @@
       "ts": 1795721997000,
       "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
-    },
-    {
-      "source": "The Hacker News",
-      "cat": "cyber",
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as February 2025. \"These are real developers, not throwaway accounts,\" Ap",
-      "ts": 1795706021000,
-      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg"
     },
     {
       "source": "NVIDIA",
@@ -773,24 +773,6 @@
       "ts": 1795010431000,
       "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg"
-    },
-    {
-      "source": "MIT Technology Review",
-      "cat": "ai",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the worl",
-      "ts": 1794997230000,
-      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840"
-    },
-    {
-      "source": "Krebs on Security",
-      "cat": "cyber",
-      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malici",
-      "ts": 1794970324000,
-      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/11/zoom-reporturi.png"
     }
   ]
 }
